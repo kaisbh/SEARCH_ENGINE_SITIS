@@ -1,4 +1,4 @@
-package isped.sitis.lucene.example;
+package isped.sitis.se.controller;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -8,81 +8,103 @@ import java.io.InputStreamReader;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 
+import org.apache.lucene.analysis.CharArraySet;
 import org.apache.lucene.analysis.en.EnglishAnalyzer;
+import org.apache.lucene.analysis.fr.FrenchAnalyzer;
+import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
+import org.apache.lucene.queryparser.classic.QueryParser;
+import org.apache.lucene.search.Query;
 import org.apache.lucene.store.FSDirectory;
-import org.apache.lucene.util.Version;
 
 public class Indexer {
+	
 
-	// private static EnglishAnalyzer analyzer = new
-	// EnglishAnalyzer(Version.LUCENE_40, EnglishAnalyzer.getDefaultStopSet());
-	private static EnglishAnalyzer analyzer = new EnglishAnalyzer(EnglishAnalyzer.getDefaultStopSet());
 	private static IndexWriter writer;
 	private ArrayList<File> queue = new ArrayList<File>();
 
-	public static void main(String[] args) throws IOException {
-		System.out.println("Chemain de l'index");
-		String indexLocation = null;
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		String s = br.readLine();
+	// Constructeur
+	Indexer(String indexDir , String analyzerLang) throws IOException {
+		
+		CharArraySet CharArraySetSW;
+		IndexWriterConfig config;
+		FSDirectory dir = FSDirectory.open(Paths.get(indexDir));
+		switch (analyzerLang) {
+		//Choix de l'Analyse du corpus
+		case "FR":
+			CharArraySetSW = new CharArraySet(getStopWord("./resources/StopWord/stop-words-french.txt"),true);
+			FrenchAnalyzer analyzerFR = new FrenchAnalyzer(CharArraySetSW);
+			config = new IndexWriterConfig(analyzerFR);
+			break;
+		case "EN":
+			CharArraySetSW = new CharArraySet(getStopWord("./resources/StopWord/stop-words-english1.txt"),true);
+			//EnglishAnalyzer analyzerEN = new EnglishAnalyzer(EnglishAnalyzer.getDefaultStopSet());
+		    EnglishAnalyzer analyzerEN = new EnglishAnalyzer(CharArraySetSW);
+		    config = new IndexWriterConfig(analyzerEN);
+			break;
+		default:
+			StandardAnalyzer analyzerStd = new StandardAnalyzer();
+			 config = new IndexWriterConfig(analyzerStd);
+			break;
+		}
+		
+		writer = new IndexWriter(dir, config);
+	}
+
+	public static void CreateIndex(String indexLocation, String corpusLocation, String analyzerLang) {
 		Indexer indexer = null;
 		
-		indexLocation = s;
+		
 		try {
-			indexer = new Indexer(s);
+			indexer = new Indexer(indexLocation, "EN");
 		} catch (IOException e1) {
-			// TODO Auto-generated catch block
 			e1.printStackTrace();
 		}
-		
-		// ===================================================
-		// read input from user until he enters q for quit
-		// ===================================================
-		while (!s.equalsIgnoreCase("q")) {
-			try {
-				System.out.println(
-						"Enter the full path to add into the index (q=quit): (e.g. /home/ron/mydir or c:\\Users\\ron\\mydir)");
-				System.out.println("[Acceptable file types: .xml, .html, .html, .txt]");
-				s = br.readLine();
-				if (s.equalsIgnoreCase("q")) {
-					break;
-				}
-
-				// try to add file into the index
-				indexer.indexFileOrDirectory(s);
-			} catch (Exception e) {
-				System.out.println("Error indexing " + s + " : " + e.getMessage());
-			}
+		try {
+			indexer.indexFileOrDirectory(corpusLocation);
+		} catch (Exception e) {
+			System.out.println("Error indexing " + corpusLocation + " : " + e.getMessage());
 		}
-
-		// ===================================================
-		// after adding, we always have to call the
-		// closeIndex, otherwise the index is not created
-		// ===================================================
 		try {
 			indexer.closeIndex();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+	}
+
+	public static void main(String[] args) throws IOException {
+		System.out.println("Chemain de l'index");
+		// String indexLocation = null;
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		String s1 = br.readLine();
+		System.out.println(
+				"Enter the full path to add into the index (q=quit): (e.g. /home/ron/mydir or c:\\Users\\ron\\mydir)");
+		System.out.println("[Acceptable file types: .xml, .html, .html, .txt]");
+		String s2 = null;
+		s2 = br.readLine();
+
+		CreateIndex(s1, s2, "EN");
 
 	}
 
-	Indexer(String indexDir) throws IOException {
-		// the boolean true parameter means to create a new index everytime,
-		// potentially overwriting any existing files there.
-		
-		//FSDirectory dir = FSDirectory.open(new File(indexDir));
-		FSDirectory dir = FSDirectory.open(Paths.get(indexDir));
-		//IndexWriterConfig config = new IndexWriterConfig(Version.LUCENE_40, analyzer);
-		IndexWriterConfig config = new IndexWriterConfig(analyzer);
-		writer = new IndexWriter(dir, config);
+	public static ArrayList<String> getStopWord(String FileName) {
+		ArrayList<String> stop_words = new ArrayList<String>();
+		try {
+			BufferedReader is = new BufferedReader(new FileReader(FileName));
+			String inputLine;
+			while ((inputLine = is.readLine()) != null) {
+				// stop_words.add(inputLine);
+			 //System.out.println(inputLine);
+			}
+		} catch (IOException io) {
+
+		}
+		return stop_words;
 	}
 
 	/**

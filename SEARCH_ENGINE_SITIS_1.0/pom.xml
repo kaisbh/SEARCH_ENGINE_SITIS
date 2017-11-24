@@ -2,8 +2,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>Concept_Indexer</groupId>
-	<artifactId>Concept_Indexer</artifactId>
+	<groupId>ETL_SITIS_1.0</groupId>
+	<artifactId>ETL_SITIS_1.0</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<build>
 		<sourceDirectory>src</sourceDirectory>
@@ -12,10 +12,38 @@
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.6.1</version>
 				<configuration>
-					<source />
-					<target />
+					<source>1.8</source>
+					<target>1.8</target>
+					<mainClass>isped.sitis.etl.MainApp</mainClass>
 				</configuration>
 			</plugin>
+
+			<plugin>
+				<groupId>com.zenjava</groupId>
+				<artifactId>javafx-maven-plugin</artifactId>
+				<version>8.8.3</version>
+				<configuration>
+					<mainClass>isped.sitis.etl.MainApp</mainClass>
+					<vendor>ISPED</vendor>
+					
+					<!--  <verbose>true</verbose> <jarFileName>XXXX.jar</jarFileName> 
+						<bundler>EXE</bundler> <nativeInstallers /> -->
+				</configuration>
+
+				<executions>
+					<execution>
+						<id>create-jfxjar</id>
+						<phase>package</phase>
+						<goals>
+							<goal>build-jar</goal>
+						</goals>
+					</execution>
+					<!-- <execution> <id>create-native</id> <phase>package</phase> <goals> 
+						<goal>build-native</goal> </goals> </execution> -->
+				</executions>
+
+			</plugin>
+
 		</plugins>
 
 	</build>
@@ -30,7 +58,11 @@
 			<artifactId>lucene-demo</artifactId>
 			<version>6.6.0</version>
 		</dependency>
-
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>5.1.6</version>
+		</dependency>
 		<dependency>
 			<groupId>org.apache.jena</groupId>
 			<artifactId>jena-core</artifactId>
@@ -42,11 +74,7 @@
 			<version>1.7.5</version>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
-			<groupId>io.swagger</groupId>
-			<artifactId>swagger-core</artifactId>
-			<version>1.5.0</version>
-		</dependency>
 		
+
 	</dependencies>
 </project>

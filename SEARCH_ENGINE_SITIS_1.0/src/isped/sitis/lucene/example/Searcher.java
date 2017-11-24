@@ -2,11 +2,16 @@ package isped.sitis.lucene.example;
 
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.nio.file.Paths;
+import java.util.ArrayList;
 
+import org.apache.lucene.analysis.CharArraySet;
 import org.apache.lucene.analysis.en.EnglishAnalyzer;
+import org.apache.lucene.analysis.fr.FrenchAnalyzer;
+import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
@@ -27,16 +32,28 @@ public class Searcher {
 	//=========================================================
 
 	static String indexLocation = null;
-
+	private static CharArraySet CharArraySetSWFR = new CharArraySet(
+			getStopWord("D:\\Projet_Gayo\\RIIFT\\stop-words-collection-2011.11.21\\stop-words\\stop-words-french.txt"),
+			true);
+	private static CharArraySet CharArraySetSWEN = new CharArraySet(
+			getStopWord(
+					"D:\\Projet_Gayo\\RIIFT\\stop-words-collection-2011.11.21\\stop-words\\stop-words-english1.txt"),
+			true);
 	private static EnglishAnalyzer analyzer = new EnglishAnalyzer(EnglishAnalyzer.getDefaultStopSet());
+	private static FrenchAnalyzer analyzerFR = new FrenchAnalyzer(CharArraySetSWFR);
+	private static EnglishAnalyzer analyzerEN = new EnglishAnalyzer(CharArraySetSWEN);
+	private static StandardAnalyzer analyzerStd = new StandardAnalyzer();
+
 
 	static IndexReader reader ;
 	static  IndexSearcher searcher =null;
 	//static TopScoreDocCollector collector = TopScoreDocCollector.create(5, true);
 	static TopScoreDocCollector collector = TopScoreDocCollector.create(5);
+	
+	
+	
+	
 	public static void main(String[] args) throws IOException {	
-
-		
 		System.out.println("Enter the path where the index will be read");
 		BufferedReader br = new BufferedReader(
 	            new InputStreamReader(System.in));
@@ -86,7 +103,20 @@ public class Searcher {
 		} 
 	}
 	
-	  
+	public static ArrayList<String> getStopWord(String FileName) {
+		ArrayList<String> stop_words = new ArrayList<String>();
+		try {
+			BufferedReader is = new BufferedReader(new FileReader(FileName));
+			String inputLine;
+			while ((inputLine = is.readLine()) != null) {
+				// stop_words.add(inputLine);
+				// System.out.println(inputLine);
+			}
+		} catch (IOException io) {
+
+		}
+		return stop_words;
+	}
 
 
 }
