@@ -5,8 +5,7 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.layout.AnchorPane?>
 
-
-<AnchorPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8">
+<AnchorPane xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="isped.sitis.se.controller.PersonOverviewController">
    <children>
       <AnchorPane prefHeight="300.0" prefWidth="600.0">
          <children>
@@ -14,10 +13,10 @@
               <items>
                 <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
                      <children>
-                        <TableView layoutX="-12.0" layoutY="31.0" prefHeight="200.0" prefWidth="200.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                        <TableView fx:id="personTable" layoutX="-12.0" layoutY="31.0" prefHeight="200.0" prefWidth="200.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
                           <columns>
-                            <TableColumn prefWidth="75.0" text="Prénom" />
-                            <TableColumn prefWidth="75.0" text="Nom" />
+                            <TableColumn fx:id="firstNameColumn" prefWidth="75.0" text="Prénom" />
+                            <TableColumn fx:id="lastNameColumn" prefWidth="75.0" text="Nom" />
                           </columns>
                            <columnResizePolicy>
                               <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
@@ -38,21 +37,27 @@
                             <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
                             <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
                             <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+                              <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
                           </rowConstraints>
                            <children>
                               <Label text="Prenom" />
-                              <Label text="Label" GridPane.columnIndex="1" />
+                              <Label fx:id="firstNameLabel" text="Label" GridPane.columnIndex="1" />
                               <Label text="Nom" GridPane.rowIndex="1" />
-                              <Label text="Label" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+                              <Label fx:id="lastNameLabel" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="1" />
                               <Label text="Adresse" GridPane.rowIndex="2" />
-                              <Label text="Label" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+                              <Label fx:id="streetLabel" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="2" />
                               <Label text="Date de Naissance" GridPane.rowIndex="3" />
-                              <Label text="Label" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                              <Label fx:id="birthdayLabel" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+                              <Label text="Cité" GridPane.rowIndex="4" />
+                              <Label fx:id="cityLabel" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+                              <Label text="Code Postal" GridPane.rowIndex="5" />
+                              <Label fx:id="postalCodeLabel" text="Label" GridPane.columnIndex="1" GridPane.rowIndex="5" />
                            </children>
                         </GridPane>
-                        <Button layoutX="186.0" layoutY="239.0" mnemonicParsing="false" text="Nouveau" />
-                        <Button layoutX="256.0" layoutY="239.0" mnemonicParsing="false" text="Editer" />
-                        <Button layoutX="311.0" layoutY="239.0" mnemonicParsing="false" text="Delete" />
+                        <Button layoutX="192.0" layoutY="264.0" mnemonicParsing="false" onAction="#handleNewPerson" text="Nouveau" />
+                        <Button layoutX="266.0" layoutY="264.0" mnemonicParsing="false" onAction="#handleEditPerson" text="Editer" />
+                        <Button layoutX="324.0" layoutY="264.0" mnemonicParsing="false" onAction="#handleDeletePerson" text="Delete" />
                      </children>
                   </AnchorPane>
               </items>
