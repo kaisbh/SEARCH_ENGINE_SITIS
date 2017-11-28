@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.nio.file.Paths;
 import java.util.ArrayList;
-
+import isped.sitis.se.util.*;
 import org.apache.lucene.analysis.CharArraySet;
 import org.apache.lucene.analysis.en.EnglishAnalyzer;
 import org.apache.lucene.analysis.fr.FrenchAnalyzer;
@@ -23,43 +23,42 @@ import org.apache.lucene.search.Query;
 import org.apache.lucene.store.FSDirectory;
 
 public class Indexer {
-	
 
 	private static IndexWriter writer;
-	private ArrayList<File> queue = new ArrayList<File>();
+	private static ArrayList<File> queue = new ArrayList<File>();
 
 	// Constructeur
-	Indexer(String indexDir , String analyzerLang) throws IOException {
-		
+	Indexer(String indexDir, String analyzerLang) throws IOException {
+
 		CharArraySet CharArraySetSW;
 		IndexWriterConfig config;
 		FSDirectory dir = FSDirectory.open(Paths.get(indexDir));
 		switch (analyzerLang) {
-		//Choix de l'Analyse du corpus
+		// Choix de l'Analyse du corpus
 		case "FR":
-			CharArraySetSW = new CharArraySet(getStopWord("./resources/StopWord/stop-words-french.txt"),true);
+			CharArraySetSW = new CharArraySet(getStopWord("./resources/StopWord/stop-words-french.txt"), true);
 			FrenchAnalyzer analyzerFR = new FrenchAnalyzer(CharArraySetSW);
 			config = new IndexWriterConfig(analyzerFR);
 			break;
 		case "EN":
-			CharArraySetSW = new CharArraySet(getStopWord("./resources/StopWord/stop-words-english1.txt"),true);
-			//EnglishAnalyzer analyzerEN = new EnglishAnalyzer(EnglishAnalyzer.getDefaultStopSet());
-		    EnglishAnalyzer analyzerEN = new EnglishAnalyzer(CharArraySetSW);
-		    config = new IndexWriterConfig(analyzerEN);
+			CharArraySetSW = new CharArraySet(getStopWord("./resources/StopWord/stop-words-english1.txt"), true);
+			// EnglishAnalyzer analyzerEN = new
+			// EnglishAnalyzer(EnglishAnalyzer.getDefaultStopSet());
+			EnglishAnalyzer analyzerEN = new EnglishAnalyzer(CharArraySetSW);
+			config = new IndexWriterConfig(analyzerEN);
 			break;
 		default:
 			StandardAnalyzer analyzerStd = new StandardAnalyzer();
-			 config = new IndexWriterConfig(analyzerStd);
+			config = new IndexWriterConfig(analyzerStd);
 			break;
 		}
-		
+
 		writer = new IndexWriter(dir, config);
 	}
 
 	public static void CreateIndex(String indexLocation, String corpusLocation, String analyzerLang) {
 		Indexer indexer = null;
-		
-		
+		FileUtil.deleteFiles(indexLocation);
 		try {
 			indexer = new Indexer(indexLocation, "EN");
 		} catch (IOException e1) {
@@ -87,7 +86,7 @@ public class Indexer {
 		System.out.println("[Acceptable file types: .xml, .html, .html, .txt]");
 		String s2 = null;
 		s2 = br.readLine();
-
+		
 		CreateIndex(s1, s2, "EN");
 
 	}
@@ -99,7 +98,7 @@ public class Indexer {
 			String inputLine;
 			while ((inputLine = is.readLine()) != null) {
 				// stop_words.add(inputLine);
-			 //System.out.println(inputLine);
+				// System.out.println(inputLine);
 			}
 		} catch (IOException io) {
 
@@ -115,6 +114,7 @@ public class Indexer {
 	 * @throws java.io.IOException
 	 *             when exception
 	 */
+
 	public void indexFileOrDirectory(String fileName) throws IOException {
 		// ===================================================
 		// gets the list of files in a folder (if user has submitted
@@ -155,7 +155,9 @@ public class Indexer {
 		queue.clear();
 	}
 
-	private void addFiles(File file) {
+	
+
+	public static void addFiles(File file) {
 
 		if (!file.exists()) {
 			System.out.println(file + " does not exist.");

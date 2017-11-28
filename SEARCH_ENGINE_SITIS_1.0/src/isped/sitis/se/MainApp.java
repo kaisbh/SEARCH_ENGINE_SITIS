@@ -1,12 +1,25 @@
 package isped.sitis.se;
 
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.Iterator;
+
+import org.apache.lucene.document.Document;
+import org.apache.lucene.document.Field;
+import org.apache.lucene.document.StringField;
+import org.apache.lucene.document.TextField;
+
 
 import javafx.application.Application;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
+import javafx.scene.image.Image;
 import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.BorderPane;
 import javafx.stage.Modality;
@@ -14,17 +27,20 @@ import javafx.stage.Stage;
 import isped.sitis.se.controller.PersonEditDialogController;
 import isped.sitis.se.controller.PersonOverviewController;
 import isped.sitis.se.controller.SearchController;
+
 import isped.sitis.se.model.*;
+import isped.sitis.se.util.FileUtil;
 
 public class MainApp extends Application {
-
+	public final String CORPUS_DIRECTORY = "D:\\Projet_Gayo\\MyCorpus";
 	private Stage primaryStage;
 	private BorderPane rootLayout;
-
+	private ArrayList<File> queue = new ArrayList<File>();
 	/**
 	 * The data as an observable list of Persons.
 	 */
 	private ObservableList<Person> personData = FXCollections.observableArrayList();
+	private ObservableList<isped.sitis.se.model.File> fileData = FXCollections.observableArrayList();
 
 	/**
 	 * Constructor
@@ -40,6 +56,18 @@ public class MainApp extends Application {
 		personData.add(new Person("Anna", "Best"));
 		personData.add(new Person("Stefan", "Meier"));
 		personData.add(new Person("Martin", "Mueller"));
+		
+		FileUtil fileUtil = new FileUtil();
+		queue = fileUtil.addFiles(new File(CORPUS_DIRECTORY));
+		Iterator<File> iter = queue.iterator();
+		Integer i = 0;
+		while (iter.hasNext()) {
+			i++;
+			File f = iter.next();
+			System.out.println( i.toString() +" "+f.getPath().toLowerCase());
+			fileData.add(new isped.sitis.se.model.File(i.toString(), f.getPath(), ""));
+		}
+		
 	}
 
 	/**
@@ -50,18 +78,24 @@ public class MainApp extends Application {
 	public ObservableList<Person> getPersonData() {
 		return personData;
 	}
+	
+	public ObservableList<isped.sitis.se.model.File> getFileData() {
+		return fileData;
+	}
 
 	@Override
 	public void start(Stage primaryStage) {
 		this.primaryStage = primaryStage;
 		this.primaryStage.setTitle("Search Engine SITIS");
+		this.primaryStage.getIcons().add(new Image("file:Logo.png"));
 
+		//addFiles(File file)
 		initRootLayout();
-
+	
 		//showPersonOverview();
-		showSearch();
+		showSearchOverview();
 	}
-
+	
 	/**
 	 * Initializes the root layout.
 	 */
@@ -80,7 +114,24 @@ public class MainApp extends Application {
 			e.printStackTrace();
 		}
 	}
+	public void showSearchOverview() {
+		try {
+			// Load person overview.
+			FXMLLoader loader = new FXMLLoader();
+			loader.setLocation(MainApp.class.getResource("view/SearchOverview.fxml"));
+			AnchorPane searchOverview = (AnchorPane) loader.load();
 
+			// Set person overview into the center of root layout.
+			rootLayout.setCenter(searchOverview);
+
+			// Give the controller access to the main app.
+			SearchController controller = loader.getController();
+			controller.setMainApp(this);
+
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
 	/**
 	 * Shows the person overview inside the root layout.
 	 */
@@ -102,24 +153,7 @@ public class MainApp extends Application {
 			e.printStackTrace();
 		}
 	}
-	public void showSearch() {
-		try {
-			// Load person overview.
-			FXMLLoader loader = new FXMLLoader();
-			loader.setLocation(MainApp.class.getResource("view/Search.fxml"));
-			AnchorPane personOverview = (AnchorPane) loader.load();
-
-			// Set person overview into the center of root layout.
-			rootLayout.setCenter(personOverview);
-
-			// Give the controller access to the main app.
-			SearchController controller = loader.getController();
-			controller.setMainApp(this);
-
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-	}
+	
 
 	/**
 	 * Returns the main stage.

@@ -67,12 +67,13 @@ public class Searcher {
 		searcher.search(q, collector);
 		System.out.println("OK!");
 		ScoreDoc[] hits = collector.topDocs().scoreDocs;
-		String resultLign = "Found " + hits.length + " hits.";
-		result.add(resultLign);
+		//String resultLign = "Found " + hits.length + " hits.";
+		String resultLign;
+		//result.add(resultLign);
 		for (int i = 0; i < hits.length; ++i) {
 			int docId = hits[i].doc;
 			Document d = searcher.doc(docId);
-			resultLign = (i + 1) + ". " + d.get("path") + " score=" + hits[i].score;
+			resultLign = (i + 1) + ";" + d.get("path") + ";" + hits[i].score;
 			result.add(resultLign);
 
 		}
