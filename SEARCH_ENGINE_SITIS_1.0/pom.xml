@@ -25,9 +25,9 @@
 				<configuration>
 					<mainClass>isped.sitis.etl.MainApp</mainClass>
 					<vendor>ISPED</vendor>
-					
-					<!--  <verbose>true</verbose> <jarFileName>XXXX.jar</jarFileName> 
-						<bundler>EXE</bundler> <nativeInstallers /> -->
+
+					<!-- <verbose>true</verbose> <jarFileName>XXXX.jar</jarFileName> <bundler>EXE</bundler> 
+						<nativeInstallers /> -->
 				</configuration>
 
 				<executions>
@@ -59,9 +59,14 @@
 			<version>6.6.0</version>
 		</dependency>
 		<dependency>
-			<groupId>mysql</groupId>
-			<artifactId>mysql-connector-java</artifactId>
-			<version>5.1.6</version>
+			<groupId>edu.stanford.protege</groupId>
+			<artifactId>org.semanticweb.owl.owlapi</artifactId>
+			<version>3.4.4</version>
+		</dependency>
+		<dependency>
+			<groupId>org.semanticweb.elk</groupId>
+			<artifactId>elk-owlapi</artifactId>
+			<version>0.4.3</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.jena</groupId>
@@ -74,7 +79,7 @@
 			<version>1.7.5</version>
 			<scope>test</scope>
 		</dependency>
-		
+
 
 	</dependencies>
 </project>
