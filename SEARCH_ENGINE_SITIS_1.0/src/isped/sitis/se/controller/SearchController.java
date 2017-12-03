@@ -18,7 +18,9 @@ import javafx.scene.control.ToggleGroup;
 import javafx.scene.input.MouseButton;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
+import isped.sitis.se.Indexer;
 import isped.sitis.se.MainApp;
+import isped.sitis.se.Searcher;
 import isped.sitis.se.model.File;
 
 import java.awt.Desktop;

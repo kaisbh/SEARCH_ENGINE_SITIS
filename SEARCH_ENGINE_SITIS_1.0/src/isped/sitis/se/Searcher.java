@@ -1,4 +1,4 @@
-package isped.sitis.se.controller;
+package isped.sitis.se;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -74,6 +74,7 @@ public class Searcher {
 			int docId = hits[i].doc;
 			Document d = searcher.doc(docId);
 			resultLign = (i + 1) + ";" + d.get("path") + ";" + hits[i].score;
+			//resultLign = docId + ";" + d.get("path") + ";" + hits[i].score;
 			result.add(resultLign);
 
 		}

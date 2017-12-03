@@ -1,10 +1,11 @@
-package isped.sitis.se.controller;
+package isped.sitis.se;
 
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import isped.sitis.se.util.*;
@@ -12,15 +13,22 @@ import org.apache.lucene.analysis.CharArraySet;
 import org.apache.lucene.analysis.en.EnglishAnalyzer;
 import org.apache.lucene.analysis.fr.FrenchAnalyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
+import org.apache.lucene.codecs.TermVectorsFormat;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
+import org.apache.lucene.document.FieldType;
+import org.apache.lucene.document.StoredField;
 import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
+import org.apache.lucene.index.IndexOptions;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.queryparser.classic.QueryParser;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.store.FSDirectory;
+import org.apache.pdfbox.pdmodel.PDDocument;
+import org.apache.pdfbox.text.PDFTextStripper;
+import org.apache.pdfbox.text.PDFTextStripperByArea;
 
 public class Indexer {
 
@@ -44,7 +52,8 @@ public class Indexer {
 			CharArraySetSW = new CharArraySet(getStopWord("./resources/StopWord/stop-words-english1.txt"), true);
 			// EnglishAnalyzer analyzerEN = new
 			// EnglishAnalyzer(EnglishAnalyzer.getDefaultStopSet());
-			EnglishAnalyzer analyzerEN = new EnglishAnalyzer(CharArraySetSW);
+			// EnglishAnalyzer analyzerEN = new EnglishAnalyzer(CharArraySetSW);
+			EnglishAnalyzer analyzerEN = new EnglishAnalyzer();
 			config = new IndexWriterConfig(analyzerEN);
 			break;
 		default:
@@ -54,6 +63,7 @@ public class Indexer {
 		}
 
 		writer = new IndexWriter(dir, config);
+
 	}
 
 	public static void CreateIndex(String indexLocation, String corpusLocation, String analyzerLang) {
@@ -86,7 +96,7 @@ public class Indexer {
 		System.out.println("[Acceptable file types: .xml, .html, .html, .txt]");
 		String s2 = null;
 		s2 = br.readLine();
-		
+
 		CreateIndex(s1, s2, "EN");
 
 	}
@@ -125,25 +135,95 @@ public class Indexer {
 
 		int originalNumDocs = writer.numDocs();
 		for (File f : queue) {
-			FileReader fr = null;
-			try {
-				Document doc = new Document();
+			// System.out.println(f.getName());
+			Document doc = new Document();
+			if (f.getName().toLowerCase().endsWith(".pdf")) {
+				String contents = "";
+				PDDocument docPdf = null;
+				try {
+					docPdf = PDDocument.load(f);
+					PDFTextStripper stripper = new PDFTextStripper();
 
-				// ===================================================
-				// add contents of file
-				// ===================================================
-				fr = new FileReader(f);
-				doc.add(new TextField("contents", fr));
-				doc.add(new StringField("path", f.getPath(), Field.Store.YES));
-				doc.add(new StringField("filename", f.getName(), Field.Store.YES));
+					stripper.setLineSeparator("\n");
+					//stripper.setStartPage(1);
+					//stripper.setEndPage(5);// this mean that it will index the first 5 pages only
+					contents = stripper.getText(docPdf);
+					//System.out.println(contents);
+					
+					
+					FieldType ft = new FieldType();
+					ft.setIndexOptions(IndexOptions.DOCS_AND_FREQS_AND_POSITIONS_AND_OFFSETS);
+					ft.setStoreTermVectors(true);
+					ft.setStoreTermVectorOffsets(true);
+					ft.setStoreTermVectorPayloads(true);
+					ft.setStoreTermVectorPositions(true);
+					ft.setTokenized(true);
+					ft.setStored(true);
+					ft.setIndexOptions(IndexOptions.DOCS_AND_FREQS_AND_POSITIONS_AND_OFFSETS);
+					ft.setStoreTermVectors(true);
+					Field fldContents = new Field("contents", contents, ft);
+					doc.add(fldContents);
+					Field fldPath = new Field("path", f.getPath(), ft);
+					doc.add(fldPath);
+					Field fldFilename = new Field("filename", f.getName(), ft);
+					doc.add(fldFilename);
 
-				writer.addDocument(doc);
-				System.out.println("Added: " + f);
-			} catch (Exception e) {
-				System.out.println("Could not add: " + f);
-			} finally {
-				fr.close();
+					writer.addDocument(doc);
+					System.out.println("Added: " + f.toPath());
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			} else {
+				FileReader fr = null;
+				try {
+					//Document doc = new Document();
+
+					// ===================================================
+					// add contents of file
+					// ===================================================
+					fr = new FileReader(f);
+					BufferedReader is = new BufferedReader(fr);
+					String inputLine;
+					String txt = "";
+					while ((inputLine = is.readLine()) != null) {
+						txt = txt + inputLine;
+
+					}
+
+					// tf.fieldType().setIndexOptions(IndexOptions.DOCS_AND_FREQS_AND_POSITIONS_AND_OFFSETS);
+					// doc.add(new TextField("contents", fr));
+					// doc.add(new TextField("contents", new String(Files.readAllBytes(f.toPath())),
+					// Field.Store.YES));
+					// doc.add(new StringField("path", f.getPath(), Field.Store.YES));
+					// doc.add(new StringField("filename", f.getName(), Field.Store.YES));
+					FieldType ft = new FieldType();
+					ft.setIndexOptions(IndexOptions.DOCS_AND_FREQS_AND_POSITIONS_AND_OFFSETS);
+					ft.setStoreTermVectors(true);
+					ft.setStoreTermVectorOffsets(true);
+					ft.setStoreTermVectorPayloads(true);
+					ft.setStoreTermVectorPositions(true);
+					ft.setTokenized(true);
+					ft.setStored(true);
+					ft.setIndexOptions(IndexOptions.DOCS_AND_FREQS_AND_POSITIONS_AND_OFFSETS);
+					ft.setStoreTermVectors(true);
+					Field fldContents = new Field("contents", new String(Files.readAllBytes(f.toPath())), ft);
+					doc.add(fldContents);
+					Field fldPath = new Field("path", f.getPath(), ft);
+					doc.add(fldPath);
+					Field fldFilename = new Field("filename", f.getName(), ft);
+					doc.add(fldFilename);
+
+					writer.addDocument(doc);
+					System.out.println("Added: " + f.toPath());
+				} catch (Exception e) {
+					System.out.println("Could not add: " + f.toPath());
+				} finally {
+					fr.close();
+				}
 			}
+
+			/*
+			*/
 		}
 
 		int newNumDocs = writer.numDocs();
@@ -154,8 +234,6 @@ public class Indexer {
 
 		queue.clear();
 	}
-
-	
 
 	public static void addFiles(File file) {
 
@@ -172,7 +250,7 @@ public class Indexer {
 			// Only index text files
 			// ===================================================
 			if (filename.endsWith(".htm") || filename.endsWith(".html") || filename.endsWith(".xml")
-					|| filename.endsWith(".txt")) {
+					|| filename.endsWith(".txt") || filename.endsWith(".pdf")) {
 				queue.add(file);
 			} else {
 				System.out.println("Skipped " + filename);
