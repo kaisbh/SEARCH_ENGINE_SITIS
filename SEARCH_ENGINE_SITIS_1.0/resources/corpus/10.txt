@@ -1,0 +1,102 @@
+kais1. Eur J Cancer. 2017 Aug;81:45-55. doi: 10.1016/j.ejca.2017.05.005. Epub 2017 Jun
+8.
+
+ABVD or BEACOPPbaseline along with involved-field radiotherapy in early-stage
+Hodgkin Lymphoma with risk factors: Results of the European Organisation for
+Research and Treatment of Cancer (EORTC)-Groupe d'Étude des Lymphomes de l'Adulte
+(GELA) H9-U intergroup randomised trial.
+
+Fermé C(1), Thomas J(2), Brice P(3), Casasnovas O(4), Vranovsky A(5), Bologna
+S(6), Lugtenburg PJ(7), Bouabdallah R(8), Carde P(1), Sebban C(9), Eghbali H(10),
+Salles G(11), van Imhoff GW(12), Thyss A(13), Noordijk EM(14), Reman O(15),
+Lybeert MLM(16), Janvier M(17), Spina M(18), Audhuy B(19), Raemaekers JMM(20),
+Delarue R(21), Anglaret B(22), de Weerdt O(23), Marjanovic Z(24), Tersteeg
+RJHA(25), de Jong D(26), Brière J(3), Henry-Amar M(27); European Organisation for
+Research and Treatment of Cancer Lymphoma Group, and; Groupe d'Étude des
+Lymphomes de l'Adulte.
+
+Author information: 
+(1)Gustave Roussy, 114 Rue Édouard Vaillant, 94805 Villejuif Cedex, France.
+(2)University Hospital Gasthuisberg, Herestraat 49, 3000 Leuven, Belgium.
+(3)Centre Hospitalier Universitaire, Hôpital Saint-Louis, 1 Avenue Claude
+Vellefaux, 75010 Paris, France.
+(4)Centre Hospitalier Universitaire, Hôpital du Bocage, 1 Boulevard Jeanne d'Arc,
+21000 Dijon, France.
+(5)National Cancer Institute, Klenova 1, 83310 Bratislava, Slovakia.
+(6)Centre Hospitalier Universitaire de Nancy, Hôpital Brabois, Rue du Morvan,
+54511 Vandœuvre-lès-Nancy, France.
+(7)Erasmus Medical Center, 's-Gravendijkwal 230, 3015 CE Rotterdam, The
+Netherlands.
+(8)Institut Paoli Calmettes, 232 Boulevard Sainte-Marguerite, BP156, 13273
+Marseille Cedex 09, France.
+(9)Centre Léon Bérard, 28 Rue Laennec, 69373 Lyon Cedex 8, France.
+(10)Institut Bergonié, 229 Cours de l'Argonne, CS 61283, 33076 Bordeaux Cedex,
+France.
+(11)Centre Hospitalier Lyon Sud, Chemin du Grand Revoyet, 69310 Pierre-Bénite,
+France.
+(12)University Medical Center Groningen, Hanzeplein 1, 9713 GZ Groningen, P.O.
+Box 30.001, 9700 RB Groningen, The Netherlands.
+(13)Centre Antoine Lacassagne, 33 Avenue de Valombrose, 06189 Nice Cedex 2,
+France.
+(14)Leiden University Medical Center, P.O. Box 9600, 2300 RC Leiden, The
+Netherlands.
+(15)Centre Hospitalier Universitaire, Avenue de la Côte de Nacre, 14033 Caen,
+France.
+(16)Catharina Ziekenhuis, Michelangelolaan 2, 5623 EJ Eindhoven, The Netherlands.
+(17)Institut Curie-Hôpital René-Huguenin, 35 Rue Dailly, 92210 Saint-Cloud,
+France.
+(18)Centro di Riferimento Oncologico, Via Franco Gallini, 2, 33081 Aviano, PN,
+Italy.
+(19)Hôpitaux Civils de Colmar, Hôpital Pasteur, 39 Avenue de la Liberté, 68024
+Colmar Cedex, France.
+(20)Radboud University Nijmegen Medical Center, Geert Grooteplein Zuid 10, 6525
+GA Nijmegen, The Netherlands.
+(21)Centre Hospitalier Universitaire, Hôpital Necker, 149 Rue de Sèvres, 75015
+Paris, France.
+(22)Centre Hospitalier de Valence, 179 Avenue du Maréchal Juin, 26953 Valence,
+France.
+(23)St. Antonius Ziekenhuis Nieuwegein, Koekoekslaan 1, 3435 CM Nieuwegein, The
+Netherlands.
+(24)Centre Hospitalier Universitaire, Hôpital Saint-Antoine, 184 Rue du faubourg 
+Saint-Antoine, 75012 Paris, France.
+(25)University Medical Center Utrecht, Heidelberglaan 100, 3584 CX Utrecht, The
+Netherlands.
+(26)VU University Medical Center, Department of Pathology, De Boelelaan 1117,
+1081HV Amsterdam, The Netherlands.
+(27)Centre de Traitement des Données du Cancéropôle Nord-Ouest, Centre François
+Baclesse, 3 Avenue Général Harris, 14076 Caen Cedex 05, France. Electronic
+address: m.henry.amar@baclesse.unicancer.fr.
+
+PURPOSE: For early-stage Hodgkin lymphoma (HL), optimal chemotherapy regimen and 
+the number of cycles to be delivered remain to settle down. The H9-U trial
+compared three modalities of chemotherapy followed by involved-field radiotherapy
+(IFRT) in patients with stage I-II HL and risk factors (NCT00005584).
+PATIENTS AND METHODS: Patients aged 15-70 years with untreated supradiaphragmatic
+HL with at least one risk factor (age ? 50, involvement of 4-5 nodal areas,
+mediastinum/thoracic ratio ? 0.35, erythrocyte sedimentation rate (ESR) ? 50
+without B-symptoms or ESR ? 30 and B-symptoms) were eligible for the randomised, 
+open label, multicentre, non-inferiority H9-U trial. The limit of non-inferiority
+was set at 10% for the difference between 5-year event-free survival (EFS)
+estimates. From October 1998 to September 2002, 808 patients were randomised to
+receive either the control arm 6-ABVD-IFRT (n = 276), or one of the two
+experimental arms: 4-ABVD-IFRT (n = 277) or 4-BEACOPPbaseline-IFRT (n = 255).
+RESULTS: Results in the 4-ABVD-IFRT (5-year EFS, 85.9%) and the
+4-BEACOPPbaseline-IFRT (5-year EFS, 88.8%) were not inferior to 6-ABVD-IFRT
+(5-year EFS, 89.9%): difference of 4.0% (90%CI, -0.7%-8.8%) and of 1.1%
+(90%CI,-3.5%-5.6%) respectively. The 5-year overall survival estimates were 94%, 
+93%, and 93%, respectively. Patients treated with combined modality treatment
+chemotherapeutic regimen comprising doxorubicin (Adriamycin), bleomycin,
+vincristine (Oncovin), cyclophosphamide, procarbazine, etoposide and prednisone
+(BEACOPP)baseline more often developed serious adverse events requiring
+supportive measures and hospitalisation compared with patients receiving the
+chemotherapeutic regimen comprising doxorubicin (Adriamycin), bleomycin,
+vinblastine and dacarbazine (ABVD).
+CONCLUSIONS: The trial demonstrates that 4-ABVD followed by IFRT yields high
+disease control in patients with early-stage HL and risk factors responding to
+chemotherapy. Although non-inferior in terms of efficacy, four cycles of
+BEACOPPbaseline were more toxic than four or six cycles of ABVD.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ejca.2017.05.005 
+PMID: 28601705  [Indexed for MEDLINE]

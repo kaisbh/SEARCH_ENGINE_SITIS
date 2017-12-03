@@ -1,0 +1,33 @@
+1. Curr Opin Oncol. 2017 Sep;29(5):307-314. doi: 10.1097/CCO.0000000000000396.
+
+The genetics of Hodgkin lymphoma: an overview and clinical implications.
+
+Borchmann S(1), Engert A.
+
+Author information: 
+(1)German Hodgkin Study Group (GHSG), Department I of Internal Medicine,
+University Hospital Cologne, Cologne, Germany.
+
+PURPOSE OF REVIEW: The goal of this review is to give an overview of the genetics
+of classical Hodgkin lymphoma. Copy number changes, somatic mutations,
+genome-wide association studies, changes in gene expression, familial classical
+Hodgkin lymphoma and epigenetic changes will be reviewed. In doing so, special
+focus is placed on the way recent discoveries have influenced clinical research, 
+diagnostics, treatment and remission monitoring. Furthermore, emphasis is put on 
+how these advances can help to advance the treatment of elderly patients who have
+a markedly worse prognosis than younger patients.
+RECENT FINDINGS: Frequent amplifications of the 9p24.1 locus in classical Hodgkin
+lymphoma could be the basis for the success of immune checkpoint inhibitors
+targeting PD-1 or PD-L1 in this disease. The same amplification also affects the 
+JAK/STAT pathway, which has also been targeted in recent clinical trials. Hodgkin
+lymphoma-specific copy number alterations and mutations have recently been found 
+to be detectable in cell-free DNA. This could provide the basis for advances in
+the detection of residual disease during treatment and while monitoring patients 
+in remission.
+SUMMARY: The advent of new technologies such as massive parallel sequencing has
+improved our understanding of the genetics of classical Hodgkin lymphoma. Some of
+these discoveries are now being translated into clinical research in the form of 
+new diagnostics and treatments.
+
+DOI: 10.1097/CCO.0000000000000396 
+PMID: 28697001  [Indexed for MEDLINE]
