@@ -24,57 +24,55 @@ import org.apache.lucene.search.TopScoreDocCollector;
 import org.apache.lucene.store.FSDirectory;
 
 public class Searcher {
-	static String indexLocation = null;
-
 	//private static EnglishAnalyzer analyzer = new EnglishAnalyzer(EnglishAnalyzer.getDefaultStopSet());
-
 	//static IndexReader reader;
 	//static IndexSearcher searcher = null;
 	//static TopScoreDocCollector collector = TopScoreDocCollector.create(5);
-
-	// static TopScoreDocCollector collector = TopScoreDocCollector.create(5, true);
-	public static ArrayList<String> Search(String indexLocation, String query, int topDoc, String analyzerLang)
-			throws IOException, ParseException {
+	public static ArrayList<String> resultat = new ArrayList<String>();
+	public static Query query ;
+	static String indexLocation = null;
+	//public static indexLocation;
+	Searcher(String indexDir, String analyzerLang, String q) throws ParseException  {
 		CharArraySet CharArraySetSW;
-		Query q;
+		
 		switch (analyzerLang) {
 		//Choix de l'Analyse de la reqête
 		case "FR":
 			CharArraySetSW = new CharArraySet(getStopWord("./resources/StopWord/stop-words-french.txt"),true);
 			FrenchAnalyzer analyzerFR = new FrenchAnalyzer(CharArraySetSW);
-			q = new QueryParser("contents", analyzerFR).parse(query);
+			query = new QueryParser("contents", analyzerFR).parse(q);
 			break;
 		case "EN":
 			CharArraySetSW = new CharArraySet(getStopWord("./resources/StopWord/stop-words-english1.txt"),true);
 		    EnglishAnalyzer analyzerEN = new EnglishAnalyzer(CharArraySetSW);
 		    //EnglishAnalyzer analyzerEN = new EnglishAnalyzer(EnglishAnalyzer.getDefaultStopSet());
-		    q = new QueryParser("contents", analyzerEN).parse(query);
+		    query = new QueryParser("contents", analyzerEN).parse(q);
 			break;
 		default:
 			StandardAnalyzer analyzerStd = new StandardAnalyzer();
-			q = new QueryParser("contents", analyzerStd).parse(query);
+			query = new QueryParser("contents", analyzerStd).parse(q);
 			break;
 		}
 
+	}
+	// static TopScoreDocCollector collector = TopScoreDocCollector.create(5, true);
+	public static ArrayList<String> Search(String indexLocation, String s, int topDoc, String analyzerLang)
+			throws IOException, ParseException {
+		new Searcher(indexLocation,"EN",s);
 		ArrayList<String> result = new ArrayList<String>();
 		IndexReader reader;
 		IndexSearcher searcher = null;
 		TopScoreDocCollector collector = TopScoreDocCollector.create(5);
 		reader = DirectoryReader.open(FSDirectory.open(Paths.get(indexLocation)));
 		searcher = new IndexSearcher(reader);
-		
-
-		searcher.search(q, collector);
+		searcher.search(query, collector);
 		System.out.println("OK!");
 		ScoreDoc[] hits = collector.topDocs().scoreDocs;
-		//String resultLign = "Found " + hits.length + " hits.";
 		String resultLign;
-		//result.add(resultLign);
 		for (int i = 0; i < hits.length; ++i) {
 			int docId = hits[i].doc;
 			Document d = searcher.doc(docId);
 			resultLign = (i + 1) + ";" + d.get("path") + ";" + hits[i].score;
-			//resultLign = docId + ";" + d.get("path") + ";" + hits[i].score;
 			result.add(resultLign);
 
 		}
@@ -85,8 +83,9 @@ public class Searcher {
 	public static void main(String[] args) throws IOException {
 		System.out.println("Enter the path where the index will be read");
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		ArrayList<String> resultat = new ArrayList<String>();
+		
 		String s = "";
+		String q = "";
 		try {
 			s = br.readLine();
 			indexLocation = s;
@@ -96,15 +95,16 @@ public class Searcher {
 		}
 		while (!s.equalsIgnoreCase("q")) {
 			br = new BufferedReader(new InputStreamReader(System.in));
-			s = br.readLine();
+			q = br.readLine();
 			try {
 				System.out.println("Enter the search query (q=quit):");
-				s = br.readLine();
-				if (s.equalsIgnoreCase("q")) {
+				q = br.readLine();
+				if (q.equalsIgnoreCase("q")) {
 					break;
 				}
 				//Fonction Search
-				resultat = Search(indexLocation, s, 7, "EN");
+				
+				resultat = Search(indexLocation, q, 7, "EN");
 				Iterator<String> iterator = resultat.iterator();
 				while (iterator.hasNext()) {
 					System.out.println(iterator.next());
@@ -122,7 +122,7 @@ public class Searcher {
 			BufferedReader is = new BufferedReader(new FileReader(FileName));
 			String inputLine;
 			while ((inputLine = is.readLine()) != null) {
-				 //stop_words.add(inputLine);
+				 stop_words.add(inputLine);
 			 //System.out.println(inputLine);
 			}
 		} catch (IOException io) {
