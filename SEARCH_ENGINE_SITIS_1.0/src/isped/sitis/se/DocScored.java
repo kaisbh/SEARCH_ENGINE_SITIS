@@ -1,12 +1,12 @@
 package isped.sitis.se;
 
 public class DocScored {
-	int numOrder =0;
-	String docPath = "";
-	int docId = 0;
-	String docConcept = "";
-	float scoreDocConcept = 0;
-	String term;
+	public int numOrder =0;
+	public String docPath = "";
+	public int docId = 0;
+	public String docConcept = "";
+	public float scoreDocConcept = 0;
+	public String term;
 	float scoreDocTerm =0;
 
 	DocScored(int numOrder,String docPath, int docId, String docConcept, float scoreDocConcept) {

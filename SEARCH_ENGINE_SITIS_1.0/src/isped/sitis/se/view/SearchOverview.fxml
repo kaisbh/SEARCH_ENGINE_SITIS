@@ -6,30 +6,31 @@
 <?import javafx.scene.layout.AnchorPane?>
 
 <AnchorPane prefHeight="400.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="isped.sitis.se.controller.SearchController">
-   <children>
-      <SplitPane dividerPositions="0.13819095477386933" layoutX="113.0" layoutY="43.0" orientation="VERTICAL" prefHeight="400.0" prefWidth="700.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
-        <items>
-          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="108.0" prefWidth="698.0">
-               <children>
-                  <Button layoutX="576.0" layoutY="13.0" mnemonicParsing="false" onAction="#ShowResultSearch" prefHeight="25.0" prefWidth="80.0" text="Rechercher" />
-                  <TextField fx:id="searchQuery" layoutX="14.0" layoutY="13.0" prefHeight="25.0" prefWidth="355.0" />
-                  <RadioButton fx:id="EN" layoutX="423.0" layoutY="17.0" mnemonicParsing="false" onAction="#UpdateIndex" text="EN" />
-                  <RadioButton fx:id="FR" layoutX="378.0" layoutY="17.0" mnemonicParsing="false" onAction="#UpdateIndex" selected="true" text="FR" />
-                  <RadioButton fx:id="Indiff" layoutX="468.0" layoutY="17.0" mnemonicParsing="false" onAction="#UpdateIndex" text="Indifférencié" />
-               </children>
-            </AnchorPane>
-          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
-               <children>
-                  <TableView fx:id="fileTable" layoutX="78.0" layoutY="38.0" prefHeight="311.0" prefWidth="698.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
-                    <columns>
-                      <TableColumn fx:id="numFileColumn" prefWidth="115.0" text="N° Ordre" />
-                      <TableColumn fx:id="pathFileColumn" prefWidth="366.0" text="Document" />
-                        <TableColumn fx:id="scoreFileColumn" prefWidth="222.0" text="Score" />
-                    </columns>
-                  </TableView>
-               </children>
-            </AnchorPane>
-        </items>
-      </SplitPane>
-   </children>
+	<children>
+		<SplitPane dividerPositions="0.13819095477386933" layoutX="113.0" layoutY="43.0" orientation="VERTICAL" prefHeight="400.0" prefWidth="700.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+			<items>
+				<AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="108.0" prefWidth="698.0">
+					<children>
+						<Button layoutX="576.0" layoutY="13.0" mnemonicParsing="false" onAction="#ShowResultSearch" prefHeight="25.0" prefWidth="80.0" text="Rechercher" />
+						<TextField fx:id="searchQuery" layoutX="14.0" layoutY="13.0" prefHeight="25.0" prefWidth="355.0" />
+						<RadioButton fx:id="EN" layoutX="423.0" layoutY="17.0" mnemonicParsing="false" onAction="#UpdateIndex" text="EN" />
+						<RadioButton fx:id="FR" layoutX="378.0" layoutY="17.0" mnemonicParsing="false" onAction="#UpdateIndex" selected="true" text="FR" />
+						<RadioButton fx:id="Indiff" layoutX="468.0" layoutY="17.0" mnemonicParsing="false" onAction="#UpdateIndex" text="Sémantique" />
+					</children>
+				</AnchorPane>
+				<AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
+					<children>
+						<TableView fx:id="fileTable" layoutX="78.0" layoutY="38.0" prefHeight="340.0" prefWidth="698.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+							<columns>
+								<TableColumn fx:id="numFileColumn" prefWidth="115.0" text="N° Ordre" />
+								<TableColumn fx:id="pathFileColumn" minWidth="0.0" prefWidth="276.0" text="Document" />
+                        <TableColumn fx:id="conceptFileColumn" prefWidth="212.0" text="Sujet" />
+								<TableColumn fx:id="scoreFileColumn" maxWidth="3000.0" minWidth="0.0" prefWidth="94.0" text="Score" />
+							</columns>
+						</TableView>
+					</children>
+				</AnchorPane>
+			</items>
+		</SplitPane>
+	</children>
 </AnchorPane>

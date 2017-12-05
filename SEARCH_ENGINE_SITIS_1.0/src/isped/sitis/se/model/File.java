@@ -13,13 +13,14 @@ public class File {
 	private final StringProperty numFile;
     private final StringProperty pathFile;
     private final StringProperty scoreFile;
+    private final StringProperty conceptFile;
     
 
     /**
      * Default constructor.
      */
     public File() {
-        this(null, null, null);
+        this(null, null, null, null);
     }
 
     /**
@@ -28,19 +29,20 @@ public class File {
      * @param numFile
      * @param pathFile
      * @param scoreFile
+     * @param conceptFile
      */
-    public File(String numFile, String pathFile, String scoreFile) {
+    public File(String numFile, String pathFile, String scoreFile,String conceptFile) {
         this.numFile = new SimpleStringProperty(numFile);
         this.pathFile = new SimpleStringProperty(pathFile);
         this.scoreFile = new SimpleStringProperty(scoreFile);
-        
+        this.conceptFile = new SimpleStringProperty(conceptFile);
     }
 
     public String getnumDoc() {
         return numFile.get();
     }
 
-    public void setnumDocc(String numDoc) {
+    public void setnumDoc(String numDoc) {
         this.numFile.set(numDoc);
     }
 
@@ -72,6 +74,16 @@ public class File {
         return scoreFile;
     }
 
-    
+    public String getconceptFile() {
+        return conceptFile.get();
+    }
+
+    public void setconceptFile(String conceptFile) {
+        this.conceptFile.set(conceptFile);
+    }
+
+    public StringProperty conceptFileProperty() {
+        return conceptFile;
+    }
 
 }

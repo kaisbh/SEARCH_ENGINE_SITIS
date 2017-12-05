@@ -66,7 +66,7 @@ public class MainApp extends Application {
 			i++;
 			File f = iter.next();
 			System.out.println( i.toString() +" "+f.getPath().toLowerCase());
-			fileData.add(new isped.sitis.se.model.File(i.toString(), f.getPath(), ""));
+			fileData.add(new isped.sitis.se.model.File(i.toString(), f.getPath(), "", ""));
 		}
 		
 	}

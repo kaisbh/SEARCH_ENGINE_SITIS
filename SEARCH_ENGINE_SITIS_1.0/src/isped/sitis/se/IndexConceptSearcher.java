@@ -67,8 +67,7 @@ public class IndexConceptSearcher extends Parametre {
 	}
 
 	public static ArrayList<DocScored> search(String query) throws Exception {
-	
-
+		ArrayList<DocScored> queryDocList = new ArrayList<DocScored>();
 		IndexConceptSearcher searcher = new IndexConceptSearcher(query);
 		System.out.println("----------------------------Scored Documents---------------------------------");
 		analyser.afficheDocList(IndexConceptAnalyser.vocabDocList);
@@ -97,11 +96,11 @@ public class IndexConceptSearcher extends Parametre {
 					MaxPosition = j;
 				}
 			}
-			//if (i!=MaxPosition) {
+			if (i!=MaxPosition) {
 				DocScored temp = queryDocList.get(i);
 				queryDocList.set(i, docQueryMax);
 				queryDocList.set(MaxPosition, temp);
-			//}
+			}
 			
 		}
 

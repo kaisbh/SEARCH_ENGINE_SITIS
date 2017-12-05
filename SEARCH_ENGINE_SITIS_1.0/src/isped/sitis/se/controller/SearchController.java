@@ -53,6 +53,8 @@ public class SearchController extends Parametre{
 	@FXML
 	private TableColumn<isped.sitis.se.model.File, String> scoreFileColumn;
 	@FXML
+	private TableColumn<isped.sitis.se.model.File, String> conceptFileColumn;
+	@FXML
 	private TextField searchQuery;
 
 	@FXML
@@ -75,7 +77,7 @@ public class SearchController extends Parametre{
 	// TableRow<String> row = new TableRow<String>();
 
 	@FXML
-	private void initialize() {
+	private void initialize() throws Exception {
 		//FR.setText("FR");
 		//EN.setText("EN");
 		group = new ToggleGroup();
@@ -88,12 +90,12 @@ public class SearchController extends Parametre{
 		// FR.setSelected(true);
 
 		searchQuery.setText("Hodgkin lymphoma");
-
-		Indexer.CreateIndex(indexLocation, corpusLocation, FR.getText());
+		
+		
 		numFileColumn.setCellValueFactory(cellData -> cellData.getValue().numFileProperty());
 		pathFileColumn.setCellValueFactory(cellData -> cellData.getValue().pathFileProperty());
 		scoreFileColumn.setCellValueFactory(cellData -> cellData.getValue().scoreFileProperty());
-
+		conceptFileColumn.setCellValueFactory(cellData -> cellData.getValue().conceptFileProperty());
 		fileTable.setRowFactory(tv -> {
 			TableRow<isped.sitis.se.model.File> row = new TableRow<>();
 			row.setOnMouseClicked(event -> {
@@ -119,8 +121,7 @@ public class SearchController extends Parametre{
 	public void UpdateIndex() throws Exception {
 		selectedRadioButton = (RadioButton) group.getSelectedToggle();
 		if (Indiff.isSelected()) {
-			IndexConceptAnalyser analyser = new IndexConceptAnalyser(INDEX_DIR);
-			analyser.makeDocList();
+			
 		} else {
 		Indexer.CreateIndex(INDEX_DIR, CORPUS_DIR, selectedRadioButton.getText());
 		}
@@ -140,8 +141,19 @@ public class SearchController extends Parametre{
 				selectedRadioButton = (RadioButton) group.getSelectedToggle();
 				if (Indiff.isSelected()) {
 					//String query="cancer lymphoma patient lung" ;
+					Indexer.CreateIndex(indexLocation, corpusLocation, FR.getText());
+					IndexConceptAnalyser analyser = new IndexConceptAnalyser(INDEX_DIR);
+					analyser.makeDocList();
 					IndexConceptSearcher searcher = new IndexConceptSearcher(searchQuery.getText());
 					ArrayList<DocScored> resultatIndiff = searcher.search(searchQuery.getText());
+					Iterator<DocScored> itr = resultatIndiff.iterator();
+					while (itr.hasNext()) {
+						DocScored document = itr.next();
+						fileData.add(new isped.sitis.se.model.File(String.valueOf(document.numOrder), document.docPath, String.valueOf(document.scoreDocConcept),document.docConcept));
+						isped.sitis.se.model.File FileResult = new isped.sitis.se.model.File(String.valueOf(document.numOrder), document.docPath, String.valueOf(document.scoreDocConcept),document.docConcept);
+						mainApp.getFileData().add(FileResult);
+						//System.out.println("Oder:"+doc.numOrder+"; Path :" + doc.docPath + "; Concept :" + doc.docConcept +"; Score Concept:" + doc.scoreDocConcept);
+					}
 				} else {
 					resultat = Searcher.Search(indexLocation, searchQuery.getText(), 10,selectedRadioButton.getText());
 		
@@ -150,8 +162,8 @@ public class SearchController extends Parametre{
 					// System.out.println(iterator.next());
 					String s[] = iterator.next().split(";");
 					System.out.println(s[0] + ";" + s[1] + ";" + s[2]);
-					fileData.add(new isped.sitis.se.model.File(s[0], s[1], s[2]));
-					isped.sitis.se.model.File FileResult = new isped.sitis.se.model.File(s[0], s[1], s[2]);
+					fileData.add(new isped.sitis.se.model.File(s[0], s[1], s[2],""));
+					isped.sitis.se.model.File FileResult = new isped.sitis.se.model.File(s[0], s[1], s[2],"");
 					mainApp.getFileData().add(FileResult);
 					}
 				}
