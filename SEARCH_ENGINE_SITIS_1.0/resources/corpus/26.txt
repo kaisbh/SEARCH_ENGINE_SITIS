@@ -1,0 +1,153 @@
+A clinically meaningful fetal hemoglobin threshold for children with sickle cell anemia during hydroxyurea therapy
+Authors
+Jeremie H. Estepp,
+Matthew P. Smeltzer,
+Guolian Kang,
+Chen Li,
+Winfred C. Wang,
+Christina Abrams,
+Banu Aygun,
+Russell E. Ware,
+Kerri Nottage,
+Jane S. Hankins
+First published: 28 September 2017Full publication history
+DOI: 10.1002/ajh.24906  View/save citation
+Cited by (CrossRef): 0 articles Check for updates Citation tools
+Article has an altmetric score of 68
+Funding Information
+Funding information National Heart, Lung, and Blood Institute, Grant/Award Number: R01 HL-0990941 (REW); National Heart, Lung, and Blood Institute, Grant/Award Number: R34 HL-127162 (JHE)
+ClinicalTrials.gov identifier: NCT00305175
+Abstract
+
+Hydroxyurea has proven clinical benefits and is recommended to be offered to all children with sickle cell anemia (SCA), but the optimal dosing regimen remains controversial. Induction of red blood cell fetal hemoglobin (HbF) by hydroxyurea appears to be dose-dependent. However, it is unknown whether maximizing HbF% improves clinical outcomes. HUSTLE (NCT00305175) is a prospective observational study with a primary goal of describing the long-term clinical effects of hydroxyurea escalated to maximal tolerated dose (MTD) in children with SCA. In 230 children, providing 610 patient-years of follow up, the mean attained HbF% at MTD was >20% for up to 4 years of follow-up. When HbF% values were =20%, children had twice the odds of hospitalization for any reason (P?<?.0001), including vaso-occlusive pain (P?<?.01) and acute chest syndrome (ACS) (P?<?.01), and more than four times the odds of admission for fever (P?<?.001). Thirty day readmission rates were not affected by HbF%. Neutropenia (ANC <1000 × 106/L) was rare (2.3% of all laboratory monitoring), transient, and benign. Therefore, attaining HbF >20% was associated with fewer hospitalizations without significant toxicity. These data support the use of hydroxyurea in children, and suggest that the preferred dosing strategy is one that targets a HbF endpoint >20%.
+1 INTRODUCTION
+
+Sickle cell anemia (SCA; HbSS and HbSß0thalassemia) is a chronic and debilitating disease associated with recurrent acute vaso-occlusive complications, progressive organ damage and early mortality.[1] The pathophysiology of SCA originates from a missense mutation (p.Glu6Val) in the HBB gene, which produces a mutant sickle hemoglobin (HbS, a2ßs2) that undergoes rapid intracellular polymerization upon deoxygenation. Fetal hemoglobin (HbF, a2?2) dilutes HbS and does not participate in polymer formation.[2] In natural history studies, higher HbF% is associated with reduced morbidity and mortality.[1, 3-5]
+
+Hydroxyurea therapy is recommended to be offered to all children with SCA beginning at 9 months of age, independent of disease severity[6] because it safely reduces the incidence of acute vaso-occlusive complications,[5, 7-9] transfusion requirements,[8] hospitalizations,[8] and it potentially improves overall mortality.[10-12] Hydroxyurea is a well-tolerated, once-daily medication with excellent oral bioavailability[13] that can be administered to children as liquid or in capsules. Hydroxyurea weight-based dosing schemes provide consistent drug exposure in children.[14] Although hydroxyurea has multiple potential beneficial effects,[8, 15, 16] the primary mechanism of action is induction of HbF,[6] which is required for clinical benefit[17] and appears to be dose-dependent.[7, 9, 18]
+
+Despite the proven laboratory and clinical benefits, the optimal dosing strategy of hydroxyurea therapy remains controversial. In murine models[19] and natural history studies of patients not on hydroxyurea,[20, 21] a “threshold” HbF value of >20% has been suggested as a protective level for sickle cell-related morbidity. Nevertheless, few (~10–12%) individuals with SCA have HbF% of >20%[5, 21, 22] without receiving therapy. It is uncertain if having an HbF >20% during hydroxyurea therapy will translate to better clinical outcomes in children with SCA. In this analysis of the HUSTLE cohort, we aimed to evaluate the relationship between HbF% and acute clinical outcomes in a cohort of children with SCA treated with hydroxyurea.
+2 METHODS
+
+2.1 Population
+
+The Hydroxyurea Study of Long-Term Effects (HUSTLE, NCT00305175) is a prospective, observational study designed to describe the long-term clinical effects of hydroxyurea therapy in children with SCA. This analysis is composed of all children (<19 years of age) with SCA (HbSS/HbSß0 thalassemia) who initiated hydroxyurea (New Cohort, n?=?136) or had started hydroxyurea prior to study entry (Old Cohort, n?=?94). In the New Cohort, hydroxyurea dosing began at 20 mg/kg per day and increased in 5 mg/kg increments every 8-12 weeks to MTD, defined by an absolute neutrophil count (ANC) of 2000-4000 × 106/L or the presence of hematologic toxicity.[23] The maximum absolute dose was 35 mg/kg/day or 2000 mg/day (whichever was achieved first). The HUSTLE study was approved by the IRB at St. Jude Children's Research Hospital (St. Jude), and all participants (or their legal guardians) signed informed consent prior to study procedures.
+2.2 Clinical infrastructure and management
+
+Children with SCA treated at St. Jude were followed by a multidisciplinary staff trained to provide comprehensive care including physicians, nurses, nurse case managers, social workers, psychologists, child life specialists, nutritionists, pharmacists, and advanced practitioners (nurse practitioners and physician assistants). Study participants were evaluated every 4-6 weeks during escalation of therapy and every 8-12 weeks upon achievement of MTD. Evaluations included a physical exam, history, complete blood count with differential, and HbF% quantification via high-performance liquid chromatography. Variables of interests for this analysis were classic SCA-related complications[24] and SCA-nonrelated events leading to hospitalization, such as fever (T >38.5°C), or presedation management for an elective surgical procedure. Criteria for hospitalization with fever included young age (<6 months), temperature =40°C, toxic appearance, hemodynamic instability, history of pneumococcal sepsis, white blood cell count of >30.0 or <5.0 × 106/L, or a concern for noncompliance with clinical follow-up or adherence to medications. Presedation management guidelines followed institutional guidelines as described in the supplemental materials.
+2.3 Medication possession ratio (MPR)
+
+Medication adherence was estimated with the medication possession ratio (MPR), which was calculated as [(days medication in family's possession ÷ days prescribed medication) × 100].[25] Consistent with previously published studies on medication adherence,[26, 27] an MPR =80% was defined as a surrogate for good adherence. This level has been associated with improved laboratory and clinical outcomes with hydroxyurea therapy.[28, 29] Extremely accurate tracking of pharmacy refills was possible because all prescriptions were dispensed from a centralized pharmacy at St. Jude (at no cost to the patient and regardless of insurance status).
+2.4 Data collection
+
+Demographics, hydroxyurea treatment history (start date, date MTD attained, MTD dose), HbF% and hospitalization data were abstracted for up to 4 years following study entry. Dates of hospitalizations and admission diagnoses were abstracted from institutional databases, and only the primary discharge diagnosis was considered for analysis. Dates of readmission within 30 days were recorded.
+2.5 Statistical analyses
+
+The characteristics of participants and hospitalizations were summarized using frequencies and percentages for categorical variables. Continuous variables are reported as median and interquartile range (IQR) or mean and standard deviation (SD). We censored the follow-up period for a maximum of 4 years due to sparse data past 4 years. To account for fluctuations in HbF% over time due to escalation of therapy, oscillating adherence or other factors, the observational period was divided into consecutive 3-month intervals with a maximum of 16 intervals. The HbF% level closest to the beginning of each 3-month interval was used as the representative value for the entire interval.
+
+The association between HbF% and hospitalization was evaluated by four methodologies in all children who initiated hydroxyurea therapy. First (model #1), hospitalizations and HbF% during each interval were modeled with a generalized estimating equation (GEE) to determine if HbF% was associated with the probability of hospitalization, while controlling for treatment duration and intra-participant correlation. In Model #1, HbF% and time were continuous explanatory variables and hospitalization was the categorical response variable. In Model #2, HbF% was categorized into 2 groups (=20% and >20) and the GEE model was utilized to calculate the odds ratios (OR) and 95% confidence intervals (95% CI) for hospitalization within each HbF% category during each interval. In Model #3, HbF% was categorized into 4 groups (<15%, 15 to =20%, >20 to =25%, and >25%). In Model #4, patient-years above and below the 20% HbF threshold (=20% and >20%) were calculated and the total number of hospitalizations per patient-year for each group reported.
+
+The percentages of time intervals with moderate (ANC <1000 × 106/L) and severe (ANC <500 × 106/L) neutropenia were calculated when HbF% was =20% and >20%. The association between neutropenia and HbF% was evaluated utilizing a GEE model with HbF% as a categorical variable (=20% and >20%) during intervals of neutropenia.
+
+The association between readmission to the hospital and HbF% (=20% and >20%) was evaluated for hospitalizations within 30 days of a previous discharge utilizing the GEE model. Analyses were performed in SAS, version 9.4 (SAS Institute Inc., Cary, NC, USA).
+3 RESULTS
+
+3.1 Study population
+
+In total, 230 children with HbSS (n?=?214; 93%) or HbSß0thalassemia (n?=?16; 7%) were enrolled from March 7, 2006 through November 11, 2013. The participant population included 132 (57.4%) males. The mean age (±1 standard deviation [SD]) of participants when hydroxyurea was initiated was 7.8 (4.6) years, with a median age of 7.4 years and a range from 6 months to 17.9 years (Table 1). The mean (SD) of HbF% at enrollment was 9.7% (6.6), with a median HbF% of 7.9% and a range of 1.0-32.9%. The mean (SD) daily dose of hydroxyurea at MTD was 26.7 (4.7) mg/kg/day, with a median dose of 28.0 mg/kg/day and range of 13.0 to 35.0 mg/kg/day. At the time the data were censored, 75.2% (173/230) of participants had attained MTD (Table 2).
+
+Table 1. Demographics and hospitalizations
+Total	230	 
+a Includes aplastic crisis (n?=?3) and pneumococcal infection (n?=?1).
+b Presedation management (n?=?113), splenic sequestration (n?=?3), priapism (n?=?4).
+Gender, n(%)	 	 
+Male	132	(57.4)
+Female	98	(42.6)
+Genotype, n(%)	 	 
+HbSS	214	(93.0)
+HbSB0thal	16	(7.0)
+Hospitalizations	 	 
+Total	521	 
+Vaso-occlusive pain	251	(48.2)
+Acute chest syndrome	77	(14.8)
+Fevera	73	(14.0)
+Otherb	120	(21.7)
+Table 2. Sustained hematologic effects of hydroxyurea therapy following achieving MTD for children with SCA
+ 	MTD	1 year	2 years	3 years	4 years
+Laboratory values are expressed as median (interquartile range). MTD, maximum tolerated dose; SCA, sickle cell anemia; HbF, fetal hemoglobin; Hb, hemoglobin; MCV, mean corpuscular volume; ARC, absolute reticulocyte count; WBC, white blood cell count; ANC, absolute neutrophil count; PLT, platelet count. Compared to laboratory value at MTD, MCV at 1, 2, 3, and 4 years were significantly higher (P-value?<?.01; Wilcoxon Rank Sum tests) and WBC at 1 and 4 years were significantly lower (P-value?<?.01; Wilcoxon Rank Sum tests). There were no other statistically significant changes in hematologic parameters compared to MTD for subsequent year-to-year comparisons.
+No. of participants	n?=?173	n?=?143	n?=?121	n?=?105	n?=?92
+Laboratory parameters	 	 	 	 	 
+HbF (%)	21.7(16.2–27.8)	22.1(17.9–28.1)	21.5(14.7–27.5)	20.6(14.6–25.8)	21.5(15.5–24.9)
+Hb (g/dL)	9.2(8.4–10.1)	9.4(8.6–10.1)	9.3(8.5–10.1)	9.3(8.7–10.2)	9.2(8.6—10.0)
+MCV (fL)	102.6 (96.9–110.6)	105.0(98.3–112.5)	104.4(96.0–113.0)	107.1(98.2–113.3)	107.7(98.5–116.4)
+ARC (×109/L)	131(103–171)	129(98–187)	145(103–188)	137(112–207)	136(107–178)
+WBC (×109/L)	8.2(6.4–9.6)	7.9(6.1–9.6)	8.1(6.2–9.9)	8.1(5.8–9.9)	7.3(6.0–8.4)
+ANC (×106/L)	3400(2700–4300)	3600(2400–4600)	3650(2700–5000)	3600(2900–5400)	3300(2400–4100)
+PLT (×109/L)	359(260–440)	345(275–437)	357(268–494)	340(259–460)	361(255–485)
+Age parameters	 	 	 	 	 
+Average, y	7.7(4.1–11.6)	8.8(5.1–12.9)	9.6(6.3–13.3)	10.5(7.4–13.8)	11.4(8.3–14.1)
+<5 years (n)	57	34	7	1	1
+5–12 years (n)	74	65	75	68	54
+>12 years (n)	42	44	39	36	37
+3.2 Hydroxyurea adherence
+
+In total, 10,637 hydroxyurea prescriptions (6547 as capsules and 4090 as liquid suspension) were dispensed for a mean of 27.3 (6.3) days, with a median (IQR, range) duration of 30 (28-30, 1-60) days. Complete medication dispensation records were available for 96% (220/230) of participants. Children were in possession of hydroxyurea (MPR) a mean (SD) of 93.6% (±17.8%) of the time during the observational period.
+3.3 Laboratory effect of hydroxyurea therapy escalated to MTD
+
+Effects on laboratory parameters with hydroxyurea escalated to MTD are summarized in Table 2. At MTD, the mean ANC was 3600 (1400) × 106/L with a median (IQR) of 3400 (2700-4300) × 106/L, and the mean (SD) absolute reticulocyte count (ARC) was 144 (73) × 109/L with a median (IQR) of 131 (103-171) × 109/L. Hydroxyurea at MTD resulted in a mean (SD) HbF of 26.7% (8.4%) with a median (IQR) of 21.7% (16.2–27.8%). Compared to laboratory parameters at MTD, HbF, hemoglobin (Hb), mean corpuscular volume (MCV), ARC, ANC and platelet counts were maintained and not significantly altered following 1, 2, 3, or 4 years of therapy (Table 2).
+3.4 Hospitalizations
+
+Table 1 summarizes the 521 hospitalizations observed during the study. Participants experienced a mean (SD) of 2.4 (4.5) hospitalizations with a median (range) of 1 (0-43) hospitalizations during the study period, averaging 0.9 hospitalizations per patient-year. The distribution of hospitalizations per participant is provided in Supporting Information Figure S1.
+
+The most common reasons for sickle cell-related admission were vaso-occlusive pain (n?=?251; 48.2%) and ACS (n?=?77; 14.8%), with 4 children admitted due to priapism, 3 for splenic sequestration and 1 for pneumococcal sepsis. The clinical events leading to hospitalization that were not directly related to SCA were fever (n?=?73; 14%) and presedation management (n?=?113; 21.7%).
+3.5 Fetal hemoglobin and hospitalizations
+
+We used four different statistical modeling approaches to determine whether HbF% correlated with SCA-related hospitalizations in patients on hydroxyurea. In Model #1, a significant association between HbF% and hospitalization for pain, ACS or any reason was observed. To further explore these associations, the number of observed hospitalizations during intervals when participants' HbF% was =20% was compared to the number when HbF% was >20% (Models #2 and #4). This categorization provided 339 patient-years of follow up when HbF% was =20% and 271 patient-years when HbF% was >20%.The odds of being hospitalized for ACS, VOC, fever, or for any reason ranged from 2- to 4-fold higher when HbF% was =20%; specifically, the odds ratios (OR) were 2.6 (95% CI: 1.3-5.1) for ACS, 2.2 (95% CI: 1.3-3.8) for VOC, 4.1 (95% CI: 2.0-4.8) for fever, and 2.1 (95% CI: 1.5-3.0) for any reason (Table 3).
+
+Table 3. Hospitalizations in children with sickle cell anemia treated with HU at MTD stratified by HbF
+Model	HbF, (%)	Patient-Years of Follow Up	Hospitalizations per Patient-year	Hospitalization Any ReasonOR (95% CI)	P-value	Hospitalization VOC or ACSOR (95% CI)	P-value
+Odds ratios (OR), 95% Confidence Intervals (95% CI), and p-values calculated with GEE model controlling for time and intra-participant variation. HbF, Hemoglobin F; VOC, vaso-occlusive crisis; ACS, acute chest syndrome.
+#2	=20	339	1.14	2.1 (1.5-3.0)	<.0001	2.3 (1.5-4.0)	<.001
+ 	>20	271	0.5	1	 	1	 
+#3	<15	192	1.15	2.1 (1.3-3.3)	.001	2.1 (1.1–3.9)	<.01
+ 	15–20	147	1.13	2.2 (1.3-3.6)	 	2.1 (1.1–4.0)	 
+ 	>20–25	127	0.53	1.0 (0.6-1.7)	 	0.8 (0.4-1.7)	 
+ 	>25	143	0.47	1	 	1	 
+In Model #3, the numbers of observed hospitalizations during intervals when participants' HbF% was <15%, 15-20%, >20%-25% and >25% were compared. This categorization provided 192 patient-years with HbF <15%, 147 patient-years with HbF 15-20%, 127 patient-years with HbF 20-25%, and 143 patient years with HbF >25%. The odds of being hospitalized for VOC, ACS or any reason approximated twofold higher when HbF% was =20%, but it did not increase further if HbF was 15-20% or <15% (Table 3).
+
+Analyses for Models #2 and 3 were repeated utilizing HbF transformed to log(HbF) and similar results were obtained. There was no evidence that time on hydroxyurea therapy, age of enrollment, nor enrollment in the New versus Old cohort were significant confounders of the associations between HbF or log(HbF) and hospitalization (results not shown).
+3.6 Additional laboratory benefits of hydroxyurea
+
+Abnormalities in white blood cell count (WBC), ANC, Hb, MCV, and ARC improved on hydroxyurea therapy and were stable over 4 years after MTD was attained (Table 2). When these variables were controlled for in Model #2, higher WBC and ANC were significantly associated with a higher probability of hospitalization, but none of the additional laboratory benefits altered the original model significantly (Table 3).
+3.7 Hospital readmissions
+
+In total, 41 participants were readmitted on 116 occasions within 30 days of discharge (0.2 readmissions per patient-year). Controlling for time, participants with HbF% =20% had a nonsignificant 1.5 OR (95% CI: 0.7-3.4) for readmission within 30 days compared to those with HbF% >20%.
+3.8 Dose-limiting neutropenia
+
+Moderate neutropenia (ANC <1000 × 106/L) occurred 55 times in 14% (32/230) of participants and in 2% of all evaluable time intervals. Severe neutropenia (ANC <500 × 106/L) occurred 9 times in 3% (8/230) of participants. Recurrent neutropenia was seen in 12 children. Moderate neutropenia occurred at a similar frequency in intervals when HbF% was =20% and >20% (OR 1.1 [95% CI: 0.5-2.1). All episodes were transient, and none were associated with invasive bacterial infections or hospitalization.
+4 DISCUSSION
+
+Previous analyses from the HUSTLE study reported that children receiving hydroxyurea escalated to MTD may have higher levels of HbF, Hb and MCV compared to children treated with lower doses of hydroxyurea,[30] and that children enrolled on HUSTLE have a low rate of new or worsening cerebrovascular disease,[31] and improved splenic[32] and renal[33, 34] function. The current analysis of the HUSTLE study provides new critical clinical information regarding the optimal HbF% target during hydroxyurea therapy in children with SCA. Overall, hydroxyurea therapy escalated to MTD was safe and resulted in stable improvement in laboratory parameters. After MTD was attained, the average HbF exceeded 20% for up to 4 years. Compared to when HbF was =20%, highly elevated HbF (>20%) was associated with fewer acute sickle cell related-hospitalizations and hospitalizations for any reason.
+
+When children with SCA are treated with ~20 mg/kg/day of hydroxyurea, the average HbF is ~15%, and they experience an average of 1.3 hospitalizations per patient-year.[35, 36] In the HUSTLE study, hydroxyurea was escalated to MTD. The average daily dose was 27 mg/kg/day and children had an average HbF of 21.7% at MTD for up to 4 years (Table 1), which is consistent with previous results in a publication of a smaller population of children.[9] In the HUSTLE cohort, during intervals when HbF% were >20%, the odds of being hospitalized were 2- to fourfold lower with children experiencing 0.5 hospitalizations per patient year. A trend toward fewer hospitalizations was noted when HbF% was >25% compared to the 20-25% (Table 2), but this relationship was not statistically significant. One possible explanation for the lack of significance is the relationship between overall HbF% and the fraction of F-cells (erythrocytes that stain for HbF), which may be the most critical factor for ameliorating SCD complications.[20] While any increase in HbF% increases F-cells and would be theoretically beneficial,[37] the relationship is logarithmic, and not linear.[38] Marcus et al.,[39] suggested a rise in HbF% from 2% at baseline to 13% during hydroxyurea therapy would raise F-cells from 20% to 70%; however, an increase in HbF% from 10% to 21% would result in a smaller increase in F-cells, from 60% to 80%. According to this model, the rate of F-cell increase declines as HbF% levels approach 20%, translating to smaller increments in clinical benefits as HbF% continues to rise. It is possible that hospitalization is not a sensitive enough measure of disease severity to delineate an additional benefit from HbF% >25% versus 20-25%, or that there is no increase in benefit. This relationship needs to be explored further in future trials.
+
+In a benchmark study for individuals with SCA,[40] the 30-day re-admission rate was 12.8% (95% CI: 12.0-13.6%) in children 1-9 years of age and 23.4% (95% CI:22.5-24.3%) in children 10-17 years of age. In HUSTLE, the 30-day re-admission rate was comparable at 19% and was not associated with HbF levels. It is notable that individuals with chronic pain syndromes could not be reliably identified within the HUSTLE cohort, and re-admissions rates may be influenced by this subset of participants.
+
+Further work is needed to identify children who are treated with hydroxyurea escalated to MTD and continue to experience recurrent hospitalizations. They underscore the need for novel therapies to augment the effect of hydroxyurea in increasing HbF% to treat acute vaso-occlusive complications[41] and novel anti-sickling agents.[42]
+
+The odds of being admitted to the hospital for fever when HbF was =20% was 4 times higher compared to when HbF% was >20%. This association may be explained by potential anti-inflammatory effects of hydroxyurea,[43] either related to or independent of HbF% induction. However, because not all febrile events (those not leading to a hospitalization) were captured and clinician-induced selection bias (e.g., the “less adherent subset of patients” admitted due to clinician concern for poor adherence potentially reducing outpatient follow up) could have played a role, we cannot assume causality.
+
+Hydroxyurea has proposed clinical benefits through HbF-independent mechanisms, including: a reduced production of neutrophils and reticulocytes, improved rheology, reduced hemolysis, and release of nitric oxide.[44] A reduction of WBC and ANC did favorably influence the odds of hospitalization, but HbF level was the dominant variable supporting this effect. No significant association was seen between ARC, MCV or Hb levels and the odds of hospitalization (Table 4).
+
+Table 4. Effects of hydroxyurea on laboratory parameters other than HbF and their relationship to hospitalization
+Model	Hospitalization Any ReasonOR (95% CI)	HbF p-value	Additional Variable P-value	Change in OR from base model (%)
+Odds ratios (OR), 95% Confidence Intervals (95% CI), and P-values calculated with GEE model controlling for time and intra-participant variation. HbF, fetal hemoglobin; MCV, mean corpuscular volume; WBC, white blood cell count; ANC, absolute neutrophil count; ARC, absolute reticulocyte count.
+Model #2	2.1 (1.5-3.0)	<0.0001	–	–
+Model #2?+?WBC	1.8 (1.2-2.6)	<0.002	<.001	14.3%
+Model #2?+?ANC	1.9 (1.3-2.8)	<0.001	<.005	9.5%
+Model #2?+?Hb	2.1 (1.4-3.1)	<0.001	.89	–
+Model #2?+?MCV	2.0 (1.3-2.9)	<0.001	.20	–
+Model #2?+?ARC	2.2 (1.5-3.3)	<0.001	.33	–
+While this study provides important and novel information regarding the use of hydroxyurea in children, some limitations should be noted. First, few children <5 years of age when enrolled had long-term follow up data available at the time of censure (Table 2). Very young children have high baseline levels of endogenous HbF, with average HbF levels dropping below 20% at around 18 months of age and stabilizing around 5 years of age.[45] Extrapolation of our findings to this young cohort should be viewed with caution. The recently NIH-funded HUG KISS pilot (NCT03020615) study is a multicenter trial designed to evaluate the feasibility of randomizing young children to either a low fixed-dose of hydroxyurea (20 mg/kg/day) versus escalation to MTD. HUG KISS will help to elucidate the clinical benefit of therapeutically elevated HbF in young children. A second inherent limitation is that MPR may overestimate drug adherence (i.e., prescriptions are filled, but medication is not actually taken). In our study, we were not able to distinguish between poor responses to hydroxyurea and nonadherence. However, HbF induction is stable over time with continued adherence[7, 9] and trends can be used as a surrogate marker of adherence.[29] In this study, the average HbF level >20% were maintained for up to 4 years. Finally, F-cell enumeration was not available for HUSTLE participants.
+
+In summary, this prospective observational study shows that most children with SCA treated with hydroxyurea, can safely achieve and maintain HbF levels over 20% when adherent to therapy and escalated to MTD. During intervals with HbF levels >20%, children have dramatically fewer SCA-related complications requiring hospitalization. These data support a dosing strategy for hydroxyurea that produces HbF levels above 20% to decrease hospitalizations in children with SCA, with this value serving as clinically meaningful endpoint for future trials and clinical practice.

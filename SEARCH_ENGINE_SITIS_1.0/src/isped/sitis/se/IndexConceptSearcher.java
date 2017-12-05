@@ -5,6 +5,7 @@ import java.util.Iterator;
 import java.util.stream.Stream;
 
 public class IndexConceptSearcher extends Parametre {
+	private static final int MaxPosition = 0;
 	static String Query;
 	static ArrayList<DocScored> queryDocList = new ArrayList<DocScored>();
 	static ArrayList<VocabTerm> queryVocabList = new ArrayList<VocabTerm>();
@@ -25,7 +26,7 @@ public class IndexConceptSearcher extends Parametre {
 	// ArrayList<VocabTerm>();
 	public static void main(String[] args) throws Exception {
 
-		queryDocList = search("cancer lymphoma patient", "EN");
+		queryDocList = search("cancer lymphoma patient lung", "EN");
 
 		// System.out.println(ConceptRslt.conceptName);
 
@@ -58,39 +59,53 @@ public class IndexConceptSearcher extends Parametre {
 			if (doc.scoreDocConcept > MaxDocScore) {
 				DocRslt = doc;
 				MaxDocScore = doc.scoreDocConcept;
-				position=i;
+				position = i;
 			}
-		i++;
+			i++;
 		}
 		return position;
 	}
 
 	public static ArrayList<DocScored> search(String query, String Lang) throws Exception {
-		// ArrayList<DocScored> queryDocList = null;
+	
 
 		IndexConceptSearcher searcher = new IndexConceptSearcher(query, Lang);
+		System.out.println("----------------------------Scored Documents---------------------------------");
 		analyser.afficheDocList(IndexConceptAnalyser.vocabDocList);
+		System.out.println("----------------------------Parsing query Concepts---------------------------------");
 		analyser.afficheConcept(queryConcepts);
 		Concept ConceptQuery = getMostPertinentConcept(queryConcepts);
-		Stream<DocScored> FilteredConcepts = IndexConceptAnalyser.vocabDocList.stream()
-				.filter(o -> o.docConcept.equals(ConceptQuery.conceptName));
+		
+		Stream<DocScored> FilteredConcepts = IndexConceptAnalyser.vocabDocList.stream().filter(o -> o.docConcept.equals(ConceptQuery.conceptName));
 		Iterator<DocScored> itr = FilteredConcepts.iterator();
-		//IndexConceptAnalyser.vocabDocList.get(0)
-		for (int i = 0; i < FilteredConcepts.count(); i++) {
-			Stream<DocScored> FilteredConcepts2 =  FilteredConcepts.skip(i);
-			//DocScored docQuery = getMostPertinentDoc(FilteredConcepts2);
-			//queryDocList.add(docQuery);
+		while (itr.hasNext()) {
+			DocScored doc = itr.next();
+			queryDocList.add(doc);
+		}
+		System.out.println("----------------------------Most pertinent documents-------------------------");
+		analyser.afficheDocList(queryDocList);
+		System.out.println("----------------------------Make some order-------------------------");
+		for (int i = 0; i < queryDocList.size(); i++) {
+			DocScored docQueryMax = queryDocList.get(i);
+			docQueryMax.numOrder = i;
+			int MaxPosition=i;
+			for (int j = i + 1; j < queryDocList.size(); j++) {
+				DocScored docQuery = queryDocList.get(j);
+				if (docQuery.scoreDocConcept > docQueryMax.scoreDocConcept) {
+					docQueryMax = docQuery;
+					docQueryMax.numOrder = i;
+					MaxPosition = j;
+				}
+			}
+			//if (i!=MaxPosition) {
+				DocScored temp = queryDocList.get(i);
+				queryDocList.set(i, docQueryMax);
+				queryDocList.set(MaxPosition, temp);
+			//}
 			
 		}
-		for(int i = 0; i < IndexConceptAnalyser.vocabDocList.size(); i++) {
-		//DocScored docQuery = getMostPertinentDoc(getMostPertinentDoc(FilteredConcepts));
-		DocScored temp = IndexConceptAnalyser.vocabDocList.get(i);
-		//IndexConceptAnalyser.vocabDocList.set(i, IndexConceptAnalyser.vocabDocList());
-		//IndexConceptAnalyser.vocabDocList.set(docQuery.);
-			
-	}
-		
-		//analyser.afficheDocList(IndexConceptAnalyser.vocabDocList);
+
+		// analyser.afficheDocList(IndexConceptAnalyser.vocabDocList);
 		analyser.afficheDocList(queryDocList);
 		return queryDocList;
 	}

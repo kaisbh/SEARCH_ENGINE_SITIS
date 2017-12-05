@@ -31,6 +31,10 @@ public class FileUtil {
 		return queue;
 	}
 
+	static public void createDir(String dir) {
+
+	}
+
 	static public void deleteFiles(String emplacement) {
 		File path = new File(emplacement);
 		if (path.exists()) {

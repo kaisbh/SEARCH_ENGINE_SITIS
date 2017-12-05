@@ -27,12 +27,12 @@ import javafx.stage.Stage;
 import isped.sitis.se.controller.PersonEditDialogController;
 import isped.sitis.se.controller.PersonOverviewController;
 import isped.sitis.se.controller.SearchController;
-
+import isped.sitis.se.Parametre;
 import isped.sitis.se.model.*;
 import isped.sitis.se.util.FileUtil;
 
 public class MainApp extends Application {
-	public final String CORPUS_DIRECTORY = "D:\\Projet_Gayo\\MyCorpus";
+	public final String CORPUS_DIRECTORY = Parametre.CORPUS_DIR;
 	private Stage primaryStage;
 	private BorderPane rootLayout;
 	private ArrayList<File> queue = new ArrayList<File>();

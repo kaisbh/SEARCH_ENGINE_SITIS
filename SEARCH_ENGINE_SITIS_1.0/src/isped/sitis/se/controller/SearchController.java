@@ -20,6 +20,7 @@ import javafx.scene.text.Text;
 import javafx.stage.Stage;
 import isped.sitis.se.Indexer;
 import isped.sitis.se.MainApp;
+import isped.sitis.se.Parametre;
 import isped.sitis.se.Searcher;
 import isped.sitis.se.model.File;
 
@@ -36,9 +37,9 @@ import isped.sitis.se.model.Person;
 import isped.sitis.se.util.DateUtil;
 import isped.sitis.se.util.FileUtil;
 
-public class SearchController {
-	public final String indexLocation = "D:\\Projet_Gayo\\Index";
-	public final String corpusLocation = "D:\\Projet_Gayo\\MyCorpus";
+public class SearchController extends Parametre{
+	public final String indexLocation = INDEX_DIR;
+	public final String corpusLocation = CORPUS_DIR;
 
 	@FXML
 	private TableView<isped.sitis.se.model.File> fileTable;
@@ -55,6 +56,8 @@ public class SearchController {
 	private RadioButton FR;
 	@FXML
 	private RadioButton EN;
+	//@FXML
+	//private RadioButton Indiff;
 	private ToggleGroup group;
 	// Reference to the main application.
 	private MainApp mainApp;
@@ -69,13 +72,14 @@ public class SearchController {
 
 	@FXML
 	private void initialize() {
-		FR.setText("EN");
 		FR.setText("FR");
+		EN.setText("EN");
 		group = new ToggleGroup();
 		FR.setToggleGroup(group);
 		EN.setToggleGroup(group);
+		//Indiff.setToggleGroup(group);
 
-		System.out.println(FR.getText());
+		//System.out.println(FR.getText());
 		// FR.setText("FR");
 		// FR.setSelected(true);
 

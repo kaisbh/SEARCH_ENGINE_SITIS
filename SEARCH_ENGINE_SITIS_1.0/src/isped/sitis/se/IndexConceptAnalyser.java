@@ -281,7 +281,7 @@ public class IndexConceptAnalyser extends Parametre{
 		Iterator<DocScored> itr = vocabDocList.iterator();
 		while (itr.hasNext()) {
 			DocScored doc = itr.next();
-			System.out.println("Path :" + doc.docPath + "; Concept :" + doc.docConcept +"; Score Concept:" + doc.scoreDocConcept);
+			System.out.println("Oder:"+doc.numOrder+"; Path :" + doc.docPath + "; Concept :" + doc.docConcept +"; Score Concept:" + doc.scoreDocConcept);
 		}
 	}
 	public  void afficheVocabList( ArrayList<VocabTerm> vocabTermList) throws Exception {
