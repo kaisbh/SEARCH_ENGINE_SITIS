@@ -15,7 +15,7 @@
                   <TextField fx:id="searchQuery" layoutX="14.0" layoutY="13.0" prefHeight="25.0" prefWidth="355.0" />
                   <RadioButton fx:id="EN" layoutX="423.0" layoutY="17.0" mnemonicParsing="false" onAction="#UpdateIndex" text="EN" />
                   <RadioButton fx:id="FR" layoutX="378.0" layoutY="17.0" mnemonicParsing="false" onAction="#UpdateIndex" selected="true" text="FR" />
-                  <RadioButton layoutX="468.0" layoutY="17.0" mnemonicParsing="false" text="Indifférencié" />
+                  <RadioButton fx:id="Indiff" layoutX="468.0" layoutY="17.0" mnemonicParsing="false" onAction="#UpdateIndex" text="Indifférencié" />
                </children>
             </AnchorPane>
           <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">

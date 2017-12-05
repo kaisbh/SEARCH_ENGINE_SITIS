@@ -12,9 +12,9 @@ public class IndexConceptSearcher extends Parametre {
 	static ArrayList<Concept> queryConcepts = new ArrayList<Concept>();
 	static IndexConceptAnalyser analyser = new IndexConceptAnalyser(INDEX_DIR);
 
-	public IndexConceptSearcher(String query, String lang) throws Exception {
+	public IndexConceptSearcher(String query) throws Exception {
 
-		analyser.makeDocList();
+		//analyser.makeDocList();
 		// analyser.afficheDocList(IndexConceptAnalyser.vocabDocList);
 		makeQueryVocab(QueryParser(query));
 		makeQueryConceptScore(queryVocabList);
@@ -25,8 +25,8 @@ public class IndexConceptSearcher extends Parametre {
 	// public static ArrayList<VocabTerm> vocabTermList = new
 	// ArrayList<VocabTerm>();
 	public static void main(String[] args) throws Exception {
-
-		queryDocList = search("cancer lymphoma patient lung", "EN");
+		analyser.makeDocList();
+		queryDocList = search("cancer lymphoma patient lung");
 
 		// System.out.println(ConceptRslt.conceptName);
 
@@ -66,10 +66,10 @@ public class IndexConceptSearcher extends Parametre {
 		return position;
 	}
 
-	public static ArrayList<DocScored> search(String query, String Lang) throws Exception {
+	public static ArrayList<DocScored> search(String query) throws Exception {
 	
 
-		IndexConceptSearcher searcher = new IndexConceptSearcher(query, Lang);
+		IndexConceptSearcher searcher = new IndexConceptSearcher(query);
 		System.out.println("----------------------------Scored Documents---------------------------------");
 		analyser.afficheDocList(IndexConceptAnalyser.vocabDocList);
 		System.out.println("----------------------------Parsing query Concepts---------------------------------");

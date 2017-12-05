@@ -18,6 +18,9 @@ import javafx.scene.control.ToggleGroup;
 import javafx.scene.input.MouseButton;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
+import isped.sitis.se.DocScored;
+import isped.sitis.se.IndexConceptAnalyser;
+import isped.sitis.se.IndexConceptSearcher;
 import isped.sitis.se.Indexer;
 import isped.sitis.se.MainApp;
 import isped.sitis.se.Parametre;
@@ -56,12 +59,13 @@ public class SearchController extends Parametre{
 	private RadioButton FR;
 	@FXML
 	private RadioButton EN;
-	//@FXML
-	//private RadioButton Indiff;
+	@FXML
+	private RadioButton Indiff;
 	private ToggleGroup group;
 	// Reference to the main application.
 	private MainApp mainApp;
 	private Stage dialogStage;
+	private RadioButton selectedRadioButton;
 
 	public SearchController() {
 	}
@@ -72,12 +76,12 @@ public class SearchController extends Parametre{
 
 	@FXML
 	private void initialize() {
-		FR.setText("FR");
-		EN.setText("EN");
+		//FR.setText("FR");
+		//EN.setText("EN");
 		group = new ToggleGroup();
 		FR.setToggleGroup(group);
 		EN.setToggleGroup(group);
-		//Indiff.setToggleGroup(group);
+		Indiff.setToggleGroup(group);
 
 		//System.out.println(FR.getText());
 		// FR.setText("FR");
@@ -112,16 +116,17 @@ public class SearchController extends Parametre{
 
 	}
 
-	public void UpdateIndex() {
-		String Lang;
-		if (FR.isSelected()) {
-			Lang = "FR";
-		} else
-			Lang = "EN";
-		Indexer.CreateIndex(indexLocation, corpusLocation, Lang);
+	public void UpdateIndex() throws Exception {
+		selectedRadioButton = (RadioButton) group.getSelectedToggle();
+		if (Indiff.isSelected()) {
+			IndexConceptAnalyser analyser = new IndexConceptAnalyser(INDEX_DIR);
+			analyser.makeDocList();
+		} else {
+		Indexer.CreateIndex(INDEX_DIR, CORPUS_DIR, selectedRadioButton.getText());
+		}
 	}
 
-	public void ShowResultSearch() {
+	public void ShowResultSearch() throws Exception {
 		String errorMessage = "";
 		if (searchQuery.getText() == null || searchQuery.getText().length() == 0) {
 			errorMessage += "Veuillez introduire votre requête\n";
@@ -132,25 +137,35 @@ public class SearchController extends Parametre{
 			ObservableList<isped.sitis.se.model.File> fileData = FXCollections.observableArrayList();
 			ArrayList<String> resultat = new ArrayList<String>();
 			try {
-
-				resultat = Searcher.Search(indexLocation, searchQuery.getText(), 7, "EN");
+				selectedRadioButton = (RadioButton) group.getSelectedToggle();
+				if (Indiff.isSelected()) {
+					//String query="cancer lymphoma patient lung" ;
+					IndexConceptSearcher searcher = new IndexConceptSearcher(searchQuery.getText());
+					ArrayList<DocScored> resultatIndiff = searcher.search(searchQuery.getText());
+				} else {
+					resultat = Searcher.Search(indexLocation, searchQuery.getText(), 10,selectedRadioButton.getText());
+		
+					Iterator<String> iterator = resultat.iterator();
+					while (iterator.hasNext()) {
+					// System.out.println(iterator.next());
+					String s[] = iterator.next().split(";");
+					System.out.println(s[0] + ";" + s[1] + ";" + s[2]);
+					fileData.add(new isped.sitis.se.model.File(s[0], s[1], s[2]));
+					isped.sitis.se.model.File FileResult = new isped.sitis.se.model.File(s[0], s[1], s[2]);
+					mainApp.getFileData().add(FileResult);
+					}
+				}
+				
 			} catch (IOException e) {
 				e.printStackTrace();
 			} catch (ParseException e) {
 				e.printStackTrace();
 			}
 
-			Iterator<String> iterator = resultat.iterator();
-			while (iterator.hasNext()) {
-
-				// System.out.println(iterator.next());
-				String s[] = iterator.next().split(";");
-				System.out.println(s[0] + ";" + s[1] + ";" + s[2]);
-
-				fileData.add(new isped.sitis.se.model.File(s[0], s[1], s[2]));
-				isped.sitis.se.model.File FileResult = new isped.sitis.se.model.File(s[0], s[1], s[2]);
-				mainApp.getFileData().add(FileResult);
-			}
+			
+				
+				
+			
 		} else {
 			// Show the error message.
 			Alert alert = new Alert(AlertType.ERROR);

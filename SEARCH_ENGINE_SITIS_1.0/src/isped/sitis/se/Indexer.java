@@ -65,7 +65,7 @@ public class Indexer extends Parametre{
 		Indexer indexer = null;
 		FileUtil.deleteFiles(indexLocation);
 		try {
-			indexer = new Indexer(indexLocation, "EN");
+			indexer = new Indexer(indexLocation, analyzerLang);
 		} catch (IOException e1) {
 			e1.printStackTrace();
 		}

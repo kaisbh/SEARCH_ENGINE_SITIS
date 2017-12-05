@@ -58,7 +58,7 @@ public class Searcher {
 	// static TopScoreDocCollector collector = TopScoreDocCollector.create(5, true);
 	public static ArrayList<String> Search(String indexLocation, String s, int topDoc, String analyzerLang)
 			throws IOException, ParseException {
-		new Searcher(indexLocation,"EN",s);
+		new Searcher(indexLocation,analyzerLang,s);
 		ArrayList<String> result = new ArrayList<String>();
 		IndexReader reader;
 		IndexSearcher searcher = null;
