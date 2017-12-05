@@ -25,7 +25,7 @@ import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.text.PDFTextStripper;
 
 
-public class Indexer {
+public class Indexer extends Parametre{
 
 	private static IndexWriter writer;
 	private static ArrayList<File> queue = new ArrayList<File>();
@@ -86,13 +86,13 @@ public class Indexer {
 		// String indexLocation = null;
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		String s1 = br.readLine();
-		System.out.println(
-				"Enter the full path to add into the index (q=quit): (e.g. /home/ron/mydir or c:\\Users\\ron\\mydir)");
-		System.out.println("[Acceptable file types: .xml, .html, .html, .txt]");
+		//System.out.println(
+		//		"Enter the full path to add into the index (q=quit): (e.g. /home/ron/mydir or c:\\Users\\ron\\mydir)");
+		//System.out.println("[Acceptable file types: .xml, .html, .html, .txt]");
 		String s2 = null;
 		s2 = br.readLine();
 
-		CreateIndex(s1, s2, "EN");
+		CreateIndex(INDEX_DIR, CORPUS_DIR, "EN");
 
 	}
 
