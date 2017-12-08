@@ -36,13 +36,17 @@ public class FileUtil {
 	}
 
 	static public void deleteFiles(String emplacement) {
+		
 		File path = new File(emplacement);
 		if (path.exists()) {
+			System.out.println("Suppression index.....");
 			File[] files = path.listFiles();
 			for (int i = 0; i < files.length; i++) {
 				if (files[i].isDirectory()) {
+				
 					deleteFiles(path + "\\" + files[i]);
 				}
+				
 				files[i].delete();
 			}
 		}

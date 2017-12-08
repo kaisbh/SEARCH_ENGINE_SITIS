@@ -40,7 +40,7 @@ import isped.sitis.se.model.Person;
 import isped.sitis.se.util.DateUtil;
 import isped.sitis.se.util.FileUtil;
 
-public class SearchController extends Parametre{
+public class SearchController extends Parametre {
 	public final String indexLocation = INDEX_DIR;
 	public final String corpusLocation = CORPUS_DIR;
 
@@ -78,20 +78,23 @@ public class SearchController extends Parametre{
 
 	@FXML
 	private void initialize() throws Exception {
-		//FR.setText("FR");
-		//EN.setText("EN");
+		// FR.setText("FR");
+		// EN.setText("EN");
 		group = new ToggleGroup();
 		FR.setToggleGroup(group);
 		EN.setToggleGroup(group);
 		Indiff.setToggleGroup(group);
 
-		//System.out.println(FR.getText());
+		// System.out.println(FR.getText());
 		// FR.setText("FR");
 		// FR.setSelected(true);
+		Indexer.CreateIndex(corpusLocation, "FR");
+		Indexer.CreateIndex(corpusLocation, "EN");
+		IndexConceptAnalyser analyser = new IndexConceptAnalyser(INDEX_DIR);
+		analyser.makeDocList();
 
 		searchQuery.setText("Hodgkin lymphoma");
-		
-		
+
 		numFileColumn.setCellValueFactory(cellData -> cellData.getValue().numFileProperty());
 		pathFileColumn.setCellValueFactory(cellData -> cellData.getValue().pathFileProperty());
 		scoreFileColumn.setCellValueFactory(cellData -> cellData.getValue().scoreFileProperty());
@@ -121,13 +124,16 @@ public class SearchController extends Parametre{
 	public void UpdateIndex() throws Exception {
 		selectedRadioButton = (RadioButton) group.getSelectedToggle();
 		if (Indiff.isSelected()) {
-			
+
 		} else {
-		Indexer.CreateIndex(INDEX_DIR, CORPUS_DIR, selectedRadioButton.getText());
+			// Indexer.CreateIndex(CORPUS_DIR, selectedRadioButton.getText());
 		}
 	}
 
 	public void ShowResultSearch() throws Exception {
+		
+		isped.sitis.se.model.File FileResult = null;
+
 		String errorMessage = "";
 		if (searchQuery.getText() == null || searchQuery.getText().length() == 0) {
 			errorMessage += "Veuillez introduire votre requête\n";
@@ -136,48 +142,48 @@ public class SearchController extends Parametre{
 			fileTable.getItems().clear();
 
 			ObservableList<isped.sitis.se.model.File> fileData = FXCollections.observableArrayList();
-			ArrayList<String> resultat = new ArrayList<String>();
+			
 			try {
 				selectedRadioButton = (RadioButton) group.getSelectedToggle();
 				if (Indiff.isSelected()) {
-					//String query="cancer lymphoma patient lung" ;
-					Indexer.CreateIndex(indexLocation, corpusLocation, FR.getText());
-					IndexConceptAnalyser analyser = new IndexConceptAnalyser(INDEX_DIR);
-					analyser.makeDocList();
-					IndexConceptSearcher searcher = new IndexConceptSearcher(searchQuery.getText());
-					ArrayList<DocScored> resultatIndiff = searcher.search(searchQuery.getText());
-					Iterator<DocScored> itr = resultatIndiff.iterator();
+					// String query="cancer lymphoma patient lung" ;
+					//IndexConceptSearcher searcher = new IndexConceptSearcher(searchQuery.getText());
+					ArrayList<DocScored> resultatConcept = new ArrayList<DocScored>();
+					
+				
+					resultatConcept= IndexConceptSearcher.search(searchQuery.getText());
+					Iterator<DocScored> itr = resultatConcept.iterator();
 					while (itr.hasNext()) {
 						DocScored document = itr.next();
-						fileData.add(new isped.sitis.se.model.File(String.valueOf(document.numOrder), document.docPath, String.valueOf(document.scoreDocConcept),document.docConcept));
-						isped.sitis.se.model.File FileResult = new isped.sitis.se.model.File(String.valueOf(document.numOrder), document.docPath, String.valueOf(document.scoreDocConcept),document.docConcept);
+						fileData.add(new isped.sitis.se.model.File(String.valueOf(document.numOrder), document.docPath,
+								String.valueOf(document.scoreDocConcept), document.docConcept));
+						FileResult = new isped.sitis.se.model.File(String.valueOf(document.numOrder), document.docPath,
+								String.valueOf(document.scoreDocConcept), document.docConcept);
 						mainApp.getFileData().add(FileResult);
-						//System.out.println("Oder:"+doc.numOrder+"; Path :" + doc.docPath + "; Concept :" + doc.docConcept +"; Score Concept:" + doc.scoreDocConcept);
+						// System.out.println("Oder:"+doc.numOrder+"; Path :" + doc.docPath + "; Concept
+						// :" + doc.docConcept +"; Score Concept:" + doc.scoreDocConcept);
 					}
+				
 				} else {
-					resultat = Searcher.Search(indexLocation, searchQuery.getText(), 10,selectedRadioButton.getText());
-		
+					ArrayList<String> resultat = new ArrayList<String>();
+					resultat = Searcher.Search(searchQuery.getText(), 10, selectedRadioButton.getText());
 					Iterator<String> iterator = resultat.iterator();
 					while (iterator.hasNext()) {
-					// System.out.println(iterator.next());
-					String s[] = iterator.next().split(";");
-					System.out.println(s[0] + ";" + s[1] + ";" + s[2]);
-					fileData.add(new isped.sitis.se.model.File(s[0], s[1], s[2],""));
-					isped.sitis.se.model.File FileResult = new isped.sitis.se.model.File(s[0], s[1], s[2],"");
-					mainApp.getFileData().add(FileResult);
+						// System.out.println(iterator.next());
+						String s[] = iterator.next().split(";");
+						System.out.println(s[0] + ";" + s[1] + ";" + s[2]);
+						fileData.add(new isped.sitis.se.model.File(s[0], s[1], s[2], ""));
+						FileResult = new isped.sitis.se.model.File(s[0], s[1], s[2], "");
+						mainApp.getFileData().add(FileResult);
 					}
 				}
-				
+
 			} catch (IOException e) {
 				e.printStackTrace();
 			} catch (ParseException e) {
 				e.printStackTrace();
 			}
 
-			
-				
-				
-			
 		} else {
 			// Show the error message.
 			Alert alert = new Alert(AlertType.ERROR);

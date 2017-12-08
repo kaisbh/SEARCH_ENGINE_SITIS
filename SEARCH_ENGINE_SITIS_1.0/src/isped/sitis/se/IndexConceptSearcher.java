@@ -1,35 +1,85 @@
 package isped.sitis.se;
 
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.stream.Stream;
 
+import org.apache.lucene.document.Document;
+import org.apache.lucene.index.DirectoryReader;
+import org.apache.lucene.index.IndexReader;
+import org.apache.lucene.index.IndexReaderContext;
+import org.apache.lucene.index.MultiFields;
+import org.apache.lucene.index.PostingsEnum;
+import org.apache.lucene.index.Term;
+import org.apache.lucene.index.TermContext;
+import org.apache.lucene.index.Terms;
+import org.apache.lucene.index.TermsEnum;
+import org.apache.lucene.search.DocIdSetIterator;
+import org.apache.lucene.search.IndexSearcher;
+import org.apache.lucene.search.TermStatistics;
+import org.apache.lucene.search.similarities.ClassicSimilarity;
+import org.apache.lucene.store.FSDirectory;
+import org.apache.lucene.util.BytesRef;
+
 public class IndexConceptSearcher extends Parametre {
 	private static final int MaxPosition = 0;
 	static String Query;
-	static ArrayList<DocScored> queryDocList = new ArrayList<DocScored>();
-	static ArrayList<VocabTerm> queryVocabList = new ArrayList<VocabTerm>();
-	static ArrayList<Concept> queryConcepts = new ArrayList<Concept>();
-	static IndexConceptAnalyser analyser = new IndexConceptAnalyser(INDEX_DIR);
+	// static ArrayList<DocScored> queryDocList = new ArrayList<DocScored>();
+
+	static IndexReader reader;
+	static IndexSearcher searcher;
+	static IndexReaderContext context;
 
 	public IndexConceptSearcher(String query) throws Exception {
+		reader = DirectoryReader.open(FSDirectory.open(Paths.get(INDEX_DIR)));
+		searcher = new IndexSearcher(reader);
+		context = searcher.getTopReaderContext();
+		// analyser.makeDocList();
+		//
+		
 
-		//analyser.makeDocList();
-		// analyser.afficheDocList(IndexConceptAnalyser.vocabDocList);
-		makeQueryVocab(QueryParser(query));
-		makeQueryConceptScore(queryVocabList);
-		// analyser.afficheVocabList(queryVocabList);
-		// analyser.afficheConcept(queryConcepts);
 	}
 
 	// public static ArrayList<VocabTerm> vocabTermList = new
 	// ArrayList<VocabTerm>();
 	public static void main(String[] args) throws Exception {
-		analyser.makeDocList();
-		queryDocList = search("cancer lymphoma patient lung");
+		// analyser.makeDocList();
+		// IndexConceptSearcher searcher = new IndexConceptSearcher("cancer lymphoma");
+		// analyser.afficheDocList(vocabDocList);
+		ArrayList<DocScored> queryDocList = search("cancer lymphoma");
 
 		// System.out.println(ConceptRslt.conceptName);
 
+	}
+
+	public static ArrayList<DocScored> loadIndexConcept(String indexLocation) {
+		ArrayList<DocScored> vocabDocList = new ArrayList<DocScored>();
+		try {
+			BufferedReader br = new BufferedReader(new FileReader(CONCEPT_INDEX_FILE));
+			String line = br.readLine();
+			while ((line = br.readLine()) != null) {
+				String[] splittedLigne = line.toLowerCase().split(",");
+				String numOrder = splittedLigne[0];
+				String docPath = splittedLigne[1];
+				String docId = splittedLigne[2];
+				String docConcept = splittedLigne[3];
+				String scoreDocConcept = splittedLigne[4];
+				DocScored vt = new DocScored(Integer.parseInt(numOrder), docPath, Integer.parseInt(docId), docConcept,
+						Float.valueOf(scoreDocConcept));
+				vocabDocList.add(vt);
+			}
+		} catch (Exception e) {
+		}
+		return vocabDocList;
 	}
 
 	public static Concept getMostPertinentConcept(ArrayList<Concept> queryConcepts) throws Exception {
@@ -67,27 +117,38 @@ public class IndexConceptSearcher extends Parametre {
 	}
 
 	public static ArrayList<DocScored> search(String query) throws Exception {
-		ArrayList<DocScored> queryDocList = new ArrayList<DocScored>();
-		IndexConceptSearcher searcher = new IndexConceptSearcher(query);
-		System.out.println("----------------------------Scored Documents---------------------------------");
-		analyser.afficheDocList(IndexConceptAnalyser.vocabDocList);
-		System.out.println("----------------------------Parsing query Concepts---------------------------------");
-		analyser.afficheConcept(queryConcepts);
-		Concept ConceptQuery = getMostPertinentConcept(queryConcepts);
 		
-		Stream<DocScored> FilteredConcepts = IndexConceptAnalyser.vocabDocList.stream().filter(o -> o.docConcept.equals(ConceptQuery.conceptName));
+		ArrayList<DocScored> queryDocList = new ArrayList<DocScored>();
+		ArrayList<VocabTerm> queryVocabList = new ArrayList<VocabTerm>();
+		ArrayList<Concept> queryConcepts = new ArrayList<Concept>();
+		ArrayList<DocScored> vocabDocList = new ArrayList<DocScored>();
+		new IndexConceptSearcher(query);
+
+		System.out.println(
+				"----------------------------Scored documents wich contain term's query---------------------------------");
+		queryVocabList = makeQueryVocab(QueryParser(query), IndexConceptSearcher.reader, IndexConceptSearcher.searcher);
+		IndexConceptAnalyser.afficheVocabList(queryVocabList);
+		System.out.println("----------------------------Calculating concepts scores---------------------------------");
+		queryConcepts = makeQueryConceptScore(queryVocabList, getConcepts(VOCAB_FILE));
+		IndexConceptAnalyser.afficheConcept(queryConcepts);
+		System.out.println("----------------------------Most pertinent concept in the query-------------------------");
+		Concept ConceptQuery = getMostPertinentConcept(queryConcepts);
+		System.out.println(ConceptQuery.conceptName);
+		System.out.println("----------------------------Most pertinent documents-------------------------");
+		vocabDocList = loadIndexConcept(CONCEPT_INDEX_FILE);
+		Stream<DocScored> FilteredConcepts = vocabDocList.stream()
+				.filter(o -> o.docConcept.equals(ConceptQuery.conceptName));
 		Iterator<DocScored> itr = FilteredConcepts.iterator();
 		while (itr.hasNext()) {
 			DocScored doc = itr.next();
 			queryDocList.add(doc);
 		}
-		System.out.println("----------------------------Most pertinent documents-------------------------");
-		analyser.afficheDocList(queryDocList);
+		IndexConceptAnalyser.afficheDocList(queryDocList);
 		System.out.println("----------------------------Make some order-------------------------");
 		for (int i = 0; i < queryDocList.size(); i++) {
 			DocScored docQueryMax = queryDocList.get(i);
 			docQueryMax.numOrder = i;
-			int MaxPosition=i;
+			int MaxPosition = i;
 			for (int j = i + 1; j < queryDocList.size(); j++) {
 				DocScored docQuery = queryDocList.get(j);
 				if (docQuery.scoreDocConcept > docQueryMax.scoreDocConcept) {
@@ -96,16 +157,16 @@ public class IndexConceptSearcher extends Parametre {
 					MaxPosition = j;
 				}
 			}
-			if (i!=MaxPosition) {
+			if (i != MaxPosition) {
 				DocScored temp = queryDocList.get(i);
 				queryDocList.set(i, docQueryMax);
 				queryDocList.set(MaxPosition, temp);
 			}
-			
+
 		}
 
 		// analyser.afficheDocList(IndexConceptAnalyser.vocabDocList);
-		analyser.afficheDocList(queryDocList);
+		IndexConceptAnalyser.afficheDocList(queryDocList);
 		return queryDocList;
 	}
 
@@ -116,7 +177,9 @@ public class IndexConceptSearcher extends Parametre {
 
 	}
 
-	public static void makeQueryConceptScore(ArrayList<VocabTerm> queryVocabList) {
+	public static ArrayList<Concept> makeQueryConceptScore(ArrayList<VocabTerm> queryVocabList,
+			ArrayList<Concept> queryConcepts) {
+
 		Iterator<VocabTerm> itr = queryVocabList.iterator();
 		while (itr.hasNext()) {
 			VocabTerm term = (VocabTerm) itr.next();
@@ -132,23 +195,125 @@ public class IndexConceptSearcher extends Parametre {
 			}
 
 		}
+		return queryConcepts;
 	}
 
-	public static void makeQueryVocab(String[] Query) throws Exception {
-		queryConcepts = analyser.getConcepts(VOCAB_FILE);
-		analyser.initVocab();
-		analyser.afficheConcept(queryConcepts);
+	public static ArrayList<VocabTerm> addVocab(String vocabTerm, int idDoc, String concept,
+			ArrayList<VocabTerm> vocabTermList, IndexReader reader, IndexSearcher searcher) throws Exception {
+
+		//Document doc = reader.document(idDoc);
+		Terms terms = reader.getTermVector(idDoc, "contents");
+		TermsEnum termsEnum = terms.iterator();
+		int n = (int) terms.size();
+		BytesRef iter = termsEnum.next();
+		TermContext[] states = new TermContext[n];
+		TermStatistics termStats[] = new TermStatistics[n];
+		int i = 0;
+		while (iter != null) {
+			if (iter.utf8ToString().equals(vocabTerm.toLowerCase())) {
+				Term term = new Term("contents", iter.utf8ToString());
+				states[i] = TermContext.build(context, term);
+				termStats[i] = searcher.termStatistics(term, states[i]);
+				String termText = iter.utf8ToString();
+				// int termFrq = tf(iter.utf8ToString(), doc.get("path"));
+				int termFrq = tf(iter.utf8ToString(), idDoc, "contents", reader);
+				int totalTermFrq = (int) termStats[i].totalTermFreq();
+				int docFrq = (int) termStats[i].docFreq();
+				float tfIdf = tfIdf(termFrq, docFrq, reader);
+				VocabTerm vt = new VocabTerm(termText, termFrq, totalTermFrq, docFrq, tfIdf, concept, idDoc);
+
+				vocabTermList.add(vt);
+			}
+			i++;
+			iter = termsEnum.next();
+		}
+		return vocabTermList;
+	}
+
+	public static float tfIdf(int tf, int df, IndexReader reader) throws IOException {
+		ClassicSimilarity sim = new ClassicSimilarity();
+		int N = reader.getDocCount("contents");
+		float TF = sim.tf(tf);
+		float IDF = sim.idf(df, N);
+		float tfIdf = TF * IDF;
+		return tfIdf;
+	}
+
+	public static Integer tf(String term, int docID, String Field, IndexReader reader) throws IOException {
+		Integer tf = null;
+		TermsEnum termEnum = MultiFields.getTerms(reader, Field).iterator();
+		while (termEnum.next() != null) {
+			if (termEnum.term().utf8ToString().equals(term)) {
+				PostingsEnum docEnum = MultiFields.getTermDocsEnum(reader, "contents", termEnum.term());
+				//int doc = docEnum.NO_MORE_DOCS;
+				//int count = 0;
+				while (docEnum.nextDoc() != DocIdSetIterator.NO_MORE_DOCS) {
+					if (docEnum.docID() == docID) {
+						tf = docEnum.freq();
+						// System.out.println(docEnum.docID() + " :" +
+						// reader.document(docEnum.docID()).get("path") + ": "+
+						// termEnum.term().utf8ToString() + ": " + docEnum.freq());
+					}
+				}
+			}
+		}
+
+		return tf;
+	}
+
+	public static ArrayList<Concept> getConcepts(String vocabLocation) {
+		ArrayList<Concept> concepts2 = new ArrayList<Concept>();
+		BufferedReader br;
+		String line;
+		String[] splittedLigne = null;
+		try {
+			br = new BufferedReader(new FileReader(new File(vocabLocation)));
+			line = br.readLine();
+			while ((line = br.readLine()) != null) {
+				// System.out.println(line.toLowerCase());
+				splittedLigne = line.toLowerCase().split(":");
+				if (!splittedLigne.equals(null)) {
+					// System.out.println(splittedLigne[0]);
+					Concept concept = new Concept(splittedLigne[0].toLowerCase(), 0);
+					concepts2.add(concept);
+
+				}
+			}
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return concepts2;
+	}
+
+	public static void initVocab() {
+		//queryVocabList.removeAll(queryVocabList);
+	}
+
+	public static void initResultDoc() {
+		// queryDocList.removeAll(queryDocList);
+	}
+
+	public static ArrayList<VocabTerm> makeQueryVocab(String[] Query, IndexReader reader, IndexSearcher searcher) throws Exception {
+		ArrayList<VocabTerm> queryVocabList = new ArrayList<VocabTerm>();
+		// initVocab();
+		ArrayList<Concept> queryConcepts = getConcepts(VOCAB_FILE);
+		initVocab();
+		// IndexConceptAnalyser.afficheConcept(queryConcepts);
 		if (Query.length != 0) {
 			Concept concept = null;
 			for (int j = 0; j < Query.length; j++) {
 				Iterator<Concept> itr1 = queryConcepts.iterator();
 				while (itr1.hasNext()) {
 					concept = itr1.next();
-					String[] VocabTerms = analyser.extractVocabTerms(VOCAB_FILE, concept.conceptName);
-					for (int k = 0; k < IndexConceptAnalyser.reader.getDocCount("contents"); k++) {
+					String[] VocabTerms = IndexConceptAnalyser.extractVocabTerms(VOCAB_FILE, concept.conceptName);
+					for (int k = 0; k < reader.getDocCount("contents"); k++) {
 						for (int i = 0; i < VocabTerms.length; i++) {
 							if (Query[j].equals(VocabTerms[i])) {
-								analyser.addVocab(Query[j], k, concept.conceptName, queryVocabList);
+								queryVocabList = addVocab(Query[j], k, concept.conceptName, queryVocabList, reader, searcher);
 							}
 						}
 					}
@@ -156,6 +321,7 @@ public class IndexConceptSearcher extends Parametre {
 
 			}
 		}
+		return queryVocabList;
 	}
 }
 /*

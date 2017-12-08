@@ -29,22 +29,26 @@ public class Indexer extends Parametre{
 
 	private static IndexWriter writer;
 	private static ArrayList<File> queue = new ArrayList<File>();
-
+	static String indexLocation = null;
 	// Constructeur
-	Indexer(String indexDir, String analyzerLang) throws IOException {
+	Indexer(String analyzerLang) throws IOException {
 
 		CharArraySet CharArraySetSW;
 		IndexWriterConfig config;
-		FSDirectory dir = FSDirectory.open(Paths.get(indexDir));
+		FSDirectory dir ;
 		switch (analyzerLang) {
 		// Choix de l'Analyse du corpus
 		case "FR":
-			CharArraySetSW = new CharArraySet(getStopWord("./resources/StopWord/stop-words-french.txt"), true);
+			indexLocation = INDEX_DIR_FR;
+			dir = FSDirectory.open(Paths.get(INDEX_DIR_FR));
+			CharArraySetSW = new CharArraySet(getStopWord(STOP_WORD_FR_FILE), true);
 			FrenchAnalyzer analyzerFR = new FrenchAnalyzer(CharArraySetSW);
 			config = new IndexWriterConfig(analyzerFR);
 			break;
 		case "EN":
-			CharArraySetSW = new CharArraySet(getStopWord("./resources/StopWord/stop-words-english1.txt"), true);
+			indexLocation = INDEX_DIR_EN;
+			dir = FSDirectory.open(Paths.get(INDEX_DIR_EN));
+			CharArraySetSW = new CharArraySet(getStopWord(STOP_WORD_EN_FILE), true);
 			// EnglishAnalyzer analyzerEN = new
 			// EnglishAnalyzer(EnglishAnalyzer.getDefaultStopSet());
 			// EnglishAnalyzer analyzerEN = new EnglishAnalyzer(CharArraySetSW);
@@ -52,24 +56,30 @@ public class Indexer extends Parametre{
 			config = new IndexWriterConfig(analyzerEN);
 			break;
 		default:
+			indexLocation = INDEX_DIR;
+			dir = FSDirectory.open(Paths.get(INDEX_DIR));
 			StandardAnalyzer analyzerStd = new StandardAnalyzer();
 			config = new IndexWriterConfig(analyzerStd);
 			break;
 		}
-
+		FileUtil.deleteFiles(indexLocation);
 		writer = new IndexWriter(dir, config);
 
 	}
 
-	public static void CreateIndex(String indexLocation, String corpusLocation, String analyzerLang) {
+	public static void CreateIndex(String corpusLocation, String analyzerLang) {
 		Indexer indexer = null;
-		FileUtil.deleteFiles(indexLocation);
+		
+
 		try {
-			indexer = new Indexer(indexLocation, analyzerLang);
+			indexer = new Indexer(analyzerLang);
+			
 		} catch (IOException e1) {
 			e1.printStackTrace();
 		}
 		try {
+			
+			System.out.println("Init index.....");
 			indexer.indexFileOrDirectory(corpusLocation);
 		} catch (Exception e) {
 			System.out.println("Error indexing " + corpusLocation + " : " + e.getMessage());
@@ -82,17 +92,17 @@ public class Indexer extends Parametre{
 	}
 
 	public static void main(String[] args) throws IOException {
-		System.out.println("Chemain de l'index");
+		//System.out.println("Chemain de l'index");
 		// String indexLocation = null;
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		String s1 = br.readLine();
+		//BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		//String s1 = br.readLine();
 		//System.out.println(
 		//		"Enter the full path to add into the index (q=quit): (e.g. /home/ron/mydir or c:\\Users\\ron\\mydir)");
 		//System.out.println("[Acceptable file types: .xml, .html, .html, .txt]");
-		String s2 = null;
-		s2 = br.readLine();
+		//String s2 = null;
+		//s2 = br.readLine();
 
-		CreateIndex(INDEX_DIR, CORPUS_DIR, "EN");
+		CreateIndex(CORPUS_DIR, "EN");
 
 	}
 
@@ -154,8 +164,9 @@ public class Indexer extends Parametre{
 					ft.setStoreTermVectorPositions(true);
 					ft.setTokenized(true);
 					ft.setStored(true);
-					ft.setIndexOptions(IndexOptions.DOCS_AND_FREQS_AND_POSITIONS_AND_OFFSETS);
-					ft.setStoreTermVectors(true);
+					
+				
+					
 					Field fldContents = new Field("contents", contents, ft);
 					doc.add(fldContents);
 					Field fldPath = new Field("path", f.getPath(), ft);

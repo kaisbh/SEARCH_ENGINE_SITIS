@@ -23,7 +23,7 @@ import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopScoreDocCollector;
 import org.apache.lucene.store.FSDirectory;
 
-public class Searcher {
+public class Searcher extends Parametre{
 	//private static EnglishAnalyzer analyzer = new EnglishAnalyzer(EnglishAnalyzer.getDefaultStopSet());
 	//static IndexReader reader;
 	//static IndexSearcher searcher = null;
@@ -32,18 +32,20 @@ public class Searcher {
 	public static Query query ;
 	static String indexLocation = null;
 	//public static indexLocation;
-	Searcher(String indexDir, String analyzerLang, String q) throws ParseException  {
+	Searcher(String analyzerLang, String q) throws ParseException  {
 		CharArraySet CharArraySetSW;
 		
 		switch (analyzerLang) {
 		//Choix de l'Analyse de la reqête
 		case "FR":
-			CharArraySetSW = new CharArraySet(getStopWord("./resources/StopWord/stop-words-french.txt"),true);
+			indexLocation = INDEX_DIR_FR;
+			CharArraySetSW = new CharArraySet(getStopWord(STOP_WORD_FR_FILE),true);
 			FrenchAnalyzer analyzerFR = new FrenchAnalyzer(CharArraySetSW);
 			query = new QueryParser("contents", analyzerFR).parse(q);
 			break;
 		case "EN":
-			CharArraySetSW = new CharArraySet(getStopWord("./resources/StopWord/stop-words-english1.txt"),true);
+			indexLocation = INDEX_DIR_EN;
+			CharArraySetSW = new CharArraySet(getStopWord(STOP_WORD_EN_FILE),true);
 		    EnglishAnalyzer analyzerEN = new EnglishAnalyzer(CharArraySetSW);
 		    //EnglishAnalyzer analyzerEN = new EnglishAnalyzer(EnglishAnalyzer.getDefaultStopSet());
 		    query = new QueryParser("contents", analyzerEN).parse(q);
@@ -56,9 +58,9 @@ public class Searcher {
 
 	}
 	// static TopScoreDocCollector collector = TopScoreDocCollector.create(5, true);
-	public static ArrayList<String> Search(String indexLocation, String s, int topDoc, String analyzerLang)
+	public static ArrayList<String> Search(String s, int topDoc, String analyzerLang)
 			throws IOException, ParseException {
-		new Searcher(indexLocation,analyzerLang,s);
+		new Searcher(analyzerLang,s);
 		ArrayList<String> result = new ArrayList<String>();
 		IndexReader reader;
 		IndexSearcher searcher = null;
@@ -104,7 +106,7 @@ public class Searcher {
 				}
 				//Fonction Search
 				
-				resultat = Search(indexLocation, q, 7, "EN");
+				resultat = Search( q, 10, "EN");
 				Iterator<String> iterator = resultat.iterator();
 				while (iterator.hasNext()) {
 					System.out.println(iterator.next());

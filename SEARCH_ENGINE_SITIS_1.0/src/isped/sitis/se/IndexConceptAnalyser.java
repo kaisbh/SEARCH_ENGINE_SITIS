@@ -1,19 +1,26 @@
 package isped.sitis.se;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Iterator;
 import org.apache.lucene.analysis.CharArraySet;
 import org.apache.lucene.analysis.en.EnglishAnalyzer;
+import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.IndexReaderContext;
+import org.apache.lucene.index.IndexWriterConfig;
+import org.apache.lucene.index.MultiFields;
+import org.apache.lucene.index.PostingsEnum;
 import org.apache.lucene.index.Term;
 import org.apache.lucene.index.TermContext;
 import org.apache.lucene.index.Terms;
@@ -25,15 +32,14 @@ import org.apache.lucene.util.BytesRef;
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.text.PDFTextStripper;
 import org.apache.lucene.search.similarities.*;
+import org.apache.lucene.search.spans.SpanWeight.Postings;
+import org.apache.lucene.codecs.lucene50.*;
 
-public class IndexConceptAnalyser extends Parametre{
-	
-	static CharArraySet CharArraySetSW = new CharArraySet(getStopWord("./resources/StopWord/stop-words-english1.txt"),
-			true);
-	static EnglishAnalyzer analyzerEN = new EnglishAnalyzer(CharArraySetSW);
+public class IndexConceptAnalyser extends Parametre {
 
-	//public static String indexLocation = "D:\\Projet_Gayo\\Index";
-	//public static String vocabLocation = "./resources/vocab.txt";
+
+	// public static String indexLocation = "D:\\Projet_Gayo\\Index";
+	// public static String vocabLocation = "./resources/vocab.txt";
 	static IndexReader reader;
 	static IndexSearcher searcher;
 	static Terms contentsTermVector;
@@ -45,9 +51,10 @@ public class IndexConceptAnalyser extends Parametre{
 	static ArrayList<Concept> concepts = new ArrayList<Concept>();
 	static ArrayList<DocScored> vocabDocList = new ArrayList<DocScored>();
 	static Concept docConcept;
-	
+
 	public IndexConceptAnalyser(String indexLocation) {
 		try {
+			Indexer.CreateIndex(CORPUS_DIR, "");
 			reader = DirectoryReader.open(FSDirectory.open(Paths.get(indexLocation)));
 			searcher = new IndexSearcher(reader);
 			context = searcher.getTopReaderContext();
@@ -59,42 +66,55 @@ public class IndexConceptAnalyser extends Parametre{
 
 	public static void main(String[] args) throws Exception {
 		IndexConceptAnalyser analyser = new IndexConceptAnalyser(INDEX_DIR);
+		analyser.afficheVocabList(vocabTermList);
 		analyser.makeDocList();
-		analyser.afficheDocList(vocabDocList);
-		//analyser.afficheVocabList(vocabTermList);
-		//System.out.println(getMaxDocConceptScores(1));
-		//getDocConceptScores(1);
-		//afficheConcept();
 		
-
 	}
-
 	
-	public  void makeDocList() throws Exception {
+	public static void writeIndexConcept(ArrayList<DocScored> vocabDocList) {
+		try{
+			BufferedWriter bw = new BufferedWriter(new FileWriter(CONCEPT_INDEX_FILE));
+	        PrintWriter pWriter = new PrintWriter(bw);
+			Iterator<DocScored> itr = vocabDocList.iterator();
+			while (itr.hasNext()) {
+				DocScored doc = itr.next();
+				  pWriter.println(doc.numOrder+","+doc.docPath+","+doc.docId+","+doc.docConcept+","+doc.scoreDocConcept);
+			
+			}
+	        pWriter.close() ;
+			} catch (Exception e) {}
+	}
+	
+	public void makeDocList() throws Exception {
 		concepts = getConcepts(VOCAB_FILE);
 		for (int i = 0; i < reader.getDocCount("contents"); i++) {
-			makeDocVocab(VOCAB_FILE,i);
+			makeDocVocab(VOCAB_FILE, i);
 			Document doc = reader.document(i);
 			String docPath = doc.get("path");
 			int docId = i;
 			makeDocConceptScores(i);
-			System.out.println("#################################################################################################################################################");
+			System.out.println(
+					"#################################################################################################################################################");
 			System.out.println(doc.get("path"));
 			System.out.println("***********************************");
 			System.out.println("Vocabulaire:");
 			afficheVocabList(vocabTermList);
 			System.out.println("***********************************");
 			System.out.println("Concepts:");
-			afficheConcept(concepts) ;
-			System.out.println("#################################################################################################################################################");
+			afficheConcept(concepts);
+			System.out.println(
+					"#################################################################################################################################################");
 			float scoreDocConcept = getMaxDocConceptScores();
 			String docConcept = IndexConceptAnalyser.docConcept.conceptName;
-			DocScored vd = new DocScored( i+1,docPath, docId, docConcept, scoreDocConcept);
+			DocScored vd = new DocScored(i + 1, docPath, docId, docConcept, scoreDocConcept);
 			vocabDocList.add(vd);
 		}
-		
+		writeIndexConcept(vocabDocList);
+
 	}
-	public  void addVocab(String vocabTerm, int idDoc, String concept, ArrayList<VocabTerm> vocabTermList) throws Exception {
+
+	public static void addVocab(String vocabTerm, int idDoc, String concept, ArrayList<VocabTerm> vocabTermList)
+			throws Exception {
 		Document doc = reader.document(idDoc);
 		Terms terms = getContentsTermVector(idDoc, IndexConceptAnalyser.reader);
 		TermsEnum termsEnum = terms.iterator();
@@ -109,11 +129,12 @@ public class IndexConceptAnalyser extends Parametre{
 				states[i] = TermContext.build(context, term);
 				termStats[i] = searcher.termStatistics(term, states[i]);
 				String termText = iter.utf8ToString();
-				int termFrq = tf(iter.utf8ToString(), doc.get("path"));
+				//int termFrq = tf(iter.utf8ToString(), doc.get("path"));
+				int termFrq = tfnew(iter.utf8ToString(), idDoc, "contents");
 				int totalTermFrq = (int) termStats[i].totalTermFreq();
 				int docFrq = (int) termStats[i].docFreq();
 				float tfIdf = tfIdf(termFrq, docFrq);
-				VocabTerm vt = new VocabTerm(termText, termFrq, totalTermFrq, docFrq, tfIdf, concept,idDoc);
+				VocabTerm vt = new VocabTerm(termText, termFrq, totalTermFrq, docFrq, tfIdf, concept, idDoc);
 				vocabTermList.add(vt);
 			}
 			i++;
@@ -121,16 +142,18 @@ public class IndexConceptAnalyser extends Parametre{
 		}
 
 	}
-	public  void initVocab() {
-		//int i =0;
-		//Iterator<VocabTerm> itr1 = vocabTermList.iterator();
-		//while (itr1.hasNext()) {
-		//	VocabTerm term = itr1.next();
-			vocabTermList.removeAll(vocabTermList);
-		//	i++;
-		//}
+
+	public static void initVocab() {
+		// int i =0;
+		// Iterator<VocabTerm> itr1 = vocabTermList.iterator();
+		// while (itr1.hasNext()) {
+		// VocabTerm term = itr1.next();
+		vocabTermList.removeAll(vocabTermList);
+		// i++;
+		// }
 	}
-	public  void makeDocVocab(String vocabLocation, int docId) throws Exception {
+
+	public void makeDocVocab(String vocabLocation, int docId) throws Exception {
 		initVocab();
 		Iterator<Concept> itr2 = concepts.iterator();
 		while (itr2.hasNext()) {
@@ -138,13 +161,14 @@ public class IndexConceptAnalyser extends Parametre{
 			// addVocab(concept.conceptName, docId,concept.conceptName);
 			String[] VocabTerms = extractVocabTerms(vocabLocation, concept.conceptName);
 			for (int j = 0; j < VocabTerms.length; j++) {
-				addVocab(VocabTerms[j], docId, concept.conceptName, vocabTermList);
+				addVocab(VocabTerms[j].trim(), docId, concept.conceptName, vocabTermList);
 			}
 
 		}
-		
+
 	}
-	public  ArrayList<Concept> getConcepts(String vocabLocation) {
+
+	public static ArrayList<Concept> getConcepts(String vocabLocation) {
 		ArrayList<Concept> concepts2 = new ArrayList<Concept>();
 		BufferedReader br;
 		String line;
@@ -159,7 +183,7 @@ public class IndexConceptAnalyser extends Parametre{
 					// System.out.println(splittedLigne[0]);
 					Concept concept = new Concept(splittedLigne[0].toLowerCase(), 0);
 					concepts2.add(concept);
-		
+
 				}
 			}
 		} catch (FileNotFoundException e) {
@@ -171,21 +195,22 @@ public class IndexConceptAnalyser extends Parametre{
 		}
 		return concepts2;
 	}
-	public  float getMaxDocConceptScores() throws Exception {
-		//getDocConceptScores(docId);
+
+	public float getMaxDocConceptScores() throws Exception {
+		// getDocConceptScores(docId);
 		Iterator<Concept> itr = concepts.iterator();
 		float MaxConceptScore = 0;
 		while (itr.hasNext()) {
 			Concept concept = itr.next();
 			if (concept.totalScore > MaxConceptScore) {
 				MaxConceptScore = concept.totalScore;
-				docConcept  = concept;
+				docConcept = concept;
 			}
 		}
 		return MaxConceptScore;
 	}
 
-	public  void makeDocConceptScores(int docId) throws Exception {
+	public void makeDocConceptScores(int docId) throws Exception {
 		Iterator<Concept> itr1 = concepts.iterator();
 		while (itr1.hasNext()) {
 			Concept concept = itr1.next();
@@ -196,13 +221,14 @@ public class IndexConceptAnalyser extends Parametre{
 				VocabTerm Term = itr2.next();
 				if (Term.concept == concept.conceptName) {
 					concept.totalScore = concept.totalScore + Term.tfIdf;
-					
+
 				}
 			}
 
 		}
 	}
-	public  float tfIdf(int tf, int df) throws IOException {
+
+	public static float tfIdf(int tf, int df) throws IOException {
 		ClassicSimilarity sim = new ClassicSimilarity();
 		int N = reader.getDocCount("contents");
 		float TF = sim.tf(tf);
@@ -210,8 +236,8 @@ public class IndexConceptAnalyser extends Parametre{
 		float tfIdf = TF * IDF;
 		return tfIdf;
 	}
-	
-	public  String[] extractVocabTerms(String pathVocab, String concept) {
+
+	public static String[] extractVocabTerms(String pathVocab, String concept) {
 		BufferedReader br;
 		String line;
 		String[] splittedLigne = null;
@@ -236,7 +262,7 @@ public class IndexConceptAnalyser extends Parametre{
 		return splittedVocabTerms;
 	}
 
-	public  Integer tf(String term, String FilePath) {
+	public Integer tf(String term, String FilePath) {
 		BufferedReader br;
 		Integer tf = null;
 		String line;
@@ -270,30 +296,55 @@ public class IndexConceptAnalyser extends Parametre{
 		return tf;
 	}
 
-	public  void afficheConcept( ArrayList<Concept> concepts) {
+	public static Integer tfnew(String term, int docID, String Field) throws IOException {
+		Integer tf = null;
+		TermsEnum termEnum = MultiFields.getTerms(reader, Field).iterator();
+		while (termEnum.next() != null) {
+			if (termEnum.term().utf8ToString().equals(term)) {
+				PostingsEnum docEnum = MultiFields.getTermDocsEnum(reader, "contents", termEnum.term());
+				int doc = docEnum.NO_MORE_DOCS;
+				int count = 0;
+				while (docEnum.nextDoc() != doc) {
+					if (docEnum.docID() == docID) {
+						tf = docEnum.freq();
+						System.out.println(docEnum.docID() + " :" + reader.document(docEnum.docID()).get("path") + ": "
+								+ termEnum.term().utf8ToString() + ": " + docEnum.freq());
+					}
+				}
+			}
+		}
+
+		return tf;
+	}
+
+	public static void afficheConcept(ArrayList<Concept> concepts) {
 		Iterator<Concept> itr = concepts.iterator();
 		while (itr.hasNext()) {
 			Concept concept = itr.next();
 			System.out.println("Concept :" + concept.conceptName + "  Score:" + concept.totalScore);
 		}
 	}
-	public  void afficheDocList( ArrayList<DocScored> vocabDocList) {
+
+	public static void afficheDocList(ArrayList<DocScored> vocabDocList) {
 		Iterator<DocScored> itr = vocabDocList.iterator();
 		while (itr.hasNext()) {
 			DocScored doc = itr.next();
-			System.out.println("Oder:"+doc.numOrder+"; Path :" + doc.docPath + "; Concept :" + doc.docConcept +"; Score Concept:" + doc.scoreDocConcept);
+			System.out.println("Oder:" + doc.numOrder + "; Path :" + doc.docPath + "; Concept :" + doc.docConcept
+					+ "; Score Concept:" + doc.scoreDocConcept+ "; docId:"+doc.docId);
 		}
 	}
-	public  void afficheVocabList( ArrayList<VocabTerm> vocabTermList) throws Exception {
+
+	public static void afficheVocabList(ArrayList<VocabTerm> vocabTermList) throws Exception {
 		Iterator<VocabTerm> itr = vocabTermList.iterator();
 		while (itr.hasNext()) {
 			VocabTerm vt = (VocabTerm) itr.next();
 			System.out.println(vt.termText + "; tf:" + vt.termFrq + "; totalTf:" + vt.totalTermFrq + "; df:" + vt.docFrq
-					+ "; tfIdf score:" + vt.tfIdf + "; Concept:" + vt.concept+"; docID:"+ vt.idDoc );
+					+ "; tfIdf score:" + vt.tfIdf + "; Concept:" + vt.concept + "; docID:" + vt.idDoc);
 
 		}
 
 	}
+	
 	/*
 	 * public static boolean vocabExist(String vocabTerm, int idDoc) throws
 	 * Exception { Document doc = reader.document(idDoc); Terms terms =
@@ -312,22 +363,21 @@ public class IndexConceptAnalyser extends Parametre{
 	 * vocabList.add(vt); vocabExist = true; break; } i++; iter = termsEnum.next();
 	 * } return vocabExist; }
 	 */
-	
-	public  Terms getContentsTermVector(Integer docId, IndexReader reader) throws IOException {
+
+	public static Terms getContentsTermVector(Integer docId, IndexReader reader) throws IOException {
 		contentsTermVector = reader.getTermVector(docId, "contents");
 		return contentsTermVector;
 	}
 
-	public  Terms getPathTermVector(Integer docId, IndexReader reader) throws IOException {
+	public Terms getPathTermVector(Integer docId, IndexReader reader) throws IOException {
 		contentsTermVector = reader.getTermVector(docId, "contents");
 		return contentsTermVector;
 	}
 
-	public  Terms getFilenameTermVector(Integer docId, IndexReader reader) throws IOException {
+	public Terms getFilenameTermVector(Integer docId, IndexReader reader) throws IOException {
 		contentsTermVector = reader.getTermVector(docId, "contents");
 		return contentsTermVector;
 	}
-
 
 	public static ArrayList<String> getStopWord(String FileName) {
 		ArrayList<String> stop_words = new ArrayList<String>();
@@ -335,7 +385,7 @@ public class IndexConceptAnalyser extends Parametre{
 			BufferedReader is = new BufferedReader(new FileReader(FileName));
 			String inputLine;
 			while ((inputLine = is.readLine()) != null) {
-				 stop_words.add(inputLine);
+				stop_words.add(inputLine);
 				// System.out.println(inputLine);
 			}
 		} catch (IOException io) {
