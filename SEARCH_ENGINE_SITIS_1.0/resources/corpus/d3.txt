@@ -1,0 +1,35 @@
+
+1. J Neuropathol Exp Neurol. 2013 Oct 14. [Epub ahead of print]
+
+A Rapid Gene Delivery-Based Mouse Model for Early-Stage Alzheimer Disease-Type
+Tauopathy.
+
+Siman R, Lin YG, Malthankar-Phatak G, Dong Y.
+
+From the Department of Neurosurgery and Center for Brain Injury and Repair,
+University of Pennsylvania School of Medicine, Philadelphia, Pennsylvania.
+
+The perforant pathway projection from the entorhinal cortex (EC) to the
+hippocampal dentate gyrus is critically important for long-term memory and
+develops tau and amyloid pathologies and progressive degeneration starting in the
+early stages of Alzheimer disease (AD). However, perforant pathway function has
+not been assessed in experimental models of AD, and a therapeutic agent that
+protects its structure and function has not yet been identified. Therefore, we
+developed a new adeno-associated virus-based mouse model for perforant pathway
+tauopathy. Microinjection into the lateral EC of vectors designed to express
+either human tau bearing a pathogenic P301L mutation or enhanced green
+fluorescent protein as a control selectively drove transgene expression in
+lateral EC layer II perikarya and along the entire rostrocaudal extent of the
+lateral perforant pathway afferents and dentate terminal field. After human tau
+expression, hyperphosphorylated tau accumulated only within EC layer II
+perikarya, thereby modeling Braak stage I of transentorhinal AD tauopathy.
+Expression of pathologic human tau but not enhanced green fluorescent protein led
+to specific dose-dependent apoptotic death of perforant pathway neurons and loss 
+of synapses in as little as 2 weeks. This novel adeno-associated virus-based
+method elicits rapid tauopathy and tau-mediated neurodegeneration localized to
+the mouse perforant pathway and represents a new experimental approach for
+studying tau-driven pathogenic processes and tau-based treatment strategies in a 
+highly vulnerable neural circuit.
+
+PMID: 24128676  [PubMed - as supplied by publisher]
+

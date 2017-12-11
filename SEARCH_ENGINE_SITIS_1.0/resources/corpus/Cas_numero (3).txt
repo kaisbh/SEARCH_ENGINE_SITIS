@@ -1,0 +1,73 @@
+Au cœur de l’infectiologie
+L’ENDOCARDITE BACTÉRIENNE
+
+Marc-André Smith  |  2016-04-26
+
+Le Dr Marc-André Smith, spécialiste en microbiologie médicale et en maladies infectieuses, exerce à l’Hôpital du Sacré-Cœur de Montréal.
+
+En pleine saison grippale, vous évaluez M. Cardin, 64 ans, hémiplégique et aphasique depuis son réveil et fiévreux à 38,7 8C. Votre examen cardiaque et tégumentaire est rassurant tandis que sa tomodensitométrie cérébrale est normale. Pouvez-vous exclure l’endocardite associée à une embolie cérébrale à ce stade ? Ne serait-ce pas plutôt un AVC en présence d’une simple grippe ? Votre infirmière vous informe qu’en plus, il est difficile à « piquer ». Elle veut savoir si vous tenez vraiment à avoir plusieurs hémocultures.
+
+Dans quels contextes cliniques soupçonner une endocardite bactérienne ?
+ÉPIDÉMIOLOGIE ET PHYSIOPATHOLOGIE
+L’endocardite infectieuse est une infection de l’endocarde qui présente comme lésion caractéristique des végétations, composées de fibrine, de plaquettes et de micro-organismes (109–1011 bactéries/g1, une concentration semblable à celle du côlon). La majorité des endocardites sont d’origine bactérienne, plus de 80 % étant causées par des coccis à Gram positif (tableau I2-4). Cette maladie potentiellement mortelle est heureusement plutôt rare (5 cas par année pour 100 000 personnes)5.
+
+Il existe une prédisposition chez la plupart des enfants atteints et chez environ la moitié des adultes6 (tableau II2,5,6). Dans plus de 85 % des cas, l’endocardite touche les valvules (valves) du cœur gauche. Les endocardites du cœur droit, dont 90 % touchent la valvule tricuspide2, sont peu fréquentes. Elles surviennent surtout chez les utilisateurs de drogues par injection et les porteurs de matériel intracardiaque.
+
+COMMENT SE PRÉSENTE-T-ELLE ?
+Les tableaux III et IV1-5 indiquent les manifestations clini­ques et paracliniques de l’endocardite selon leur mécanisme physiopathologique. On note que les phénomènes immunitaires sont peu courants (moins de 10 % des cas). Les cohortes récentes montrent que les trois quarts des patients se présentent à l’hôpital moins de 30 jours après le début de leurs symptômes5, ce qui explique la rareté de ces manifestations qui apparaissent habituellement après une plus longue évolution.
+
+Les phénomènes emboliques, quant à eux, sont présents chez environ le tiers des patients à l’admission et sont plus fréquents lors d’une atteinte du cœur droit (jusqu’à 75 % ont des embolies pulmonaires septiques)1. L’atteinte cérébrale constitue le tableau initial de 15 % à 20 % des malades tandis que l’examen des téguments révèle des anomalies chez de 10 % à 15 % des patients. Ces dernières, appelées stigmates, consistent en des pétéchies des muqueuses, des hémorragies sous-unguéales en flammèche et des lésions cuta­nées périphériques, souvent purpuriques (pétéchies et bulles hémorragiques), ayant une prédilection pour la paume des mains et la plante des pieds7. Leur classification en no­dules d’Osler, en lésions de Janeway ou en lésions non spécifiques n’est pas toujours facile7.
+
+Le clinicien au front doit être vigilant quant aux manifestations cliniques classiques. Toutefois, puisqu’elles sont rares, il doit souvent se fier à d’autres indices pour éveiller ses soupçons. Chacun des quatre éléments cliniques suivants est présent chez plus de la moitié des patients : une prédisposition à l’endocardite, une fièvre, un souffle cardiaque et une bactériémie à germe classique (tableau I2-4). Leur présence, particulièrement en association, doit mener à explorer la possibilité d’une endocardite.
+
+Tout hospitaliste doit également être attentif au fait qu’environ 20 % des cas sont d’origine nosocomiale2, dont la majorité sont causés par Staphylococcus aureus. On trouve de 10 % à 20 % d’endocardites chez les personnes souffrant d’une bactériémie à ce germe, même lorsqu’elle semble liée à un cathéter ou à un autre foyer8.
+
+Comment vérifier sa présomption diagnostique ?
+DIRE QUE J’AI DÉJÀ CONNU MES CRITÈRES PAR CŒUR
+Le diagnostic d’endocardite bactérienne peut être confirmé par l’analyse histopathologique d’une valvule atteinte, mais les critères non effractifs de Duke sont plus utilisés en pratique. En combinant jusqu’à six critères (au plus un par section des tableaux III et IV1-5), on peut diagnostiquer une endocardite. Ce diagnostic est définitif lorsque sont présents deux critères majeurs, un critère majeur et trois mineurs ou encore cinq critères mineurs. Le diagnostic est « possible » si sont réunis un critère majeur et un ou deux mineurs ou encore si le patient a trois critères mineurs3. Leur sensibilité est d’environ 80 % en cours de maladie, mais moindre au moment du tableau initial3. Le jugement clinique a donc sa place, et il n’est pas rare que des patients soient traités même s’ils ne répondent pas aux critères d’endocardite définitive. Rappelez-vous que les véritables pierres angulaires du diagnostic sont les hémocultures et l’échocardiographie, les deux épreuves sous-tendant les critères de Duke majeurs.
+
+SOYEZ FIERS DE VOTRE CULTURE
+Voici quelques conseils qui feront de vous un as de l’hémoculture9-11 :
+
+h la bactériémie est constante en cas d’endocardite : inutile d’attendre un pic de fièvre ;
+
+h maximisez la sensibilité de vos hémocultures ;
+
+• utilisez des bouteilles pour bactérie aérobie et anaérobie à chaque série (une série rassemble toutes les bouteilles, généralement deux, pour des prélèvements lors d’une même ponction veineuse),
+• prélevez de trois à quatre séries sur une période d’au moins soixante minutes. La sensibilité s’accroît de façon marquée avec le volume de sang prélevé, atteignant de 96 % à 98 % avec trois séries12 et n’augmentant que modestement avec le quatrième prélèvement,
+• faites les hémocultures avant le début des antibiotiques. S’il est trop tard, vérifiez si votre établissement dispose de bouteilles d’hémoculture avec agent liant les antibiotiques (ex. : BacT/ALERT FA FAN ou BD BACTEC Plus). Ces bouteilles pourraient améliorer légèrement la sensibilité, mais coûtent plus cher et augmentent la détection d’organismes contaminants. Leur accessibilité varie selon les pratiques locales.
+h reconnaissez la contamination et réduisez-la au minimum ;
+
+• comptez les séries positives plutôt que les bouteilles (une contamination lors du prélèvement peut se manifester dans les deux bouteilles),
+• ne faites pas le prélèvement par un cathéter, sauf si vous souhaitez éliminer un sepsis causé par ce cathéter. Dans ces cas, prélevez toujours une série en périphérie au même moment, laquelle doit également être positive pour poser le diagnostic de bactériémie liée au cathé­ter. Autrement, il faut penser à une colonisation du cathéter ou à une contamination,
+• lorsqu’on vous avise d’une première hémoculture positive pour un germe à Gram positif (possible contaminant), refaites deux séries d’hémoculture avant de modifier votre traitement. Celles-ci sont souvent utiles pour juger de la valeur des premiers résultats.
+Avec une telle approche, un agent causal sera identifié dans plus de 90 % des cas5. Les systèmes automatisés modernes détectent presque tous les agents pathogènes (même ceux du groupe HACEK) en cinq jours d’incubation. La plupart des agents sont même identifiés en moins de 36 heures9. Jusqu’à 10 % des patients ont toutefois un tableau d’endocardite à hémocultures négatives. Plusieurs ont des infections à bactéries usuelles, mais ont reçu des antibiotiques avant leur prélèvement. Plus rarement, des agents pathogènes difficiles à cultiver (comme les diverses espèces de Bartonella et de Brucella et Coxiella burnetii, l’agent de la fièvre Q) ou encore des causes non infectieuses sont responsables de leur endocardite1.
+
+LES YEUX DU CŒUR
+Lorsque le diagnostic d’endocardite est évoqué, l’échographie cardiaque doit être effectuée dans les plus brefs délais4,11. C’est particulièrement vrai en présence d’une insuffisance cardiaque clinique ou d’un bloc auriculoventriculaire de novo qui peuvent évoquer une insuffisance valvulaire grave ou un abcès paravalvulaire, deux complications nécessitant une évaluation urgente en chirurgie cardiaque.
+
+L’échographie transthoracique est souvent faite en premier. Elle mesure bien la tolérance hémodynamique aux dommages valvulaires et permet de déceler la majorité des patients qui auraient besoin d’une intervention imminente (, 24 heures)5. Sa sensibilité est d’environ 75 % pour détecter les végétations. L’échographie transœsophagienne, quant à elle, est plus sensible à cette fin (90 %)13. En revanche, elle est moins accessible et exige que le patient soit à jeun. Même avec un excellent échographiste, il y a jusqu’à 10 % de faux négatifs. Si un doute persiste, il est indiqué de répéter l’examen de cinq à sept jours plus tard4. Un troisième examen est rarement utile cependant13. Si l’échographie révèle des éléments non « classiques » (tableau IV1-5), il faut en discuter avec un spécialiste. L’approche clinique de première ligne est résumée dans la figure4,11,12.
+
+Quels éléments doivent faire partie du plan de soins initial ?
+L’ÉQUIPE D’ENDOCARDITE
+Les lignes directrices3,4,11 recommandent fortement d’orienter les patients vers une « équipe d’endocardite » (cardiologue, infectiologue, chirurgien cardiaque) sans tarder. Leur expérience est précieuse pour décider des interventions clés (antibiothérapie et intervention cardiaque) et du moment opportun de les faire. L’antibiothérapie diminue de façon draconienne le risque d’embolie en quelques jours. L’intervention chirurgicale peut réduire la mortalité (parfois de moitié), particulièrement en présence d’insuffisance cardiaque.
+
+L’orientation en spécialité devrait donc être faite sans délai lorsqu’il y a des facteurs de risque de mortalité, même sans les résultats d’hémoculture ou d’échocardiographie. Les éléments les plus importants sont l’existence d’une insuffisance cardiaque (associée au plus sombre pronostic4), la présomption de complications paravalvulaires2 (comme un bloc auriculoventriculaire de novo), la bactériémie à Staphylococcus aureus2 et les accidents vasculaires cérébraux4. En leur absence, utilisez votre jugement pour déterminer l’urgence de voir un consultant. L’endocardite bactérienne est une maladie rare et complexe. Sentez-vous donc à l’aise de passer un coup de fil.
+
+EN ATTENDANT...
+En attendant d’obtenir les résultats ou de voir un consultant, réévaluez périodiquement la présence de complications. Une anamnèse et un examen avec accent sur les téguments, les articulations et le système cardiopulmonaire pour déceler des foyers d’ensemencement, des embolies ou une insuffisance cardiaque sont de mise, de même qu’un ECG quotidien pour la recherche d’un bloc auriculoventriculaire.
+
+Si l’état clinique de la personne justifie la prescription d’antibiotiques, il est fortement recommandé d’en discuter avec un expert. Les plus récentes lignes directrices permettent de guider l’antibiothérapie contre des agents pathogènes spécifiques3,4. Cependant, en première ligne, il faut souvent commencer l’antibiothérapie avant l’identification des microbes et le résultat définitif de l’antibiogramme. Le traitement empirique vise généralement à couvrir les bactéries à Gram positif. Il est régulièrement constitué d’une bêtalactamine antistaphylococcique (ex. : cloxacilline), d’une bêtalactamine antientérococcique (ex. : ampicilline) et d’un aminoside en synergie (ex. : gentamicine). Le choix des molécules est parfois complexe, car il faut l’adapter en fonction des données épidémiologiques locales (ex. : proportion de SARM), des maladies concomitantes du patient (ex. : prothèse valvulaire, allergies, insuffisance rénale) et de l’instabilité du tableau (ex. : choc septique, autres foyers potentiels). Là encore, soyez à l’aise de passer un coup de fil.
+
+Retour sur le cas de M. Cardin
+Puisque l’embolie cérébrale constitue le tableau initial de 15 % à 20 % des endocardites et que votre examen physique rassurant ne peut l’exclure, vous explorez cette hypothèse chez M. Cardin. Vous insistez donc pour obtenir deux séries d’hémocultures immédiatement et une dans 60 minutes. Devant d’autres possibilités diagnostiques (méningite, encéphalite) et la présence d’un facteur de mauvais pronostic (AVC), vous faites une ponction lombaire, commencez une antibiothérapie empirique avant la troisième hémoculture en raison de l’urgence de la situation et dirigez votre patient sans attendre vers l’équipe d’endocardite pour avoir rapidement une échographie cardiaque et pour optimiser l’antibiothérapie.
+
+Conclusion
+L’endocardite bactérienne est une infection rare, mais potentiellement mortelle. Les signes classiques emboliques et immunologiques sont peu fréquents. Il faut donc maintenir un degré de présomption élevé devant un tableau fébrile inexpliqué, surtout en présence d’une prédisposition à l’endocardite ou d’un souffle cardiaque. Les hémocultures et l’échocardiographie sont les deux pierres angulaires du diagnostic. Une équipe d’experts doit être sollicitée sans tarder pour la prise en charge des cas confirmés ou soupçonnés, surtout s’il y a des facteurs de mauvais pronostic. //
+
+Ce que vous devez retenir
+h Les signes immunologiques et emboliques classi­ques sont présents dans une minorité de cas. Il faut donc maintenir un degré de présomption élevé devant des indices plus fréquents (fièvre, prédisposition, souffle cardiaque, bactériémie à germe classique, surtout Staphylococcus aureus).
+
+h Rappelez-vous que les véritables pierres angulaires du diagnostic sont les hémocultures et l’échographie cardiaque. Prélevez trois ou quatre séries d’hémocultures espacées dans le temps (idéalement $ 60 minutes) avant de commencer une antibiothérapie.
+
+h Une antibiothérapie efficace et une intervention chirurgicale précoce, lorsqu’elle est indiquée, sont les deux éléments qui influent le plus sur la survie. Il faut faire appel à des experts rapidement, surtout en présence de facteurs de mauvais pronostic (embolies, insuffisance cardiaque, bloc auriculoventriculaire nouveau, bactériémie à Staphylococcus aureus).

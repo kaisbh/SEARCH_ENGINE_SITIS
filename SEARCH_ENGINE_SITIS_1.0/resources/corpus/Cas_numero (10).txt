@@ -1,0 +1,105 @@
+Approche à l’égard des nouveaux anticoagulants oraux en pratique familiale
+2e partie : Répondre aux questions souvent posées
+
+James Douketis, Alan David Bell, John Eikelboom and Aaron Liew
+Canadian Family Physician November 2014, 60 (11) e512-e517;
+
+Description de cas
+
+Un homme obèse de 73 ans atteint de fibrillation auriculaire (FA) chronique, de diabète de type 2 et d’hypertension doit subir une coloscopie afin d’exciser des polypes. Sa médication est la suivante : ramipril à 10 mg 1 f.p.j., metformine à 1000 mg 3 f.p.j. et le dabigatran à 150 mg 2 f.p.j., un nouvel anticoagulant oral (NACO). On vous demande de gérer son anticoagulothérapie durant la période qui précède et qui suit l’intervention.
+Depuis 2010, 3 NACO, soit le dabigatran1, le rivaroxaban2 et l’apixaban3, ont été commercialisés au Canada pour la prévention des AVC chez les patients atteints de FA et pour la prévention et le traitement de la thromboembolie veineuse. Bien que des essais randomisés bien conçus aient évalué les NACO de manière exhaustive, on a porté relativement peu d’attention à la prise en charge de patients prenant des NACO dans la pratique quotidienne et, en particulier, à la façon de composer avec les problèmes qui font surface en médecine générale. Il est important de répondre à ces questions devant l’adoption accrue des NACO en pratique clinique au Canada4. La 1re partie de cette révision en 2 volets (page e504) a comparé les NACO sur le plan de leurs propriétés pharmacologiques et de leur usage en fonction des indications cliniques et des caractéristiques individuelles des patients5. Cet article traite des questions les plus souvent posées en ce qui a trait à l’emploi des NACO en pratique générale et à y répondre de manière concise et fondée sur les données probantes.
+
+Qualité des données
+
+Aux fins de cette révision narrative (non systématique), nous avons effectué une recherche dans la base de données PubMed reculant de 5 ans (soit de janvier 2008 à la semaine 32 de 2013) afin de relever des études cliniques portant sur l’emploi des NACO pour la prévention des AVC dans les cas de FA et le traitement de la thromboembolie veineuse aiguë. Nous avons utilisé cette base de données probantes pour répondre à nos questions prédéfinies ayant trait à l’emploi des NACO en pratique générale.
+
+Message principal
+
+Problèmes liés à l’administration de NACO en concomitance avec des aliments et des médicaments
+
+Cela fait-il une différence si les NACO sont pris avec les repas? Les capsules de dabigatran doivent être prises avec les repas afin de limiter le risque de dyspepsie6. Le rivaroxaban doit être pris avec les repas afin d’en favoriser l’absorption7. Les comprimés de rivaroxaban peuvent également être écrasés puis mélangés dans des aliments mous, comme de la compote de pommes. L’apixaban peut ou non être pris avec les repas, et les comprimés peuvent être écrasés, au besoin8. La dyspepsie survient chez environ 10 % des patients qui prennent du dabigatran, mais elle disparaît souvent spontanément1 et survient moins souvent avec le rivaroxaban ou l’apixaban9–11. Les antiacides, tels que la ranitidine ou les inhibiteurs de la pompe à protons pourraient soulager les symptômes gastro-intestinaux et aucune donnée n’indique qu’ils nuisent à l’efficacité des NACO12–14.
+
+Les patients traités aux NACO doivent-ils éviter certains aliments et certaines boissons? Il n’existe pas de restrictions connues en matière d’aliments et de boissons (p. ex. légumes verts et jus de pamplemousse avec la warfarine) pour les patients prenant des NACO15. Comme c’est le cas avec la warfarine, la consommation d’alcool doit être modérée, en raison du risque accru de saignement et de traumatisme associé à la consommation excessive d’alcool.
+
+Les patients traités aux NACO peuvent-ils prendre un anti-inflammatoire non stéroïdien (AINS) ou de l’acétaminophène? L’emploi prolongé d’AINS doit être évité chez les patients prenant des NACO, car cette association hausse le risque de saignement. Cependant, il serait possible d’associer un NACO et un AINS sans danger pendant plusieurs jours (p. ex. pour soulager la douleur articulaire aiguë)16. Pour la douleur articulaire, les céphalées et les symptômes pseudo-grippaux, l’acétaminophène est préférable aux AINS, car il n’a pas d’effets antiplaquettaires et ne cause pas d’ulcères gastro-duodénaux17.
+
+Les patients traités aux NACO peuvent-ils prendre de l’acide acétylsalicylique ou d’autres antiplaquettaires? Comme c’est le cas pour les patients prenant de la warfarine, l’emploi concomitant prolongé d’un NACO et d’acide acétylsalicylique ou d’un autre antiplaquettaire (clopidogrel, ticagrélor, prasugrel) doit être évité chez les patients atteints de FA puisque ce traitement d’association accroît le risque de saignement et n’améliore pas la prévention des AVC ou de la thromboembolie17,18. L’association peut être justifiée chez certains patients, y compris ceux ayant récemment subi un syndrome coronarien aigu, la pose d’une endoprothèse coronarienne ou un pontage aorto-coronarien19–21.
+
+Prise en charge des patients prenant des NACO devant subir une chirurgie ou une autre intervention invasive
+
+Que faire si un patient traité aux NACO doit recevoir des soins dentaires? Pour les patients qui doivent recevoir un nettoyage des dents, une extraction ou un traitement de canal, il est possible d’interrompre le traitement par NACO durant la période qui précède et qui suit l’intervention, pourvu que les patients reçoivent un bain de bouche avec un rince-bouche hémostatique (p. ex. acide tranexamique) avant et après l’intervention22,23. Cette approche est comparable à celle utilisée auprès des patients traités par la warfarine qui doivent subir une intervention dentaire mineure22. Si l’on s’attend à ce que le patient saigne beaucoup, celui-ci doit omettre sa dose de NACO de 1 ou 2 jours avant l’intervention et reprendre le traitement le soir de l’intervention22. Les patients qui doivent subir d’autres interventions mineures, telles que l’exérèse d’un cancer de la peau, une injection articulaire ou une chirurgie de la cataracte, peuvent habituellement poursuivre le traitement par un NACO (comme la warfarine) sans danger22.
+
+Qu’arrive-t-il si un patient prenant des NACO doit subir une chirurgie? La prise en charge de ces patients doit être individualisée en fonction du NACO utilisé, du type de chirurgie (risque élevé ou faible de saignement) et du type d’anesthésie administrée (générale, rachidienne ou régionale)22. Les Tableaux 1 et 2 présentent la prise en charge peropératoire suggérée des patients traités aux NACO qui doivent subir une chirurgie22,24. Avant la chirurgie, il convient d’estimer le taux de filtration glomérulaire et le risque de saignement présentés par le patient pour décider du moment où il faut interrompre le NACO25. Il faut être prudent lors de la reprise du NACO après une chirurgie, car la rapidité d’action de ces médicaments (1 à 3 heures après l’administration) peut augmenter le risque de saignement si le traitement est repris trop tôt, surtout après les chirurgies lourdes (comme le remplacement du genou ou de la hanche). En général, il faut attendre au moins 24 heures après la chirurgie ou l’intervention avant de reprendre le traitement par un NACO22.
+
+View inlineView popup
+Tableau 1. .
+Prise en charge préopératoire suggérée des patients traités aux NACO
+View inlineView popup
+Tableau 2.
+Prise en charge postopératoire suggérée des patients traités aux NACO
+Le protocole suggéré de prise en charge des patients traités par le dabigatran s’appuie sur une étude menée auprès des patients inscrits à l’étude RELY (Randomized Evaluation of Long-term Anticoagulation Therapy) chez qui l’anticoagulation devait être interrompue en raison d’une chirurgie ou d’une intervention. Les résultats peropératoires chez les patients traités au dabigatran ou à la warfarine étaient comparables lorsque le plan de prise en charge présenté aux Tableaux 1 et 222,24 était suivi26.
+
+Faut-il procéder de routine à un test de la coagulation avant une chirurgie chez un patient prenant un NACO? Il n’est pas nécessaire de procéder à un test préopératoire de la coagulation chez les patients traités aux NACO qui subissent une chirurgie non urgente pourvu que le calendrier d’interruption préopératoire ait été respecté. Cette approche devrait laisser un effet anticoagulant résiduel minime au moment de la chirurgie22.
+
+Si l’on doit être rassuré de l’absence d’un effet anticoagulant résiduel (p. ex. si l’on est incertain du moment de la dernière dose de NACO), il convient de procéder à un test de coagulation. Chez les patients traités au dabigatran, des résultats normaux ou qui s’approchent de la normale au temps de céphaline activée pointent vers l’absence d’un effet anticoagulant résiduel important27. Il faut mesurer le temps de Quick chez les patients prenant du rivaroxaban, et s’il n’est pas allongé, cela indique probablement qu’il n’y a pas d’effet anticoagulant résiduel, mais la validité de la mesure dépend de l’agent réactif28,29. Chez les patients traités par apixaban, les tests de coagulation disponibles ne mesurent pas de façon fiable l’effet anticoagulant30. L’épreuve des inhibiteurs directs de la thrombine (temps de thrombine en dilué)31 est une mesure plus précise de l’effet anticoagulant du dabigatran et dans le cas du rivaroxaban et de l’apixaban, on peut effectuer le test suivant : taux d’anti-facteur Xa à l’aide d’étalons spécifiques au rivaroxaban ou à l’apixaban30,32,33.
+
+Un patient qui doit interrompre son traitement par NACO en raison d’une chirurgie doit-il recevoir de l’héparine de transition? Les patients qui doivent temporairement interrompre leur traitement par NACO en raison d’une chirurgie n’ont pas besoin d’une anticoagulation de transition, car les NACO sont dotés d’une perte rapide de l’effet et d’une grande rapidité d’action22.
+
+Prise en charge des patients prenant des NACO qui saignent ou qui développent une thrombose
+
+Et si le patient a un saignement mineur? À l’instar des patients prenant de la warfarine, si les patients traités aux NACO ont un saignement mineur, comme un saignement sous-conjonctival, gingival, nasal ou hémorroïdal, il convient de poursuivre le traitement par NACO, car ces saignements s’arrêtent habituellement spontanément22,23. Il n’est habituellement pas nécessaire de procéder à des tests de laboratoire, car ces tests n’auront aucun effet sur la prise en charge.
+
+Et si le patient a un saignement majeur? Chez les patients qui présentent une hémorragie majeure (ou mettant la vie en danger), il faut se concentrer sur l’application de mesures localisées afin d’endiguer le saignement et dispenser des soins de soutien à l’aide de liquides et de concentré de globules rouges23,34. Les patients doivent subir des tests de coagulation (temps de Quick, temps de céphaline activée, temps de thrombine) afin d’évaluer l’excès de l’effet anticoagulant des NACO ou d’autres causes de coagulopathie acquise, et une formule sanguine afin de connaître la numération d’hémoglobine et de plaquettes23,34. On peut aussi envisager des tests spécifiques pour mesurer les concentrations sanguines de NACO (épreuve des inhibiteurs directs de la thrombine pour le dabigatran, taux d’anti-facteur Xa pour le rivaroxaban et l’apixaban) si ces tests sont disponibles. Une mesure de la créatinine sérique est utile pour estimer la demi-vie du NACO.
+
+La vitamine K ne renverse pas l’effet anticoagulant des NACO1–3 et le plasma frais congelé n’apporte aucun bienfait éprouvé15. Les concentrés de complexe prothrombique contenant les facteurs de coagulation II, VII, IX et X pourraient surpasser les effets inhibitoires des NACO et doivent être envisagés chez les patients qui présentent un saignement intracrânien ou un autre saignement grave, quoique leur efficacité pour prévenir la morbidité et la mortalité reste à prouver35–37. Chez la plupart des patients, les effets anticoagulants liés aux NACO se dissiperont rapidement en raison de la brève demi-vie des médicaments, sauf chez les patients qui présentent une insuffisance rénale grave, mais les NACO sont contre-indiqués chez ces patients23,34.
+
+Qu’arrive-t-il si un patient a un AVC ou un syndrome coronarien aigu? Chez les patients traités aux NACO ayant un AVC ou un syndrome coronarien aigu soup-çonné, la prise en charge devrait être la même que pour les autres patients atteints de ces affections. Il faut rapidement évaluer les patients dans un établissement de soins d’urgence, car les NACO pourraient ne pas éviter la thrombolyse dans les cas d’AVC ischémique aigu38–41 ni la thrombolyse ou l’intervention coronarienne percutanée dans le cas d’un syndrome coronarien aigu18. La question de la thrombolyse doit être envisagée en tenant compte du moment où le patient a reçu sa dernière dose de NACO et de la mesure attendue de l’effet anticoagulant résiduel42.
+
+Autres utilisations cliniques possibles des NACO
+
+Peut-on utiliser les NACO chez les patients atteints de FA et de maladie valvulaire cardiaque? En général, seules la FA et la sténose mitrale modérée à sévère sont considérées des FA valvulaires. La warfarine est recommandée chez les patients atteints de FA valvulaire, car les NACO n’ont pas fait l’objet d’études pour cette indication43. La plupart des patients atteints d’insuffisance mitrale ou de sténose aortique sont considérés avoir une FA non valvulaire et peuvent donc recevoir un NACO.
+
+Peut-on utiliser les NACO chez les patients porteurs d’une valvule cardiaque mécanique? Les NACO sont contre-indiqués chez les patients porteurs d’une valvule cardiaque mécanique44. Une étude ayant comparé le dabigatran (à 150, 220 ou 300 mg 2 fois par jour) à la warfarine chez les patients porteurs d’une valvule cardiaque mécanique a été stoppée prématurément en raison d’un risque accru de thromboembolie et de saignement chez les patients traités par dabigatran45. Aucune étude clinique ne s’est penchée sur le rivaroxaban ou l’apixaban chez les patients porteurs d’une valvule cardiaque mécanique.
+
+Peut-on utiliser les NACO chez les patients porteurs d’une bioprothèse cardiaque? Chez les patients déjà porteurs d’une bioprothèse cardiaque (non implantée récemment) atteints de FA, il convient d’utiliser les NACO, car l’indication clinique de l’anticoagulation est la FA et non la bioprothèse.
+
+Peut-on utiliser les NACO chez les patients atteints d’une thrombose veineuse profonde liée au cancer? Le traitement de premier recours de la thrombose veineuse profonde associée au cancer consiste en 3 à 6 mois d’héparine de faible poids moléculaire (plus longtemps chez les patients dont la maladie se poursuit), ce qui peut être problématique en raison du désagrément occasionné par les injections quotidiennes46. Bien que les NACO soient une solution de rechange séduisante à l’héparine de faible poids moléculaire pour la thrombose veineuse profonde associée au cancer, il faut éviter d’utiliser les NACO de routine chez ces patients, car leur efficacité n’est pas prouvée.
+
+Peut-on utiliser les NACO chez les patients atteints de thrombophlébite superficielle? Il ne faut pas utiliser les NACO chez les patients atteints de thrombophlébite superficielle. Quoiqu’il soit probable que les NACO soient efficaces et sûrs dans cette indication, aucune étude sur ces patients n’est terminée et on ignore toujours quels sont les schémas posologiques et les durées du traitement appropriés.
+
+Résolution du cas
+
+De retour à notre patient, il est clair qu’il faut interrompre le traitement par NACO, car si l’anticoagulation est poursuivie, il y a un risque de saignement considérable causé par l’excision de polypes multiples. Selon le protocole de prise en charge peropératoire suggéré chez les patients prenant du dabigatran, lequel repose sur le type d’intervention (risque faible ou élevé de saignement) et la fonction rénale, vous demandez au patient d’arrêter de prendre son dabigatran 4 jours avant sa coloscopie. L’endoscopiste excise 3 polypes et pose des agrafes endoscopiques sur les pédoncules qui restent afin d’éviter qu’ils saignent. Le traitement par le dabigatran est repris 48 heures après la coloscopie lorsque le saignement clinique manifeste est absent.
+Conclusion
+
+Pour de plus amples renseignements concernant l’emploi en pratique générale des NACO et d’autres médicaments antithrombotiques, rendez-vous sur le site web de Thrombose Canada (www.thrombosiscanada.ca; en anglais seulement) pour lire les guides cliniques24, lesquels fournissent des conseils concis et faciles à appliquer aux points de service lors de la prise en charge des patients traités aux NACO ou atteints de thrombose. Vous pouvez aussi télécharger gratuitement une application pour téléphones intelligents.
+
+Acknowledgments
+
+Cette recherche a vu le jour grâce à la collaboration de Thrombose Canada (www.thrombosiscanada.com), un organisme sans but lucratif voué à l’éducation et à la recherche dans le domaine de la thrombose et des maladies vasculaires.
+
+Notes
+
+POINTS DE REPÈRE DU RÉDACTEUR
+
+Comme on rencontre de plus en plus souvent les nouveaux anticoagulants oraux (NACO) en pratique générale, de nombreuses questions font surface sur la façon dont les patients traités aux NACO doivent être pris en charge au quotidien. Cette révision pose de nombreuses questions et fournit des réponses concises et fondées sur les données probantes.
+
+La présente révision porte sur les sujets suivants : les problèmes liés à la prise concomitante d’aliments et de médicaments, la prise en charge des patients devant subir une chirurgie ou une autre intervention invasive, la prise en charge des patients qui développent un saignement ou une thrombose et les autres utilisations cliniques possibles des NACO.
+
+Footnotes
+
+Cet article donne droit à des crédits Mainpro-M1. Pour obtenir des crédits, allez à www.cfp.ca et cliquez sur le lien vers Mainpro.
+
+Cet article a fait l’objet d’une révision par des pairs.
+
+The English version of this article is available at www.cfp.ca on the table of contents for the November 2014 issue on page 997.
+
+Collaborateurs
+
+Tous les auteurs ont contribué à la révision, à l’analyse et à l’interprétation de la littérature, et à la préparation du manuscrit aux fins de soumission.
+
+Intérêts concurrents
+
+Le Dr Douketis a agi à titre d’expert-conseil ou a participé à des réunions de conseils consultatifs (dans les 10 dernières années) pour Bayer, Boehringer Ingelheim, Biotie, AstraZeneca, Pfizer, Medicines Co, Bristol-Myers Squibb et Sanofi-Aventis. Le Dr Bell a reçu une subvention de recherche et des honoraires de consultation de la Société canadienne de cardiologie, de Thrombose Canada, de Boehringer Ingelheim, de Bayer, de Pfizer et Bristol-Myers Squibb. Le Dr Eikelboom a reçu des honoraires et des frais d’expert-conseil d’AstraZeneca, de Bayer, de Boehringer Ingelheim, de Bristol-Myers Squibb, de Daiichi-Sankyo, d’Eli Lilly, de GlaxoSmithKline, de Pfizer, de Janssen et de Sanofi-Aventis, et a reçu des subventions et de l’appui non financier d’AstraZeneca, de Bayer, de Boehringer Ingelheim, de Bristol-Myers Squibb, de GlaxoSmithKline, de Pfizer, de Janssen et de Sanofi-Aventis. Le Dr Liew a reçu un soutien en éducation et en recherche d’AstraZeneca, de Boehringer Ingelheim, de Bristol-Myers Squibb, de Merck Sharp & Dohme, de Novo Nordisk, de Novartis, de Sanofi-Aventis et de Medtronic.
+
+Copyright© the College of Family Physicians of Canada

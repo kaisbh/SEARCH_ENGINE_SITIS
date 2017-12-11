@@ -1,0 +1,48 @@
+1. Cancer. 2017 Oct 1;123(19):3763-3771. doi: 10.1002/cncr.30818. Epub 2017 Jun 22.
+
+Cost-effectiveness analysis of consolidation with brentuximab vedotin for
+high-risk Hodgkin lymphoma after autologous stem cell transplantation.
+
+Hui L(1), von Keudell G(2), Wang R(3)(4), Zeidan AM(2)(3), Gore SD(2)(3), Ma
+X(3)(4), Davidoff AJ(3), Huntington SF(2)(3).
+
+Author information: 
+(1)Yale School of Medicine, New Haven, Connecticut.
+(2)Department of Internal Medicine, Section of Hematology, Yale School of
+Medicine, New Haven, Connecticut.
+(3)Yale Cancer Outcomes, Public Policy, and Effectiveness Research Center, New
+Haven, Connecticut.
+(4)Department of Chronic Disease Epidemiology, Yale School of Public Health, New 
+Haven, Connecticut.
+
+BACKGROUND: In a recent randomized, placebo-controlled trial, consolidation
+treatment with brentuximab vedotin (BV) decreased the risk of Hodgkin lymphoma
+(HL) progression after autologous stem cell transplantation (ASCT). However, the 
+impact of BV consolidation on overall survival, quality of life, and health care 
+costs remain unclear.
+METHODS: A Markov decision-analytic model was constructed to measure the costs
+and clinical outcomes for BV consolidation therapy compared with active
+surveillance in a cohort of patients aged 33 years who were at risk for HL
+relapse after ASCT. Life-time costs, quality-adjusted life-years (QALYs), and
+incremental cost-effectiveness ratios (ICERs) were calculated for each post-ASCT 
+strategy.
+RESULTS: After quality-of-life adjustments and standard discounting, upfront BV
+consolidation was associated with an improvement of 1.07 QALYs compared with
+active surveillance plus BV as salvage. However, the strategy of BV consolidation
+led to significantly higher health care costs ($378,832 vs $219,761), resulting
+in an ICER for BV consolidation compared with active surveillance of
+$148,664/QALY. If indication-specific pricing was implemented, then the
+model-estimated BV price reductions of 18% to 38% for the consolidative setting
+would translate into ICERs of $100,000 and $50,000 per QALY, respectively. These 
+findings were consistent on 1-way and probabilistic sensitivity analyses.
+CONCLUSIONS: BV as consolidation therapy under current US pricing is unlikely to 
+be cost effective at a willingness-to-pay threshold of $100,000 per QALY.
+However, indication-specific price reductions for the consolidative setting could
+reduce ICERs to widely acceptable values. Cancer 2017. © 2017 American Cancer
+Society. Cancer 2017;123:3763-3771. © 2017 American Cancer Society.
+
+© 2017 American Cancer Society.
+
+DOI: 10.1002/cncr.30818 
+PMCID: PMC5610636 [Available on 2018-10-01]
+PMID: 28640385  [Indexed for MEDLINE]

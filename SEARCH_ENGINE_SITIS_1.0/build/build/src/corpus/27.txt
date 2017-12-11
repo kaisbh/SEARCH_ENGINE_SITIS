@@ -1,0 +1,152 @@
+Hairy cell leukemia 2018: Update on diagnosis, risk-stratification, and treatment
+Authors
+Xavier Troussard,
+Edouard Cornet
+First published: 7 November 2017Full publication history
+DOI: 10.1002/ajh.24936  View/save citation
+Cited by (CrossRef): 0 articles Check for updates Citation tools
+Article has an altmetric score of 6
+Abstract
+
+Disease overview
+
+Hairy cell leukemia (HCL) and HCL-like disorders, including HCL variant (HCL-V) and splenic diffuse red pulp lymphoma (SDRPL), are a very heterogeneous group of mature lymphoid B-cell disorders, characterized by the identification of hairy cells, a specific genetic profile, a different clinical course and the need for appropriate treatment.
+Diagnosis
+
+Diagnosis of HCL is based on morphological evidence of hairy cells, an HCL immunologic score of 3 or 4 based on the CD11C, CD103, CD123, and CD25 expression, the trephine biopsy which makes it possible to specify the degree of tumoral medullary infiltration and the presence of BRAF V600E somatic mutation.
+Risk stratification
+
+Progression of patients with HCL is based on a large splenomegaly, leukocytosis, a high number of hairy cells in the peripheral blood and the immunoglobulin heavy chain variable region gene mutational status. VH4-34 positive HCL cases are associated with poor prognosis
+Risk adapted therapy
+
+Purine analogs (PNA) are indicated in symptomatic first line HCL patients. The use of PNA followed by rituximab represents an alternative option.
+Management of progressive or refractory disease
+
+It is based on the use of BRAF inhibitors associated or not with MEK inhibitors, recombinant immunoconjugates targeting CD22 or BCR inhibitors.
+1 INTRODUCTION
+
+Hairy cell leukemia (HCL) is recognized as an entity by the World Health Organization (WHO 2008)[1] and the 2016 revision of the WHO classification of lymphoid neoplasms.[2] HCL, which is four to five times more frequent in men than women, accounts for 2% of all leukemias with approximately 1000 new cases being reported in the United States each year. HCL must be differentiated from other HCL-like disorders, including hairy cell leukemia variant (HCL-V)[3] and splenic diffuse red pulp lymphoma (SDRPL).[4] In this article, we review the significant advancements that have occurred over the last three years in the understanding of the pathobiology of HCL and HCL-like disorders and provide an update on the new treatment procedures now available, particularly for patients with relapsed/refractory HCL.
+2 HOW THE DIAGNOSIS OF HCL AND HCL-like DISORDERS HAS IMPROVED IN DAILY PRACTICE
+
+Complete blood counts (CBCs) and careful review of peripheral blood smears are the first steps in the identification of hairy cells (Figure 1A). The HCL immunophenotypic profile is characterized by the clonal expansion of B-cells with bright CD19, CD20, CD22, and CD200 expression. Hairy cells are usually negative or dim for CD5, CD23, CD10, CD79b, and CD27 but positive for CD11c, CD103, CD123, and CD25. An immunological score was proposed with one point given to each of the last four markers when they are expressed and no point when they are not expressed. A score of 3 or 4 is observed in 98% of HCL cases, whereas in other HCL-like disorders, the score is usually low: 0 or 1.[5] In the international consensus guidelines, trephine bone marrow biopsy and/or aspiration has been emphasized to appreciate the tumor infiltration degree and to help diagnose complex cases (immunostaining with CD20, CD76 and Annexin A1).[6] HCL must be distinguished from HCL-V and SDRPL. HCL-V, a provisional entity[7] representing 10% of HCL cases, accounts for 60–75 new cases per year in the USA. The circulating abnormal lymphoid cells have a morphology that is intermediate between prolymphocytes and hairy cells (Figure 1B). The HCL immunological score is low (0 or 1), there is no CD25 and CD200 expression, and the CD123 expression is inconstant and weak. SDRPL, also a provisional entity, is different from HCL-V. A large proportion (median: 60%) of small to medium-sized villous lymphoid cells is present in the peripheral blood. The abnormal lymphoid cells have a polar distribution of their villi and their nucleolus is small or not visible. The monoclonal B cells in these subjects express CD11c (97%), have inconsistent CD103 expression (38%) and rarely express CD123 (16%) or CD25 (3%).[4]
+
+Figure 1. 
+Figure 1.
+
+Open in figure viewer
+Cytological aspects of hairy cell leukemia (HCL) (A) and HCL-variant (HCL-V) (B)
+2.1 Risk-stratification in HCL
+
+Splenomegaly (> 3 cm), leukocytosis (>10?×?109/L), hairy cells in the blood (> 5 × 109/L), and high beta2-microglobulin (> 2N) are associated with a poor prognosis and resistance to purine analogs (PNA).[8] In a similar manner to chronic lymphocytic leukemia (CLL), CD38 expression drives poor prognosis.[9] The immunoglobulin heavy chain variable region gene (IGHV) mutational status has prognostic implications in HCL. Patients with unmutated IGHV have shorter overall survival durations than those with the mutated gene. Furthermore, 40% of HCL-V and 10% of HCL patients have an IGHV4–34 immunoglobulin variable heavy chain rearrangement. VH4–34 positive HCL cases represent a subset and a new variant of HCL that is associated with poor prognosis, which includes higher disease burden at diagnosis, poor response to standard therapy, shorter overall survival (OS) and absence of the BRAF-V600E mutation.[10, 11]
+3 WHAT HAS RECENTLY IMPROVED THE UNDERSTANDING OF HCL AND HCL-like DISORDERS?
+
+3.1 BRAF V600E mutations, an early genetic event in HCL
+
+Using whole-exome sequencing (WES) in 2011, a BRAF V600E somatic mutation was found in a patient with HCL.[12] The B-raf proto-oncogene (BRAF gene) (7q34) is composed of 18 exons, and the mutation occurs in exon 15 at position 1799, in which thymine and adenine are exchanged, leading to valine (V) being substituted by glutamate (E) at codon 600 (V600E) of the BRAF protein. The mutation was subsequently identified in up to 80–90% of HCL cases. The BRAF-V600E mutation constitutively activates BRAF by autophosphorylation of the protein and downstream MEK-ERK signaling pathway, leading to increased expression of genes involved in survival and proliferation. BRAF-V600E has not been identified in other B-cell chronic lymphoproliferative disorders[12] except a few cases of CLL[13] and multiple myeloma. The mutation is now considered as the molecular hallmark of the disease and represents a novel diagnostic possibility and option for therapeutic targeting of BRAF, using BRAF inhibitors. Absence of the BRAF gene mutation was reported in up to 10% to 20% of patients with HCL and could constitute a subgroup of HCL patients with a poor prognosis. In those patients, the possibility of a mutation in exon 11 (F468C, D449E) should be excluded.[14] The BRAF-V600E mutation is also recurrent in various solid tumors, including cutaneous melanoma, lung, ovarian, bladder, thyroid, prostatic cancers, cholangiocarcinoma and sarcoma/GIST.[15]
+3.2 Why do they have a hairy cell morphology?
+
+Unlike HCL-like disorders, in vitro exposure of primary HCL cells to BRAF and MEK inhibitors can induce marked MEK/ERK dephosphorylation, which silences the RAS-RAF-MEK-ERK pathway transcriptional output. This leads to a loss in the HCL-specific gene expression profile signature and reverses the morphology of hairy cells to smooth cells and eventually apoptosis. The role of B-actin and leucocyte-specific transcript 1 (LST1) in determining the hairy cell morphology remains to be established.[16, 17]
+3.3 Cellular origin of HCL
+
+Late-activated postgerminal center memory B-cells and possibly splenic marginal zone B-cells are considered as the cell of origin for HCL. Ninety percent of HCL patients have a mutated IGHV profile. BRAF-V600E was identified in hematopoietic stem cells (HSCs). Additionally, BRAF-V600E expression in murine hematopoietic stem/progenitor cells can cause hairy cell leukemia-like disease.[18] BRAF-V600E was found in Langerhans cell histiocytosis (LCH) and Erdheim Chester disease (ECD). LCH in a patient with HCL was recently described,[19] suggesting the possibility of a relationship between HCL and LCH. However, the distribution pattern of mutant alleles in the mononuclear compartment and bone marrow is clearly different between patients with HCL and LCH/ECD. In LCH/ECD, most mutant alleles were present in CD14+ classical monocytes, CD16+ nonclassical monocytes and CD1c+ myeloid dendritic cells in the peripheral blood. They are distributed in HSCs and myeloid progenitors in the bone marrow. The mutant alleles are not found in monocytes and myeloid cells in HCL but are present in normal B and NK cells.[20]
+3.4 Other genes are recurrently mutated in HCL (Table 1): A role in disease progression
+
+In patients with refractory HCL, recurrent inactivation of the cell cycle inhibitor CDKN1B/p27 was identified in 16% of cases.[22] Additionally, KLF2 mutations were observed in 30% of marginal zone lymphoma (MZL) and diffuse large B-cell lymphoma cases.[29] KLF2 is a transcription factor that controls the differentiation of multiple B-cell subpopulations, including marginal zone B cells. In 53 HCL patients, the two mutations most frequently identified after the BRAF mutations were histone methyltransferase KMT2C (MLL3) and CDKN1B mutations, which occur in 15% and 11% of patients, respectively.[23]
+
+Table 1. Genomic alterations in hairy cell leukemia (HCL), hairy cell leukemia-variant (HCL-V), splenic diffuse red pulp lymphoma (SDRPL) and splenic marginal zone lymphoma (SMZL)
+ 	HCL	HCL-V	SDRPL	SMZL
+a MAP2K1 mutations in 6/7 VH4–34+ HCL patients and in 4/10 VH4–34+ HCL-V patients.[21]
+MAPK pathway	 	 	 	 
+BRAF V600E	70%21-100%[22-25]	0%[22, 23, 25]	0%[26],27-2% (G469A)[24]	0%25-2%[24]
+MAP2K1a	0%[22, 23],24-22%[21]	38%23-42%[21]	7% (VH4–34-)24-12%[26]	0%[24]
+Cell cycle	 	 	 	 
+CDKN1B (p27)	11%23-16%[22]	0%[22, 23]	4%[26]	 
+CCND3	0%[23]	13%[23]	21%24-24%[26]	13%[24]
+NFKB pathway	 	 	 	 
+MYD88	0%[24]	 	0%[24]	9%[24]
+TNFAIP3	0%[24]	 	0%[24]	20%[24]
+Spliceosome	 	 	 	 
+U2AF1	0%[21, 23]	13%[21, 23]	 	 
+TP53	 	8%21-38%[23]	0%[27]	 
+Notch pathway	 	 	 	 
+NOTCH1	4%23-13%[24]	0%[23]	2%[24]	9%[24]
+NOTCH2	0%[24],28-4%[23]	0%[23]	10%[24]	17%24-25%[28]
+Epigenetic regulators	 	 	 	 
+KMT2C (histone methyltransferase)	15%[23]	25%[23]	 	 
+ARID1A (SWI/SNF family)	4%[21]	4%[21]	8%[26]	 
+Transcription factors (TF)	 	 	 	 
+TTN	4%[21]	4%[21]	8%[26]	 
+KLF2	13%24-16%[29]	0%[29]	2%[24]	20%29-30%[24]
+TF repressor	 	 	 	 
+BCOR	0%[24]	 	24%[24]	2%[24]
+3.5 Genomic data in HCL-like disorders (Table 1)
+
+3.5.1 High prevalence of MAP2K1 mutations in HCL-V and IGHV4–34 positive HCL
+
+The absence of BRAF mutations in HCL-V suggests that HCL and HCL-V could represent two different entities. Using WES, activating mutations in the mitogen-activated protein kinase 1 (MAP2K1) gene (15q22.1-q22.3) were found in VH4–34 positive HCL (5/7 pts) and HCL-V (CD103+, CD25-) that were either IGHV4–34 negative (6/15 pts) or IGHV4–34 positive HCL-V (4/9 pts). In contrast, MAP2K1 mutations were identified in only 1/20 cases of IGHV4–34 negative HCL patients.[21] In HCL-V, the identification of MAP2K1 mutations is an argument that supports the diagnosis but its presence is detected in only 50% of cases.
+3.5.2 High prevalence of CCND3 mutations in HCL-V
+
+In contrast to HCL, CCND3 mutations were identified in 13% of HCL-V cases,[23] a frequency that is identical to that observed in SMZL and less than the 25% of SDRPL cases.[24, 26]
+3.5.3 Recurrent genetic alterations in SDRPL
+
+Most cases display a mutated IGHV status, with a selective VH gene usage and overrepresentation of VH4–34.[27, 30] No mutation was found in BRAF. A few NOTCH2 mutations (4/42 pts, 10%) were described, as well as in SMZL (8/47, 17%).[24] In contrast, 24% of patients with SDRPL (6/25 pts) presented CCND3 mutations. CCND3 was expressed in more than 50% of the neoplastic cells in 24/37 splenectomy specimens, whereas it was rarely observed in CLL, SMZL, HCL or blastic mantle cell lymphoma.[26]
+
+Recently, recurrent mutations or losses in BCOR (gene encoding the BCL6 corepressor) were identified in 10/42 SDRPL cases (24%), whereas it was rarely observed in SMZL cases (1/46 pt, 2%). Inversely, KLF2, TNFAIP3 and MYD88 mutations were rare (KLF2, 2%) or absent (TNFAIP3 and MYD88) in SDRPL compared with SMZL.[24] These recent data highlight the genetic differences between these entities, which provides the possibility of developing novel therapeutic approaches.
+4 TREATMENT UPDATES (FIGURES 2 and 3)
+
+4.1 Purine analogs (PNA): Established as a first-line option
+
+Patients with asymptomatic HCL must be managed with a watch-and-wait strategy. Patients should be treated if they exhibit the disease symptoms or if their hematological parameters are declining. The hematological parameters that indicate a need for treatment include at least one of the following: hemoglobin?<?11 g/dL, platelet count <100 000/µL, or an absolute neutrophil count <1000/µL. Symptomatic splenomegaly may serve as an indication for treatment.
+
+Figure 2. 
+Figure 2.
+
+Open in figure viewer
+Therapeutic algorithm for the treatment of patients with hairy cell leukemia (HCL)
+Figure 3. 
+Figure 3.
+
+Open in figure viewer
+Therapeutic algorithm for treatment of patients with hairy cell leukemia-variant (HCL-V) and splenic diffuse red pulp lymphoma (SDRPL)
+In the first-line setting for patients, PNA are the mainstay of HCL therapy for physically fit and symptomatic HCL patients, conferring in most cases a long overall survival (OS). The treatment is based on either cladribine (2-CdA) or pentostatin (DCF). However, no randomized trials have compared pentostatin and cladribine and, to our knowledge, there is no evidence in the literature to date that demonstrates the superiority of any one drug. In a large representative US database that included 749 HCL patients, cladribine was utilized in more than 75% of patients requiring first-line treatment.[31] One of the most challenging clinical situations involves a patient with symptomatic HCL and a febrile infection. Attempts to control the infection should be pursued prior to instituting the PNA. If it is not possible to control the infection, the use of alpha-interferon (IFN) could be required transiently. IFN can also be an alternative in pregnant women.
+4.2 Assessment or response
+
+Complete response (CR) is defined by normalization of peripheral blood counts, resolution of palpable splenomegaly and disappearance of hairy cells from the bone marrow. Bone marrow biopsy should be delayed 4 to 6 months after cladribine administration and performed after a clinical response with pentostatin therapy. The criteria for defining CR, with or without minimal residual disease (MRD), recently changed. Partial response (PR), stable disease (SD) and progression of disease are also defined in the guidelines.[6, 32] Flow cytometry, using an 8-color panel (CD103/CD305/CD19/CD123/CD25/CD3/CD45/CD20), can be a tool for detecting blood minimal residual disease (MRD). The clinical interest to investigate blood MRD was demonstrated, with a high risk of relapse in patients with positive testing for MRD and a low risk in patients with negative testing. One out of 9 patients who achieved a hematological response and MRD?<?10-4 on at least two consecutive blood samples during the first 2 years after PNA treatment relapsed compared with 5/6 patients with MRD?>?10-4.[33] The use of a VE1 antibody that is specific to BRAF-V600E mutated cells could also represent a simple and first approach in clinical practice to detect MRD.[34]
+4.3 First relapse
+
+Patients relapsing after previous PNA treatment are more difficult to treat and are at high risk of having a significant and impaired reduced OS.[35] Therapeutic options will depend on the duration of first remission. Patients with relapse after long remission over 5 years should be re-treated with the same or an alternative PNA.
+
+For remissions between 2 and 5 years, the use of PNA followed by rituximab, which binds to and kills CD20 positive cells by inducing apoptosis or by mediating complement and antibody dependent cytotoxicity, has been proposed. Indeed, in a prospective study including 59 untreated patients, 14 relapsed HCL patients and 7 HCL-V patients, the 5-year failure-free survival was 95%, 100% and 64% with cladribine, respectively, after which, one month later, rituximab 375 mg/m2 was administered weekly for 8 weeks.[36] Furthermore, 59 patients (74%) achieved a negative MRD: 76% in untreated patients, 64% in relapsed patients and 71% in HCL-V patients. In a retrospective study with 41 HCL patients, we confirmed the efficacy of PNA and rituximab.[37] It is not yet known if either novel humanized, glycoengineered Type II (obinutuzumab)[38] or the second-generation anti-CD20 monoclonal antibodies (ofatumumab) could bring benefits in terms of response.
+
+In case of a relapse occurring before 2 years, an HCL diagnosis has to be confirmed and risk factors evaluated.[39] Patients should be considered as relapsed/refractory HCL patients. To choose the best therapeutic option, the presence of a BRAF V600E mutation must be checked. In all cases, novel therapeutic agents will depend on the BRAF mutational status. In case of mutated BRAF, specific inhibitors of the BRAF pathway should represent the best option (see below).[16, 40] In unmutated BRAF cases, depending on the accessibility of the drug and of clinical trials, immunotoxins, BCR inhibitors or a combination of bendamustine with rituximab should be considered.
+4.4 Relapsed/refractory HCL patients
+
+The most promising and novel therapeutic options for patients with relapsed/refractory and multiply relapsed HCL include BRAF inhibitors and recombinant immunoconjugates targeting CD22 or BCR inhibitors.
+
+4.4.1 Specific inhibitors targeting the BRAF pathway
+
+Vemurafenib (Zelboraf) is a low-molecular-weight orally available BRAF serine-threonine kinase inhibitor and has demonstrated significant activity in patients with melanoma and subsequently in BRAF-V600E positive cancers,[15] including patients with HCL.[16, 41] The vemurafenib dose and the duration of treatment remain to be determined. These treatments are effective, with a complete response in 40% of cases. Safety data from the clinical trials either with vemurafenib or dabrafenib include adverse (AES) and serious adverse event (SAES) skin toxicity with rash, palma-plantar hyperkeratosis, photosensibility, kerato-acanthomas and cutaneous small cell carcinoma (SCC), ocular toxicity, including central serious retinopathy and retinal vein occlusion, cardiac toxicity with QTc interval prolongation, and AST, ALT and serum bilirubin elevations. These AES and SAES require careful monitoring and control of risk factors. An accelerated progression of an RAS-mutant chronic myelomonocytic leukemia was recently reported after the initiation of vemurafenib therapy in a patient treated for metastatic BRAF-mutant melanoma,[42] as well as in those with CLL in the absence of mutations in RAS[43] or AML,[41] suggests that the administration of BRAF inhibitors requires careful patient monitoring and evaluation of the treatment in a clinical trial. The combination of a BRAF and MEK inhibitors provides a rational approach for dual vertical inhibition within the MAPK pathway. The combination of both dabrafenib (150 mg b.i.d.), a potent and selective BRAF inhibitor, and trametinib (2 mg once daily), an MEK inhibitor, is being evaluated in relapsed/refractory HCL.
+4.4.2 Immunotoxins
+
+Immunotoxins, fusion of a bacterial toxin to the variable region of a monoclonal antibody directed against a specific cell surface target such as CD22 in HCL, represent a new therapeutic option now available for HCL patients with or without BRAF V600E or patients with HCL variants. As HCL cells express CD25 and CD22 at a high density, clinical trials with anti-CD22 immunotoxins are ongoing. The preliminary results obtained with Moxetumomab pasudotox (HA22, CAT-8015) are promising in a phase 1 clinical trial in relapsed HCL patients, with an overall response rate of 91%, including 59% with a complete response and no dose limiting toxicity.[44] The maximum tolerated dose was not established. However, capillary leak syndrome and thrombotic microangiopathy can occur and require careful monitoring.
+4.4.3 BCR inhibitors
+
+Ibrutinib, a first-in-class oral inhibitor of Bruton's tyrosine kinase, is approved for treating patients with relapsed or refractory B-cell malignancies, such as CLL.[45] A multicenter phase 2 study of ibrutinib is ongoing for treatment of relapsed HCL (NCT01841723). Ibrutinib seems to represent a future alternative treatment in relapsed/refractory HCL.[46]
+4.4.4 Alternative therapeutic options
+
+Especially in the case of multiply relapsed/refractory HCL, the combination of bendamustine at 70–90 mg/m2/dose with rituximab has demonstrated significant activity.[47] This regimen should also be considered in cases in which novel agents that were previously described are not available.
+
+Oral Fludarabine at 40 mg/m2 in combination with rituximab has also demonstrated significant activity in relapsed/refractory HCL patients previously treated with cladribine.[48]
+
+In resistant massive symptomatic splenomegaly cases with low-level bone marrow infiltration, splenectomy may be indicated.
+4.5 Treatments for the HCL-like disorders, HCL-V and SDRPL
+
+There is no established consensus concerning the treatment of HCL-V. A first-line option relies on the association of cladribine with rituximab, combined[49] or with a sequential scheme.[36] The same scheme could be followed in relapse cases. Ibrutinib could represent an alternative therapy, either at first-line or relapse.[50]
+
+SDRPL should be distinguished from HCL-V by performing splenectomy. Treatment of SDRPL has no consensus but splenectomy with or without chemotherapy should be considered. Due to the implication of CCND3 in the pathogenesis of SDRPL,[26] cell cycle inhibitors, such as CDK4/6 inhibitors,[51] could also be interesting as future alternative therapeutic options.
+5 EVALUATION OF SECONDARY CANCER RISK
+
+Patients with HCL are at risk of second malignancies. The long-term OS of patients with HCL must be considered and the drugs we use must be safe and nontoxic. The occurrence of secondary cancers in HCL patients is a subject of debate. In a retrospective survey on 487 patients with HCL, we reported on the high frequency of cancers in HCL patients and their family members. Ten percent of the HCL patients developed second malignancies after HCL diagnosis and 18% had a familial history of cancer. An excess incidence of cancer occurring after HCL diagnosis was observed with a standardized incidence ratio (SIR) of 1.86 (95%CI, 1.34-2.51) and for hematological malignancies an SIR of 5.32 (95% CI: 2.90–8.92). This increased risk can be related to the disease and/or the treatment and the respective role of pentostatin or cladribine in the development of secondary malignancies remains debatable.[52]
+6 CONCLUSIONS
+
+New opportunities have emerged in recent years that have led to a better understanding of HCL and improved management of HCL patients. Gray areas do exist, and variants of a typical HCL should be discussed in several cases, particularly HCL-V, SDRPL or positive or negative BRAF, IGHV4–34 positive HCL. BRAF mutations are present in HCL and were also identified in hematopoietic stem cells. Conversely, MAP2K1 mutations were detected in HCL-V. These crucial data impact the management of HCL patients: we must discuss the use of HCL specific inhibitors targeting the BRAF pathway or immunotoxins with patients with relapsed/refractory HCL. Moreover, cell cycle inhibitors or other targeted therapy could represent new perspectives in the treatment of HCL-V The inclusion of these patients in a clinical trial should be promoted in all cases.

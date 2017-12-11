@@ -1,0 +1,84 @@
+Syndrome de l’artère poplitée piégée
+
+Luca Calanca, Frédéric Glauser, Adriano Alatri, Lucia Mazzolai	Rev Med Suisse 2013; volume 9. 311-314
+
+Résumé
+
+Le piège poplité est à l’origine d’une compression vasculaire (artère, veines), voire neurologique. Nous décrivons dans cet article l’atteinte compressive de l’artère poplitée (syndrome de l’artère poplitée piégée, SAPP). Le SAPP est une pathologie faisant partie du diagnostic différentiel de la claudication des membres inférieurs, voire de l’occlusion artérielle aiguë. Survenant surtout chez des jeunes adultes, le SAPP peut se manifester néanmoins à tout âge. Souvent une dissociation des trajets poplités artério-veineux est constatée, en raison d’une insertion musculo-tendineuse aberrante. Une prise en charge chirurgicale est généralement proposée, permettant de libérer les vaisseaux de la contrainte musculaire. En cas de lésions artérielles, une intervention vasculaire complémentaire est à discuter.
+
+INTRODUCTION
+
+Généralement secondaire à des variations des rapports anatomiques entre structures musculaires et vasculaires, voire neurologiques, le piège poplité peut être à l’origine de compression des vaisseaux (artère, veines poplitées) et/ou de nerfs (nerf tibial). Les symptômes qui en résultent dépendent de la cible de cette compression. Nous décrivons dans cet article essentiellement l’atteinte compressive de l’artère poplitée (syndrome de l’artère poplitée piégée, SAPP).
+
+Dans la pratique médicale, la claudication artérielle, voire l’occlusion artérielle aiguë sont associées le plus souvent à un contexte d’atteinte athéromateuse, liée aux facteurs de risque cardio-vasculaires (FRCV) classiques. Bien que plus rares, des pathologies vasculaires non athéromateuses (par exemple : SAPP, vasculites, kyste adventitiel, etc.), doivent être considérées dans le diagnostic différentiel, surtout en l’absence de FRCV. Le SAPP doit être évoqué en particulier lors d’une claudication du mollet chez un jeune adulte. Il peut se manifester également en âge pédiatrique, voire chez la personne âgée. Caractérisé le plus souvent par une insertion musculo-tendineuse aberrante, une dissociation des trajets poplités artériel et veineux peut être constatée lors de l’examen angiologique. Une imagerie radiologique complémentaire (IRM vs CT) est proposée, permettant de détailler les rapports anatomiques en vue de l’intervention chirurgicale. Celle-ci a pour but de libérer les vaisseaux de la contrainte mécanique exercée par les muscles. Lors de lésions vasculaires associées (sténose, anévrisme, occlusion), secondaires à cette contrainte mécanique, un complément interventionnel vasculaire est à proposer.
+
+Le rôle du médecin de premier recours est fondamental. Ne pas sous-estimer une claudication d’apparition nouvelle, surtout en dehors du contexte habituel (personne âgée, FRCV classiques), et adresser rapidement ces patients à l’angiologue, sont les conditions qui pourraient permettre de poser ce diagnostic avant des manifestations cliniques bien plus graves.
+
+CAS CLINIQUE
+
+Nous décrivons le cas d’un patient présentant, à l’âge de 23 ans, une occlusion artérielle poplitée gauche, sans source emboligène aorto-artérielle ni pathologie cardiologique ou hématologique constatée lors des investigations. L’évolution est caractérisée par une claudication du membre inférieur gauche (MIG), s’améliorant au cours des années.
+Adressé pour la première fois à l’angiologue trois ans plus tard, le patient signale la persistance d’une claudication survenant uniquement lors de l’effort soutenu, la marche à une allure considérée normale et la pratique du vélo n’occasionnant aucune symptomatologie. Le patient signale également une sensation de tiraillement au niveau du mollet droit survenant lors de la marche, ayant débuté quelques mois auparavant.
+L’examen clinique met en évidence une asymétrie modérée des pouls distaux en défaveur du MIG.
+L’index de pression cheville/bras est dans la norme à droite et légèrement diminué à G (0,84 pour une norme de 0,9-1,3).
+A l’écho-Doppler aucune source aorto-artérielle à potentiel embolique n’est mise en évidence. L’examen confirme l’occlusion poplitée gauche, avec une collatéralisation bien développée. Aucune dissociation significative entre les trajets artériel et veineux n’est constatée, mais les axes vasculaires poplités sont localisés à proximité du condyle fémoral interne. Cet aspect est retrouvé au membre inférieur droit (MID), sans lésion vasculaire significative. Une diminution du calibre artériel poplité droit lors des manœuvres dynamiques est constatée. On note également l’absence d’occlusion au niveau des artères jambières gauches et droites pouvant évoquer des phénomènes emboliques.
+Une IRM confirme ces résultats. Des bandes fibreuses anormales provenant du muscle jumeau interne et s’insérant dans la région sus-condylienne sont décrites.
+Le contexte évoque le diagnostic de piège poplité bilatéral à l’origine de l’occlusion artérielle poplitée gauche et de la symptomatologie touchant le MID.
+L’atteinte bilatérale constatée, une intervention chirurgicale est effectuée à droite, permettant de libérer les vaisseaux de la contrainte mécanique due aux bandes fibreuses provenant du muscle jumeau interne. L’absence de lésions vasculaires à droite n’a pas amené à un complément interventionnel vasculaire. Un geste de revascularisation au MIG n’est pas effectué, l’évolution de la claudication étant favorable, chez ce patient n’ayant pas de limitation dans ses activités quotidiennes. Ce choix attitudinal se base aussi sur la perméabilité conservée du trépied en aval de l’occlusion poplitée, et l’absence d’anévrisme, altération qui amènerait à discuter une attitude interventionnelle d’exclusion au vu du potentiel thrombotique, voire embolique.
+Un contrôle angiologique à deux mois de l’intervention ne révèle aucune complication à court terme.
+DISCUSSION
+
+Embryogenèse
+
+Lors de l’embryogenèse, des anomalies du développement, voire de la synchronisation dans la formation de l’artère poplitée et de la musculature adjacente (en particulier le muscle gastrocnémien) peuvent amener à des variations des rapports spatiaux entre ces structures, avec comme conséquence des conditions anatomiques à l’origine du piège poplité.
+
+Classification
+
+Les descriptions successives des variantes anatomiques ont amené à considérer différents types de piège (y compris veineux), la majorité d’entre eux étant caractérisée par une dissociation des trajets artériel et veineux poplités secondaire à l’insertion aberrante de structures musculo-tendineuses. En l’absence de cette dissociation, les trajets artériel et veineux peuvent se trouver, dans le type V, en position médiale.1
+
+Si le chef médial du muscle gastrocnémien, ainsi que le muscle poplité sont le plus souvent à l’origine du piège poplité, d’autres parties musculaires, notamment le chef latéral du muscle gastrocnémien, peuvent également intervenir dans cette pathologie.2
+
+Le piège fonctionnel est évoqué en l’absence de variation anatomique (une hypertrophie du chef médial du muscle gastrocnémien est parfois décrite).3,4
+
+Quelques différences dans la classification sont constatées lors de la revue de la littérature, le piège fonctionnel étant reporté à la fois comme type VI,5 voire type F dans la classification émise par le Popliteal Vascular Entrapment Forum 6 (tableau 1). La figure 1 montre les repères anatomiques, généralement décrits dans les classifications des types I à V.
+
+Tableau 1
+Classification
+Type I Déviation médiale de l’artère poplitée par rapport au chef médial du muscle gastrocnémien Type II Insertion latérale du chef médial du muscle gastrocnémien Type III Chef accessoire du muscle gastrocnémien Type IV L’artère poplitée passe en dessous du muscle poplité Type V Ni type I-IV, et piège veineux Type VI Autres variantes Type F Piège fonctionnel
+ 
+ 
+Incidence
+
+Le SAPP est réputé comme rare. L’incidence exacte n’est pas connue, le SAPP, étant méconnu, est probablement sous-diagnostiqué en raison aussi de sujets qui restent asymptomatiques. Une étude post-mortem a mis en évidence un piège poplité chez 3,8% des cas.7 Le SAPP est souvent bilatéral.6,8,9 Une prédominance masculine, jusqu’à 90% des cas selon la littérature, concerne essentiellement les pièges avec anomalies anatomiques. Le piège fonctionnel est décrit souvent chez les sportifs (hypertrophie du muscle gastrocnémien), et est retrouvé plus fréquemment chez la femme par rapport aux autres types de SAPP.10
+
+Manifestations cliniques
+
+Le SAPP se manifeste principalement chez des jeunes adultes, mais des cas survenant dans l’enfance,11,12 voire après la cinquantaine13-15 ont été rapportés. Si la clinique consiste généralement en une claudication intermittente, des cas d’ischémie aiguë ont été décrits,13,16 parfois lors de thrombose d’anévrisme.17 Des manifestations sous forme de crampes, voire de syndrome des loges,18 sont aussi possibles, cette dernière manifestation pouvant faire partie du diagnostic différentiel du piège fonctionnel.10
+
+Investigations
+
+L’examen angiologique permet d’évaluer la présence d’une dissociation entre les trajets poplités artériel et veineux, due à l’insertion aberrante tendineuse, voire d’un trajet vasculaire excentré, adjacent aux structures osseuses. Il donne aussi des informations sur d’éventuelles répercussions hémodynamiques. Concernant les manœuvres de provocation (par exemple : flexion dorsale, voire plantaire), il est à noter qu’une compression vasculaire poplitée peut être déclenchée aussi chez des sujets asymptomatiques et sans altération anatomique.19,20 Ces manœuvres dynamiques doivent donc être interprétées dans le contexte clinique global. Poser le diagnostic de SAPP n’est donc pas toujours évident, surtout en l’absence de variation anatomique avec insertion tendineuse aberrante.
+
+En plus des investigations angiologiques, une imagerie radiologique est requise. Si l’artériographie permet de détecter des sténoses artérielles, voire des occlusions lors des manœuvres de provocation, il convient de privilégier la réalisation d’une IRM dynamique ou d’un CT-scan permettant une évaluation détaillée des rapports anatomiques des vaisseaux avec la musculature.
+
+Traitement
+
+Le traitement chirurgical en cas de piège anatomique est requis. En l’absence d’altération artérielle, l’intervention peut ne concerner que le traitement de la partie musculo-tendineuse à l’origine du piège.21 Lors d’une atteinte artérielle, il s’agira de proposer une intervention vasculaire, par exemple, sous forme de pontage. En cas d’ischémie aiguë, une approche initialement par thrombolyse peut se révéler nécessaire.13,22 L’option d’une revascularisation endoluminale (thromboembolectomie et angioplastie) a été décrite, lors d’occlusion des artères poplitée et jambières traitée initialement par lyse locale, avec un suivi strict par écho-Doppler en raison du risque de réocclusion, voire de développement d’anévrisme poplité.23
+
+Concernant l’abstention interventionnelle, une revue récente mentionne des cas dont l’évolution a été caractérisée par une récidive de thrombose (patient refusant une chirurgie décompressive après thrombolyse d’un premier épisode occlusif), voire une ischémie nécessitant une amputation.9 La perte d’un run-off suffisamment fonctionnel a amené à l’impossibilité d’effectuer un pontage.
+
+En ce qui concerne le piège poplité fonctionnel, l’attitude varie selon l’importance de la symptomatologie. Il est connu qu’une compression vasculaire poplitée peut être déclenchée chez des sujets asymptomatiques et sans altération anatomique,19,20 et une attitude interventionnelle n’est pas indiquée dans ce cas.4 Elle est par contre envisageable chez des sujets symptomatiques,4,10 bien que des cas avec résolution de la symptomatologie aient été décrits lors de l’arrêt de l’activité physique causale.9 L’utilisation de l’écho-Doppler lors de l’intervention chirurgicale peut contribuer à confirmer une résection musculaire (résection partielle de chef médial du muscle gastrocnémien, pouvant être hypertrophié) suffisante et appropriée.24
+
+CONCLUSION
+
+L’artériopathie des membres inférieurs est le plus souvent secondaire à une atteinte athéromateuse. Des pathologies vasculaires plus rares, dont le SAPP, peuvent néanmoins être à l’origine de manifestations cliniques telles que la claudication, voire l’ischémie. Les lésions artérielles se manifestent lors de la contrainte mécanique, due à la compression par la musculature adjacente, dans le contexte de rapport spatial aberrant.
+
+Le rôle du médecin de premier recours est primordial dans la considération précoce d’une symptomatologie évoquant un problème vasculaire, même en l’absence de FRCV classiques.
+
+La collaboration avec l’angiologue pourrait permettre de poser le diagnostic de SAPP précocement et éviter, le cas échéant, des manifestations cliniques bien plus graves qu’une claudication débutante. Une prise en charge chirurgicale est généralement proposée.
+
+IMPLICATIONS PRATIQUES
+
+> L’artériopathie athéromateuse, bien que fréquente, n’est pas la seule pathologie potentiellement à l’origine d’une claudication
+> Le piège poplité concerne surtout les jeunes adultes, mais a été décrit aussi chez l’enfant et la personne âgée
+> Les lésions vasculaires sont la conséquence de la contrainte mécanique compressive par les structures musculo-tendineuses adjacentes
+> Le médecin de premier recours joue un rôle fondamental dans la considération précoce de symptômes/signes évoquant une origine artérielle (même en l’absence de facteurs de risque cardio-vasculaires classiques), amenant à demander une consultation angiologique

@@ -1,0 +1,197 @@
+CONTRIBUTION DU SCANNER CORONAIRE AU DIAGNOSTIC DE MALADIE CORONARIENNE 
+C. Pirlet (1), L. Piérard (2), P. Lancellotti (3), P. Bruyère (4), A. Nchimi (4), V. Legrand (5), L. Davin (3)
+
+Résumé : Le scanner coronaire est un examen récent dans l’exploration
+de la maladie coronarienne. A partir du cas clinique
+d’un patient avec une douleur thoracique, nous discutons de
+la place du scanner coronaire dans l’évaluation du patient
+coronarien.
+Mots-clés : Scanner coronaire - Test d’effort - Angor stable -
+Maladie coronarienne - Ischémie
+
+Cas clinique
+Une femme de 50 ans se présente en consultation
+de cardiologie car elle se plaint d’une
+douleur thoracique rétrosternale latéralisée
+à droite avec, le plus souvent, une sensation
+d’oppression intense depuis quelques mois. La
+douleur n’est pas irradiée ou modifiée par les
+mouvements respiratoires. Cette douleur apparaît
+exclusivement, mais pas systématiquement,
+lors de ses activités sportives (elle pratique le
+volley-ball), essentiellement lorsqu’elle dépasse
+un certain seuil d’effort. Les symptômes, bien
+qu’atypiques, pourraient correspondre à de
+l’angor.
+Les facteurs de risques cardio-vasculaires se
+limitent à une dyslipidémie traitée par statine et
+à un tabagisme interrompu il y a de nombreuses
+années. Elle ne présente ni hypertension, ni
+diabète. Il n’y a pas d’antécédent personnel ou
+familial de maladie coronarienne.
+L’examen clinique est normal. En particulier,
+la propédeutique cardio-vasculaire est sans
+particularité; les paramètres de fréquence cardiaque
+et de pression artérielle sont dans les
+normes au repos et l’échographie cardiaque
+trans-thoracique de repos ne révèle aucun élé-
+ment pathologique. Un test d’effort est réalisé
+sur un cyclo-ergomètre. Une charge maximale
+de 120 watts par paliers de 30 watts est
+atteinte. La pression artérielle s’élève jusqu’à
+170/75 mmHg. Le test s’avère cliniquement
+négatif, mais à l’ECG, un discret sous-décalage
+ascendant non significatif et peu spécifique est 
+détecté à 88% de la fréquence cardiaque maximale
+théorique.
+Devant une anamnèse potentiellement suspecte
+pour un angor d’effort, un complément
+d’investigation s’impose. Une échocardiographie
+de stress est proposée, mais s’avère peu
+contributive en raison d’une épreuve sous-maximale.
+Un scanner coronaire est alors prescrit.
+Cet examen révèle une athéromasie calcifiante,
+diffuse, modérée, n’entraînant pas de sténose
+significative (fig. 1).
+
+Discussion
+La patiente de notre cas clinique présentait
+une probabilité pré-test de maladie coronarienne
+modérée (32,4% +/-3%) (3). L’ECG
+d’effort n’est pas concluant et une évaluation
+fonctionnelle avec imagerie doit être réalisée.
+Dans l’hypothèse où celle-ci se révèle négative
+ou non contributive, en présence d’une symptomatologie
+persistante et compatible avec un
+angor, la patiente doit être adressée pour une
+coronarographie ou un scanner coronaire, ce
+dernier examen étant préféré si le patient est
+considéré à risque faible ou modéré. Ici, par
+rapport à la symptomatologie présentée, en
+l’absence de sténose significative, le scanner
+coronaire a permis d’exclure définitivement
+une étiologie liée à une éventuelle athérosclé-
+rose coronaire.
+Le test d’effort classique est souvent l’examen
+effectué en première intention, principalement
+en raison de sa disponibilité et de son
+coût. Trois méta-analyses ont regroupé les
+études évaluant la performance du test d’effort
+(16-18). La plus importante (16) reprend 147
+études comprenant un total de 24.074 patients.
+Les sensibilités et spécificités moyennes rapportées
+sont respectivement de 68% et de 77%.
+Ces données seraient encore moins favorables
+chez les individus de sexe féminin (18-20).
+Cependant, la méthodologie de ces études est
+fort variable et il existe une grande disparité
+entre les résultats. Par ailleurs, ces données
+peuvent être biaisées par le fait que, dans la
+plupart des études, les patients qui ont un test
+d’effort négatif ne sont pas soumis à la coronarographie.
+Ce biais conduit à une surestimation
+de la sensibilité. Une seule étude portant
+sur 814 patients a été conçue pour soumettre
+tous les patients au test d’effort et à la coronarographie
+(21). Dans ces conditions, la sensibilité
+est de 45% et la spécificité est de 85%.
+Il en ressort que, pour le diagnostic de maladie
+coronarienne, le test d’effort conventionnel 
+se caractérise par une spécificité satisfaisante,
+mais une sensibilité souvent médiocre.
+Notre cas clinique illustre une des limites
+du test d’effort - une sensibilité médiocre pour
+détecter une maladie coronarienne monotronculaire.
+Or, il s’agit d’un point crucial puisque
+le test d’effort est régulièrement utilisé en routine
+pour exclure une maladie coronarienne. Le
+scanner coronaire, quant à lui, pallie en partie
+les limites du test d’effort. En effet, il s’agit de
+l’examen statistiquement le plus fiable pour
+exclure une maladie coronarienne. En outre, il
+peut être effectué chez des patients incapables
+de fournir un effort et il apporte des informations
+quant à la localisation de la maladie coronarienne.
+
+Le scanner coronaire présente cependant
+un inconvénient majeur lié au fait que ce test
+procure une évaluation anatomique sans tenir
+compte des répercussions physiologiques de la
+maladie coronarienne qui, in fine, déterminent
+le pronostic du patient et les indications thérapeutiques.
+Autrement dit, un scanner coronaire
+révélant une athérosclérose n’implique pas une
+maladie coronaire responsable d’ischémie et de
+symptômes. Ainsi, une occlusion coronaire parfaitement
+compensée par collatéralité (détectée
+par le scanner coronaire) peut n’avoir aucune
+répercussion physiologique (test d’effort normal).
+Seulement 45-50% des patients avec
+un scanner coronaire positif ont une ischémie
+démontrée en scintigraphie de stress (22). Une
+étude comparant le scanner coronaire à l’évaluation
+invasive de la mesure de la fraction de
+réserve du flux coronaire (FFR) (23) met en
+évidence un taux élevé de faux positifs (26%)
+et une spécificité médiocre (64%). La valeur
+prédictive positive par rapport à la coronarographie
+est faible dans l’étude de Meijboom et 
+al. (12) (47%) et dans ACCURACY (11) (64%
+pour des sténoses > 50%).
+Indépendamment des répercussions fonctionnelles,
+le scanner coronaire surestime la
+sévérité des lésions par rapport à leur évaluation
+en coronarographie (12). Cette surestimation
+est surtout liée à une surestimation de la
+sévérité des lésions calcifiées car une charge
+calcique élevée au niveau d’une plaque d’athé-
+rosclérose induit des artéfacts rendant l’analyse
+endoluminale et l’analyse de la paroi difficiles
+(11). Une fois que la maladie coronarienne est
+avérée ou fortement suspectée, le scanner coronaire
+perd de son utilité au profit des explorations
+fonctionnelles qui permettent de stratifier
+le risque, poser les indications thérapeutiques et
+assurer le suivi.
+De plus, le scanner coronaire comporte certains
+inconvénients. Ainsi, il requiert l’injection
+de produit de contraste iodé et une irradiation
+qui peut parfois être jugée excessive (en fonction
+du mode d’acquisition utilisé). Par consé-
+quent, le scanner coronaire ne peut pas être
+considéré comme un examen de routine et, a
+fortiori, de dépistage. Ensuite, la qualité de
+l’examen dépend du rythme et de la fréquence
+cardiaque du patient. L’acquisition d’images
+sera de moins bonne qualité chez des patients
+tachycardes ou en fibrillation auriculaire, par
+exemple. Signalons également que le scanner
+coronaire est moins performant pour l’évaluation
+des vaisseaux de petit diamètre (< 1,5
+mm). Enfin, si l’examen est assez facile à réaliser,
+l’interprétation nécessite un certain degré
+d’expertise.
+Conclusion
+Le scanner coronaire est une technique relativement
+récente et en plein essor en raison des
+progrès techniques. Ces progrès portent tant sur
+les appareils que sur les logiciels de traitement
+de l’image. Avec l’amélioration de la résolution
+spatiale, l’exploration par scanner coronaire
+s’étend à l’étude des stents et des pontages
+aorto-coronaires. La possibilité d’analyser la
+composition et le volume de la plaque d’athé-
+rosclérose est un sujet de recherche important
+et l’utilité du scanner coronaire dans les syndromes
+coronariens aigus est en cours d’investigation.
+Cet examen, grâce à sa valeur prédictive
+négative élevée, est à privilégier lorsqu’on souhaite
+exclure une maladie coronaire chez un
+patient à faible risque de maladie coronarienne.
+Il peut être envisagé pour préciser l’existence et 
+la gravité d’une maladie coronarienne chez les
+patients angoreux dont l’exploration fonctionnelle
+est négative ou ininterprétable.
+L’intérêt clinique de cet examen chez les
+patients asymptomatiques sans ischémie myocardique
+n’est pas encore démontré.

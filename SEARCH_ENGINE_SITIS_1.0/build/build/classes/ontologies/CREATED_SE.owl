@@ -1,0 +1,68 @@
+Prefix(:=<http://www.semanticweb.org/kaisb/ontologies/2017/11/untitled-ontology-57#>)
+Prefix(owl:=<http://www.w3.org/2002/07/owl#>)
+Prefix(rdf:=<http://www.w3.org/1999/02/22-rdf-syntax-ns#>)
+Prefix(xml:=<http://www.w3.org/XML/1998/namespace>)
+Prefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)
+Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
+
+
+Ontology(<http://www.semanticweb.org/kaisb/ontologies/2017/11/untitled-ontology-57>
+
+Declaration(Class(:Cancer))
+Declaration(Class(:Cancer_des_ganglions_lymphatiques))
+Declaration(Class(:Cancer_des_poumons))
+Declaration(Class(:Cancerologie))
+Declaration(Class(:Cardiologie))
+Declaration(Class(:Endocrinologie))
+Declaration(Class(:FR))
+Declaration(Class(:Hematologie))
+Declaration(NamedIndividual(:Maladie_de_Hodgkin))
+
+
+############################
+#   Classes
+############################
+
+# Class: :Cancer (:Cancer)
+
+SubClassOf(:Cancer :Cancerologie)
+
+# Class: :Cancer_des_ganglions_lymphatiques (:Cancer_des_ganglions_lymphatiques)
+
+SubClassOf(:Cancer_des_ganglions_lymphatiques :Cancer)
+
+# Class: :Cancer_des_poumons (:Cancer_des_poumons)
+
+SubClassOf(:Cancer_des_poumons :Cancer)
+
+# Class: :Cancerologie (:Cancerologie)
+
+SubClassOf(:Cancerologie :FR)
+
+# Class: :Cardiologie (:Cardiologie)
+
+SubClassOf(:Cardiologie :FR)
+
+# Class: :Endocrinologie (:Endocrinologie)
+
+SubClassOf(:Endocrinologie :FR)
+
+# Class: :FR (:FR)
+
+AnnotationAssertion(rdfs:comment :FR "cancer des ganglions lymphatiques"^^xsd:string)
+
+# Class: :Hematologie (:Hematologie)
+
+SubClassOf(:Hematologie :FR)
+
+
+############################
+#   Named Individuals
+############################
+
+# Individual: :Maladie_de_Hodgkin (:Maladie_de_Hodgkin)
+
+ClassAssertion(:Cancer_des_ganglions_lymphatiques :Maladie_de_Hodgkin)
+
+
+)

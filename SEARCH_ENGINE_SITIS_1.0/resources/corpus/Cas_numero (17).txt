@@ -1,0 +1,135 @@
+Fibrillation auriculaire et activité physique Faut-il être prudent?
+
+N. John Bosomworth
+Canadian Family Physician December 2015, 61 (12) e542-e552;
+
+Description de cas
+
+H.R., un homme de 60 ans, vous rend visite à votre bureau. Il fait du jogging depuis 20 ans et vient tout juste de terminer son 15e marathon. Son examen physique ne révèle aucune anomalie et ses antécédents médicaux ne comptent rien de remarquable. Son père était atteint de fibrillation auriculaire (FA) et est mort après un AVC à l’âge de 79 ans. Trois de ses amis de son club de jogging ont récemment reçu un diagnostic de FA et on leur a conseillé de réduire leur niveau d’exercice. H.R. voudrait savoir s’il peut continuer son programme d’entraînement de 50 à 60 km par semaine sans danger.
+En 1967, Kannel a dit ceci « Les méthodes inadéquates d’évaluation de l’activité physique et la pénurie d’adultes réellement actifs dans les populations à l’étude interfèrent avec les études épidémiologiques prospectives1. » Sur une période de plus de 40 ans depuis l’observation de Kannel, un paradoxe a fait surface quant à la manifestation de l’activité physique en Amérique du Nord. Les données tirées de l’Enquête canadienne sur les mesures de la santé ayant fait appel à l’accélérométrie, plutôt qu’aux estimations autorapportées, laissent croire que 69 % de l’activité des adultes est sédentaire2. Seuls 15 % des adultes canadiens ayant participé à cette enquête respectaient ou dépassaient les recommandations de l’Organisation mondiale de la Santé3 en matière d’activités physiques de loisirs. Par ailleurs, un nombre croissant de personnes participent à des sports d’endurance4 et extrêmes5.
+
+Un sondage mené récemment aux États-Unis ayant comparé des cohortes de 1988 à 20106 montre que la population de femmes sédentaires est passée de 19,0 à 51,7 % et la population d’hommes sédentaires, de 11,4 à 43,5 %. D’un autre côté, la participation aux marathons s’est accrue de 140 % depuis 1990 aux É.-U.4, et le nombre de participants aux ultramarathons de 24 heures s’est accru, avec une plus grande représentation féminine et les meilleurs temps étant obtenus par les coureurs du groupe d’âge de 40 à 49 ans5. La tendance de la participation aux marathons tant par les femmes (43 %) que les coureurs maîtres de plus de 40 ans (47 %) est en hausse croissante4. Des statistiques comparables ne sont pas disponibles pour le Canada.
+
+L’estimation la plus exacte de la prévalence de FA provient probablement d’un registre national suédois qui la chiffrait à 2,9 % dans son dernier rapport en 20107. Les données liées à la prévalence ne sont pas recueillies au Canada8. Aux É.-U., les estimations sont inférieures et varient grandement en raison d’incohérences liées au codage9 et de sources de bases de données différentes9–11. La prévalence augmente avec l’âge dans le registre suédois, et elle monte en flèche pour passer de 4,2 % chez les 60–69 ans à 13,4 % chez les 80–89 ans7. La prévalence générale s’accroît aussi, avec une hausse annuelle relative de 4,3 à 5 %9,11, en partie en raison du vieillissement de la population.
+
+Le diagnostic de FA s’améliore avec les progrès technologiques, tels que les moniteurs ECG implantables. Toutefois, on estime que les cas de FA pouvant être asymptomatiques oscillent à 10 à 40 %12,13, ce qui sousestime l’incidence et la prévalence.
+
+Cette révision se penche sur les effets de l’exercice extrême sur la FA. Puisque la plupart des gens se situent à l’extrémité inférieure du spectre de l’exercice physique, on pourrait s’attendre à ce que les effets bénéfiques de l’exercice sur les facteurs de risque cardiaques14 contribuent à abaisser le risque de FA. On se préoccupe cependant du fait que l’activité physique prolongée et vigoureuse pourrait augmenter le risque de FA, et les données probantes à cet effet seront examinées.
+
+SOURCES DES DONNÉES
+
+L’exercice est doté d’une prévalence totale, dans la mesure où même les personnes sédentaires manifestent une certaine activité physique. Ce facteur de confusion, de même que l’observance et les questions d’insu, rend difficile l’exécution d’études contrôlées15.
+
+Sélection des études
+
+Une recherche a initialement été menée sur PubMed à l’aide des titres MeSH ou des mots-de-texte anglais (avec descripteur de zone de recherche TIAB [title and abstract]) atrial fibrillation et exercise ou physical activity ou athlet* ou sport*, sans filtre additionnel. Des recherches ont également été effectuées dans de récentes révisions disponibles16–20 et 3 méta-analyses21–23 afin de relever des essais additionnels. Le système GRADE (grading of recommendations, assessment, development, and evaluation) a été utilisé pour tirer les conclusions au sujet de la qualité et du niveau de preuve24.
+
+Aucune étude d’intervention n’est ressortie de la recherche. Les études d’observation ont alors été jugées acceptables et, bien que des études prospectives de cohortes à long terme de plus grande envergure auraient été préférables, des essais cas-témoins ou transversaux ont aussi été inclus dans cette révision.
+
+SYNTHÈSE
+
+Les premières études menées auprès d’athlètes atteints d’arythmie donnaient à penser que la plupart étaient de jeunes hommes qui s’entraînaient au niveau élite25,26. Environ 25 % de ces arythmies étaient des FA. Plusieurs études cas-témoins ayant examiné les patients présentant une FA idiopathique dans une clinique sur les arythmies27,28 ou au service d’urgence29 ont suivi. Les rapports de cotes de FA chez les patients qui pratiquent des sports vigoureux varient de 3,13 à 15,11 dans ces études. À nouveau, la plupart des sujets étaient des hommes. Ils étaient pour la plupart atteints de FA paroxystique et présentaient des déclencheurs principalement vagaux et, pour se conformer à la définition de FA isolée, il y avait absence d’anomalies cardiaques cliniques ou à l’échocardiographie, à l’exception d’une hypertension « légère » occasionnelle. Ces études comptaient des sujets rigoureusement sélectionnés, n’ont pas ajusté les résultats en fonction des variables de confusion et présentaient un risque élevé de biais.
+
+Les études subséquentes ont inclus des sujets de la population générale et des athlètes et ont examiné des patients de tous âges, y compris ceux qui présentaient des facteurs de risque cardiaques et des comorbidités.
+
+Études de cohorte
+
+Dans les publications scientifiques observationnelles, les études de cohortes sont les plus fiables, car elles peuvent clarifier la cause et les effets et aider à déterminer l’incidence et l’évolution naturelle d’une affection30. Parmi les études de cohortes disponibles qui figurent au Tableau 131–46, les études de Mozaffarian et coll. (Cardiovascular Health Study)35, d’Aizer et coll. (Physicians’ Health Study)36, d’Everett et coll. (Women’s Health Study)38 et d’Andersen et coll.39 se distinguent en raison de populations appropriées, d’un grand nombre de participants et du contrôle des diverses sources de biais.
+
+View inlineView popup
+Tableau 1
+Études de cohortes
+La Women’s Health Study38 présentait une baisse substantielle de 16 % de la FA chez les femmes qui pratiquaient des activités physiques vigoureuses 1 à 3 fois par semaine, mais cet avantage disparaissait avec l’ajustement en fonction de l’indice de masse corporelle. Aucun avantage ni risque n’a pu être démontré quant à l’influence de l’intensité ou de la fréquence de l’activité physique sur la FA. La Cardiovascular Health Study35 a montré une baisse graduelle de la FA avec l’activité physique qui s’intensifiait graduellement de légère à modérée, mais ce bienfait disparaissait avec l’exercice vigoureux; 58 % des participants étaient des femmes. La vaste base de données Danish Diet, Cancer, and Health Study32, comptant 49 % de femmes, n’a montré aucune variation de l’incidence de FA avec l’exercice, quoique très peu de sujets aient participé à des exercices vigoureux. Une autre étude d’envergure portant sur des coureurs et marcheurs41 a démontré une réduction graduelle de l’arythmie avec l’intensification de l’activité physique, les jeunes participants et les femmes ayant profité du plus grand bienfait. Les autres cohortes qui comptaient des femmes ont montré que l’activité physique n’avait aucun effet sur la FA37,40,45. Il est raisonnable de conclure que chez les femmes, l’intensification de l’activité physique s’accompagne d’un risque neutre ou réduit de FA. La participation accrue des femmes aux courses d’endurance pourrait donner plus de renseignements à ce sujet.
+
+Des essais portant sur des cohortes d’envergure dans la population générale sont l’occasion d’examiner les effets de l’exercice faible à modéré. La Cardiovascular Health Study35, qui comptait des hommes et des femmes, a pointé vers une réduction cumulative de FA incidente lorsque le niveau d’activité physique passait de faible à modéré. Une hausse liée au niveau élevé d’exercice a été observée, mais le risque chez ces participants n’était pas différent de celui des participants sédentaires (Figures 1 et 2)35,36. Drca et coll.43 n’ont montré aucune modification de la FA dans une vaste cohorte d’hommes qui faisaient de l’exercice pendant des intervalles prolongés; cependant, pour un petit sous-groupe d’hommes qui étaient actifs plus de 5 heures par semaine à 30 ans, et étaient subséquemment demeurés actifs, le risque relatif de FA était de 1,19. Dans une étude menée auprès d’une cohorte très vaste d’hommes et de femmes, Williams et Franklin41 ont proposé une réduction continuelle de 4,8 % de l’arythmie par heure d’équivalent métabolique par jour dans un agrégat de marcheurs et de coureurs (Figure 3)41. Les arythmies étaient rapportées par les patients et non différenciées, mais la FA était considérée comme contribuant le plus aux symptômes.
+
+Figure 1
+Download figureOpen in new tab
+Figure 1
+Données de l’étude Cardiovascular Health visant à déterminer les rapports de risque instantané de FA, en fonction du niveau d’exercice: Les points de données encerclés indiquent une variation données encerclés indiquent une variation statistiquement significative par rapport aux valeurs initiales.
+FA—brillation auriculaire
+Données tirées de Mozaffarian et coll.35
+Figure 2
+Download figureOpen in new tab
+Figure 2
+Données de l’étude Physicians’ Health Study visant à déterminer les rapports de risque instantané de FA, selon l’AP par semaine: Les points de données encerclés indiquent une variation statistiquement significative par rapport aux valeurs initiales.
+FA—brillation auriculaire, AP—activité physique
+Données tirées d’Aizer et coll.36
+Figure 3
+Download figureOpen in new tab
+Figure 3
+Données des études National Walkers’ et Runners’ Health visant à déterminer les rapports de risque instantané d’arythmies: Les points de données encerclés indiquent une variation statistiquement significative par rapport aux valeurs initiales.
+Données tirées de Williams and Franklin.41
+Les données qui montrent une hausse du risque de FA dans les limites supérieures d’activité physique proviennent principalement d’hommes, fonctionnant habituellement au niveau de compétition (Tableau 2)31,34,37,39,42,47–50. Un certain nombre d’études portant sur les hommes31,33,34 et quelques cohortes très vastes36,39,40,46 étayent une hausse de la FA incidente avec l’intensification de l’activité physique. Certaines de ces études se limitent aux athlètes de haut niveau, et n’ont donc pas tenu compte de l’activité plus modeste31,34,39,46. Les rapports de risque instantané (RRI) de la hausse de la FA varient de 1,2 dans l’étude Physicians’ Health Study36 à 8,8 parmi une cohorte de marathoniens34 (Tableau 1)31–46. L’étude d’Andersen et coll.39 est particulièrement intéressante; avec un suivi moyen de 9,7 ans, cette étude comptait 52 755 skieurs de fond de compétition, des athlètes en grande forme participant à une course de 90 km. Comparativement aux athlètes ayant terminé une seule course, les participants qui avaient terminé plus de 5 courses présentaient un RRI accru de 1,29 pour la FA (Figure 4)39. Il s’agit d’une étude fiable s’étant penchée sur l’activité vigoureuse, et elle prolonge la courbe dose-réponse établie par des cohortes issues de la population générale.
+
+View inlineView popup
+Tableau 2
+Études menées chez les athlètes
+Figure 4
+Download figureOpen in new tab
+Figure 4
+Rapports de risque instantané de FA chez les skieurs de compétition, en fonction du nombre de courses terminées: Les points de données encerclés indiquent une variation statistiquement signi~cative par rapport aux valeurs initiales.
+FA—fibrillation auriculaire.
+Données tirées d’Andersen et coll.39
+Plusieurs essais menés auprès d’hommes ont montré que l’exercice n’avait aucun effet32,37,44,45. Une étude de cohortes plus vaste menée par Frost et coll.32 ne s’est penchée que sur l’activité physique liée au travail et cette étude pourrait ne pas être comparable aux autres études. Pelliccia et coll.37 ont examiné une petite population d’athlètes olympiques dont l’âge moyen était de loin inférieur à l’âge moyen observé dans les autres études.
+
+Dans l’ensemble, les études de cohortes sur la FA incidente chez les hommes pointent vers l’absence d’effet ou un bienfait à des niveaux d’activité physique faibles et modérés. Dans les études sur la population générale (Figures 1 et 2)35,36, une hausse du risque est évoquée aux limites supérieures d’intensité ou de fréquence de l’exercice. Sur les essais menés auprès d’athlètes de compétition, toutes les cohortes sauf 1 petite37 ont pointé vers une hausse de la réponse proportionnelle à la dose de la FA liée à l’accroissement de l’intensité, de la fréquence ou de la durée de l’activité physique. Toutefois, l’étude de Williams et Franklin41 suscite de l’incertitude à ce niveau. L’étude examinait les résultats de l’activité plus de 3 fois plus intense que l’intensité présentement recommandée (1,8 heure d’équivalent métabolique par jour). Malgré la probabilité que certains coureurs dans cette étude (seuls 41 % étaient des hommes) approchaient le niveau d’activité observé chez les athlètes d’élite, une relation dose-réponse a été observée pour la baisse de l’arythmie à toutes les intensités d’exercice (Figure 3)41.
+
+Études menées chez les athlètes de competition
+
+La plupart des études disponibles ayant évalué les athlètes de compétition ont montré une hausse du risque de FA liés à l’activité physique plus intense (Tableau 2)31,34,37,39,42,47–50; cependant, certaines de ces études étaient des études cas-témoins ou transversales, dotées d’un grand risque de biais. Les essais les plus fiables34,39,49 proposent un RRI de 1,16 à 8,8 pour le risque accru de FA, et ce groupe d’études très hétérogène se rapproche de l’extrémité inférieure de cet intervalle. Toutes les études sauf 237,39 ne comptaient que des hommes. L’analyse effectuée par Andersen et coll., cite plus haut, est probablement la plus représentative du risque chez les athlètes d’élite (Figure 4)39.
+
+DISCUSSION
+
+Les données probantes disponibles laissent croire à une relation dose-réponse entre l’augmentation du niveau d’exercice et la réduction de la FA incidente chez les femmes. Il en va de même pour les hommes dont le niveau d’activité physique est de faible à modéré. Chez les hommes seulement, l’activité intense est associée à un risque accru de FA et ce, dans la plupart des études, mais pas la totalité d’entre elles. Ce risque est modéré, le rapport de risque instantané étant de 1,29 dans l’une des études de meilleure qualité39. Les hommes qui pratiquent des activités d’endurance de haut niveau devraient être mis au courant de la hausse modeste du risque de FA (grade 1C: forte recommandation, données de faible qualité). Le risque de FA pour la plupart des personnes qui font de l’exercice régulièrement est plus faible que dans la population sédentaire appariée. Il n’existe à l’heure actuelle aucune valeur seuil ni ligne directrice pouvant être tirée des publications.
+
+Physiopathologie
+
+On ne s’entend pas pour dire si les changements observés dans la structure et la fonction du coeur représentent une adaptation bénigne au stress causé par l’exercice ou une modification pathologique haussant le risque d’arythmies51. Il reste aussi nébuleux si l’intensification de l’activité auriculaire ectopique des veines pulmonaires produite par une intensification de l’activité physique était la cause primaire des arythmies observées16,17 ou si d’autres mécanismes dominent. Baldesberger et collègues47 n’ont pas documenté l’intensification de l’activité ectopique dans leur enquête auprès de cyclistes d’élite.
+
+De nombreux athlètes d’endurance présentent un tonus vagal accru52. Cela peut entraîner une bradycardie et un raccourcissement de la période réfractaire auriculaire, et peut servir de déclencheur ou de modulateur du rythme cardiaque, créant ainsi les conditions favorables au phénomène de réentrée.
+
+L’exercice induit une hausse de la pression dans les artères pulmonaires, ce qui est particulièrement proéminent chez les athlètes53. Durant l’activité physique, des mesures élevées de pression sont observées dans l’oreillette et le ventricule droits, avec une baisse progressive de la fraction d’éjection ventriculaire droite à mesure que l’exercice intense se prolonge54. Si le stress lié à l’exercice se poursuit et que le temps de rétablissement est insuffisant, une dilatation des cavités moins musculaires de l’oreillette et du ventricule droit en découle, ce qui entraîne, chez certaines personnes, des micro-traumatismes, de l’inflammation, de la fibrose et le substrat potentiel de l’arythmie55. Certains auteurs avancent que cela cause une myocardiopathie ventriculaire droite arythmogène liée à l’exercice53,56.
+
+En dépit des spéculations résumées dans la Figure 5, il n’existe pas de mécanisme physiologique établi pouvant expliquer un lien entre l’exercice intense et la FA.
+
+Figure 5
+Download figureOpen in new tab
+Figure 5
+Caractéristiques de l’exercice d’endurance qui favoriserait la FA
+FA—fibrillation auriculaire
+Pronostic
+
+Les probabilités qu’un athlète de haut niveau atteint de FA présente des comorbidités sont faibles. Le sous-ensemble de la population qui présente ces constatations est généralement des hommes de moins de 60 ans dont l’examen physique, la radiographie des poumons, l’électrocardiogramme et l’échocardiogramme sont normaux57 — donc qui répondent au critère de l’affection appelée précédemment FA isolée. L’effet de l’exercice sur les facteurs de risque tels que l’hypertension et l’intolérance au glucose, jumelé à l’effet de la présélection de personnes en bonne santé qui tolèrent mieux l’activité physique18 pourrait prédisposer les athlètes à un risque cardiovasculaire inférieur au fil du temps. Dans une étude, 19 % des cas de FA paroxystique dans la population générale se sont détériorés en FA permanente sur 10 ans58. Dans une autre étude menée auprès d’athlètes atteints de FA ayant été suivis pendant 9 ans, la FA paroxystique s’était maintenue chez 56 % d’entre eux, la FA paroxystique s’était détériorée en FA permanente chez 18 % d’entre eux et aucun symptôme n’a été observé chez 26 % d’entre eux59. Bien qu’on puisse en tirer une valeur pronostique, l’expression FA isolée n’est probablement pas utile, puisque la prise en charge vise principalement la prévention de la thromboembolie et la maîtrise des symptômes, comme c’est le cas pour toutes les FA60.
+
+Les rapports de cotes relatifs à la mortalité dans les cas de FA ont été estimés dans l’étude de Framingham comme se situant de 1,5 à 1,9, le risque le plus faible étant présenté par les hommes61. Les données disponibles sur les athlètes atteints de FA montrent soit aucune variation47, soit une réduction de la mortalité cardiovasculaire et toutes causes confondues39,62.
+
+De nombreuses méta-analyses ont démontré sans exception que l’activité physique réduisait la mortalité, pour faire passer la réduction de 15 à 50 % sur des périodes variées63–70. Cette réduction a aussi été observée dans des études effectuées auprès d’athlètes exclusivement66,70,72–75. À la plus grande intensité, on pourrait croire à une perte de la réduction de la mortalité76–79; dans aucun cas toutefois, le risque est plus grand que dans la population sédentaire.
+
+Résolution du cas
+
+H.R. ne présente aucun facteur de risque identifié de FA ou de maladie cardiaque et, comme il fait du jogging, s’est déjà identifié comme présentant un risque relatif inférieur de mortalité cardiovasculaire et toutes causes confondues. Puisqu’il est un homme de 60 ans, le risque présenté par H.R. d’avoir une FA est de 5,7 %7. Son niveau d’activité actuel serait lié à une hausse de 30 % du risque relatif de développer une FA39. Son risque sur 10 ans de développer une FA pourrait alors osciller aux alentours de 7,4 %.
+À titre d’arpenteur et d’alpiniste, H.R. doit être très en forme pour maintenir sa qualité de vie. Il opte pour maintenir son niveau d’activité actuel et accepte la hausse modeste du risque que cela représente. Vous lui dites qu’une réduction de son activité physique à un niveau modéré est liée à un risque de FA inférieur à la moyenne tout en préservant les bienfaits pour la santé de l’exercice.
+Conclusion
+
+La fibrillation auriculaire est probablement moins fréquente à mesure que le niveau d’activité physique augmente, la relation dose-réponse étant démontrable. À toutes les intensités, l’exercice doit être encouragé pour ses effets sur le bien-être physique et la réduction de la mortalité. Chez les hommes qui pratiquent des activités vigoureuses, les effets bénéfiques sur la FA pourraient disparaître et le risque pourrait surpasser celui observé dans la population sédentaire; cependant les données probantes ne sont ni robustes ni uniformes. Ces hommes devraient être informés de cette hausse modeste du risque s’ils choisissent de poursuivre ces activités physiques vigoureuses.
+
+Notes
+
+POINTS DE REPÈRE DU RÉDACTEUR
+
+Cette révision s’est penchée sur les données probantes portant sur les effets de l’exercice extrême sur l’incidence de fibrillation auriculaire (FA) et a fait ressortir un lien entre l’intensification de l’activité physique et une incidence réduite de FA lorsque le niveau d’exercice est de faible à modéré chez les hommes et de toutes les intensités chez les femmes.
+
+Chez les hommes seulement, il pourrait exister un lien entre l’activité physique très vigoureuse et l’incidence accrue de FA, mais l’ampleur de cette hausse est modeste, et il n’y a aucun effet sur la mortalité.
+
+Il faut encourager les patients à maintenir un programme d’exercice de n’importe quelle intensité afin de favoriser le bien-être et de réduire le risque de mortalité. Les hommes qui pratiquent une activité d’endurance vigoureuse doivent savoir qu’il y aurait un lien entre cette activité et une hausse modeste du risque de FA. Il n’existe pour l’heure aucune valeur seuil ni ligne directrice pouvant être tirée des publications actuelles.
+
+Footnotes
+
+The English version of this article is available at www.cfp.ca on the table of contents for the December 2015 issue on page 1061.
+
+Intérêts concurrents
+
+Aucun declare
+
+Copyright© the College of Family Physicians of Canada

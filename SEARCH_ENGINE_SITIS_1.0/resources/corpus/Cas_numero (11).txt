@@ -1,0 +1,97 @@
+Cardiomyopathie du post-partum chez une Sénégalaise : cas clinique
+Observation
+Une femme de 29 ans, Sénégalaise, sans antécédent pathologique connu, est admise à ‘Hôpital Principal de
+Dakar pour une dyspnée d’effort progressivement croissante. La symptomatologie est apparue deux
+semaines après un accouchement non compliqué. Il s’agit de la troisième grossesse. Les deux premières
+grossesses se sont déroulées normalement.
+A l’examen, la patiente est au stade IV de la New York Heart Association (NYHA). Il n’existe ni cyanose, ni
+anémie clinique. La tension artérielle est à 120/80 mmHg, le pouls à 106/mn. Il existe une hépatomégalie
+douloureuse avec reflux hépato-jugulaire et des œdèmes bilatéraux des membres inférieurs. A
+l’auscultation, on note un B4, un souffle proto-méso-systolique 2/6 à l’endapex. Il n’y a pas de frottement
+péricardique. A l’auscultation pulmonaire, il existe des râles de stase aux 2 bases.
+Le reste de l’examen est sans anomalie.
+Examens paracliniques
+Electrocardiogramme : rythme sinusal à 100/mn, nombreuses extrasystoles ventriculaires, hypertrophie
+ventriculaire gauche
+Téléthorax : cardiomégalie développée aux dépens du ventricule gauche (VG) et du ventricule droit (VD). Le
+rapport cardio-thoracique est à 0,65. Redistribution vasculaire vers les sommets, stase périhilaire bilatérale.
+Echocardiographie : hypokinésie globale, dilatation du VG et du VD, miniaturisation et excentration de la
+valve mitrale, absence d’épanchement péricardique, thrombus intraventriculaire (figure 1).
+NFS : globules rouges : 3 900 000/mm3, taux d’Hb : 12 g/dl, globules blancs : 7 600/mm3, polynucléaires
+neutrophiles : 50%, éosinophiles : 3%, lymphocytes : 45%.
+Figure 1. Echocardiographie transthoracique en incidence sous-costale : volumineuse dilatation du
+ventricule gauche, présence d'un thrombus intraventriculaire gauche.
+Questions
+1- Quel est votre diagnostic ?
+2- Quel(s) examen(s) complémentaire(s) sont utiles pour confirmer le diagnostic ?
+3- Quelles sont les principales caractéristiques de cette maladie ?
+4- Quelle en est l’étiopathogénie ?
+5- Quel traitement allez-vous prescrire ?
+6- Quelle est l'évolution attendue sous traitement médical ?
+2
+Discussion
+1- Il s’agit d’une défaillance cardiaque globale chez une femme jeune, multipare, apparue dans les suites
+immédiates d’un accouchement normal.
+On discute :
+- une embolie pulmonaire survenant dans le post-partum : la présence de signes d’insuffisance ventriculaire
+gauche permet d’écarter cette hypothèse;
+- une valvulopathie décompensée : valvulopathie mitrale méconnue, mais il n’existe aucun antécédent
+pathologique, la grossesse et l’épreuve d’effort du travail se sont déroulés sans incident, le souffle systolique
+perçu à l’endapex ne présente pas les caractères d’un souffle d’insuffisance mitrale;
+- une cardiomyopathie décompensée est l’éventualité la plus probable. La survenue d’une insuffisance
+cardiaque globale due à une cardiopathie dilatée dans le contexte du post-partum chez une femme noire,
+multipare permet, en l’absence de pathologie cardiaque antérieure, de retenir le diagnostic de
+cardiomyopathie du post-partum ou du peri-partum (CMPP) ou maladie de Meadow (décrite en 1960).
+2- L’échocardiographie est l’examen indispensable pour le diagnostic de CMPP : aspect de cardiomyopathie
+dilatée à parois non épaisses avec dilatation du VG globalement hypokinétique, mise en évidence d'une
+éventuelle thrombose intra-cavitaire. Cette cardiopathie hypokinétique permet, compte tenu du contexte, le
+diagnostic de CMPP. Une échographie Doppler cardiaque serait utile : elle montrerait un flux de remplissage
+auriculo-ventriculaire inversé témoignant d’un trouble de la relaxation, et l’absence de valvulopathie
+significative.
+3- La CMPP est une affection rare, sauf en Afrique noire : 1 cas pour 1 200 accouchements en milieu
+hospitalier à Dakar. C’est une maladie de la femme noire, en général de plus de 30 ans, rurale, multipare, de
+bas niveau socio-économique.
+La CMPP peut se voir à la première grossesse, mais en général il s’agit d’une affection de la multipare après
+trois grossesses. La grossesse gémellaire est un facteur favorisant.
+Le tableau clinique est celui d’une insuffisance cardiaque gauche ou globale d’évolution rapide, de type
+cardiomyopathie dilatée en apparence primitive. Il importe, avant de retenir le diagnostic de CMPP,
+d’éliminer toutes les cardiomyopathies secondaires (valvulaire, ischémique, hypertensive, congénitale, …),
+ainsi que les myocardies nutritionnelles (avitaminose B1) ou anémique (taux d’hémoglobine < 8g/dl).
+La CMPP se complique d’insuffisance cardiaque irréductible, d’embolie pulmonaire ou cérébrale, de troubles
+du rythme ventriculaire. Une thrombose intra-ventriculaire est présente dans environ 20% des cas et confère
+à cette cardiomyopathie un caractère volontiers emboligéne. L'hypokinésie ventriculaire, associée à la mise
+en évidence récente de taux élevé d'interleukine-6 dont on connait les propriétés d'activation plaquettaire,
+rendent compte de la propension à la thrombose de cette affection.
+4- L’étiologie des la cardiomyopathie du postpartum est inconnue. Les étiologies infectieuse, nutritionnelle,
+immunologique ne sont pas retenues. L’hypothèse actuelle est l’émergence clinique dans le post-partum
+d’une insuffisance cardiaque qui serait latente chez toute femme dans le post-partum (prouvée par des
+explorations cardiologiques). L’émergence clinique de la CMPP serait due à des facteurs variables : états
+inflammatoires, infections, carences, excès de travail physique, poussée tensionnelle, …
+5- Le traitement comporte le traitement symptomatique de toute cardiopathie décompensée : mesures
+hygiéno-diététiques : repos strict et prolongé au lit, condition impérative dans une CMPP, régime sans sel ;
+diurétiques (furosémide); inhibiteurs de l’enzyme de conversion ; anticoagulants prescrits systématiquement,
+vu la fréquence des embolies ; bêtabloquants, après stabilisation hémodynamique. La plus grande prudence
+est recommandée dans le maniement des digitaliques vu les extrasystoles ventriculaires.
+6- L’évolution sous traitement est toujours préoccupante. La mortalité à court terme atteint un tiers des cas
+par œdème pulmonaire, insuffisance cardiaque réfractaire, troubles du rythme cardiaque, embolies. Dans un
+tiers des cas, l’évolution à moyen terme est celle d’une cardiomyopathie dilatée définitive avec une mortalité
+de 85% à 5 ans. Une transplantation cardiaque doit être alors proposée, mais c’est une intervention lourde
+et coûteuse avec une fréquence élevée de rejet, inaccessible dans les régions où sévit la CMPP. Il y a dans
+le dernier tiers une régression complète clinique et échocardiographique aboutissant à une guérison sans
+séquelles, l’évolution favorable se dessinant dans les 3 mois après le début, mais il y a toujours un risque de
+rechute lors d’une grossesse ultérieure, d’où l’obligation d’une contraception.
+Dans le cas présenté, on a noté sous traitement médical symptomatique de l’insuffisance cardiaque, à
+l’exception des digitaliques, une rapide stabilisation suivie par échocardiographies avec normalisation de la
+fonction ventriculaire gauche au troisième mois. Une ligature des trompes a été acceptée par cette jeune 
+3
+femme, déjà mère de trois enfants.
+Références
+- Aubry P., Touze J.E. Myocardiopathie du post-partum. Cas cliniques en Médecine Tropicale. La Duraulié
+édit., 1990, pp. 196-197.
+- Bertrand E. La cardiomyopathie du post-partum. Méd. Trop. , 1996, 56, 45S, 46S.
+- Cloatre G., Guy P.M., Niang B et coll. Particularités étiopathogéniques échographiques et évolutives de la
+myocardiopathie du post-partum. Méd. Trop., 1996, 56, 376-380.
+- Touze J.E., Peyron F., Malvy D. Une dyspnée dans le post-partum. Médecine Tropicale au quotidien. 100
+cas cliniques. Format Utile. Editions Varia, 2001, pp. 268-270.
+- Sliwa K., Fett J., Elkayam V. Peripartum cardiomyopathy. Lancet, 2006, 368, 687-603.
+Professeur Pierre Aubry. Texte revu le 03/01/2014. 

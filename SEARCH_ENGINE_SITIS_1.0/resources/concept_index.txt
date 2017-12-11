@@ -1,36 +1,38 @@
-1,.\resources\corpus\1.txt,0,hematology,12.105267
-2,.\resources\corpus\10.txt,1,hematology,9.147819
-3,.\resources\corpus\12.pdf,2,cardiology,197.11134
-4,.\resources\corpus\14.txt,3,cardiology,77.19946
-5,.\resources\corpus\15.txt,4,cardiology,112.56955
-6,.\resources\corpus\16.txt,5,cardiology,108.030235
-7,.\resources\corpus\17.txt,6,cancerology,61.404152
-8,.\resources\corpus\18.txt,7,cancerology,21.12839
-9,.\resources\corpus\2.txt,8,hodgkin,11.212849
-10,.\resources\corpus\20.txt,9,hematology,21.782211
-11,.\resources\corpus\21.txt,10,hematology,10.357357
-12,.\resources\corpus\22.txt,11,endocrinology,54.883163
-13,.\resources\corpus\23.txt,12,endocrinology,61.33669
-14,.\resources\corpus\24.txt,13,endocrinology,215.97179
-15,.\resources\corpus\25.txt,14,hematology,17.08791
-16,.\resources\corpus\26.txt,15,hematology,77.67756
-17,.\resources\corpus\27.txt,16,hematology,75.81345
-18,.\resources\corpus\3.txt,17,hematology,21.203608
-19,.\resources\corpus\4.txt,18,hematology,9.691572
-20,.\resources\corpus\5.txt,19,hodgkin,5.6064243
-21,.\resources\corpus\6.txt,20,hematology,11.608448
-22,.\resources\corpus\7.txt,21,hodgkin,10.127866
-23,.\resources\corpus\8.txt,22,cancerology,19.963804
-24,.\resources\corpus\9.txt,23,cancerology,19.912596
-25,.\resources\corpus\Allergic diseases of the skin and drug allergies – 2033. Metronidazole skin testing associated with systemic reaction .pdf,24,skin allergy,38.376404
-26,.\resources\corpus\Influence of breast compression pressure on the performance of population-based mammography screening.pdf,25,breast cancer,66.76132
-27,.\resources\corpus\Inhibition of breast cancer resistance protein at the murine blood-brain barrier by Ko143 studied with [11C]tariquidar and PET  .pdf,26,breast cancer,14.410021
-28,.\resources\corpus\Obesity reversibly depletes the basal cell population and enhances mammary epithelial cell estrogen receptor alpha expression and progenitor activity.pdf,27,breast cancer,212.34401
-29,.\resources\corpus\Primary brain tumours following breast cancer  .pdf,28,lung carcinoma,13.257145
-30,.\resources\corpus\Rabies virus has more than one trick up its sleeve to manipulate the host defences.pdf,29,rabies,98.04844
-31,.\resources\corpus\Rabies virus receptors.pdf,30,rabies,74.637405
-32,.\resources\corpus\Smoking and risk of breast cancer in the Generations Study cohort.pdf,31,smoking,102.196014
-33,.\resources\corpus\Synthesis, biological evaluation and structure-activity relationship studies of hederacolchiside E and its derivatives as potential anti-Alzheimer agents.pdf,32,alzheimer,81.40604
-34,.\resources\corpus\The effect of smoking, drinking and smoking cessation on morbidity and mortality in oral cancer- a controlled study.pdf,33,smoking,54.127003
-35,.\resources\corpus\Thyroid disorders and pregnancy.pdf,34,pregnancy,54.469448
-36,.\resources\corpus\Thyrotoxicosis and pregnancy.pdf,35,pregnancy,70.154686
+1;.\resources\corpus\14.txt;0;hématologie;46.103188
+2;.\resources\corpus\15.txt;1;cardiologie;33.88698
+3;.\resources\corpus\16.txt;2;grossesse;53.309143
+4;.\resources\corpus\17.txt;3;cancérologie;64.26047
+5;.\resources\corpus\18.txt;4;la rage;24.64686
+6;.\resources\corpus\20.txt;5;hodgkin;31.17015
+7;.\resources\corpus\21.txt;6;cancérologie;12.688908
+8;.\resources\corpus\22.txt;7;endocrinologie;48.97975
+9;.\resources\corpus\23.txt;8;endocrinologie;60.26578
+10;.\resources\corpus\24.txt;9;endocrinologie;144.02754
+11;.\resources\corpus\25.txt;10;hématologie;20.47393
+12;.\resources\corpus\26.txt;11;hématologie;72.588036
+13;.\resources\corpus\27.txt;12;hématologie;73.74582
+14;.\resources\corpus\Cas_numero (1).txt;13;cardiologie;23.604511
+15;.\resources\corpus\Cas_numero (10).txt;14;cardiologie;32.601696
+16;.\resources\corpus\Cas_numero (11).txt;15;cardiologie;27.20844
+17;.\resources\corpus\Cas_numero (12).txt;16;endocrinologie;22.88007
+18;.\resources\corpus\Cas_numero (13).txt;17;allergie;23.127516
+19;.\resources\corpus\Cas_numero (14).txt;18;cardiologie;22.194424
+20;.\resources\corpus\Cas_numero (15).txt;19;endocrinologie;19.72689
+21;.\resources\corpus\Cas_numero (16).txt;20;cardiologie;63.72136
+22;.\resources\corpus\Cas_numero (17).txt;21;cardiologie;40.683674
+23;.\resources\corpus\Cas_numero (18).txt;22;cardiologie;76.6245
+24;.\resources\corpus\Cas_numero (19).txt;23;grossesse;46.301155
+25;.\resources\corpus\Cas_numero (2).txt;24;endocrinologie;7.9134016
+26;.\resources\corpus\Cas_numero (20).txt;25;cardiologie;15.340504
+27;.\resources\corpus\Cas_numero (3).txt;26;cardiologie;16.175396
+28;.\resources\corpus\Cas_numero (4).txt;27;cardiologie;47.600662
+29;.\resources\corpus\Cas_numero (5).txt;28;cardiologie;77.78566
+30;.\resources\corpus\Cas_numero (6).txt;29;cardiologie;44.3584
+31;.\resources\corpus\Cas_numero (7).txt;30;cardiologie;10.86174
+32;.\resources\corpus\Cas_numero (8).txt;31;cardiologie;58.56515
+33;.\resources\corpus\Cas_numero (9).txt;32;cardiologie;33.81476
+34;.\resources\corpus\d1.txt;33;alzheimer;29.712164
+35;.\resources\corpus\d2.txt;34;alzheimer;11.844432
+36;.\resources\corpus\d3.txt;35;alzheimer;17.074394
+37;.\resources\corpus\d4.txt;36;alzheimer;15.830898
+38;.\resources\corpus\d5.txt;37;alzheimer;11.3049

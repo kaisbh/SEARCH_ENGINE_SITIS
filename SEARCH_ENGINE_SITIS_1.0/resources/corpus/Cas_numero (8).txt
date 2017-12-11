@@ -1,0 +1,140 @@
+«Je suis un peu essoufflé» Quand un symptôme banal cache une maladie rare : l’amyloïdose cardiaque
+
+Hakan Celik, Sophie Excoffier, Sophie Durieux-Paillard	Rev Med Suisse 2014; volume 10. 1619-1623
+
+Résumé
+
+A partir d’une vignette clinique, cet article fait le point sur les atteintes cardiaques de l’amyloïdose, affection provoquée par l’accumulation extracellulaire de fibrilles protéiques (la substance amyloïde) qui envahissent progressivement les tissus des organes, dont elles perturbent le fonctionnement. L’expression clinique dépend du type de substance amyloïde et de sa distribution principale. L’atteinte cardiaque la plus sévère et de mauvais pronostic se trouve dans sa forme primaire (ou AL), alors qu’elle est plus rare, d’évolution plus lente ou de meilleur pronostic dans ses autres formes : secondaire (AA), familiale (ATTR) ou sénile (SSA).
+HISTOIRE CLINIQUE
+
+Au printemps 2008, M. B, 51 ans, demandeur d’asile originaire de la République démocratique du Congo (RDC), se présente à ma consultation. Sa dernière visite remonte à 2006 ; le dossier mentionne qu’il est porteur sain de l’hépatite B. A l’anamnèse, je découvre une situation psychosociale complexe : venu en Suisse il y a cinq ans, après avoir passé dix ans en Allemagne, il est actuellement débouté de sa procédure d’asile et devrait être expulsé vers la RDC. «Je n’ai nulle part où aller, Docteur, j’en peux plus…». Je comprends son désarroi, mais que puis-je faire de plus que de l’écouter, valoriser sa capacité d’adaptation et l’adresser à une permanence juridique ? Je vois qu’il est déçu de ma réponse. mais, en fin de consultation, il mentionne : «Je voulais vous dire, docteur, je suis un peu essoufflé quand je monte les escaliers».
+
+L’examen cardiopulmonaire est normal. Par acquis de conscience, je prescris une radiographie du thorax : le cliché met en évidence une cardiomégalie importante, avec redistribution vasculaire vers les apex et des épanchements pleuraux bilatéraux. Les examens se succèdent : l’ECG (figure 1) montre un microvoltage dans les dérivations standards ; le Holter, de fréquentes extrasystoles ventriculaires ; et l’échographie cardiaque, un ventricule gauche de taille normale, mais avec une importante hypertrophie concentrique. Au test d’effort, le patient atteint 75% de la fréquence cardiaque maximale théorique et les cardiologues conseillent une IRM cardiaque avec épreuve de stress : elle met en évidence une cardiomyopathie hypertrophique, symétrique, avec altération de la fonction ventriculaire gauche (FEVG : 42%), associée à une valve aortique biscuspide, non sténosante (figures 2 et 3). Le radiologue pense à une amyloïdose. Je ne m’attendais pas à ce diagnostic, dont je n’avais qu’un vague souvenir d’études. Malgré les traitements prodigués avec l’aide des spécialistes, l’affection cardiaque progresse et le patient décède à l’hôpital, en août 2009.
+
+Figure 1.
+Microvoltage caractéristique dans les dérivations périphériques
+ 
+Figure 2.
+Séquence ciné-IRM quatre cavités montrant des épanchements pleuraux bilatéraux, une lame d’épanchement péricardique et un épaississement circonférentiel du myocarde
+ 
+Figure 3.
+Séquence PSIRPSIR : Phase Sensitive Inversion Recuperation.Il s’agit d’une séquence de rehaussement tardif, mettant en évidence l’infiltration diffuse du myocarde par un hypersignal dans l’ensemble du myocarde, atteignant également les parois des oreillettes et le septum interauriculaire.
+ 
+Le but de cet article est de faire le point sur les manifestations cliniques, le pronostic et le traitement des amyloïdoses cardiaques.
+
+UNE MALADIE RARE
+
+L’amyloïdose est causée par le dépôt extracellulaire insoluble de sous-unités protéiques, créant des fibrilles. C’est une pathologie multisystémique, les fibrilles envahissant et altérant la fonction normale du cœur, du foie, du système nerveux périphérique et du rein. Le type d’amyloïde, sa distribution et son taux d’envahissement tissulaire déterminent l’expression clinique. Il est rare qu’elle se manifeste uniquement par une forme cardiaque.
+
+PATHOGENÈSE
+
+Le type d’amyloïdose est déterminé par la protéine à l’origine des fibrilles.
+
+Amyloïdose primaire (AL)
+
+La forme la plus courante est l’amyloïdose primaire (AL), due à la surproduction de chaînes légères d’immunoglobulines. Son incidence annuelle, difficile à évaluer, est estimée à 6-10 cas/million.1 L’atteinte est multi-organique, avec atteinte cardiaque dans 50% des cas.2 Cette dernière détermine le pronostic, estimé à une survie de quatre ans sans atteinte cardiaque et restreint à huit mois en cas d’atteinte cardiaque sévère.1 C’est la forme que présentait notre patient.
+
+Amyloïdose secondaire (AA)
+
+L’amyloïdose AA est secondaire aux processus inflammatoires chroniques mal contrôlés (arthrite rhumatoïde, spondylarthrites, maladies de Crohn, fièvre périodique, tuberculose…). Dans ce cas, les fibrilles amyloïdes sont produites à partir du SAA (serum amyloid A protein), une protéine impliquée dans la phase aiguë de l’inflammation.3 Cette forme provoque rarement une atteinte cardiaque (2-5% des cas).1 L’atteinte est plutôt rénale ou hépatique. On la voit peu dans les pays occidentaux (sauf chez les patients migrants), où les formes chroniques de maladies infectieuses/inflammatoires sont devenues rares.
+
+Amyloïde familiale (ATTR)
+
+L’amyloïdose ATTR ou familiale est une affection génétique autosomique dominante, liée à une mutation de la transthyrétine, ou préalbumine.4 Elle est souvent associée à un syndrome du canal carpien. L’atteinte cardiaque est plus rare que dans les formes AL et sénile et, si elle existe, son évolution est lentement progressive. La survie à cinq ans est de 75%.4
+
+Amyloïdose sénile (SSA)
+
+L’amyloïdose sénile ou SSA (systemic senile amyloïdosis) est fréquente à l’âge avancé : sa prévalence est de 20-25% après 80 ans ;1,5 elle touche principalement les hommes.6 La protéine précurseur des dépôts amyloïdes est dérivée de la transthyrétine normale (wild type). L’atteinte cardiaque est prédominante, contrairement à la forme ATTR. Contrairement à la forme AL, l’évolution est lentement progressive, avec une survie à cinq ans de 98%.
+
+Autres formes d’amyloïdose
+
+Il existe encore d’autres formes d’amyloïdose, qui ne feront pas l’objet de cet article, mais qui sont mentionnées dans le tableau 1.
+
+Tableau 1.
+Nomenclature et classification des amyloïdoses
+ 
+COMMENT POSER LE DIAGNOSTIC ?
+
+Manifestations cliniques
+
+Le diagnostic doit être évoqué chez les patients présentant une insuffisance cardiaque inexpliquée, associée à une hypertrophie des cavités. La présence concomitante d’une protéinurie, d’une hépatomégalie ou d’une neuropathie évoque une forme primaire (AL).
+
+Les syncopes sont souvent associées à l’effort ou à un stress et constituent un facteur de risque de mort subite. Plusieurs éléments peuvent y contribuer : présence d’une cardiomyopathie restrictive sous-jacente, usage de diurétiques, atteinte amyloïde du système nerveux autonome, troubles ventriculaires.1
+
+Les douleurs thoraciques peuvent être au premier plan. Elles sont liées aux dépôts amyloïdes qui se forment dans les vaisseaux intramyocardiques. La coronarographie ne contribue pas au diagnostic : elle est le plus souvent normale car les artères coronariennes épicardiques sont épargnées.7
+
+Le risque thrombo-embolique est augmenté dans l’amyloïdose primaire, bien que les patients soient souvent plus jeunes et que le rythme sinusal soit plus souvent maintenu que dans les autres formes.8 Il est lié à la dysfonction électromécanique de l’oreillette. Dans cette situation, l’anticoagulation est conseillée en cas d’épisodes de fibrillation auriculaire (FA) et son usage est également à envisager, même en rythme sinusal si la dysfonction atriale est sévère.6 Le traitement anticoagulant doit être suivi de près, le risque hémorragique pouvant être accentué par des troubles de la coagulation, par diminution du facteur X, qui se lie aux fibrilles amyloïdes aux niveaux hépatique et splénique, et par synthèse hépatique perturbée lors d’atteinte hépatique avancée. Une atteinte vasculaire (infitration amyloïde des parois vasculaires de la microcirculation) accentue encore le risque de complications.9,10
+
+Le tableau 2 répertorie les manifestations cliniques cardiaques et extracardiaques.
+
+Tableau 2.
+Manifestations cliniques principales de l’amyloïdose primaire (AL)Librement inspiré de Up-to-date «an overview of amyloidosis».
+ 
+Examens complémentaires
+
+Recherche de chaînes légères dans le sang et les urines
+
+Cela se fait par dosage des immunoglobulines et recherche d’une paraprotéine monoclonale à l’électrophorèse, ou par immunofixation, pour les formes AL.11 L’électrophorèse permet également de suivre l’évolution des chaînes légères pendant la chimiothérapie.
+
+ECG
+
+Les anomalies les plus fréquentes sont le microvoltage dans les dérivations périphériques (50% des formes cardiaques) et des signes de pseudo-ischémie (47%), sans infarctus vrai à l’échocardiographie.1 Les signes électriques d’hypertrophie ventriculaire gauche (HVG) sont plus rares (environ 16%), comme le flutter et la FA.8 La FA est retrouvée dans 30% des formes SSA, 10% des formes ATTR et 20% des formes AL.4 Les atteintes des faisceaux de conduction sont aussi assez fréquentes.
+
+Echocardiographie
+
+L’échocardiographie est l’examen de choix pour le diagnostic et le suivi d’une dysfonction cardiaque. Aucun signe n’est spécifique, mais l’association de plusieurs anomalies doit faire évoquer le diagnostic, notamment :
+
+épaississement symétrique concentrique, prédominant au niveau du ventricule gauche, avec dysfonction diastolique, sans dilatation des ventricules et fraction d’éjection conservée ;
+
+ratio voltage ECG sur masse ventriculaire diminué ;6
+
+épaississement du septum interventriculaire >12 mm, en l’absence de valvulopathie aortique ou d’hypertension ;4,11
+
+augmentation de l’échogénicité, associée à un aspect «granité brillant» du myocarde.2
+
+IRM cardiaque
+
+Elle offre une meilleure discrimination anatomique que l’échographie. Dans la forme AL, on note un «rehaussement tardif» de l’endocarde par le gadolinium, en raison de la présence de dépôts amyloïdes,1,4,11 qui sont relativement spécifiques de la maladie. L’examen est cependant à utiliser prudemment en raison du risque de fibrose systémique dû à la néphrotoxicité du gadolinium ; il est contre-indiqué si la clairance de la créatinine est inférieure à 30 ml/min.4
+
+Biomarqueurs cardiaques
+
+Dans la forme AL, l’élévation du NT-pro-BNP (brain natriuretic peptid) a une valeur pronostique s’il est supérieur à 152 pmol/l, marquant un risque accru de mortalité.1 De même, ce peptide est un marqueur de l’efficacité de la chimiothérapie s’il diminue de 30% après trois cycles.12 Les troponines sont des marqueurs de l’atteinte cardiaque et ont également une valeur pronostique dans la forme AL.5
+
+Biopsie
+
+La biopsie cardiaque induit des risques (perforation myocardique) et n’est indiquée qu’en dernier recours. La présence de signes échographiques typiques et d’une histologie positive sur un autre tissu (graisse abdominale, rectum, rein, foie) la rend inutile.
+
+La biopsie à l’aiguille du tissu graisseux abdominal est l’examen le plus simple à réaliser ; sa sensibilité est d’environ 80%, mais elle est négative chez 15% des patients atteints d’amyloïdose cardiaque. En microscopie optique, sous lumière polarisée et coloration rouge Congo, l’aspect des dépôts d’amyloïde est caractéristique avec une «biréfringence de coloration vert pomme».
+
+TRAITEMENT
+
+Le traitement a deux visées : symptomatique, pour agir sur la dysfonction cardiaque et spécifique, pour réduire la production de fibrilles et /ou favoriser leur élimination.
+
+Traitements symptomatiques
+
+De nombreux médicaments utilisés de routine en cardiologie sont contre-indiqués ou à utiliser avec prudence. Les bêtabloquants en raison de leur effet chronotrope négatif, de même que les inhibiteurs de l’enzyme de conversion (IEC) car, même à petites doses, ils génèrent de fortes hypotensions ; la digoxine et les anticalciques également, en raison de leur potentielle liaison avec les dépôts de fibrilles, induisant une toxicité élevée.1,4 L’amiodarone reste le traitement préconisé pour les troubles du rythme, notamment supraventriculaires et les diurétiques, de l’anse principalement, pour la gestion volémique.
+
+Traitements spécifiques
+
+Les chimiothérapies et la transplantation autologue de moelle osseuse sont la base du traitement des formes AL ; leur description détaillée sort du cadre de cet article.
+
+La transplantation hépatique peut être indiquée dans l’amyloïdose ATTR, le foie étant le principal lieu de synthèse de la transthyrétine. On note cependant un risque de récidive par dépôt de la protéine normale sur celui déjà constitué de fibrilles anormales.4
+
+La transplantation cardiaque est indiquée chez les patients en bon état général, porteurs d’une atteinte cardiaque limitée.
+
+L’implantation de défibrillateur a été envisagée pour prévenir la survenue de mort subite, mais s’est révélée décevante, la mort subite étant le plus souvent due à une dissociation électromécanique.1,4
+
+CONCLUSION
+
+L’amyloïdose cardiaque est une affection rare, à laquelle il faut penser devant l’association d’un microvoltage à l’ECG et de signes échographiques typiques, en l’absence d’HTA ou de valvulopathie. Le type d’amyloïdose doit être identifié le plus précocement possible, car les formes primaires (AL) peuvent bénéficier, si l’état général du patient le permet, de chimiothérapies, voire de greffes autologues de moelle. Plusieurs médicaments classiquement utilisés en cas d’insuffisance cardiaque sont contre-indiqués en cas d’amyloïdose cardiaque, d’où la nécessité d’une prise en charge coordonnée et multidisciplinaire. Dans les formes ATTR, une enquête familiale est indiquée pour identifier précocement d’autres membres de la famille.
+
+Remerciements
+
+Nos vifs remerciements vont au Dr Anne-Lise Hachulla Lemaire, chef de clinique au Service de radiologie des HUG, qui nous a aidés à sélectionner les clichés d’IRM cardiaque qui illustrent cet article.
+
+Implications pratiques
+
+> Le diagnostic d’amyloïdose cardiaque doit être évoqué devant l’association de signes évocateurs à l’ECG : microvoltages à l’ECG et, à l’échographie, hypertrophie du myocarde sans valvulopathie ou hypertension artérielle associées, même si ces anomalies ne sont pas spécifiques
+> Concernant l’amyloïdose primaire (forme dite AL), compte tenu du mauvais pronostic dans les formes avancées, il est primordial de faire un diagnostic précoce afin de proposer au patient les traitements les plus efficaces : chimiothérapie et transplantation autologue de moelle
+> L’amyloïdose sénile touche un quart des personnes de 80 ans et plus
+> Dans l’amyloïdose cardiaque, plusieurs médicaments antihypertenseurs ou inotropes utilisés habituellement (bêtabloquants, inhibiteurs de l’enzyme de conversion (IEC), digoxine et anticalciques) sont contre-indiqués ou à utiliser avec prudence

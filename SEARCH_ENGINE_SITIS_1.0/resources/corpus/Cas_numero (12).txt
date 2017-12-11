@@ -1,0 +1,328 @@
+La néphropathie chronique comment y mettre un frein ?
+
+Annie-Claire Nadeau-Fredette
+La Dre Annie-Claire Nadeau-Fredette, néphrologue, effectue actuellement une formation complémentaire
+en dialyse autonome au Toronto General Hospital, à Toronto, et au Princess Alexandra Hospital, à Brisbane,
+en Australie. Elle se joindra ensuite à l’équipe de néphrologie de l’Hôpital Maisonneuve-Rosemont, à Montréal.
+
+M. Laforce, 55 ans, vient vous voir pour un suivi. C’est la première fois en deux ans!
+Il a cessé ses antihypertenseurs depuis plusieurs mois. Heureusement, il prend toujours
+ses insulines. Aujourd’hui, sa pression artérielle est de 165 mmHg/95 mmHg. Par ailleurs,
+vous constatez que son obésité abdominale a évolué. Ses analyses récentes mettent
+en évidence une néphropathie chronique de légère à modérée, sa créatininémie atteignant
+125 µmol/l (DFGe: 55 ml/min/1,73 m2), ainsi qu’une protéinurie équivalant à 600 mg/24 h.
+Il y a deux ans, sa créatininémie était de 115 µmol/l. Vous expliquez ces résultats
+à M. Laforce qui se dit prêt à tout pour éviter l’évolution de son état. Par où commencer?
+
+1. L’hypertension artérielle et la protéinurie sont les principaux facteurs de
+risque d’évolution de la néphropathie chronique. ( (
+2.
+En cas de néphropathie chronique, la pression artérielle la plus basse
+possible est souhaitable afin de prévenir les accidents cardiovasculaires
+et l’évolution de la maladie.
+( (
+3.
+Lorsque la protéinurie est inférieure à 500 mg/j et que la pression artérielle
+se trouve dans les valeurs cibles, il n’est pas nécessaire d’augmenter le
+traitement antihypertenseur.
+( (
+4. Pour une baisse équivalente de la pression artérielle, tous les antihypertenseurs
+ont le même effet antiprotéinurique. ( (
+5. Il est avantageux d’associer deux inhibiteurs du système rénine-angiotensinealdostérone
+en présence d’hypertension. ( (
+6. La modification des habitudes de vie peut avoir un effet considérable sur
+l’évolution de la néphropathie chronique. ( (
+7. Un patient sous IECA ne doit jamais interrompre temporairement son traitement
+avant d’en aviser son médecin. ( (
+8.
+En présence de néphropathie chronique de stade 3b (DFGe: 30 ml/min/
+1,73m2 – 45ml/min/1,73m2) et d’albuminurie modérée (30mg/24 h – 300 mg/
+24 h), un suivi de la fonction rénale doit avoir lieu au moins trois fois
+par année.
+( (
+
+1. L’hypertension artérielle
+et la protéinurie sont les principaux
+facteurs de risque d’évolution
+de la néphropathie chronique. Vrai.
+L’évolution d’une néphropathie chronique est intrinsè-
+quement liée à la prise en charge de la néphropathie sousjacente,
+comme la levée de l’obstruction dans une néphropathie
+obstructive ou la régulation des glomérulonéphrites
+par des immunodépresseurs. Toutefois, chez tous les patients
+atteints de néphropathie chronique, la maîtrise des
+deux principaux facteurs de risque, soit l’hypertension
+artérielle et la protéinurie, constitue le meilleur outil pour
+limiter la détérioration de la fonction rénale1
+.
+Les mesures liées à la prévention des maladies cardiovasculaires
+sont également importantes afin de limiter
+l’évolution de la néphropathie chronique. En cas de diabète,
+le taux d’hémoglobine glyquée (HbA1c) cible ne doit
+pas dépasser 7%, conformément aux recommandations
+de l'Association canadienne du diabète. Un objectif plus
+élevé peut toutefois être considéré en présence d’un risque
+considérable d’hypoglycémie2. La maîtrise de la glycémie
+est essentielle, tant pour limiter l’évolution de la néphropathie
+que pour les autres complications microvasculaires.
+De plus, les patients souffrant de néphropathie chronique
+ont généralement un «risque cardiovasculaire élevé» quant
+aux cibles de traitement de la dyslipidémie, particulièrement
+lorsque leur DFGe est inférieur à 45 ml/min/1,73 m2
+ou qu’ils présentent une protéinurie. Un traitement hypolipémiant
+doit donc être entrepris la plupart du temps en
+tentant d’atteindre un taux de cholestérol LDL d’au plus
+2 mmol/l ou une diminution d’au moins 50% des taux de
+cholestérol LDL initiaux3.
+La modification des facteurs de risque liés aux habitudes
+de vie, tels que le tabagisme, l’obésité, l’alimentation et la
+sédentarité, joue aussi un rôle dans l’évolution de la fonction
+rénale.
+Enfin, en présence de néphropathie chronique modérée
+ou avancée, la correction de l’acidose métabolique peut
+ralentir la détérioration de la fonction rénale. Les néphrologues
+considèrent souvent la prescription de suppléments
+de bicarbonate de sodium lorsque le taux de bicarbonates
+plasmatiques demeure en deçà de 22 mmol/l. Le tableau I 1
+résume les principaux facteurs liés à l’évolution de la
+néphropathie chronique.
+2. En cas de néphropathie chronique,
+la pression artériell e la plus basse
+possible est souhaitable afin de prévenir
+les accidents cardiovasculaires et
+l’évolution de la maladie. FAUX. La première étape pour freiner l’évolution de la néphropathie
+chronique est la régulation de la pression artérielle.
+Toutefois, il n’est pas nécessaire d’atteindre la valeur la
+Chez tous les patients atteints de néphropathie
+chronique, la maîtrise des deux principaux
+facteurs de risque, soit l’hypertension artérielle et
+la protéinurie, constitue le meilleur outil pour limiter
+la détérioration de la fonction rénale.
+plus basse que peut tolérer le patient. Les plus récentes
+lignes directrices du Programme éducatif canadien sur
+l’hypertension (PECH) proposent une valeur inférieure à
+140 mmHg/90 mmHg en cas de néphropathie chronique
+non diabétique4. La recommandation repose sur l’analyse
+des résultats d’importantes études à répartition aléatoire
+qui n’ont pu montrer d’effets positifs d’une pression arté-
+rielle plus basse sur l’évolution de la néphropathie ni sur
+la survenue d’accidents cardiovasculaires5,6.
+Les objectifs diffèrent en cas de diabète. En effet, les lignes
+directrices du PECH préconisent moins de 130 mmHg/
+80 mmHg, que le patient souffre ou non de néphropathie
+chronique4. Selon une étude à répartition aléatoire récente7
+,
+une cible plus basse (, 120 mmHg) n’offrait aucun avantage
+cardiovasculaire, sauf une légère réduction des accidents
+vasculaires cérébraux, au prix cependant d’une forte
+hausse des effets indésirables des antihypertenseurs
+(hypotension, syncope, arythmie, hyperkaliémie, insuffisance
+rénale).
+Il faut toutefois savoir que certaines cibles divergent
+légèrement d’un grand organisme international à l’autre
+et pourraient éventuellement être revues. De plus, il est primordial
+d’adapter le traitement antihypertenseur à chacun.
+En effet, certains patients ne pourront tolérer une pression
+inférieure à 140 mmHg sans présenter de symptômes d’hypotension.
+Chez les personnes de plus de 80 ans, il est souvent
+plus sûr d’atteindre une pression artérielle systolique
+de moins de 150 mmHg et de la mesurer en position debout
+afin d’éviter l’hypotension orthostatique8. Enfin, il ne faut
+pas non plus abaisser la pression artérielle diastolique sous
+60 mmHg dans la population générale et sous 65 mmHg en
+présence de maladie coronarienne9. Les cibles de pression
+artérielle sont résumées dans le tableau II 4.
+3. Lorsque la protéinurie est plus basse
+que 500 mg/j et que la pression artériell e
+correspond aux valeurs cibles, il n’est
+pas nécessaire d’augmenter le traitement
+antihypertenseur. Vrai.
+Comme nous l’avons mentionné plus tôt, la protéinurie
+constitue un facteur crucial de mauvais pronostic dans la
+néphropathie chronique. Par contre, aucune cible thérapeutique
+précise n’est actuellement recommandée. En
+effet, bien qu’une diminution soit associée à une évolution
+plus lente de la néphropathie, le degré optimal n’a
+pas encore été établi. Ainsi, une baisse considérable de
+la protéinurie par rapport au niveau de base et une atteinte
+des cibles de pression artérielle suffisent le plus souvent1
+.
+Cependant, en cas de protéinurie importante persistante
+(. 1000 mg/24 h), il est raisonnable de maximiser le traitement
+antihypertenseur au-delà des cibles usuelles afin
+de la réduire davantage. Les équivalences entre protéinurie
+et albuminurie sont présentées dans le tableau III 1
+.
+4. Pour une baisse équivalente
+de la pression artériell e, tous les
+antihypertenseurs ont le même effet
+antiprotéinurique. FAUX. La majorité des médicaments antihypertenseurs réduisent
+indirectement la protéinurie grâce à la baisse de la
+pression artérielle. Certaines classes agissent néanmoins
+de façon indépendante.
+C’est le cas des inhibiteurs de l’enzyme de conversion de
+l’angiotensine (IECA) et des antagonistes du récepteur
+de l’angiotensine (ARA), qui possèdent le meilleur effet
+antiprotéinurique. Ainsi, leur capacité à abaisser la pression
+intraglomérulaire entraîne une diminution de l’hyperfiltration
+glomérulaire. L’effet antiprotéinurique des IECA/
+ARA est associé à un ralentissement de l’évolution de la
+néphropathie diabétique, de la néphropathie chronique et
+de la protéinurie10 (. 500 mg/24 h). Par contre, les avantages
+de ces agents par rapport à ceux des autres classes
+d’antihypertenseurs n’ont pas été établis chez les patients
+atteints de néphropathie chronique sans protéinurie11.
+Les autres médicaments de la famille des inhibiteurs de
+l’axe rénine-angiotensine-aldostérone, soit les antagonistes
+de l’aldostérone et l’aliskirène, un inhibiteur direct de
+la rénine (IDR), ont également un effet antiprotéinurique
+distinct. L'association avec les IECA/ARA commande néanmoins
+la prudence en raison du risque d’hyperkaliémie12.
+tableau Ii Cibles de pression art érie lle4
+Contexte clinique Cible de pression artérielle
+Population générale , 140 mmHg/90 mmHg
+Personnes non diabétiques
+atteintes de néphropathie
+chronique*
+, 140 mmHg/90 mmHg
+Diabétiques
+(avec ou sans albuminurie)
+, 130 mmHg/80 mmHg
+Patients de 80 ans et plus
+atteints d’HTA systolique
+, 150 mmHg
+(pression systolique)
+* Chez les patients souffrant d’une protéinurie non diabétique importante
+(. 500 mg/j – 1000 mg/j), une cible inférieure peut être considérée
+(, 130 mmHg/80 mmHg).
+Les inhibiteurs de l’enzyme de conversion de
+l’angiotensine (IECA ) et les antagonistes du récepteur
+de l’angiotensine (ARA) sont les médicaments qui
+possèdent le meilleur effet antiprotéinurique. 
+De plus, il est déconseillé de prescrire un inhibiteur direct
+de la rénine et un IECA/ARA.
+Enfin, les antagonistes des canaux calciques non dihydropyridiniques
+(diltiazem, vérapamil) possèdent aussi un effet
+antiprotéinurique indépendant, qui est toutefois moindre
+que celui des IECA/ARA. Les répercussions cliniques ont
+cependant été peu étudiées. Le diltiazem et le vérapamil
+peuvent parfois constituer d’autres solutions en cas de protéinurie
+importante (. 500 mg/24 h) lorsque les IECA/ARA
+sont mal tolérés. Par contre, ces médicaments ne devraient
+normalement pas être combinés à des bêtabloquants à
+cause de leur incidence sur la fréquence cardiaque13.
+5. Il est avantageux d’associer
+deux inhibiteurs du système rénineangiotensine-aldostérone
+en présence
+d’hypertension. FAUX. L’association d’inhibiteurs de l’axe rénine-angiotensinealdostérone
+(IECA, ARA et IDR) contre l’hypertension ou
+la protéinurie n’est généralement pas recommandée. En
+effet, plusieurs études ont révélé une augmentation des
+complications cardiovasculaires et rénales, notamment
+une évolution plus rapide vers l’insuffisance rénale terminale
+et un risque accru d’hyperkaliémie en présence de
+néphropathie chronique12,14.
+6. La modification des habitudes de vie peut
+agir considérablement sur l’évolution
+de la néphropathie chronique. Vrai.
+La modification des habitudes de vie joue souvent un rôle primordial
+dans l’évolution de la néphropathie chronique, principalement
+grâce à une réduction de la pression artérielle.
+L’apport quotidien en sodium ne doit pas dépasser de
+1500 mg/j à 2000 mg/j (65 mmol/j – 90 mmol/j), principalement
+en cas d’hypertension ou de protéinurie1,4. Une
+moins grande consommation de sel par un patient hypertendu
+peut abaisser la pression artérielle systolique de
+5 mmHg à 10 mmHg selon la race15. De plus, la protéinurie
+peut également être réduite par une restriction de l'apport
+sodique, indépendamment de l’effet de cette mesure sur la
+pression artérielle.
+L’abandon du tabagisme, la perte de poids en cas d’obésité
+ainsi que l’exercice physique régulier chez les personnes
+sédentaires agissent probablement sur la fonction rénale. Le
+changement des habitudes de vie cause une réduction globale
+du risque cardiovasculaire, notamment de la pression
+artérielle, de la glycémie, de la dyslipidémie et de la résistance
+vasculaire. Bien que les preuves directes d’une amé-
+lioration de la fonction rénale soient plus rares, les lignes
+directrices internationales en néphrologie prescrivent la
+modification des habitudes de vie, ne serait-ce que pour
+les bienfaits cardiovasculaires généraux qu’elle entraîne1
+.
+Enfin, chez les patients atteints de néphropathie chro -
+nique modérée ou grave ou de protéinurie importante,
+un apport protéique élevé (. 1,3 g/kg/j) est à éviter. Une
+baisse de l’apport protéique est normalement associée à
+une moins grande accumulation de déchets métaboliques
+et de toxines urémiques ainsi qu’à une diminution de l’hyperfiltration
+glomérulaire. Une restriction plus importante
+(0,8 g/kg/j) est parfois mise de l’avant, mais demeure un
+peu plus controversée. Un suivi nutritionnel étroit est alors
+recommandé afin de limiter les risques de malnutrition1
+.
+7. Un patient sous IECA ne doit jamais
+interrompre temporairement son traitement
+avant d’en aviser son médecin. FAUX. Les patients atteints de néphropathie chronique ont plus de
+risque que la population générale de souffrir d’insuffisance
+rénale aiguë, ce qui accélère le déclin de la fonction rénale.
+L’altération, par certains antihypertenseurs, des mécanis
+mes rénaux permettant l’adaptation aux stresseurs (ex. :
+hypovolémie et néphrotoxines) et une réserve rénale plus
+limitée constituent les principaux facteurs contribuant à
+cette vulnérabilité. C’est pourquoi il est essentiel d’éviter
+les agents néphrotoxiques (AINS, certains antibiotiques,
+produits de radiocontraste, etc.) 1
+. Ce sujet sera abordé plus
+en détail dans l’article de la Dre Renée Lévesque intitulé:
+«Pilules, granules et molécules dans la néphropathie chronique...
+prescrire ou proscrire?».
+De plus, l’hypovolémie doit être surveillée de près. Il n’est
+pas rare de voir un déclin aigu de la fonction rénale dans
+un contexte d’infection associée à des diarrhées et à des
+vomissements ou simplement par manque d’apport alimentaire
+et hydrique. Les patients prenant des inhibiteurs
+de l’axe rénine-angiotensine-aldostérone ou des diuré-
+tiques sont particulièrement à risque en cas d’hypovolé-
+mie. Ils devraient donc, le plus souvent, cesser leur IECA
+de façon temporaire en présence d’un syndrome hypovolé-
+mique grave. Ils doivent appeler leur médecin traitant dès
+que possible pour qu’il réévalue la situation.
+8. En présence de néphropathie chronique
+de stade 3b (DFGe: 30 ml/min/1,73 m2
+ – 45 ml/min/1,73 m2
+) et d’albuminurie
+modérée (30 mg/24 h – 300 mg/24 h),
+un suivi de la fonction rénale doit avoir
+lieu au moins trois fois par année. vrai.
+Il est essentiel d’adapter le suivi d’un patient souffrant de
+néphropathie chronique à son contexte médical global.
+Ainsi, le suivi rénal en cas de néphropathie diabétique
+associée à une insuffisance cardiaque doit être plus serré
+qu'en cas de polykystose rénale de stade initial. De plus,
+la fréquence s’accroît également avec l’intensité de la protéinurie.
+Bien qu’aucune recette ne convienne à tous, le
+nombre minimal de visites de suivi peut souvent être établi
+en fonction du DFGe et de la protéinurie (tableau IV)1
+.
+Il ne faut pas oublier qu’un changement de médicament,
+une insuffisance rénale aiguë ou une détérioration d’une
+autre composante de la santé nécessitent des évaluations
+supplémentaires de la fonction rénale.
+conclusion
+Et si nous revenions à M. Laforce maintenant. Afin de ralentir
+l’évolution de sa néphropathie chronique, quelques
+mesures s’imposent. D’abord, vous lui prescrivez une modification
+de ses habitudes de vie, notamment une diminution
+de sa consommation de sel et de son poids, une augmentation
+de l’exercice physique et, bien sûr, une bonne régulation
+glycémique. Puisque M. Laforce est diabétique et présente
+une protéinurie, vous commencez par un IECA pour réduire
+sa pression artérielle à moins de 130 mmHg/80 mmHg. En
+terminant, vous lui dites qu’il doit rester à l’affût des symptômes
+d’hypotension et vous lui rappelez l’importance d’un
+suivi médical régulier. Cette fois, il est déterminé à préserver
+ses reins et promet d’appliquer vos conseils. Il prend
+immédiatement son prochain rendez-vous. Bien joué! //
+Date de réception: le 25 juillet 2013
+Date d’acceptation: le 7 octobre 2013
+La Dre Annie-Claire Nadeau-Fredette n’a déclaré aucun intérêt conflictuel

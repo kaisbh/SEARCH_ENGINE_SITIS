@@ -1,0 +1,42 @@
+﻿
+1. Hum Brain Mapp. 2013 Oct 15. doi: 10.1002/hbm.22390. [Epub ahead of print]
+
+Plasma tau as a window to the brain-negative associations with brain volume and
+memory function in mild cognitive impairment and early alzheimer's disease.
+
+Chiu MJ, Chen YF, Chen TF, Yang SY, Yang FP, Tseng TW, Chieh JJ, Chen JC, Tzen
+KY, Hua MS, Horng HE.
+
+Department of Neurology, College of Medicine, National Taiwan University, Taipei,
+100, Taiwan; Institute of Brain and Mind Sciences, College of Medicine, National 
+Taiwan University, Taipei, 100, Taiwan; Department of Psychology, National Taiwan
+University, Taipei, 116, Taiwan; Graduate Institute of Biomedical Engineering and
+Bio-informatics, National Taiwan University, Taipei, 116, Taiwan.
+
+Neurofibrillary tangles are associated with cognitive dysfunction, and
+hippocampal atrophy with increased CSF tau markers. However, the plasma tau
+levels of Alzheimer's disease (AD) have not been well studied. We investigated
+plasma tau by using an immunomagnetic reduction assay in 20 patients with mild
+cognitive impairment (MCI) due to AD, 10 early AD dementia, and 30 healthy elders
+(HE). All received a 3D-brain MRI scan and a set of cognitive function test. We
+explored their relationships with both brain structure and cognitive functions.
+Images were analyzed to determine the brain volumes and gray matter densities.
+Patients with MCI or early AD had significantly increased plasma tau levels
+compared with HE. Plasma tau levels were negatively associated with the
+performance of logical memory, visual reproduction, and verbal fluency; also
+negatively associated with volume of total gray matter, hippocampus, amygdala;
+and gray matter densities of various regions. Regression analyses indicated that 
+logical memory explained 0.394 and hippocampus volume predicted .608 of the
+variance of plasma tau levels, both P < 0.001. Education years were negatively
+associated with the gray matter densities of the supramarginal (r = -0.407),
+middle temporal gyrus (r = -0.40) and precuneus (r = -0.377; all P < 0.05) in HE;
+and negatively associated with plasma tau levels in patients (r = -0.626). We
+propose that plasma tau may serve as a window to both structure and function of
+the brain. Higher education is a protective factor against AD and is associated
+with lower plasma tau levels in patients. Hum Brain Mapp, 2013. © 2013 Wiley
+Periodicals, Inc.
+
+Copyright © 2013 Wiley Periodicals, Inc.
+
+PMID: 24129926  [PubMed - as supplied by publisher]
+

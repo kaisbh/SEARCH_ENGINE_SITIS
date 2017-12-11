@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<project name="SEARCH_ENGINE_SITIS_1.0" default="do-deploy" basedir="."  xmlns:fx="javafx:com.sun.javafx.tools.ant">
+	<target name="init-fx-tasks">
+		<path id="fxant">
+			<filelist>
+				<file name="${java.home}\..\lib\ant-javafx.jar"/>
+				<file name="${java.home}\lib\jfxrt.jar"/>
+			</filelist>
+		</path>
+	
+		<taskdef resource="com/sun/javafx/tools/ant/antlib.xml"
+			uri="javafx:com.sun.javafx.tools.ant"
+			classpathref="fxant"/>
+	</target>
+	<target name="setup-staging-area">
+		<delete dir="externalLibs" />
+		<delete dir="project" />
+		<delete dir="projectRefs" />
+	
+		<mkdir dir="externalLibs" />
+	
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\javax\inject\javax.inject\1">
+				<filename name="javax.inject-1.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\antlr\antlr4-runtime\4.5.1-1">
+				<filename name="antlr4-runtime-4.5.1-1.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\eclipse\rdf4j\rdf4j-rio-trig\2.1.4">
+				<filename name="rdf4j-rio-trig-2.1.4.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\net\sourceforge\owlapi\owlapi-parsers\3.4.4">
+				<filename name="owlapi-parsers-3.4.4.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\net\sourceforge\owlapi\owlapi-impl\3.4.4">
+				<filename name="owlapi-impl-3.4.4.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\commons\commons-lang3\3.5">
+				<filename name="commons-lang3-3.5.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\eclipse\rdf4j\rdf4j-util\2.1.4">
+				<filename name="rdf4j-util-2.1.4.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\semanticweb\elk\elk-util-collections\0.4.0">
+				<filename name="elk-util-collections-0.4.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\hamcrest\hamcrest-core\1.1">
+				<filename name="hamcrest-core-1.1.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\net\sourceforge\owlapi\owlapi-distribution\5.1.0">
+				<filename name="owlapi-distribution-5.1.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\xml-apis\xml-apis\1.4.01">
+				<filename name="xml-apis-1.4.01.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\commons-cli\commons-cli\1.3">
+				<filename name="commons-cli-1.3.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\pdfbox\fontbox\2.0.8">
+				<filename name="fontbox-2.0.8.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\semanticweb\elk\elk-reasoner\0.4.0">
+				<filename name="elk-reasoner-0.4.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\commons-codec\commons-codec\1.9">
+				<filename name="commons-codec-1.9.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\httpcomponents\httpcore-osgi\4.4.4">
+				<filename name="httpcore-osgi-4.4.4.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\httpcomponents\httpclient-osgi\4.5.2">
+				<filename name="httpclient-osgi-4.5.2.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\tukaani\xz\1.6">
+				<filename name="xz-1.6.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\com\google\guava\guava\20.0">
+				<filename name="guava-20.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\eclipse\rdf4j\rdf4j-rio-n3\2.1.4">
+				<filename name="rdf4j-rio-n3-2.1.4.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\net\sourceforge\owlapi\owlapi-apibinding\3.4.4">
+				<filename name="owlapi-apibinding-3.4.4.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\semanticweb\elk\elk-owlapi\0.4.0">
+				<filename name="elk-owlapi-0.4.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\lucene\lucene-demo\6.6.0">
+				<filename name="lucene-demo-6.6.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\jena\jena-core\3.0.0">
+				<filename name="jena-core-3.0.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\eclipse\rdf4j\rdf4j-rio-trix\2.1.4">
+				<filename name="rdf4j-rio-trix-2.1.4.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\jena\jena-base\3.0.0">
+				<filename name="jena-base-3.0.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\lucene\lucene-analyzers-common\6.6.0">
+				<filename name="lucene-analyzers-common-6.6.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\eclipse\rdf4j\rdf4j-rio-datatypes\2.1.4">
+				<filename name="rdf4j-rio-datatypes-2.1.4.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\junit\junit-dep\4.8.2">
+				<filename name="junit-dep-4.8.2.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\junit\junit\3.8.1">
+				<filename name="junit-3.8.1.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\eclipse\rdf4j\rdf4j-rio-rdfxml\2.1.4">
+				<filename name="rdf4j-rio-rdfxml-2.1.4.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\eclipse\rdf4j\rdf4j-rio-rdfjson\2.1.4">
+				<filename name="rdf4j-rio-rdfjson-2.1.4.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\net\sf\trove4j\trove4j\3.0.3">
+				<filename name="trove4j-3.0.3.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\net\sourceforge\owlapi\owlapi-compatibility\5.1.0">
+				<filename name="owlapi-compatibility-5.1.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\slf4j\slf4j-log4j12\1.7.12">
+				<filename name="slf4j-log4j12-1.7.12.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\lucene\lucene-facet\6.6.0">
+				<filename name="lucene-facet-6.6.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\javax\servlet\servlet-api\2.4">
+				<filename name="servlet-api-2.4.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\felix\org.osgi.core\1.0.0">
+				<filename name="org.osgi.core-1.0.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.8.5">
+				<filename name="jackson-core-2.8.5.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\commons-logging\commons-logging\1.2">
+				<filename name="commons-logging-1.2.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\lucene\lucene-misc\6.6.0">
+				<filename name="lucene-misc-6.6.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\com\github\ben-manes\caffeine\caffeine\2.3.5">
+				<filename name="caffeine-2.3.5.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\slf4j\slf4j-simple\1.7.5">
+				<filename name="slf4j-simple-1.7.5.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\lucene\lucene-similarity\2.2.0">
+				<filename name="lucene-similarity-2.2.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\eclipse\rdf4j\rdf4j-rio-binary\2.1.4">
+				<filename name="rdf4j-rio-binary-2.1.4.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\eclipse\rdf4j\rdf4j-model\2.1.4">
+				<filename name="rdf4j-model-2.1.4.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\com\github\jsonld-java\jsonld-java\0.9.0">
+				<filename name="jsonld-java-0.9.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\eclipse\rdf4j\rdf4j-rio-languages\2.1.4">
+				<filename name="rdf4j-rio-languages-2.1.4.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\eclipse\rdf4j\rdf4j-rio-jsonld\2.1.4">
+				<filename name="rdf4j-rio-jsonld-2.1.4.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\ow2\asm\asm\5.1">
+				<filename name="asm-5.1.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\semanticweb\elk\elk-util-logging\0.4.0">
+				<filename name="elk-util-logging-0.4.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\net\sourceforge\owlapi\owlapi-api\3.4.4">
+				<filename name="owlapi-api-3.4.4.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\lucene\lucene-sandbox\6.6.0">
+				<filename name="lucene-sandbox-6.6.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\com\google\inject\extensions\guice-assistedinject\4.1.0">
+				<filename name="guice-assistedinject-4.1.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\semanticweb\elk\elk-owl-model\0.4.0">
+				<filename name="elk-owl-model-0.4.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\semanticweb\elk\elk-util-concurrent\0.4.0">
+				<filename name="elk-util-concurrent-0.4.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.7">
+				<filename name="jcl-over-slf4j-1.7.7.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\eclipse\rdf4j\rdf4j-rio-ntriples\2.1.4">
+				<filename name="rdf4j-rio-ntriples-2.1.4.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\lucene\lucene-core\6.6.0">
+				<filename name="lucene-core-6.6.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\xerces\xercesImpl\2.11.0">
+				<filename name="xercesImpl-2.11.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\com\google\code\findbugs\jsr305\3.0.1">
+				<filename name="jsr305-3.0.1.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\noggit\noggit\0.6">
+				<filename name="noggit-0.6.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\eclipse\rdf4j\rdf4j-rio-nquads\2.1.4">
+				<filename name="rdf4j-rio-nquads-2.1.4.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\commons\commons-rdf-api\0.3.0-incubating">
+				<filename name="commons-rdf-api-0.3.0-incubating.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\semanticweb\elk\elk-owl-implementation\0.4.0">
+				<filename name="elk-owl-implementation-0.4.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\semanticweb\elk\elk-util-hashing\0.4.0">
+				<filename name="elk-util-hashing-0.4.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\com\google\inject\guice\4.1.0">
+				<filename name="guice-4.1.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\lucene\lucene-queries\6.6.0">
+				<filename name="lucene-queries-6.6.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\httpcomponents\httpclient\4.4.1">
+				<filename name="httpclient-4.4.1.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\semanticweb\elk\elk-util-common\0.4.0">
+				<filename name="elk-util-common-0.4.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\commons-io\commons-io\2.4">
+				<filename name="commons-io-2.4.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\eclipse\rdf4j\rdf4j-rio-turtle\2.1.4">
+				<filename name="rdf4j-rio-turtle-2.1.4.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\httpcomponents\httpcore\4.4.1">
+				<filename name="httpcore-4.4.1.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.8.5">
+				<filename name="jackson-annotations-2.8.5.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\codehaus\woodstox\stax2-api\3.1.4">
+				<filename name="stax2-api-3.1.4.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\ow2\asm\asm-commons\5.1">
+				<filename name="asm-commons-5.1.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\httpcomponents\fluent-hc\4.5.2">
+				<filename name="fluent-hc-4.5.2.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\semanticweb\elk\elk-util-io\0.4.0">
+				<filename name="elk-util-io-0.4.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\commons\commons-csv\1.0">
+				<filename name="commons-csv-1.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\zookeeper\zookeeper\3.4.6">
+				<filename name="zookeeper-3.4.6.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\jena\jena-shaded-guava\3.0.0">
+				<filename name="jena-shaded-guava-3.0.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\slf4j\slf4j-api\1.7.7">
+				<filename name="slf4j-api-1.7.7.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\httpcomponents\httpmime\4.4.1">
+				<filename name="httpmime-4.4.1.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\pdfbox\pdfbox\2.0.8">
+				<filename name="pdfbox-2.0.8.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\lucene\lucene-expressions\6.6.0">
+				<filename name="lucene-expressions-6.6.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\eclipse\rdf4j\rdf4j-rio-api\2.1.4">
+				<filename name="rdf4j-rio-api-2.1.4.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\com\google\inject\extensions\guice-multibindings\4.1.0">
+				<filename name="guice-multibindings-4.1.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\codehaus\woodstox\woodstox-core-asl\4.4.1">
+				<filename name="woodstox-core-asl-4.4.1.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\log4j\log4j\1.2.17">
+				<filename name="log4j-1.2.17.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\solr\solr-solrj\6.0.0">
+				<filename name="solr-solrj-6.0.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\lucene\lucene-queryparser\6.6.0">
+				<filename name="lucene-queryparser-6.6.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\jena\jena-iri\3.0.0">
+				<filename name="jena-iri-3.0.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\httpcomponents\httpclient-cache\4.5.2">
+				<filename name="httpclient-cache-4.5.2.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\aopalliance\aopalliance\1.0">
+				<filename name="aopalliance-1.0.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\net\sourceforge\owlapi\owlapi-tools\3.4.4">
+				<filename name="owlapi-tools-3.4.4.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\org\apache\httpcomponents\httpcore-nio\4.4.4">
+				<filename name="httpcore-nio-4.4.4.jar"/>
+			</fileset>
+		</copy>
+		<copy todir="externalLibs">
+			<fileset dir="C:\Users\kaisb\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.8.5">
+				<filename name="jackson-databind-2.8.5.jar"/>
+			</fileset>
+		</copy>
+	
+		<mkdir dir="project" />
+		<copy todir="project">
+			<fileset dir="D:\git\SEARCH_ENGINE_SITIS\SEARCH_ENGINE_SITIS_1.0">
+				<include name="src/**" />
+			</fileset>
+		</copy>
+		<copy todir="project">
+			<fileset dir="D:\git\SEARCH_ENGINE_SITIS\SEARCH_ENGINE_SITIS_1.0">
+				<include name="resources/**" />
+			</fileset>
+		</copy>
+	
+		<mkdir dir="projectRefs" />
+	</target>
+	<target name='do-compile'>
+		<delete dir="build" />
+		<mkdir dir="build/src" />
+		<mkdir dir="build/libs" />
+		<mkdir dir="build/classes" />
+	
+		<!-- Copy project-libs references -->
+		<copy todir="build/libs">
+			<fileset dir="externalLibs">
+				<include name="httpcore-osgi-4.4.4.jar"/>
+				<include name="owlapi-parsers-3.4.4.jar"/>
+				<include name="rdf4j-rio-languages-2.1.4.jar"/>
+				<include name="jena-core-3.0.0.jar"/>
+				<include name="guice-multibindings-4.1.0.jar"/>
+				<include name="rdf4j-model-2.1.4.jar"/>
+				<include name="jena-base-3.0.0.jar"/>
+				<include name="owlapi-impl-3.4.4.jar"/>
+				<include name="jcl-over-slf4j-1.7.7.jar"/>
+				<include name="servlet-api-2.4.jar"/>
+				<include name="elk-owl-implementation-0.4.0.jar"/>
+				<include name="owlapi-tools-3.4.4.jar"/>
+				<include name="elk-reasoner-0.4.0.jar"/>
+				<include name="rdf4j-rio-trix-2.1.4.jar"/>
+				<include name="lucene-similarity-2.2.0.jar"/>
+				<include name="elk-util-hashing-0.4.0.jar"/>
+				<include name="fluent-hc-4.5.2.jar"/>
+				<include name="rdf4j-rio-rdfxml-2.1.4.jar"/>
+				<include name="elk-owl-model-0.4.0.jar"/>
+				<include name="httpcore-nio-4.4.4.jar"/>
+				<include name="junit-dep-4.8.2.jar"/>
+				<include name="rdf4j-util-2.1.4.jar"/>
+				<include name="rdf4j-rio-ntriples-2.1.4.jar"/>
+				<include name="elk-util-logging-0.4.0.jar"/>
+				<include name="lucene-queries-6.6.0.jar"/>
+				<include name="elk-util-collections-0.4.0.jar"/>
+				<include name="jackson-annotations-2.8.5.jar"/>
+				<include name="rdf4j-rio-nquads-2.1.4.jar"/>
+				<include name="jackson-databind-2.8.5.jar"/>
+				<include name="lucene-core-6.6.0.jar"/>
+				<include name="jsonld-java-0.9.0.jar"/>
+				<include name="httpcore-4.4.1.jar"/>
+				<include name="rdf4j-rio-binary-2.1.4.jar"/>
+				<include name="fontbox-2.0.8.jar"/>
+				<include name="httpclient-cache-4.5.2.jar"/>
+				<include name="guice-4.1.0.jar"/>
+				<include name="lucene-analyzers-common-6.6.0.jar"/>
+				<include name="junit-3.8.1.jar"/>
+				<include name="guava-20.0.jar"/>
+				<include name="guice-assistedinject-4.1.0.jar"/>
+				<include name="commons-cli-1.3.jar"/>
+				<include name="owlapi-api-3.4.4.jar"/>
+				<include name="httpclient-osgi-4.5.2.jar"/>
+				<include name="rdf4j-rio-rdfjson-2.1.4.jar"/>
+				<include name="rdf4j-rio-api-2.1.4.jar"/>
+				<include name="elk-util-io-0.4.0.jar"/>
+				<include name="antlr4-runtime-4.5.1-1.jar"/>
+				<include name="commons-logging-1.2.jar"/>
+				<include name="xercesImpl-2.11.0.jar"/>
+				<include name="zookeeper-3.4.6.jar"/>
+				<include name="xml-apis-1.4.01.jar"/>
+				<include name="slf4j-log4j12-1.7.12.jar"/>
+				<include name="jena-iri-3.0.0.jar"/>
+				<include name="commons-lang3-3.5.jar"/>
+				<include name="xz-1.6.jar"/>
+				<include name="hamcrest-core-1.1.jar"/>
+				<include name="org.osgi.core-1.0.0.jar"/>
+				<include name="noggit-0.6.jar"/>
+				<include name="woodstox-core-asl-4.4.1.jar"/>
+				<include name="rdf4j-rio-turtle-2.1.4.jar"/>
+				<include name="httpmime-4.4.1.jar"/>
+				<include name="commons-codec-1.9.jar"/>
+				<include name="lucene-sandbox-6.6.0.jar"/>
+				<include name="httpclient-4.4.1.jar"/>
+				<include name="elk-util-common-0.4.0.jar"/>
+				<include name="lucene-queryparser-6.6.0.jar"/>
+				<include name="rdf4j-rio-trig-2.1.4.jar"/>
+				<include name="jena-shaded-guava-3.0.0.jar"/>
+				<include name="owlapi-compatibility-5.1.0.jar"/>
+				<include name="lucene-facet-6.6.0.jar"/>
+				<include name="commons-csv-1.0.jar"/>
+				<include name="lucene-expressions-6.6.0.jar"/>
+				<include name="lucene-demo-6.6.0.jar"/>
+				<include name="rdf4j-rio-n3-2.1.4.jar"/>
+				<include name="rdf4j-rio-jsonld-2.1.4.jar"/>
+				<include name="elk-owlapi-0.4.0.jar"/>
+				<include name="rdf4j-rio-datatypes-2.1.4.jar"/>
+				<include name="javax.inject-1.jar"/>
+				<include name="asm-commons-5.1.jar"/>
+				<include name="jsr305-3.0.1.jar"/>
+				<include name="lucene-misc-6.6.0.jar"/>
+				<include name="commons-io-2.4.jar"/>
+				<include name="elk-util-concurrent-0.4.0.jar"/>
+				<include name="asm-5.1.jar"/>
+				<include name="solr-solrj-6.0.0.jar"/>
+				<include name="owlapi-distribution-5.1.0.jar"/>
+				<include name="slf4j-api-1.7.7.jar"/>
+				<include name="trove4j-3.0.3.jar"/>
+				<include name="log4j-1.2.17.jar"/>
+				<include name="jackson-core-2.8.5.jar"/>
+				<include name="slf4j-simple-1.7.5.jar"/>
+				<include name="stax2-api-3.1.4.jar"/>
+				<include name="aopalliance-1.0.jar"/>
+				<include name="pdfbox-2.0.8.jar"/>
+				<include name="caffeine-2.3.5.jar"/>
+				<include name="owlapi-apibinding-3.4.4.jar"/>
+				<include name="commons-rdf-api-0.3.0-incubating.jar"/>
+			</fileset>
+		</copy>
+	
+		<!-- Copy project references -->
+	
+		<!-- Copy project sources itself -->
+		<copy todir="build/src">
+			<fileset dir="project/src">
+				<include name="**/*"/>
+			</fileset>
+		</copy>
+		<copy todir="build/src">
+			<fileset dir="project/resources">
+				<include name="**/*"/>
+			</fileset>
+		</copy>
+	
+		<javac includeantruntime="false" source="1.8" target="1.8" srcdir="build/src" destdir="build/classes" encoding="Cp1252">
+			<classpath>
+				<fileset dir="build/libs">
+					<include name="*"/>
+				</fileset>
+			</classpath>
+		</javac>
+	
+		<!-- Copy over none Java-Files -->
+		<copy todir="build/classes">
+		<fileset dir="project/src">
+			<exclude name="**/*.java"/>
+		</fileset>
+		<fileset dir="project/resources">
+			<exclude name="**/*.java"/>
+		</fileset>
+		</copy>
+	
+	
+	</target>
+	<target name="do-deploy" depends="setup-staging-area, do-compile, init-fx-tasks">
+		<delete file="dist"/>
+		<delete file="deploy" />
+	
+		<mkdir dir="dist" />
+		<mkdir dir="dist/libs" />
+	
+		<copy todir="dist/libs">
+			<fileset dir="externalLibs">
+				<include name="*" />
+			</fileset>
+		</copy>
+	
+	
+		<fx:resources id="appRes">
+			<fx:fileset dir="dist" includes="SEARCH_ENGINE_SITIS_1.0.jar"/>
+			<fx:fileset dir="dist" includes="libs/*"/>
+		</fx:resources>
+	
+		<fx:application id="fxApplication"
+			name="SEARCH_ENGINE"
+			mainClass=""
+		/>
+	
+		<mkdir dir="build/classes/META-INF" />
+	
+	
+	
+		<fx:jar destfile="dist/SEARCH_ENGINE_SITIS_1.0.jar">
+			<fx:application refid="fxApplication"/>
+			<fileset dir="build/classes">
+			</fileset>
+			<fx:resources refid="appRes"/>
+	
+			<manifest>
+				<attribute name="Implementation-Vendor" value="M2_SITIS"/>
+				<attribute name="Implementation-Title" value="SEARCH_ENGINE"/>
+				<attribute name="Implementation-Version" value="1.0"/>
+				<attribute name="JavaFX-Feature-Proxy" value="None"/>
+			</manifest>
+		</fx:jar>
+	
+	
+		<mkdir dir="deploy" />
+		<!-- Need to use ${basedir} because somehow the ant task is calculating the directory differently -->
+		<fx:deploy
+			embedJNLP="false"
+			extension="false"
+			includeDT="false"
+			offlineAllowed="true"
+			outdir="${basedir}/deploy"
+			outfile="SEARCH_ENGINE_SITIS_1.0" nativeBundles="exe"
+			updatemode="background" >
+	
+			<fx:platform basedir="${java.home}"/>
+			<fx:info title="SEARCH_ENGINE_SITIS_1.0" vendor="M2_SITIS"/>
+	
+			<fx:application refId="fxApplication"/>
+			<fx:resources refid="appRes"/>
+		</fx:deploy>
+	
+	
+	</target>
+</project>

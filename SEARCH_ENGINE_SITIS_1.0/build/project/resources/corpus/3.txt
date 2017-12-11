@@ -1,0 +1,52 @@
+1. Blood. 2017 Sep 21;130(12):1418-1429. doi: 10.1182/blood-2017-01-760702. Epub
+2017 Jul 11.
+
+Expression of PIM kinases in Reed-Sternberg cells fosters immune privilege and
+tumor cell survival in Hodgkin lymphoma.
+
+Szyd?owski M(1), Prochorec-Sobieszek M(2), Szumera-Cie?kiewicz A(2), Derezi?ska
+E(2), Hoser G(3), Wasilewska D(3), Szyma?ska-Giemza O(2), Jab?o?ska E(1),
+Bia?opiotrowicz E(1), Sewastianik T(1), Polak A(1), Czardybon W(4), Ga??zowski
+M(4), Windak R(4), Zaucha JM(5), Warzocha K(6), Brzózka K(4), Juszczy?ski P(1).
+
+Author information: 
+(1)Department of Experimental Hematology and.
+(2)Department of Diagnostic Hematology, Institute of Hematology and Transfusion
+Medicine, Warsaw, Poland.
+(3)Laboratory of Flow Cytometry, Centre of Postgraduate Medical Education,
+Warsaw, Poland.
+(4)Selvita S.A., Cracow, Poland.
+(5)Department of Propedeutic Oncology, Polish Research Lymphoma Group, Medical
+University of Gdansk, Gdansk, Poland; and.
+(6)Department of Hematology, Institute of Hematology and Transfusion Medicine,
+Warsaw, Poland.
+
+Reed-Sternberg (RS) cells of classical Hodgkin lymphoma (cHL) express multiple
+immunoregulatory proteins that shape the cHL microenvironment and allow tumor
+cells to evade immune surveillance. Expression of certain immunoregulatory
+proteins is modulated by prosurvival transcription factors, such as NF?B and
+STATs. Because these factors also induce expression of the oncogenic PIM1/2/3
+serine/threonine kinases, and as PIMs modulate transcriptional activity of NF?B
+and STATs, we hypothesized that these kinases support RS cell survival and foster
+their immune privilege. Here, we investigated PIM1/2/3 expression in cHL and
+assessed their role in developing RS cell immune privilege and survival. PIM1/2/3
+were ubiquitously expressed in primary and cultured RS cells, and their
+expression was driven by JAK-STAT and NF?B activity. Genetic or chemical PIM
+inhibition with a newly developed pan-PIM inhibitor, SEL24-B489, induced RS cell 
+apoptosis. PIM inhibition decreased cap-dependent protein translation, blocked
+JAK-STAT signaling, and markedly attenuated NF?B-dependent gene expression. In a 
+cHL xenograft model, SEL24-B489 delayed tumor growth by 95.8% (P = .0002).
+Furthermore, SEL24-B489 decreased the expression of multiple molecules engaged in
+developing the immunosuppressive microenvironment, including galectin-1 and
+PD-L1/2. In coculture experiments, T cells incubated with SEL24-B489-treated RS
+cells exhibited higher expression of activation markers than T cells coincubated 
+with control RS cells. Taken together, our data indicate that PIM kinases in cHL 
+exhibit pleiotropic effects, orchestrating tumor immune escape and supporting RS 
+cell survival. Inhibition of PIM kinases decreases RS cell viability and disrupts
+signaling circuits that link these cells with their niches. Thus, PIM kinases are
+promising therapeutic targets in cHL.
+
+© 2017 by The American Society of Hematology.
+
+DOI: 10.1182/blood-2017-01-760702 
+PMID: 28698206  [Indexed for MEDLINE]

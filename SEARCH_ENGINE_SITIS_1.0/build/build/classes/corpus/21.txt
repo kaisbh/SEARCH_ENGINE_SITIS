@@ -1,0 +1,17 @@
+Combining two different immunotherapy treatments could dramatically improve lymphoma survival, according to a Cancer Research UK funded study published in Cancer Cell.
+
+Researchers from the University of Southampton tested different combinations of antibodies in the lab to see how they interact with each other and what effect this has on how the immune system fights cancer.
+
+They found one combination -- anti-CD27 and anti-CD20 -- greatly increased life expectancy in mice with cancer. While most of the mice given just one of the antibodies died within 80 days, nearly all mice given both antibodies survived beyond 100 days.
+
+When combined, the researchers found the antibodies recruit greater numbers of immune cells called myeloid cells, as well as increasing their ability to destroy cancer cells.
+
+As a direct result of this study, the combination will now be tested in patients as part of a clinical trial funded by Cancer Research UK.
+
+Dr Sean Lim, a Cancer Research UK clinician scientist at the University of Southampton, said: "By combining two specific antibodies -- anti-CD27 and anti-CD20 -- we've increased the ability of the immune system to destroy cancer cells.
+
+"It's very exciting to see that this drug combination has an impact on survival of mice with lymphoma, as improvements in treatment are urgently needed. The next stage will be to see if what we've discovered can be replicated in patients."
+
+Professor Karen Vousden, Cancer Research UK's chief scientist, said: "This study greatly increases our understanding of how different immunotherapies can work together to improve the way we treat lymphoma.
+
+"By testing this approach in a clinical trial we will see if this promising research will translate into benefit for patients."

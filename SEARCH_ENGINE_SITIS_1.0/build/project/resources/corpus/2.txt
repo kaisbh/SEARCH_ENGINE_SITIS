@@ -1,0 +1,58 @@
+1. J Pathol. 2017 Oct;243(2):220-229. doi: 10.1002/path.4944. Epub 2017 Sep 5.
+
+Monoamine oxidase A is highly expressed in classical Hodgkin lymphoma.
+
+Li PC(1)(2), Siddiqi IN(3), Mottok A(4), Loo EY(5), Wu CH(6), Cozen W(7), Steidl 
+C(4), Shih JC(1)(2)(6)(8).
+
+Author information: 
+(1)Department of Pharmacology and Pharmaceutical Sciences, School of Pharmacy,
+University of Southern California, Los Angeles, California, USA.
+(2)USC-Taiwan Center for Translational Research, School of Pharmacy, University
+of Southern California, Los Angeles, California, USA.
+(3)Hematopathology Section, Department of Pathology, University of Southern
+California-Keck School of Medicine, Los Angeles, California, USA.
+(4)Centre for Lymphoid Cancer, Department of Lymphoid Cancer Research, BC Cancer 
+Agency, Vancouver, Canada.
+(5)Department of Pathology and Laboratory Medicine, Dartmouth-Hitchcock Medical
+Center, Lebanon, New Hampshire, USA.
+(6)College of Pharmacy, Taipei Medical University, Taipei, Taiwan.
+(7)Department of Preventive Medicine and Pathology, and Norris Comprehensive
+Cancer Center, USC Keck School of Medicine, University of Southern California,
+Los Angeles, California, USA.
+(8)Department of Cell and Neurobiology, Keck School of Medicine, University of
+Southern California, Los Angeles, California, USA.
+
+Monoamine oxidase A (MAOA) is a mitochondrial enzyme that catalyzes oxidative
+deamination of neurotransmitters and dietary amines and produces H2 O2 . It
+facilitates the progression of gliomas and prostate cancer, but its expression
+and functional relevance have not been studied in lymphoma. Here, we evaluated
+MAOA in 427 cases of Hodgkin and non-Hodgkin lymphoma and in a spectrum of
+reactive lymphoid tissues by immunohistochemistry on formalin-fixed,
+paraffin-embedded specimens. MAOA was expressed by Hodgkin Reed-Sternberg (HRS)
+cells in the majority of classical Hodgkin lymphomas (cHLs) (181/241; 75%), with 
+34.8% showing strong expression. Weak MAOA was also noted in a minority of
+primary mediastinal large B-cell lymphomas (8/47; 17%) and in a mediastinal
+gray-zone lymphoma. In contrast, no MAOA was found in non-neoplastic lymphoid
+tissues, nodular lymphocyte-predominant Hodgkin lymphoma (NLPHL; 0/8) or any
+other non-Hodgkin lymphomas studied (0/123). MAOA was more common in Epstein-Barr
+virus (EBV)-negative compared to EBV-positive cHL (p < 0.0001) and was especially
+prevalent in the EBV-negative nodular sclerosing subtype. Similar to primary
+human lymphoma specimens, most cHL-derived cell lines displayed MAOA activity,
+whereas non-Hodgkin-lymphoma-derived cell lines did not. The MAOA inhibitor
+clorgyline reduced the growth of L1236 cells and U-HO1 cells, and shRNA knockdown
+of MAOA reduced the growth of L1236 cells. Conversely, ectopic overexpression of 
+MAOA increased the growth of MAOA-negative HDLM2 cells. Combined treatment with
+clorgyline and ABVD (doxorubicin, bleomycin, vinblastine, dacarbazine) was more
+effective in reducing cell growth than either regimen alone. In summary, MAOA is 
+highly expressed in cHL and may reflect the distinct biology of this lymphoma.
+Further studies on the potential utility of MAOA as a diagnostic marker and
+therapeutic target are warranted. Copyright © 2017 Pathological Society of Great 
+Britain and Ireland. Published by John Wiley & Sons, Ltd.
+
+Copyright © 2017 Pathological Society of Great Britain and Ireland. Published by 
+John Wiley & Sons, Ltd.
+
+DOI: 10.1002/path.4944 
+PMCID: PMC5605421 [Available on 2018-10-01]
+PMID: 28722111  [Indexed for MEDLINE]

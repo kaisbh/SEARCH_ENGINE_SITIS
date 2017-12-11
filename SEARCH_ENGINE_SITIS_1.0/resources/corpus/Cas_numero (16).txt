@@ -1,0 +1,633 @@
+Quand un QT long peut raccourcir une vie
+par le Dr Olivier DECEUNINCK*
+ Cardiologue / rythmologue
+CHU Dinant-Mont-Godinne
+olivier.deceuninck@uclouvain.be
+
+Prétest Vrai Faux
+1. Une syncope d’effort chez un jeune est suggestive
+d’un syndrome congénital du QT long (SQTL).
+2. Les SQTL congénitaux sont transmis à la moitié
+de la descendance d’un porteur..
+3. Tous les antiarythmiques allongent l’espace QT.
+Réponses page 31.
+
+Le syndrome du QT long congénital (SQTL) atteint 1 personne sur 2000
+dans le monde et serait responsable de 100 décès (par torsade de pointe)
+par an en Belgique. D’autre part, certains médicaments d’usage courant en
+médecine générale allongent l’espace QT et peuvent donc également exposer
+au risque de torsade de pointe. Quand suspecter un SQTL et quelle
+prise en charge proposer ? Comment manager le risque d’allongement
+iatrogène du QT ?
+Il faut remonter en 1856 pour trouver la première évocation du syndrome du
+QT long (SQTL) par le Dr Friedrich Ludwig Meissner. Ce médecin allemand a en
+effet décrit le décès brutal d’une jeune lycéenne réprimandée en public dont
+les deux frères étaient décédés préalablement lors de colères importantes. Il
+faudra ensuite attendre 1953 pour que Möller fasse la première description
+électrocardiographique d’anomalies suggérant un SQTL chez un jeune garçon
+sourd sujet aux syncopes. C’est en 1957 qu’Anton Jervell et Fred Lange-Nielsen
+décriront de manière détaillée le SQTL tel que nous le connaissons aujourd’hui
+dans une famille de 4 enfants atteints de surdité et faisant des syncopes. Ce
+syndrome cardio-auditif portera dorénavant le nom de syndrome de Jervell,
+Lange-Nielsen (JLN).
+En 1963 et 1964, Romano, puis Ward, décriront à leur tour des familles porteuses
+d’un SQTL, à risque de syncopes et de mort subite, sans surdité associée.
+Ces nouvelles descriptions aboutiront au syndrome de Romano-Ward (RW)
+beaucoup plus fréquent (> 90%) que le syndrome de JLN. La grande différence
+entre ces 2 syndromes réside dans le mode de transmission génétique: autosomique
+dominante pour le syndrome de RW, et autosomique récessive pour le
+syndrome de JLN. Ce dernier est par ailleurs de moins bon pronostic. La physiopathologie
+et la génétique du SQTL ont, quant à elles, fait l’objet de plusieurs
+études au cours des 3 dernières décennies.
+Parallèlement est apparue l’évidence que diverses molécules, dont certaines
+couramment prescrites en médecine générale, peuvent allonger l’espace QT,
+exposant ainsi le patient au risque de décès par arythmie ventriculaire (torsade
+de pointe), en particulier dans certaines circonstances.
+M G & CA R D I O LO G I E 7
+Comment mesurer
+et interpréter
+l’espace QT
+Face à un allongement de l’espace QT, deux questions
+se posent. La première est de savoir s’il est pathologique,
+la deuxième est de savoir s’il s’agit, ou
+non, d’un SQTL congénital.
+QTlong?
+Mesure de l’espace QT
+L’espace QT se mesure dans la dérivation DII ou V5
+du début du QRS jusqu’à la fin de la repolarisation
+(intersection entre la ligne de base et la tangente de
+la partie terminale de l’onde T, sans tenir compte de
+l’onde U éventuelle).
+Interprétation de l’espace QT
+L’espace QT variant chez un même individu avec la
+fréquence cardiaque, il est important de corriger
+la mesure afin de comparer celle-ci à une mesure
+qui aurait été effectuée à une fréquence ventriculaire
+de 60/minute. Il existe plusieurs formules
+permettant de corriger l’espace QT selon la fré-
+quence cardiaque, retenons la formule de Bazett,
+formule la plus usitée lors des multiples études,
+où RR est la durée en secondes de l’espace RR
+(= 60/Fc).
+QTc = QT/?RR
+La norme retenue (QT de longueur normale) par la
+plupart des auteurs est QTc £ 440 à 460 ms. Ces valeurs
+sont cependant controversées, notamment du
+fait de l’existence de variations observées selon le
+sexe et avec l’âge:
+• chez les enfants et jusqu’à la fin de l’adolescence,
+la norme de l’intervalle QTc se situe entre 370 et
+440 ms ;
+• chez l’homme adulte, un QTc > 450 ms est considéré
+comme pathologique;
+• chez la femme adulte, il est long s’il dépasse
+470 ms 1.
+Il existe également des discussions quant à la dérivation
+utilisée pour la mesure. La plupart des réfé-
+rences ont utilisé DII, cependant certains suggèrent
+d’utiliser la dérivation laissant le mieux déterminer
+la fin de l’onde T, d’autres de se baser sur V2-V3, dé-
+rivations dans lesquelles l’espace QT est fréquemment
+le plus long.
+SQTL congénital?
+Il convient par ailleurs de rester prudent quant
+à l’interprétation du QTc. Un rapport sur une famille
+de 199 membres, dont 83 porteurs du gène
+en faveur d’un SQTL de type 1, a montré un recouvrement
+des intervalles QTc entre les personnes
+porteuses (410 ms à 590 ms) et les personnes non
+porteuses (380 ms à 470 ms). Sur base de l’interprétation
+du QTc comme seul critère diagnostique
+(valeurs pathologiques si > 470 ms pour les
+hommes, > 480 ms pour les femmes), 40 % des
+hommes et 20 % des femmes sont des faux négatifs.
+Par contre, l’existence d’un QTc > 450 ms chez
+environ 10 % de la population saine implique l’utilisation
+d’autres critères que la seule longueur de ce
+QTc (voir ci-dessous) afin de minimiser la proportion
+de faux positifs 2.
+Diagnostic du SQTL congénital
+Selon les recommandations actuelles3, le diagnostic
+sera retenu avec certitude en présence de l’un ou
+l’autre des critères suivants :
+• score de risque selon Schwartz (tableau 1) ? 3.5 en
+l’absence de cause secondaire prolongeant l’intervalle
+QT;
+• mutation génétique répertoriée dans les anomalies
+génétiques favorisant un SQTL;
+• QTc ? 500 ms sur plusieurs ECG 12 dérivations
+réalisés en l’absence de cause secondaire prolongeant
+celui-là.
+Et le diagnostic sera possible, mais pas certain en
+présence d’un QTc compris entre 480 et 499 ms sur
+plusieurs ECG 12 dérivations réalisés en l’absence
+de cause secondaire prolongeant celui-là et en l’absence
+d’une mutation pathogénique connue. À noter
+que la spécificité du score de Schwartz est haute
+(99%), mais sa sensibilité est relativement basse
+(19%). Ainsi, la mesure d’un QTc ? 430 ms dans la
+dérivation V5 est nettement plus sensible (72%) bien
+que moins spécifique (86%).
+Certains paramètres ECG permettent d’améliorer la
+discrimination diagnostique du SQTL de même que
+son risque, leur présence constituant un argument
+supplémentaire en faveur de ce diagnostic :
+• une dispersion du QTc (variation de l’intervalle dans
+les différentes dérivations d’un même ECG), supé-
+rieure à 55 ms4 ;
+• une majoration du QTc après effort (jusqu’à 4 minutes
+après un test à l’effort)5, un SQTL pouvant en
+effet n’être manifeste qu’après l’effort (à noter que
+les modifications ECG à l’effort varient également
+selon le type de long QTet expliquent en grande
+partie la variation dans l’expression clinique des
+différents types de SQTL).
+• des caractéristiques morphologiques particulières
+de l’onde T, celles-ci permettant également
+d’orienter le diagnostic (voir fig. 1 à 3).
+8 La Revue de la Médecine Générale n°319 janvier 2015
+Pourquoi le QT s’allonge-t-il ?
+La prolongation de la repolarisation peut être d’origine
+congénitale, suite à une mutation d’un gène codant
+pour les canaux ioniques, mais également d’origine
+acquise. Quant à la physiopathologie exacte des
+mécanismes engendrant finalement les arythmies
+ventriculaires, de nombreuses questions subsistent.
+Dans le SQTL acquis
+Les causes principales de SQTL acquis sont les
+suivantes :
+• bradycardie (maladie du nœud sinusal, bloc auriculo-ventriculaire
+complet);
+• anomalies métaboliques, comme l’hypokaliémie
+(diurétiques, etc.);
+• prise de médicaments pouvant impacter le potentiel
+d’action myocardique (tableau 3).
+Le risque est d’autant plus important si ces diffé-
+rents mécanismes s’associent et, dans le cas des
+médicaments, si plusieurs molécules à risque sont
+prises simultanément ou en cas d’interaction ré-
+duisant le métabolisme d’une molécule à risque.
+Également, la femme est plus à risque que l’homme.
+Dans ce contexte de QT long acquis, les arythmies ventriculaires
+polymorphes (torsades de pointe), apparaissent
+alors plutôt en période de bradycardie et sont
+favorisées par l’association de trois mécanismes:
+• la modification des courants ioniques qui génère
+une prolongation de la durée du potentiel d’action
+avec allongement de la repolarisation et risque
+d’apparition de post-dépolarisations précoces;
+• les post-dépolarisations précoces (PDP) qui sont
+source possible d’arythmie ventriculaire polymorphe,
+et sont associées à l’instabilité de la perméabilité
+membranaire qui favorise ces extrasystoles
+ventriculaires à couplage court;
+Fig 1: QT long type 1 avec onde T de durée prolongée à
+base élargie et apex retardé.
+Fig 2: QT long type 2 avec aspect discrètement dédoublé
+de l’onde T en DII.
+Fig 3: QT long de type 3 avec onde T retardée et segment
+ST prolongé en DII.
+Fig 4.
+M G & CA R D I O LO G I E 9
+• la dispersion de la repolarisation qui traduit l’absence
+d’homogénéité de la récupération cellulaire
+myocardique (ex: prolongation importante du potentiel
+d’action et donc, bloc fonctionnel, des seules
+cellules M lors de l’administration de molécules
+telles que le sotalola ou les macrolides)6 favorisant le
+risque de réentrées et de torsades de pointes (fig 4).
+Citons le sotalola, antiarythmique de classe III, grand
+pourvoyeur de SQTL. Par son action d’inhibition des
+canaux potassiques et son effet bradycardisant, le
+sotalola favorise une prolongation de la repolarisation
+associée à des PDP. Cet effet pro-arythmique
+apparait chez 2 à 7% des patients pour un dosage
+minimal de 320 mg par jour7.
+L’amiodaroneb favorise également un allongement
+de l’espace QT par inhibition des courants potassiques.
+Cet antiarythmique est néanmoins rarement
+incriminé dans l’apparition d’arythmies ventriculaires
+de par ses multiples autres actions (courants
+sodique et calcique, récepteurs ß adrénergiques).
+Dans le SQTL congénital
+Les différentes formes de SQTL congénital sont associées
+à des modifications des courants ioniques ré-
+sultant en une prolongation de l’intervalle QT. Dans la
+plupart des formes congénitales, les arythmies ventriculaires
+apparaissent lors de décharges adrénergiques
+(sport, stress). L’hypothèse d’un déséquilibre
+du système nerveux autonome associé à l’anomalie
+des canaux ioniques est à juste titre suspectée.ab
+a. Sotalex®
+b. Cordarone®
+Un quatrième mécanisme physiopathologique vient
+donc compléter la triade des mécanismes décrits
+ci-dessus. De nombreux articles appuient en effet
+l’importance de la majoration de l’activité sympathique
+dans la genèse des arythmies ventriculaires
+rencontrées dans le SQTL, ce que confirment les observations
+cliniques (dont les contextes de déclenchement
+des arythmies ventriculaires), les béné-
+fices des ß-bloquants et ceux de la sympathectomie
+gauche (qui pourtant ne réduit pas l’espace QT).
+Le SQTL congénital
+Démarche diagnostique
+Signes d’appel
+Une mort subite inexpliquée avec autopsie négative
+(2 à 5% des morts subites inexpliquées), une noyade,
+une syncope inexpliquée avec des circonstances
+particulières (stress, effort, fièvre), une histoire familiale
+de morts subites ou de syncopes sont des
+éléments qui doivent nous faire suspecter un SQTL.
+La réalisation d’un ECG confirmant l’allongement de
+l’intervalle QT associé à l’histoire clinique permet
+alors de consolider l’orientation diagnostique.
+Diagnostic différentiel d’un QT long
+Lorsque le diagnostic est posé, il convient en première
+intention d’exclure tout facteur extérieur favorisant
+l’apparition d’un SQTLacquis : médicaments prolongeant
+le QT, hypokaliémie, bradycardie (sinusale ou
+trouble de la conduction auriculo-ventriculaire).
+Critères	 	 Score
+ECG
+QTc ? 480 ms 3
+460–479 ms 2
+450–459 ms (homme) 1
+QTc 4 min post-effort ? 480 ms 1
+Torsade de pointes (en l’absence de médicament allongeant l’onde T 2
+Alternance de l’onde T sur un même tracé (a) 1
+Encoche sur l’onde T (aspect bi-bosse ou crocheté ? 3 dérivations) 1
+Rythme lent (< P2) pout l’âge (enfants) 0.5
+Antécédents personnels
+Syncope De stress ou d’effort 2
+Sans stress 1
+Surdité congénitale 0.5
+Antécédentsfamiliaux
+Membre de la famille avec LQTS 1
+Mort subite inexpliquée < 30 ans chez un parent au 1er degré 0.5
+(a) Variation d’amplitude et/ou de morphologie de l’onde T tous les deux complexes alors que l’axe des QRS et la fréquence cardiaque restent stables.
+Tableau 1: LQTS (Long QT syndrome) score de Schwartz; selon le score, la probabilité d’un SQTL est faible (? 1), intermédiaire
+(2 à 3) ou élevée (? 4).
+10 La Revue de la Médecine Générale n°319 janvier 2015
+Orientation diagnostique (type de SQTL)
+Dans l’attente du résultat d’une analyse génétique qui
+peut parfois prendre plusieurs mois, Il est important
+d’essayer de préciser le type de SQTL, par une anamnèse
+détaillée et par l’analyse morphologique de l’ECG.
+En effet, le traitement et les situations cliniques à éviter
+varieront selon les différents types. Ainsi, alors que
+l’association d’un SQTL à une surdité est en faveur
+d’une transmission autosomique récessive comme
+rencontrée dans le syndrome de JLN (SQTL 1 et SQTL
+5) de moins bon pronostic, une atteinte cardiaque isolée
+pose le diagnostic de syndrome de RW (tableau 1).
+Suivent ici les caractéristiques des 3 premiers
+types de SQTL, ceux-ci représentant 75% des cas8 :
+• dans le SQTL de type 1 (35% des cas), les symptômes
+apparaissent principalement à l’effort et
+plus particulièrement dans l’eau (natation), l’immersion
+faciale dans l’eau froide provoquant en effet
+un allongement de l’espace QT chez les patients
+porteurs du SQTL 1; les événements cliniques sont
+plus précoces puisque 40% des patients seront
+symptomatiques avant l’âge de 10 ans (16% seulement
+pour les types 2 et 2% pour les types 3)9 ;
+• dans le SQTL de type 2 (30% des cas), le déclenchement
+d’arythmies ventriculaires est provoqué par
+le stress, l’émotion et les stimulations sonores ;
+• dans le SQTL de type 3 (10% des cas), les événements
+se produisent au repos ou durant le sommeil,
+raison pour laquelle ces patients n’ont pas de grand
+bénéfice clinique du traitement par ß-bloquants10.
+Diagnostic génétique
+La génétique est devenue une étape incontournable
+dans le diagnostic et la prise en charge d’un patient
+porteur d’un SQTL. Elle doit être réalisée face à
+toute suspicion clinique et/ou ECG d’un syndrome de
+QT long. Il existe actuellement 13 types de SQTL, basés
+sur les différentes mutations démontrées, dont
+les présentations cliniques et les réponses au traitement
+varient (tableau 2). La génétique permet donc,
+non seulement de définir le type de SQTL, mais aussi
+d’optimaliser les soins et conseils apportés au patient.
+Également, la connaissance de l’anomalie
+génétique va découler sur l’identification des personnes
+porteuses dans la famille et leur traitement
+préventif. Il convient de pratiquer cette analyse chez
+tout patient ayant une suspicion clinique et/ou électrocardiographique
+d’un SQTL.
+Pronostic
+La mortalité des SQTL congénitaux est de l’ordre de
+20 % à 1 an et de 53 % à 15 ans en l’absence de traitement
+anti-adrénergique. Sous traitement, cette
+mortalité diminue à 9 % à 3 ans et reste stable par
+la suite. Les facteurs prédisposant à cette mortalité
+sont l’histoire de syncope, les arythmies ventriculaires,
+le genre féminin, la longueur du QTc,
+l’histoire familiale de mort subite et la non-compliance
+thérapeutique.
+Selon un registre international des porteurs du
+SQTL suivi depuis 1979, 76% des patients porteurs
+du SQTL souffriront d’un événement clinique en lien
+à leur pathologie (syncope, arrêt cardiaque ressuscité,
+mort subite) après 20 années d’observation.
+Celui-ci atteint plus fréquemment les femmes (70%
+des cas). Les hommes, par contre, développeront
+les symptômes plus jeunes (8 ± 7 ans versus 14
+Type	 Prévalencerelative	 Transmission	 Aspectclinique	 ParticularitésECG	 Groupeà haut risque	 Traitementet C/ I particulières
+SQTL 1 35% Dominant • syncope à l’effort, Onde T ample garçon de 5 à 20 ans • ß-bloquants
+40% < 10 ans natation à base large • défibrillateur (QTc > 500 ms)
+ • C/I : natation
+SQTL 2 30% Dominant • syncope au stress, Onde T de faible fille de plus de 12 ans • ß-bloquants
+ lors de stimulation amplitude avec • pacemaker si bradycardie
+ auditive double bosse • défibrillateur (QTc > 500 ms)
+ • C/I : bruit, stress (sonore…)
+SQTL 3 10% Dominant • syncope au repos Onde T retardée • enfants des 2 sexes • anti-arythmique classe IB
+ • hommes adultes • pacemaker,
+ • défibrillateur (homme)
+JLN < 1% Récessif • syncope à l’effort • défibrillateur
+ • surdité associée
+SQTL 4 < 1% Dominant • Syncope à l’effort Anomalies diverses • ß-bloquants
+à 13 pour chaque • pathologie ou syn- possibles • pacemaker (SLQT 4)
+ drome malformatif
+ éventuellement asso-
+ cié (syndactylie, etc.)
+Tableau 2: les différentes formes de SQTL congénital et leurs caractéristiques; le syndrome de Jervell Lange-Nielsen
+(JLN) est associé aux anomalies génétiques du SQTL de type 1 ou 5; à noter que pour 20% des SQTL congénitaux, aucune
+anomalie génétique n’a pu être identifiée.
+M G & CA R D I O LO G I E 11
+L’histoire de Caroline
+Caroline est une jeune patiente de 11 ans qui pratique la natation et participe à des compétitions. À l’âge de
+9 et 10 ans, elle décrit 3 syncopes brutales à la piscine. Les deux premiers épisodes sont de courte durée
+et sont apparus hors de l’eau après une compétition, ils n’ont pas inquiété l’entourage et une origine vagale
+a été suspectée. Elle signale un troisième événement par la suite avec une perte de connaissance alors
+qu’elle nageait. Ce troisième épisode, plus inquiétant aux yeux des parents, les a motivés à se présenter à
+la consultation du médecin généraliste qui les a orientés en cardiologie.
+Les données de l’ECG
+L’ECG réalisé (figure 5) montre un rythme sinusal à 75/minute avec prolongation de l’espace QT à 430 ms.
+La correction de l’espace QT, en fonction de la fréquence cardiaque selon la formule de Bazett nous donne
+un QTc à 482 ms, donc pathologique. Elle ne prend aucun médicament et sa biologie ne montre aucun
+désordre hydro-électrolytique. Elle n’a pas de bradycardie sinusale et n’a pas de trouble de la conduction
+auriculo-ventriculaire. Il n’y a donc pas de facteur en faveur d’un SQTL acquis. Vu son jeune âge, elle est
+adressée en milieu spécialisé pour discussion de la prise en charge.
+Éléments cliniques
+Le très jeune âge de Sophie et l’histoire de syncope favorisée par la natation orientent vers un diagnostic
+de SQTL de type 1. La forme clinique est uniquement cardiaque avec absence de surdité associée, ce qui
+exclut un JLN.
+Éléments ECG complémentaires
+L’analyse morphologique de l’onde T (figure 5) plaide à nouveau en faveur d’un SQTL de type 1. En effet, on
+constate une onde T de durée prolongée à base élargie et d’apex retardé. Également, la dispersion est de
+100 ms, ce qui est en faveur d’un SQTL avec risque élevé d’arythmies ventriculaires.
+Anamnèsefamiliale
+L’anamnèse familiale, point habituellement crucial
+dans la suspicion d’un syndrome du QT long, est chez
+notre patiente faussement rassurante. En effet, aucun
+membre de la famille proche ou éloignée n’a fait
+de syncopes et il n’y a pas de cas de mort subite inexpliquée.
+Nous décidons donc de réaliser un ECG aux
+parents et à la sœur cadette âgée de 8 ans présents
+à la consultation. L’ECG de la sœur s’avère pathologique
+(QTc 487 ms) et de morphologie identique à
+celui de notre patiente. On lui objective de plus des
+extrasystoles ventriculaires à couplage court. La maman
+a un ECG normal et le papa a un ECG équivoque
+avec un QTc à la limite de la normale.
+Analyse génétique
+L’analyse génétique a confirmé le SQTL 1 suspecté et
+le gène responsable a été identifié chez la sœur et le
+père. Les 3 porteurs ont donc bénéficié d’un traitement
+ß-bloquants.
+Figure 5: ECG de Caroline.
+12 La Revue de la Médecine Générale n°319 janvier 2015
+± 10 ans). Ils ont ainsi un risque accru avant la fin
+de la puberté alors que les femmes l’ont principalement
+à l’âge adulte. Cette différence physiologique
+s’explique entre autre par le raccourcissement de
+l’espace QT chez l’homme adulte comparativement
+à celui de la femme et des enfants11.
+Risque dans la parenté
+Le pronostic des membres de la famille au premier
+et au second degré d’un porteur du SQTL a également
+été évalué à partir de ce registre. Il en ressort
+que 50% des individus analysés ont un QTc > 440 ms
+dont 10% > 500 ms. Et 22% des membres de leur
+famille auront également une manifestation clinique
+favorisée par un SQTL, et 17% subiront un événement
+cardiaque en lien au SQTL (risque jusqu’à
+9.66 fois plus important pour les personnes ayant
+un QTc > 500 ms)12. Les femmes adultes sont plus à
+risque que les hommes (20 vs 13%).
+Apport de la génétique
+Bien que le QTc soit le meilleur facteur prédictif,
+il est important d’également considérer la géné-
+tique d’une famille comprenant un membre porteur
+d’un SQTL. En effet, 5% des personnes ayant un
+QTc < 440 ms souffriront d’un arrêt cardiaque alors
+qu’une analyse génétique aurait permis de définir
+les porteurs à phénotype normal et de les protéger
+par un traitement approprié13.
+Le typage génétique du SQTL permet par ailleurs de
+déterminer plus précisément un risque plus précis.
+Parmi les 3 types les plus fréquents (LQT1, 2 et 3)
+qui correspondent à plus de 90% des SQTL congénitaux
+dont la génétique a pu être déterminée, on notera
+que les événements (syncope, arrêt cardiaque
+réanimé, mort subite) sont plus fréquents dans les
+types 1 et 2 (63% et 26%) que dans les types 3 (18%).
+Bien que les événements soient plus fréquents dans
+le type 1, la mortalité reste quant à elle identique
+dans les 3 types de QTL14.
+Traitement
+Pour les SQTL congénitaux, bien que certains facteurs
+nous permettent de définir les patients à haut risque,
+dans 9% des cas, la mort subite peut être la première
+manifestation clinique. Les recommandations actuelles
+sont donc de traiter tous les patients atteints
+de la pathologie que ce soit clinique ou génétique15.
+Les bêta-bloquants
+L’action des ß-bloquants (ßB) permet une diminution
+des syncopes et des morts subites par inhibition
+des post-dépolarisations précoces et diminution
+de l’activité sympathique du ganglion stellaire
+gauche15. Sous traitement, les événements diminuent
+de 66 % pour les patients atteints de SQTL
+et de 50 % pour les membres de leur famille au
+premier et second degré. Malheureusement, 32 %
+des patients symptomatiques le resteront malgré
+la prescription de ßB avec un risque de mort subite
+jusqu’à 14 % chez les patients en ayant déjà souffert
+avant traitement 10.
+Les 2 molécules de choix pour les SQTL 1 et 2 sont
+le nadololc
+ (1,5 mg/kg/j) et le propanolold (3 mg/
+kg/j). Le risque persistant de mort subite sous ßB
+est dû pour l’essentiel au manque de compliance
+des patients 16.
+La dénervation
+L’exérèse chirurgicale du ganglion stellaire ainsi que
+d’une partie de la chaîne ganglionnaire thoracique
+est une méthode efficace. Mais, elle reste de second
+choix pour des patients symptomatiques (chocs
+électriques internes fréquents, syncopes) malgré un
+traitement par ßB bien conduit. L’indication est également
+retenue lorsque les ßB sont contre-indiqués3.
+Le stimulateur cardiaque
+L’implantation d’un stimulateur cardiaque peut
+également être une alternative thérapeutique
+chez les patients dont les événements sont plus
+fréquents en période de bradycardie importante
+(SQTL 3, bradycardie sinusale excessive, bloc
+auriculo-ventriculaire).
+Le défibrillateur
+L’efficacité de l’implantation d’un défibrillateur chez
+des patients porteurs d’un SQTL réfractaire au traitement
+conventionnel a été démontrée dans quelques
+petites études. Les patients ayant fait une mort subite
+ressuscitée conservent un risque de décès élevé
+(14%) à 5 ans sous ßß. Ils sont donc également de
+bons candidats à l’implantation. Ces deux indications
+sont donc à juste titre reconnues dans les recommandations
+d’implantation d’un défibrillateur3.
+Les inhibiteurs sodiques
+Les inhibiteurs sodiques (disopyramidee, flecaï-
+nidef
+, propafenoneg) sont des molécules qui peuvent
+éventuellement être indiquées dans les SQTL3
+c. Corgard® (commercialisé en France)
+d. Inderal®
+e. Rythmodan®
+f. Apocardâ, Tambocor®
+g. Rytmonorm®
+M G & CA R D I O LO G I E 13
+si un test thérapeutique en milieu surveillé a permis
+de montrer une diminution de l’intervalle QTc
+en dessous de 440 ms 3.
+La prévention
+Médicaments et QT
+Il est important de garder à l’esprit que plusieurs
+des prescriptions quotidiennes du généraliste sont
+susceptibles d’allonger le QT, donc d’accroître le
+risque d’arythmie ventriculaire par torsades de
+pointe. Il s’agit notamment de plusieurs neuroleptiques,
+d’antidépresseurs, et des antibiotiques de la
+classe des macrolides et des quinolones (tableau 3,
+www.qtdrugs.org). Or ce risque concernerait > 10 %
+de la population. En effet, on considère généralement
+que le risque est significatif si le QT mesuré
+en dehors de toute prise d’un tel médicament est
+> 440 ms (hommes), ou > 450 ms (femmes), valeurs
+dépassées chez ? 10 % de la population2.
+Le risque d’arythmie est majoré dans les situations
+suivantes, qu’il conviendra donc de gérer, ou
+d’éviter :
+• hypokaliémie (diurétiques, diarrhée, etc.);
+• prise simultanée de deux molécules allongeant le
+QT;
+• interaction médicamenteuse ou alimentaire (pamplemousse)
+avec risque d’accumulation de la molécule
+à risque.
+Faut-il pour autant effectuer un screening ECG systématique
+avant toute prescription de macrolide ou
+d’une autre molécule à risque? Il n’existe pas de recommandation
+précise à ce sujet dans la littérature.
+Une récente revue Cochrane17 s’est penchée sur la
+question en l’appliquant au traitement par méthadone.
+La conclusion de cette revue est que l’ECG
+systématique n’est pas recommandé dans ce cas
+particulier. Les critères qui ont guidé cette conclusion
+sont à mentionner ici car ils peuvent éclairer
+toute décision d’effectuer, ou non, un ECG préalable
+à la prescription d’un médicament allongeant le QT.
+Ces critères sont les suivants :
+• difficulté de l’évaluation précise de la longueur du
+QTc par le praticien de terrain;
+• absence d’un seuil précis et unanimement reconnu
+de longueur à risque du QTc ;
+• balance bénéfice/risque de la prescription, en tenant
+compte du fait que prévalence des torsades
+de pointe dues aux médicaments est très faible (incidence
+de 0,26 à 2,5 sur un million18).
+En présence d’un QT long (> 440 à 450 ms), il convient
+de noter cet élément au dossier dans la mesure où il
+constitue une contre-indication, relative ou absolue
+selon le cas, à la prescription des médicaments allongeant
+le QT. Par ailleurs, si un QT long est observé
+en cours de traitement, il y a lieu, soit de comparer
+ce QT à sa valeur avant traitement (si disponible),
+et de référer ou de demander avis au cardiologue.
+Enfin, chez tout porteur de QT long acquis, il est important
+de s’interroger sur la possibilité d’un SQTL
+congénital sous-jacent.
+SQTL congénital
+Dans le cas du SQTL congénital, des mesures préventives
+sont importantes pour éviter tout allongement
+supplémentaire du QT. Nous retiendrons l’éviction
+des médicaments prolongeant le QT, des médicaments
+à action adrénergique (ß2-mimétiques, dé-
+rivés amphétaminiques, méthylphénidateh, éphé-
+drine, épinéphrine) ainsi qu’une surveillance accrue
+de l’ionogramme dans des périodes à risque de dé-
+séquilibre (diarrhées, vomissements, régime alimentaire,
+conditions métaboliques perturbées)3. La
+h. Concerta®, Rilatine®
+Anti-arythmiques Amiodarone (Cordarone®)
+Flécaïnide (Tambocor®, Apocard®)
+Sotalol (Sotalex®)
+Antidépresseurs Citalopram (Cipramil®)
+Escitalopram (Sipralexa®)
+Lithium (Maniprex®, Camcolit®, Priadel®)
+Mirtazapine (Remergon®)
+Venlafaxine (Efexor®)
+Antiémétiques Dompéridone (Motilium®)
+Ondansetron (Zofran®)
+Macrolides Azithromycine (Zitromax®)
+Clarithromycine (Biclar®)
+Érythromycine (Érythro…®)
+Telithromycine (Ketek®)
+Neuroleptiques Haloperidol (Haldol®)
+Olanzapine (Zyprexa®)
+Quetiapine (Seroquel®)
+Risperidone (Rispredal®)
+Sulpiride (Dogmatil®)
+Quinolones Levofloxacine (Tavanic®)
+Moxifloxacine (Avelox®, Proflox®)
+Norfloxacine (Zoroxin®)
+Ofloxacine (Tarivid®)
+Divers Méthadone (Mephenon®)
+Tamoxifen(Nolvadex®, Tamizam®)
+Vardenafil (Levitra®, Vivanza®)
+Diversantirétroviraux
+Diverses chimiothérapies
+Tableau 3: médicaments couramment prescrits par le MG
+belge et induisant un risque de torsade de pointes (molé-
+cules en gras : risque possible mais non certain)
+(www.qtdrugs.org).
+14 La Revue de la Médecine Générale n°319 janvier 2015
+modification du style de vie principalement concernant
+la pratique du sport peut également être salvatrice.
+En compétition, seuls les sports de faible
+intensité dynamique et statique sont conseillés
+(billard, bowling, cricket, curling, golf, tir)19. Le vélo
+de randonnée, le tennis en double, le patinage, le ski
+de randonnée, le golf, le bowling, le vélo d’appartement
+et la randonnée pédestre sont, quant à elles,
+les activités de loisirs autorisées19.
+Conclusion
+Une syncope inexpliquée chez un jeune à l’effort
+ou durant une séance de natation, une histoire familiale
+de syncope d’effort ou de mort subite inexpliquée
+sont autant d’éléments qui doivent faire
+évoquer la possibilité d’un SQTL congénital et faire
+référer le patient (et sa famille) au cardiologue pour
+mise au point et traitement. Par ailleurs, l’observation
+d’un QTc > 440 à 450 ms doit être annotée au
+dossier du patient dans la mesure où ce QT long
+constitue en principe une contre-indication à certaines
+des prescriptions fréquentes des généralistes.
+Par ailleurs, la détermination précise de la
+valeur du QT et son interprétation restant des exercices
+délicats, il ne faut pas hésiter en cas de doute
+à référer au confrère cardiologue.
+Enfin, la compliance au traitement en cas de SQTL
+confirmé reste l’élément déterminant quant au
+risque de mort subite.

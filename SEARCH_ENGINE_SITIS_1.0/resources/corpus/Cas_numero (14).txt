@@ -1,0 +1,77 @@
+L’hypertension chez les aînés
+Nouvelles cibles de pression artérielle et conseils relatifs aux prescriptions
+
+Tessa Laubscher, Loren Regier and Shannon Stone
+Canadian Family Physician May 2014, 60 (5) e254-e257;
+
+Benoît, un patient de 82 ans atteint d’une démence modérée (score de 12 au mini-examen de l’état mental), a récemment été admis en soins prolongés à la suite d’une chirurgie qui remonte à 6 semaines pour une fracture de la hanche. Il a comme antécédents médicaux pertinents une coronaropathie (infarctus du myocarde [IM] il y a 10 ans, traité au moyen d’une angioplastie et d’un stent), une hypertension persistante depuis longtemps, une néphropathie chronique de stade 3 (taux de filtration glomérulaire estimée à 40 ml/min) et une hypertrophie bénigne de la prostate. Comme médication, il prend 10 mg de ramipril par jour, 25 mg d’hydrochlorothiazide par jour, 50 mg de métoprolol 2 fois par jour, 10 mg de rosuvastatine par jour, 81 mg d’acide acétylsalicylique par jour, 0,4 mg de tamsulosine à libération contrôlée par jour, 70 mg et 5 600 UI respectivement d’alendronate et de vitamine D par semaine et 1 000 mg d’acétaminophène 3 fois par jour. Le comprimé de bisphosphonate et de vitamine D et l’acétaminophène sont les seuls nouveaux médicaments depuis la fracture de sa hanche.
+Le personnel infirmier signale que Benoît semble étourdi et instable lorsqu’il se lève pour se déplacer avec sa marchette. Les infirmières ont peur qu’il tombe. Les données cliniques de la semaine dernière indiquent des lectures de pression artérielle (PA) variant de 130/84 à 118/60 mm Hg et un pouls régulier de 54 à 70 battements/min. Exception faite de sa déficience cognitive et de sa récente chirurgie de la hanche, rien à l’examen clinique n’est particulier, il n’y a pas de signe d’insuffisance cardiaque et on a seulement constaté une baisse posturale de la PA de 5 mm Hg.
+En qualité de médecin de famille qui dispense à Benoît des soins continus, envisageriez-vous des changements dans sa prise en charge médicale?
+Appliquer les données probantes dans la pratique
+
+Seuils de pression artérielle chez les personnes âgées
+
+De récents changements dans les recommandations de cibles de PA chez les adultes plus âgés ont fait l’objet de beaucoup de discussions. La variation entre les lignes directrices émane de données probantes à l’effet qu’un abaissement intensif de la PA chez les adultes plus âgés pourrait ne pas apporter beaucoup de bienfaits et augmenter le risque d’événements indésirables (Tableau 1)1–3. Le Programme éducatif canadien sur l’hypertension a proposé une révision de la recommandation pour les personnes de plus de 80 ans ayant une hypertension systolique isolée: Chez les personnes très âgées (80 ans et plus), qui ne souffrent pas de diabète ou de lésion des organes cibles, la valeur seuil de [PA systolique] pour l’amorce du traitement médicamenteux est de ? 160 mm Hg et la valeur cible de PA est de < 150 mm Hg (cote C)4.
+
+Une étude (Hypertension in the Very Elderly Trial) s’est penchée précisément sur les personnes de 80 ans et plus (Tableau 2)5. Quoique les lignes directrices varient un peu, les cibles de PA sont plus exigeantes pour les personnes diabétiques (Tableau 3)4-9. Il y a lieu d’individualiser les cibles de PA chez les adultes plus âgés en fonction de leur fragilité, de leurs maladies concomitantes, de leur espérance de vie et de leur tolérance aux médicaments.
+
+La PA diastolique revêt aussi de l’importance. De récentes lignes directrices mettent en garde contre un abaissement de la PA diastolique à moins de 60 ou 65 mm Hg lorsqu’une hypertension systolique isolée et une coronaropathie établie sont présentes, en raison de préoccupations concernant l’ischémie myocardique4,10. On a associé une PA diastolique inférieure à 65 mm Hg avec un risque accru d’accidents vasculaires cérébraux et cardiovasculaires11.
+
+View inlineView popup
+Tableau 1.
+Études randomisées contrôlées sur le traitement de l’hypertension en fonction de valeurs cibles (âge moyen > 70 ans)
+View inlineView popup
+Tableau 2.
+Études sur l’hypertension chez les personnes très âgées (âge ? 80 ans)
+View inlineView popup
+Tableau 3.
+Comparaison des lignes directrices sur les valeurs cibles de PA: Les valeurs cibles de PA chez les adultes plus âgés devraient être individualisées en fonction de la fragilité de la personne, des problèmes concomitants et de la tolérance aux médicaments et aux effets indésirables. La valeur cible optimale de la PA demeure indéterminée. Les bienfaits d’un traitement, y compris une réduction de l’insuffisance cardiaque et des décès dus à un AVC ou à d’autres causes chez les personnes de > 80 ans (moyenne de 84 ans) ont été démontrés lorsque la valeur cible de la PAS est de < 150 mm Hg5.
+Considérations pharmacothérapeutiques pour l’hypertension chez les personnes âgées
+
+Les ?-bloquants ne sont pas nécessairement indiqués indéfiniment après un IM12. Les données probantes ne sont pas suffisantes pour justifier l’utilisation des ?-bloquants pendant plus de 3 ans après un IM, à moins qu’il y ait d’autres indications impérieuses (p. ex. insuffisance cardiaque, angine stable, fibrillation auriculaire)13. Ce sont des options d’antihypertenseurs moins efficaces chez les adultes plus âgés. S’il est décidé de cesser un ?-bloquant, il est important de diminuer la dose graduellement, de 25 % à 50 % à chaque semaine ou aux 2 semaines pour minimiser les symptômes de sevrage (p. ex. tachycardie réflexe, angine, anxiété et malaise général).
+
+Lorsqu’on les combine avec un inhibiteur de l’enzyme de conversion de l’angiotensine (IECA) ou un antagoniste des récepteurs de l’angiotensine (ARA), les diurétiques thiazidiques fonctionnent habituellement en synergie et des doses plus faibles sont souvent efficaces14. De nombreux produits combinés (IECA ou ARA combinés avec des diurétiques thiazidiques) sont disponibles pour réduire le fardeau posologique pour les personnes dont l’état est stable avec de tels régimes combinant 2 médicaments.
+
+Les diurétiques thiazidiques pourraient perdre leur efficacité chez les personnes qui ont une fonction rénale déficiente (clairance de la créatinine de < 30 ml/min). Leur utilisation en combinaison avec du furosémide est efficace chez ceux dont la néphropathie chronique est plus grave.
+
+Les données probantes d’études étayant les meilleurs bienfaits des diurétiques thiazidiques concernaient leur combinaison avec de la chlorthalidone et de l’indapamide plutôt qu’avec l’hydrochlorothiazide5,11,15. La chlorthalidone est environ 1,5 à 2 fois plus puissante à la même dose (en milligrammes) que l’hydrochlorothiazide. Certains envisageraient changer pour la chlorthalidone; par ailleurs, si une dose plus faible de 12,5 mg suffit, ce n’est pas pratique parce qu’elle n’est disponible qu’en comprimé unique de 50 mg.
+
+Le ramipril est souvent prescrit à raison de 10 mg par jour à la suite des résultats de l’étude HOPE (Heart Outcomes Prevention Evaluation)16. Dans l’étude HOPE, on comparait 10 mg de ramipril par jour au coucher avec un placebo dans une population ayant des risques cardiovasculaires élevés (âge moyen de 55 ans). Cette dose plus forte pourrait être privilégiée si une autre indication impérieuse est présente (p. ex. insuffisance cardiaque). Toutefois, une dose plus faible convient mieux à ceux qui font des chutes, se sentent étourdis ou éprouvent d’autres effets indésirables possibles.
+
+Les thiazidiques, les IECA, les ARA et les inhibiteurs des canaux calciques sont tous des options raisonnables pour les adultes plus âgés. Tous ces agents, et particulièrement les diurétiques, peuvent causer de l’hypotension orthostatique. Il faut user de prudence avec les inhibiteurs des canaux calciques, car l’œdème des extrémités inférieures est un effet secondaire courant dont on se plaint et qui est souvent inutilement traité avec du furosémide, ce qui entraîne une «cascade de prescriptions».
+
+Les ?-bloquants (aussi utilisés pour l’hypertrophie prostatique bénigne) peuvent être particulièrement problématiques et causer de l’hypotension orthostatique17,18. (Consultez la foire aux questions de RxFiles sur l’hypotension orthostatique qui se trouve en anglais dans CFPlus*)18.
+
+Options non reliées à l’hypertension pour ceux ayant des antécédents récents ou un risque de chutes et de fractures
+
+Évaluer les autres médicaments pouvant possiblement augmenter le risque de chutes (p. ex. antipsychotiques, sédatifs, traitement contre l’hypertrophie bénigne de la prostate, antihyperglycémiques)19. Les critères de dépistage de Beers et de STOPP (Screening Tool of Older Persons’ Potentially Inappropriate Prescriptions) sont utiles pour cerner les médicaments potentiellement problématiques chez les personnes âgées20,21.
+
+Prendre des mesures non pharmacologiques pour réduire les risques de chutes (p. ex. enlever les tapis, garder les passages libres de tout obstacle, assurer un éclairage suffisant, fournir des dispositifs pour aider à la marche et au transfert).
+
+Veiller à un apport suffisant de suppléments de vitamine D (p. ex. 800 à 2 000 UI par jour)22.
+
+Veiller à un apport total suffisant de calcium (1 200 mg de calcium élémentaire par jour) de source alimentaire et par des suppléments22.
+
+Envisager le rôle possible des bisphosphonates pour prévenir les fractures chez les personnes à risque élevé22.
+
+Examiner l’indication possible du port de protecteurs de hanches pour réduire le risque de fractures23,24.
+
+De retour à notre cas
+
+On a baissé la dose de métoprolol qui est passée de 50 mg 2 fois par jour à 25 mg 2 fois par jour pendant 2 semaines, prévoyant réduire la dose encore davantage à 12,5 mg 2 fois par jour après 2 autres semaines. On surveille chez Benoît les symptômes de sevrage comme la tachycardie réflexe ou l’angine.
+On a réduit l’hydrochlorothiazide à 12,5 mg par jour et le ramipril à 5 mg par jour, prévoyant une réévaluation et l’adoption d’un produit combiné après 4 à 8 semaines si sa PA est stable. On a pour but d’éviter des symptômes de l’hypotension comme l’étourdissement, tout en contrôlant l’hypertension à une valeur ciblée de PA de moins de 150/90 mm Hg.
+On a continué la tamsulosine parce que la famille de Benoît la considérait comme étant utile; toutefois, elle pourrait être discontinuée si Benoît a toujours des étourdissements.
+On pourrait envisager des valeurs cibles de PA moins contraignantes et une réduction de la médication antihypertensive si Benoît continue d’avoir des symptômes d’hypotension ou des effets indésirables de ces agents. La sécurité du patient, sa qualité de vie, son espérance de vie et le temps qu’il faut pour bénéficier de la thérapie, ainsi que le fardeau pharmacologique global sont tous des éléments valides à considérer quand on contextualise les recommandations des guides de pratique clinique pour les adultes plus âgés de fragilité grandissante. Il importe d’être aux aguets et d’éviter une potentielle cascade de prescriptions lorsqu’on ajoute un médicament pour contrecarrer ou traiter les effets secondaires d’un autre médicament.
+Footnotes
+
+Cet article donne droit à des crédits Mainpro-M1. Pour obtenir des crédits, allez à www.cfp.ca et cliquez sur le lien vers Mainpro.
+
+The English version of this article is available at www.cfp.ca on the table of contents for the May 2014 issue on page 453
+
+?* La foire aux questions de RxFiles sur l’hypotension orthostatique se trouve en anglais à www.cfp.ca. Allez au texte intégral de l’article en ligne et cliquez sur CFPlus dans le menu du coin supérieur droit de la page.
+
+Intérêts concurrents
+
+RxFiles et les auteurs qui y collaborent n’ont aucun intérêt concurrent de nature commerciale. Le Programme de formation continue en pharmacothérapie RxFiles est financé par l’intermédiaire d’une subvention du ministère de la Santé de la Saskatchewan à la Régie régionale de la santé de Saskatoon; les recettes «sans but lucratif ni perte de bénéfice» proviennent de la vente de livres et des abonnements en ligne.
+
+Copyright© the College of Family Physicians of Canada

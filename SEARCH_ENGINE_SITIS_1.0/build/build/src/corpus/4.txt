@@ -1,0 +1,38 @@
+1. Am J Hematol. 2017 Sep;92(9):879-884. doi: 10.1002/ajh.24792. Epub 2017 Jun 9.
+
+Outcomes of patients with relapsed/refractory Hodgkin lymphoma progressing after 
+autologous stem cell transplant in the current era of novel therapeutics: A
+retrospective analysis.
+
+Bair SM(1), Strelec L(1), Nagle SJ(1), Nasta SD(1), Landsburg DJ(1), Mato AR(1), 
+Loren AW(1), Schuster SJ(1), Stadtmauer EA(1), Svoboda J(1).
+
+Author information: 
+(1)Hospital of the University of Pennsylvania, Department of Medicine, Division
+of Hematology/Oncology, Perelman Center for Advanced Medicine, Philadelphia,
+Pennsylvania, 19104.
+
+Patients with relapsed/refractory Hodgkin lymphoma (RR-HL) who progress or
+relapse following autologous stem cell transplantation (ASCT) have historically
+had a poor prognosis. Several novel agents, particularly brentuximab vedotin,
+have shown efficacy in this setting. However, there remains a paucity of data
+characterizing outcomes outside of clinical trials and how these novel agents
+have impacted prognosis in general population of patients with RR-HL. Here, we
+conducted a retrospective analysis to evaluate outcomes in 87 patients with RR-HL
+with relapse post-ASCT. Treatment with novel agents (including brentuximab
+vedotin) was associated with significant improvement in median overall survival
+(OS) compared to patients who did not receive novel agents (85.6 vs 17.1 months; 
+P?<?.001). Additional factors associated with improved OS in univariate analysis 
+include treatment with radiation therapy post-ASCT (34.1 vs 17.0 months;
+P?=?.015), chemosensitivity (i.e., relapsed compared to primary refractory
+disease; 51.8 vs 25.6 months; p?=?0.013), initial response to ASCT (i.e., CR/PR
+compared to SD/PD; 46.1 vs 20.4 months; P?=?.011), and transplantation in 2010
+and later compared to prior to 2010 (not reached vs 24.5 months; P?=?.025). The
+current study demonstrates markedly improved OS in RR-HL patients treated with
+novel therapeutics and lends "real world" credence to the role of these agents in
+improving outcomes in the current era.
+
+© 2017 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ajh.24792 
+PMID: 28512788  [Indexed for MEDLINE]

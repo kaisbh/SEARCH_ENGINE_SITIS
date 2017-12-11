@@ -1,0 +1,110 @@
+Liquid Biopsy: Using DNA in Blood to Detect, Track, and Treat Cancer
+
+Subscribe
+November 8, 2017, by NCI Staff
+
+
+Credit: iStock
+When a patient has a suspicious lump or symptoms, one of the first things a doctor may do is perform a tissue biopsy—a procedure to collect cells for closer examination.
+
+Examining the appearance of the cells under the microscope can determine if cancer is present, show what type of cancer it is, and give clues about the patient's prognosis. In addition, molecular analysis of a tissue biopsy sample can also reveal information that may help guide a personalized treatment strategy.
+
+Although they are important for patient care, tissue biopsies—which may involve a large needle, an endoscope, or open surgery—can be invasive, risky, costly, and painful. And some patients may not be able to have a tissue biopsy due to the inaccessibility of their tumors or because they have other health conditions that prevent them from undergoing the procedure.
+
+Because these factors make it difficult to perform repeated biopsies on a patient, these tests can be an impractical method to track tumors as they develop and change over time. Nevertheless, they remain the gold standard for detecting and obtaining information about cancer.
+
+But researchers have been exploring a new approach that could potentially complement or, in some cases, serve as an alternative to tissue biopsies. The approach, often called a liquid biopsy, relies on analyzing bits of tumor material—molecules as well as whole cells—that are found in bodily fluids such as blood or urine.
+
+Although there is a widespread belief that liquid biopsies could eventually have a significant impact on patient care, most researchers in the field agree that the science around the approach is still evolving and important questions remain unanswered.
+
+"I think the major stumbling block for moving these liquid biopsy tests forward is there is not enough clinical verification and validation to know and feel comfortable that what we’re detecting with them is clinically meaningful," said Lynn Sorbara, Ph.D., of NCI's Division of Cancer Prevention.
+
+Different Tests for Different Tumor Molecules
+More than 100 years ago, scientists discovered that tumors shed molecules and cells into bodily fluids. Much more recently, researchers have shown that analyzing these molecules and cells can reveal some of the same information that tissue biopsies provide.
+
+Liquid biopsy research has recently expanded, generating an entirely new field of study. Both academic and industry researchers from diverse areas of expertise are working on many fronts to develop, refine, and establish clinical uses for liquid biopsy tests.
+
+Different liquid biopsy tests analyze different kinds of tumor material, such as DNA, RNA, proteins, tiny vesicles called exosomes, and whole cells. The tests detect these molecules or cells in various bodily fluids, including blood, urine, cerebrospinal fluid, or saliva. These body fluids are usually readily accessible, and in most cases the procedure for collecting a sample is less invasive and more easily repeatable than a tissue biopsy.
+
+This feature gives liquid biopsies the potential to be used for several important applications for which tissue biopsies are not well suited, explained Miguel Ossandon, M.S., program manager for the Cancer Diagnosis Program in NCI's Division of Cancer Treatment and Diagnosis.
+
+For example, liquid biopsies could be used to monitor cancer development, track a patient's response to treatment, or as a "surveillance" method for people who have completed treatment but are at high risk of their disease returning, he said.
+
+"The variety of technologies emerging to enable more precise and robust analysis of circulating molecules, cells, and everything in-between, certainly suggests that the exciting clinical potential for liquid biopsy approaches is more a question of 'when' rather than 'if'," said Tony Dickherber, Ph.D., director of NCI's Innovative Molecular Analysis Technologies Program.
+
+There has been a recent surge of research related to liquid biopsy tests that analyze tumor DNA in blood, called circulating tumor DNA (ctDNA), and several ctDNA-based liquid biopsy tests are in clinical development.
+
+Using Tumor DNA to Detect Cancer Early
+
+Tumors release pieces of DNA into the bloodstream that can be analyzed to obtain important information that may inform patient care.
+Credit: Jonathan Bailey, NHGRI
+One potential application of ctDNA-based liquid biopsies is for detecting cancer at an early stage, when treatment may be most successful. In several studies, for example, liquid biopsy tests detected ctDNA in blood samples collected from patients months before they were diagnosed with cancer by traditional methods, such as imaging tests.
+
+But, in these studies, the tests sometimes produced false-positive test results—that is, they detected cancerous DNA when no cancer actually developed.
+
+Another concern is that these tests will detect early-stage tumors that will not grow much or will grow so slowly that they would never actually harm the patient.
+
+Treating these slow-growing tumors could actually do more harm than good, and "the risk of overtreatment is a major concern with early cancer detection," Dr. Sorbara noted. "The idea of diagnosing somebody using liquid biopsy alone has not been validated yet. We're still at the early stages and have a long way to go," she continued.
+
+Prospective cohort studies are needed to truly determine if the presence of ctDNA in a patient’s blood can be used as an accurate marker for early-stage cancer, she added. For example, studies are needed to determine if the detection of ctDNA warrants treatment and if that treatment improves patient outcomes.
+
+NCI is supporting an initiative to advance the development and validation of liquid biopsy technologies that can detect early-stage cancers, distinguish cancer from benign conditions, and identify fast- and slow-growing cancers. A major aim of the initiative is to create a public–private partnership that brings engineering and clinical experts together to accomplish these goals.
+
+Looking forward, Dr. Sorbara envisions that liquid biopsy tests may be used to screen for early-stage cancer in high-risk individuals, such as those with hereditary cancer syndromes.
+
+Or, she continued, they could be used in tandem with other tests, such as an MRI. For example, a liquid biopsy test could be used as a routine prescreening method in healthy individuals to identify those who may have early-stage cancer and are candidates for other (possibly more costly or invasive) screening tests.
+
+Tumor DNA May Aid Precision Cancer Treatment
+There is also hope that ctDNA-based liquid biopsies may guide precision medicine treatment by identifying unique molecular characteristics of an individual's cancer. In several research studies, liquid biopsies have pinpointed ctDNA mutations that could potentially be used to determine the optimal treatment.
+
+For example, researchers at UC San Diego Moores Cancer Center analyzed blood samples from 168 patients with different types of cancer, including brain, lung, and breast cancer. For 58% of the participants, the researchers identified at least one cancer-related ctDNA mutation. For most of these patients, a Food and Drug Administration (FDA)–approved drug was available to treat cancers with that particular mutation.
+
+Other studies have demonstrated the feasibility of using ctDNA-based liquid biopsies on a large scale to identify DNA mutations in patients' cancers. For instance, investigators used Guardant360—a commercially available test that analyzes 70 cancer-related genes in a blood sample—to identify mutations in the ctDNA of more than 15,000 patients. The investigators found that, for most patients, the genetic mutations identified by the liquid biopsy test were consistent with those identified by a tissue biopsy test.
+
+In 2016, FDA approved a liquid biopsy test, called the cobas® EGFR Mutation Test for the detection of EGFR gene mutations in ctDNA of patients with lung cancer. The purpose of the test is to identify patients who may be candidates for treatment with erlotinib (Tarceva®) and osimeritinib (Tagrisso®)—targeted therapies that attack cancer cells with EGFR mutations. Because the test may produce a false-negative test result, FDA recommends a tissue biopsy if the liquid biopsy is negative (meaning it does not detect an EGFR mutation).
+
+Many other liquid biopsy tests are commercially available but have not been rigorously tested by scientists. Clinicians and researchers are still determining the limitations of these tests and, more importantly, whether they provide clinical benefit to patients. For example, it is unknown whether using a liquid biopsy test to help select treatment improves patient outcomes.
+
+Monitoring Treatment Response with Tumor DNA
+Because they are noninvasive and easily repeated, ctDNA-based liquid biopsies may be useful for monitoring patients' responses to therapy both during treatment and after it is completed. Clinicians are hopeful that tracking a patient’s response to treatment may allow adjustments to be made in real time. In other words, the treatment could be stopped or adjusted if the test indicates it is not working.
+
+Imaging techniques such as CT scans are currently used to track treatment response for patients with certain cancer types, but they are not sensitive enough to detect small changes in tumor size and they tend to be costly, explained Mark Roschewski, M.D., of NCI's Center for Cancer Research.
+
+As a potential alternative, Dr. Roschewski and his colleagues tested the ability of a liquid biopsy test to track treatment responses in patients with lymphoma. They showed that changes in ctDNA correlated with positive responses to chemotherapy. Furthermore, they were able to use ctDNA patterns to detect when some patients’ disease was coming back—months before it was possible to do so via CT scan.
+
+"In our study, the liquid biopsy test was much more sensitive than imaging techniques," said Dr. Roschewski.
+
+Likewise, other NCI researchers correlated changes in ctDNA levels with patients' responses to immunotherapy treatment. They found that they could detect these changes within 2 weeks of the start of treatment. Having an early indicator of the treatment's efficacy could be very helpful because only a small proportion of patients typically respond to immunotherapy treatment, they explained.
+
+Liquid biopsy tests have the added advantage of providing molecular information about the cancer, which can change during and after treatment.
+
+Brian Sorg, Ph.D.
+
+"Liquid biopsy tests have the added advantage of providing molecular information about the cancer, which can change during and after treatment," said Brian Sorg, Ph.D., also of NCI's Division of Cancer Treatment and Diagnosis. This additional information could potentially help doctors track the development of drug resistance and make more personalized treatment decisions.
+
+For example, although most patients with lung cancer initially respond to treatment with a class of drugs called tyrosine kinase inhibitors, the majority develop drug resistance within 1 or 2 years of starting treatment.
+
+In one study, a team of researchers analyzed mutations in ctDNA from patients with lung cancer that had become resistant to certain tyrosine kinase inhibitors. They detected a genetic mutation causing the drug resistance in ctDNA from 80% of participants.
+
+A separate study will be needed to determine if the liquid biopsy test can identify patients whose tumors have this mutation and who are most likely to benefit from a different treatment, the researchers noted.
+
+Limitations of ctDNA-based Liquid Biopsies
+While there are many potential applications for ctDNA-based liquid biopsies, there are also several limitations.
+
+Most cancer types lack well-established biomarkers (such as a specific DNA mutation) that allow scientists to identify and track the disease via ctDNA. For example, a biomarker commonly used to track advanced pancreatic cancer is considered unreliable for early detection of the disease.
+
+"While the technology for detecting ctDNA in body fluids has improved dramatically, the knowledge required to identify appropriate biomarkers for many cancer types has not," said Dr. Dickherber.
+
+And DNA mutations vary even among patients with the same cancer type, so although a particular mutation may be common for one type of cancer, many patients with that cancer type may not have it. This adds a layer of complexity to the challenge of identifying ctDNA biomarkers for every cancer type and stage.
+
+One possible solution could involve combining tissue and liquid biopsies, said Ossandon. First, a tissue biopsy could be used to identify unique biomarkers for an individual’s tumor, he explained, and then liquid biopsy tests could be used to track those biomarkers.
+
+Another limitation is that ctDNA in the blood may not be truly representative of DNA in the actual tumor, and, therefore, may not be the best source of information for guiding clinical decisions. Tumors are heterogeneous—meaning DNA mutations vary between cancer cells in a single tumor—and it is not known whether ctDNA is released from the whole tumor or only certain parts of it, explained Dr. Sorg.
+
+It is also unknown whether the mutations found in ctDNA are "driver" mutations—those that play an important role in the cancer's biology—said Dr. Sorbara. They may instead be "passenger" mutations, that is, changes that accompany the development of cancer but do not control its growth.
+
+"Possibly the biggest unanswered question is whether liquid biopsy tests can improve patient survival," Dr. Roschewski said. Meaning, does using liquid biopsy tests to detect early-stage cancer, select treatment, or track disease progression ultimately extend patient survival or improve quality of life?
+
+Many researchers agree that studies that prospectively analyze the effect of liquid biopsy tests on clinical outcome are needed.
+
+For example, Stanford University and NCI are leading a clinical trial to evaluate the clinical response and overall survival of patients who receive targeted therapy based on molecular information identified via a tissue or liquid biopsy test. As of October 2017, the trial is currently recruiting adults with metastatic solid tumors.

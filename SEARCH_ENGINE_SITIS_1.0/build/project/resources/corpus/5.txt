@@ -1,0 +1,50 @@
+1. Br J Haematol. 2017 Sep;178(5):709-718. doi: 10.1111/bjh.14734. Epub 2017 Jun 7.
+
+Modification of initial therapy in early and advanced Hodgkin lymphoma, based on 
+interim PET/CT is beneficial: a prospective multicentre trial of 355 patients.
+
+Dann EJ(1)(2), Bairey O(3)(4), Bar-Shalom R(5), Mashiach T(1), Barzilai E(1),
+Kornberg A(4)(6), Akria L(7), Tadmor T(2)(8), Filanovsky K(9), Abadi U(10), Kagna
+O(1), Ruchlemer R(5), Abdah-Bortnyak R(1), Goldschmidt N(11), Epelbaum R(1)(2),
+Horowitz NA(1)(2), Lavie D(11), Ben-Yehuda D(11), Shpilberg O(3), Paltiel O(11).
+
+Author information: 
+(1)Rambam Health Care Campus, Haifa, Israel.
+(2)Rappaport Faculty of Medicine, Technion, Haifa, Israel.
+(3)Rabin Medical Centre, Petach Tikva, Israel.
+(4)Sackler School of Medicine, Tel Aviv University, Tel Aviv, Israel.
+(5)Shaare Zedek Medical Centre, Jerusalem, Israel.
+(6)Assaf Harofeh Medical Centre, Zerifin, Israel.
+(7)Galil Medical Centre, Nahariya, Israel.
+(8)Bnai Zion Medical Centre, Haifa, Israel.
+(9)Kaplan Medical Centre, Rehovot, Israel.
+(10)Meir Medical Centre, Kfar Saba, Israel.
+(11)Hadassah-Hebrew University Medical Centre, Jerusalem, Israel.
+
+This multicentre study evaluated 5-year progression-free (PFS) and overall
+survival (OS) in early and advanced Hodgkin lymphoma (HL), where therapy was
+individualized based on initial prognostic factors and positron emission
+tomography-computed tomography performed after two cycles (PET-2). Between
+September 2006 and August 2013, 359 patients aged 18-60 years, were recruited in 
+nine Israeli centres. Early-HL patients initially received ABVD (adriamycin,
+bleomycin, vinblastine, dacarbazine) ×2. Depending on initial unfavourable
+prognostic features, PET-2-positive patients received additional ABVD followed by
+involved-site radiotherapy (ISRT). Patients with negative PET-2 and favourable
+disease received ISRT or ABVD ×2; those with unfavourable disease received ABVD
+×2 with ISRT or, alternatively, ABVD ×4. Advanced-HL patients initially received 
+ABVD ×2 or escalated BEACOPP (bleomycin, etoposide, adriamycin, cyclophosphamide,
+vincristine, procarbazine, prednisone; EB) ×2 based on their international
+prognostic score (?2 or ?3). PET-2-negative patients further received ABVD ×4;
+PET-2-positive patients received EB ×4 and ISRT to residual masses. With a median
+follow-up of 55 (13-119) months, 5-year PFS was 91% and 69% for PET-2-negative
+and positive early-HL, respectively; 5-year OS was 100% and 95%, respectively.
+For advanced-HL, the PFS was 81% and 68%, respectively (P = 0·08); 5-year OS was 
+98% and 91%, respectively. PET-2 positivity is associated with inferior prognosis
+in early-HL, even with additional ABVD and ISRT. Advanced-HL patients benefit
+from therapy escalation following positive PET-2. EB can be safely de-escalated
+to ABVD in PET-2-negative patients.
+
+© 2017 John Wiley & Sons Ltd.
+
+DOI: 10.1111/bjh.14734 
+PMID: 28589704  [Indexed for MEDLINE]

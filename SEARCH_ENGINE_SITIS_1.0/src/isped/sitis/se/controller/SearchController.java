@@ -18,13 +18,13 @@ import javafx.scene.control.ToggleGroup;
 import javafx.scene.input.MouseButton;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
-import isped.sitis.se.DocScored;
 import isped.sitis.se.IndexConceptAnalyser;
 import isped.sitis.se.IndexConceptSearcher;
 import isped.sitis.se.Indexer;
 import isped.sitis.se.MainApp;
 import isped.sitis.se.Parametre;
 import isped.sitis.se.Searcher;
+import isped.sitis.se.model.DocScored;
 import isped.sitis.se.model.File;
 
 import java.awt.Desktop;
@@ -171,9 +171,9 @@ public class SearchController extends Parametre {
 					while (iterator.hasNext()) {
 						// System.out.println(iterator.next());
 						String s[] = iterator.next().split(";");
-						System.out.println(s[0] + ";" + s[1] + ";" + s[2]);
-						fileData.add(new isped.sitis.se.model.File(s[0], s[1], s[2], ""));
-						FileResult = new isped.sitis.se.model.File(s[0], s[1], s[2], "");
+						System.out.println(s[0] + ";" + s[1] + ";" + s[2]+ ";" + s[3]);
+						fileData.add(new isped.sitis.se.model.File(s[0], s[1], s[2], s[3]));
+						FileResult = new isped.sitis.se.model.File(s[0], s[1], s[2],s[3]);
 						mainApp.getFileData().add(FileResult);
 					}
 				}

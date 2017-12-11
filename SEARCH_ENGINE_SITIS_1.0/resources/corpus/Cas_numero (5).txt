@@ -1,0 +1,124 @@
+Atteinte cardiaque de la maladie de Lyme
+Jose David Arroja, Amir-Ali Fassa, Fassa Zimmermann	Rev Med Suisse 2015; volume 11. 563-568
+
+Résumé
+
+Lorsqu’elle n’est pas traitée dans sa phase initiale, jusqu’à 10% des patients atteints de la maladie de Lyme peuvent souffrir d’une atteinte cardiaque. La sévérité de cette atteinte et ses répercussions cliniques sont variables, allant de troubles de la conduction mineurs et asymptomatiques à des cas d’arythmies potentiellement fatales ou d’insuffisance cardiaque sévère. Une anamnèse de morsure de tiques ou une préalable lésion cutanée (érythème migrant) peuvent faire défaut, raison pour laquelle les cliniciens doivent garder un seuil de suspicion bas lorsqu’ils sont confrontés à un patient potentiellement exposé à la borréliose avec une atteinte cardiaque compatible. Nous décrivons le cas d’un patient présentant une cardite de Lyme se manifestant par un bloc auriculo-ventriculaire de degré variable et révisons la littérature sur le sujet.
+
+À PROPOS D’UN CAS
+
+Un homme de 42 ans, sans antécédents médicaux, se présente aux urgences de notre hôpital en raison de palpitations nouvelles, accompagnées d’une gêne thoracique. L’examen physique, en particulier cardiovasculaire, est sans particularité?; le rythme cardiaque est normocarde et régulier. Deux ECG enregistrés à 30 minutes d’intervalle montrent un bloc auriculo-ventriculaire (BAV) complet (figure 1) alternant avec un BAV du deuxième degré de type I (Wenkebach)?; les enzymes cardiaques ainsi que le bilan biologique comprenant les électrolytes sont normaux, de même que l’échocardiographie. Un Holter confirme alors les troubles de la conduction de degré variable avec un BAV du premier degré (intervalle PQ jusqu’à 320 ms) alternant avec un BAV du deuxième degré de type I.
+
+
+Figure 1.
+ECG avec bloc atrioventriculaire complet
+Dissociation auriculo-ventriculaire visible avec les ondes P marquées par les flèches.
+ 
+Les anticorps IgG pour Borrelia burgdorferi alors effectués reviennent positifs, menant au probable diagnostic de maladie de Lyme (ML) avec atteinte cardiaque (cardite de Lyme).
+
+Après une anamnèse minutieuse, le patient signale une morsure d’insecte une année auparavant, suivie d’une pustule sur le site de la morsure ayant disparu dans les semaines suivantes. Il n’a par la suite pas observé de lésion compatible avec un érythème migrant ni souffert d’une quelconque atteinte articulaire.
+
+Après trois semaines d’antibiothérapie par amoxicilline, l’ECG est normalisé et le patient asymptomatique.
+
+APERÇU DE LA MALADIE DE LYME
+
+La ML est provoquée par une infection à Borrelia, une bactérie spirochète transmise par la morsure de tiques infectées du genre Ixodes. La tique doit rester fixée à la peau humaine pendant au moins 24 à 48 heures afin de transmettre l’infection. Borrelia Burgdorferi se trouve en Europe et en Amérique du Nord, tandis que B. Afzelii et B. Garinii se trouvent en Europe et dans les régions tempérées d’Asie. En Suisse, environ 5 à 30% (jusqu’à 50% par endroits) des tiques sont infectées par B. Burgdorferi (figure 2).
+
+Figure 2.
+Répartition géographique prédite des tiques Ixodes en Suisse
+(Source?: Ligue suisse des personnes atteintes de maladies à tiques).
+ 
+En Suisse et en France, les autorités sanitaires estiment à 3000 et 27?000 respectivement le nombre de cas annuels, soit une incidence d’environ 40 cas pour 100?000 personnes.
+
+La période d’incubation varie de 3 à 32 jours, période pendant laquelle l’organisme peut être retrouvé dans des cultures de fluides corporels. Après trois à six semaines, les niveaux d’anticorps de type IgM atteignent un pic puis s’atténuent en deux à trois mois, alors que les niveaux d’IgG augmentent plus tard, au fil des mois, et persistent à vie. Au vu de ces intervalles non diagnostiques (avant l’élévation des IgM et la transition entre IgM et IgG), il est donc important d’effectuer une nouvelle sérologie au bout de quelques semaines en cas de premier test négatif.
+
+La maladie évolue en trois phases. Une phase primaire, localisée, survenant après la période d’incubation et se présentant comme une lésion cutanée typique à l’endroit de la morsure de tique, l’érythème migrant. Cette première étape peut toutefois faire défaut ou passer inaperçue. Après quelques semaines à mois et si aucun traitement n’est entrepris, le stade secondaire de la maladie correspond à sa diffusion et se manifeste par des lésions cutanées multiples, des symptômes systémiques, une atteinte neurologique et/ ou cardiaque. Le stade tertiaire se produit après plusieurs mois ou années d’évolution?; marqué par l’atteinte articulaire et neurologique.
+
+Une antibiothérapie de deux à trois semaines constitue le traitement approprié. Les cas graves peuvent exiger une hospitalisation et un traitement parentéral.
+
+ATTEINTE CARDIAQUE
+
+L’atteinte cardiaque dans la ML se produit au stade secondaire, généralement quelques semaines à mois après sa transmission (en moyenne 21 jours). Le plus souvent l’atteinte à ce stade est multi-organique, mais le cœur peut être le seul organe impliqué dans cette phase secondaire. La fréquence de l’atteinte cardiaque dans la ML est difficile à préciser (cas d’atteinte cardiaque asymptomatiques, ECG non réalisé de routine en cas de ML, variation géographique??), et dépend notamment des critères diagnostiques choisis pour affirmer cette atteinte, qui serait toutefois de l’ordre de 0,4 à 10%,1–3 avec un rapport homme/femme de 3:1. Une meilleure connaissance de la ML en zone endémique, permettant son traitement précoce, tend de façon logique à réduire l’incidence de l’atteinte cardiaque.4
+
+Les bactéries concernées peuvent atteindre toutes les structures cardiaques, tel que démontré par l’expérimentation animale et les études post-mortem?: le myocarde lui-même, le système de conduction, le tissu conjonctif comprenant le péricarde et l’endocarde, ainsi que les vaisseaux sanguins.5 Les lésions tissulaires sont la conséquence de la réponse immunitaire et du processus inflammatoire déclenchés.
+
+MANIFESTATIONS CLINIQUES DE L’ATTEINTE CARDIAQUE
+
+On estime que l’atteinte cardiaque de la ML est pauci- ou asymptomatique dans la majorité des cas. Les palpitations sont la plainte la plus fréquente?; dyspnée, douleur thoracique, syncope ou même mort subite sont également des manifestations possibles. Il est toutefois important de se rappeler que l’atteinte cardiaque peut constituer l’unique manifestation de la ML, et qu’elle en est la première cause de mortalité.
+
+Troubles de la conduction et du rythme
+
+Dans l’atteinte cardiaque de la ML, les troubles de la conduction sont la complication la plus commune, dont la sévérité est toutefois variable. Des troubles mineurs tels qu’une bradycardie sinusale6 ou un BAV du premier degré passent souvent inaperçus, rendant ainsi leur prévalence dans la ML difficile à estimer. Jusqu’à 50% des patients souffrant d’une cardite de Lyme présentent un BAV complet. Cette variabilité dans la sévérité de l’atteinte du système de conduction peut se voir chez le même patient, comme illustré dans le cas présenté, raison pour laquelle des ECG répétés ou un monitoring rythmique prolongé peuvent se révéler nécessaires afin de préciser la véritable sévérité des troubles de la conduction.7
+
+L’atteinte du système de conduction peut, selon la localisation des lésions, entraîner différents types de blocs?: auriculo-ventriculaire, sino-auriculaire, intra-auriculaire ou intraventriculaire (bloc fasciculaire ou bloc de branche). Le nœud atrioventriculaire semble être l’élément le plus vulnérable du système de conduction dans la cardite de Lyme. Ainsi, dans la majorité des cas, le niveau du BAV se situe au-dessus du faisceau de His, produisant en conséquence, en cas de rythme d’échappement, des complexes QRS fins.8
+
+L’analyse de l’intervalle PR peut avoir une valeur pronostique. En effet, jusqu’à 50% des patients avec un intervalle PR dépassant les 300 ms développeront un BAV complet. Pour ces patients, une hospitalisation avec surveillance rythmique est par conséquent à considérer.
+
+Un BAV complet se résout généralement en une semaine ou moins; d’autres troubles de conduction mineurs peuvent quant à eux prendre jusqu’à six semaines pour disparaître. Le traitement antibiotique pourrait accélérer la récupération, mais il n’existe aucune évidence claire à cet égard. Dans de rares cas, le bloc peut persister ou devenir définitif, et ce malgré un traitement adapté, avec dans certaines de ces situations un recours nécessaire à l’implantation d’un stimulateur cardiaque, temporaire ou définitif.9–13
+
+Des tachyarythmies comme la fibrillation ou la tachycardie ventriculaire peuvent s’observer, mais sont également rares.14–16
+
+Enfin, une asystolie peut survenir en cas d’absence de rythme d’échappement,17,18 et la mort subite a été rapportée comme complication dans la cardite de Lyme.19
+
+Myopéricardite
+
+L’atteinte myocardique et/ou péricardique est moins fréquente que les troubles de la conduction. Comme pour ces derniers, la sévérité de l’atteinte myopéricardique varie d’un cas à l’autre, allant de l’atteinte silencieuse à des formes graves avec insuffisance cardiaque aiguë sur atteinte myocardique20 ou de tamponnade sur atteinte péricardique.21 Environ un tiers des patients atteints de cardite de Lyme présente une dysfonction ventriculaire gauche, et 5 à 15% des symptômes d’insuffisance cardiaque liés à cette atteinte. Koene et coll. ont rapporté un cas réversible de myocardite sévère avec fraction d’éjection ventriculaire gauche à 10%, compliqué de nombreuses arythmies (pauses sinusales, BAV complet, tachyarythmie ventriculaire), nécessitant un soutien hémodynamique et une stimulation transitoires.
+
+Des modifications non spécifiques du segment ST et de l’onde T à l’ECG sont caractéristiques de l’atteinte myocardique. A l’échocardiographie, on peut observer un épanchement péricardique, ainsi que des troubles de la cinétique segmentaire ou globale.
+
+Ajouté à des enzymes cardiaques positives, ce tableau clinique peut être confondu avec celui d’un syndrome coronarien aigu.
+
+Cardiomyopathie dilatée
+
+L’implication de Borrelia burgdorferi comme facteur étiologique potentiel dans la cardiomyopathie dilatée (CD) a été un sujet de débat.22
+
+Les premières études sur le sujet dans les années 90 ont suggéré par différents arguments un lien entre l’infection à Borrelia et la CD?: 1) plus forte prévalence de positivité sérologique (par dosage immuno-enzymatique – ELISA) chez les patients atteints de CD?;23 2) amélioration de la CD après traitement antibiotique de la ML24 et 3) présence de bactéries Borrelia dans des échantillons de biopsie myocardique de patients atteints de CD.25,26 Dans le même temps, deux études prospectives aux Etats-Unis et au Royaume-Uni n’ont pas réussi à confirmer le lien entre la séropositivité pour la ML et la cardiomyopathie dilatée, en employant l’immunoblot pour confirmer les sérologies positives par dosage ELISA, en raison du manque de spécificité de cette méthode.27–29
+
+Des données récentes de Kubanek et coll. montrent clairement une présence plus élevée de génome de B. Burgdorferi, déterminé par PCR, dans les biopsies myocardiques de patients avec une CD nouvellement diagnostiquée.30 De façon intéressante et semblant confirmer des données animales préalables, un antécédent de maladie auto-immune a été retrouvé comme étant un facteur prédisposant le développement d’une CD en cas d’infection à B. Burgdorferi.
+
+De futurs travaux sont nécessaires pour préciser davantage les liens entre la ML et la CD, le rôle précis des bactéries Borrelia dans la pathologie de la CD et pour confirmer un éventuel impact pronostique de l’antibiothérapie sur l’évolution de la CD associée à la ML. L’absence d’évolution favorable après antibiothérapie pourrait être liée à des mécanismes inflammatoires et immunitaires lésionnels auto-entretenus, à distance de l’infection initiale à Borrelia et après disparition de l’agent causal.
+
+Autres
+
+Concernant l’endocardite et la pathologie valvulaire, deux rapports de cas mentionnent la découverte d’ADN de Borrelia dans des valves cardiaques malades. Hidri et coll. ont trouvé de l’ADN de Borrelia afzelii par PCR chez un patient avec endocardite mitrale, sans autre élément microbiologique en faveur de l’implication d’un autre agent pathogène.31 Rudenko et coll. ont trouvé la présence d’ADN de Borrelia bissettii par PCR dans un fragment de valve aortique d’un patient âgé de 59 ans avec antécédent de ML, dont la valve aortique a été remplacée en raison d’une sténose.32 A partir des connaissances actuelles, la pathogénicité éventuelle des bactéries de type Borrelia sur les valves cardiaques paraît toutefois peu vraisemblable et ne peut évidemment pas être établie à partir de ces observations.
+
+DIAGNOSTIC
+
+L’évaluation clinique et les tests sérologiques sont les principaux outils diagnostiques de la ML.
+
+Ce diagnostic doit être considéré en cas de lésion cutanée suggérant un érythème migrant ou de symptômes compatibles avec un stade secondaire ou tertiaire de ML chez un patient potentiellement exposé à des morsures de tiques infectées par Borrelia. La description d’une morsure de tiques n’est pas nécessaire pour le diagnostic, puisque celle-ci passe souvent inaperçue.
+
+En cas de ML à son stade précoce (premiers jours), le diagnostic est purement clinique?; les tests sérologiques seront en effet négatifs puisque la réponse immunitaire n’est pas encore activée. En cas de maladie secondaire ou tertiaire, et donc dans les cas de cardite de Lyme, les sérologies sont nécessaires. Le diagnostic sérologique est réalisé en deux étapes, successivement par ELISA puis par Western blot si nécessaire. Un test ELISA négatif ne requiert pas d’autres investigations, alors qu’un ELISA positif ou douteux nécessite une confirmation par Western blot. En effet, les compétences épidémiologiques de ces deux tests sont complémentaires, la méthode ELISA étant sensible et le Western blot spécifique pour le diagnostic de ML.33,34 Les anticorps IgM deviennent positifs dans le stade précoce de la maladie et apparaissent une à deux semaines après les premiers symptômes, alors que les IgG surgissent après deux à six semaines. Les titres d’IgM et d’IgG peuvent rester positifs pendant des années, même après un traitement bien conduit.
+
+Une atteinte cardiaque doit être évoquée chez tout patient infecté par Borrelia présentant des symptômes cardiaques, ou en cas de pathologie cardiaque isolée suggestive (par exemple, des degrés de BAV variables chez un même individu, auparavant en bonne santé). Comme précédemment mentionné, l’atteinte cardiaque peut se produire sans qu’une lésion cutanée préalable ne se soit développée ou ait été remarquée.
+
+La réalisation d’un ECG est indispensable si une cardite de Lyme est suspectée, et une échocardiographie doit être réalisée en présence de symptômes d’insuffisance cardiaque ou de mauvaise évolution clinique. La résonance magnétique (IRM) est un outil supplémentaire dans l’évaluation de l’atteinte du myocarde, et peut révéler un rehaussement tardif au gadolinium.35–37 Cette technique permettrait également de confirmer la récupération complète du myocarde.38
+
+Enfin, la biopsie endomyocardique peut confirmer l’atteinte cardiaque de la ML en révélant à l’étude histopathologique un infiltrat lymphoplasmocytaire endocardique ou myocardique. Cette technique est toutefois rarement employée puisque invasive.39
+
+TRAITEMENT
+
+Le choix de l’agent antibiotique, sa voie d’administration et la durée du traitement dépendent du stade et de la gravité de la maladie. Doxycycline, amoxicilline, céfuroxime (voie orale) et ceftriaxone (voie parentérale) sont les agents préférés, tandis que les macrolides représentent une alternative de choix pour le traitement par voie orale en cas de contre-indications aux agents précités, de même que la céfotaxime et la pénicilline G pour la voie parentérale.
+
+Bien qu’il ne soit pas démontré que l’antibiothérapie influence l’évolution et le pronostic dans l’atteinte cardiaque de la ML, généralement autolimitée, le traitement antibiotique est recommandé, notamment afin de prévenir les manifestations extracardiaques ultérieures de la ML.
+
+Dans la cardite de Lyme, une antibiothérapie orale de 14 à 21 jours est conseillée en cas d’atteinte bénigne. Pour les cas plus graves nécessitant une hospitalisation, un traitement intraveineux initial est recommandé, avec possibilité de le relayer par un traitement par voie orale une fois les critères de gravité corrigés, pour une durée totale de 21 à 28 jours (tableau 1).40,41
+
+Tableau 1.
+Recommandations de la Société suisse d’infectiologie pour le traitement de l’atteinte cardiaque de la maladie de Lyme41
+BAV?: bloc auriculo-ventriculaire?; SNC?: système nerveux central.
+ 
+Une hospitalisation et une surveillance rythmique doivent être considérées en fonction de la symptomatologie du patient, mais surtout en fonction de la gravité de l’atteinte cardiaque observée. De telles mesures sont recommandées pour les patients avec BAV du premier degré lorsque l’intervalle PR est supérieur à 300 ms et pour les patients avec un bloc de degré supérieur. Comme précédemment indiqué, un stimulateur temporaire, très rarement définitif, peut être nécessaire pendant la période qui précède la récupération des troubles de la conduction.
+
+Une corticothérapie brève a été utilisée dans un cas grave de cardite de Lyme avec une forte composante inflammatoire.
+
+CONCLUSION
+
+La possibilité d’une atteinte cardiaque de la ML doit être connue par les cliniciens en zone endémique pour cette maladie. Ce diagnostic doit être évoqué en cas de tableau évocateur, en particulier face à un bloc de conduction auriculo-ventriculaire chez un patient jeune et sans cardiopathie sous-jacente. La sérologie et l’ECG sont les méthodes diagnostiques de choix, et une antibiothérapie de deux à trois semaines constitue le traitement recommandé.
+
+Implications pratiques
+
+> Le diagnostic de maladie de Lyme (ML) doit être considéré face à une atteinte cardiaque compatible, en particulier en cas de troubles de la conduction nouveaux et de sévérité fluctuante
+> L’atteinte cardiaque de la ML peut s’observer de façon isolée, sans lésion cutanée ni atteinte d’un autre organe
+> Une hospitalisation avec surveillance rythmique est recommandée en cas de bloc auriculo-ventriculaire (BAV) du premier degré avec intervalle PR >?300 ms ou en cas de BAV de plus haut degré
+> L’antibiothérapie est le traitement de choix?; bien que n’ayant pas démontré d’impact sur l’évolution de la cardite, elle permet d’éviter les manifestations ultérieures de la ML

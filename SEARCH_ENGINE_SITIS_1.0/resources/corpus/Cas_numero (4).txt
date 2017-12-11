@@ -1,0 +1,347 @@
+Le syndrome de Brugada, Le détecter et parer à toute éventualité.
+Par Daniel Milhomme, inf., M.Sc., Ph.D. (c.), et Martine Blais, IPS en cardiologie, M.Sc.
+
+Un homme de 40 ans est admis à l’unité coronarienne avec un diagnostic de syncope. À son arrivée,
+on constate une fibrillation auriculaire avec une réponse ventriculaire rapide. Après une cardioversion
+électrique, on lui administre un bloqueur des canaux sodiques et un bêta-bloqueur. En assurant la
+surveillance électrocardiographique de ce patient, vous remarquez des changements subtils au
+moniteur cardiaque qui pourraient être dus à un syndrome potentiellement mortel et expliquer la
+syncope. Quel est donc ce syndrome ?
+
+Découvert au début des années 1990 par les frères
+Josep et Pedro Brugada, le syndrome de Brugada
+(SB) est une maladie génétique qui peut causer
+une mort subite secondaire à une tachycardie
+ou à une fibrillation ventriculaire (Berne et Brugada, 2012).
+Elle appartient aux maladies du rythme cardiaque et
+se caractérise par des signes électrocardiographiques
+typiques. Sa prévalence exacte est inconnue, mais on la
+sait plus élevée dans la population d’Asie du Sud-Est où
+elle touche environ 12 personnes sur 10 000 (Miyasaka
+et al., 2001). 
+
+En Asie, les termes pour nommer les syndromes de
+mort subite et inexpliquée sont :
+en Thaïlande, Lai Tai, mort pendant le sommeil ;
+aux Philippines, Bangungut, cri suivi de la mort subite ;
+au Japon, Pokkuri, mort inattendue pendant la nuit.
+
+En Thaïlande et aux Phillipines, le SB fait partie des syndromes
+de mort subite nocturne et inexpliquée et est considéré
+comme l’une des causes majeures de mort subite chez les jeunes adultes. La prédominance
+chez les hommes est remarquable
+dans une proportion allant de huit
+hommes pour une femme (Brugada
+et Brugada, 1992). Quant à l’âge
+moyen du diagnostic, il est d’environ
+40-45 ans (Antzelevitch et al., 2005).
+Certains ajoutent que l’âge moyen du
+diagnostic du syndrome ou de la mort
+subite est de 40 ans +/- 22 ans avec des
+cas extrêmes allant de 2 jours à 80 ans
+(Leenhardt et al., 2007).
+Le SB est également présent sur
+d’autres continents, notamment en
+Europe où il atteint environ une à cinq
+personnes sur 10 000 (Hermida
+et al., 2000). Bokhari et Newman (2001)
+laissent sous-entendre que le SB n’est
+pas rare dans les pays occidentaux.
+D’ailleurs, Champagne et al. (2007)
+affirment que le syndrome existe
+bel et bien au sein de la population
+canadienne, mais qu’il est fort
+probablement sous-diagnostiqué en
+raison de la méconnaissance de ses
+caractéristiques.
+Caractéristiques
+Le mécanisme physiopathologique
+du SB n’est pas encore complètement
+élucidé. Toutefois, l’intérêt de la
+communauté scientifique porte sur
+la dysfonction des canaux sodiques
+cardiaques. D’ores et déjà, il est
+reconnu que la maladie se transmet
+selon un mode autosomique dominant,
+c’est-à-dire que le gène anormal
+pourra être transmis à la descendance
+dans une proportion de 50 %, que
+les individus soient de sexe masculin 
+ou féminin. Ainsi, les chercheurs ont
+identifié des mutations du gène
+SCN5A situé sur le chromosome 3 qui
+favorise l’apparition du syndrome
+(Antzelevitch, 2006 ; Wang et al., 2000).
+Normalement, ce gène est responsable
+de la production d’une partie du
+canal sodique, sa mutation entraînerait
+donc une dysfonction. Les canaux
+sodiques jouent un rôle clé dans la
+dépolarisation des cardiomyocytes,
+c’est-à-dire lors de la phase 0 du
+potentiel d’action (Denjoy et al., 2007)
+(voir Figure 2).
+Phase 0 : Ouverture des canaux
+sodiques, entrée massive du sodium
+qui fait passer l’intérieur de la cellule
+de - 90 mV à + 20 mV. Correspond à la
+dépolarisation du myocarde.
+
+Phase 1 : Inactivation du courant
+sodique. Le sodium qui entrait
+promptement dans la cellule
+cesse d’entrer. C’est le début de la
+repolarisation.
+Phase 2 : Le calcium entre dans la
+cellule et ralentit la repolarisation.
+Phase 3 : Le potassium tend à sortir
+de la cellule. C’est le début de la
+restauration ionique.
+Phase 4 : Les pompes sodium et
+potassium sont activées dans le but de
+rétablir l’équilibre ionique initial. C’est
+la dernière mise au point avant une
+prochaine dépolarisation.
+Une dysfonction des canaux sodiques
+cardiaques entraîne un ralentissement
+de la montée rapide de la phase 0.
+Ainsi, un déséquilibre entre les courants
+ioniques entrants et sortants à la phase??1
+du potentiel d’action modifierait la
+morphologie du potentiel d’action
+habituel (Benito et al., 2008 ; Mizusawa
+et Wilde, 2012). Une encoche appelée
+dôme apparait alors pendant la phase 1
+du potentiel d’action sous l’effet du
+courant potassique sortant transitoire
+(Benito et al., 2008) (voir Figure 3).
+Toutefois, cette encoche ne se
+manifeste pas chez tous les myocytes
+de l’endocarde et de l’épicarde et
+c’est cette hétérogénéité qui
+augmente le risque d’arythmies
+ventriculaires. Benito et al. (2008)
+affirment que le substrat ou le
+phénomène arythmogène se
+développe lorsque la perte de
+l’encoche apparaît dans certaines
+portions de l’épicarde comparativement
+à celles de l’endocarde.
+Une repolarisation non uniforme des
+myocytes faciliterait le développement
+d’extrasystoles ventriculaires qui ont le
+potentiel d’entraîner un circuit
+de réentrée.
+Détection
+À ce jour, plusieurs mutations du gène
+SCN5A ont été identifiées (Bokhari et
+Newman, 2001). Mais en leur absence,
+la maladie n’est pas à écarter pour
+autant (Denjoy et al., 2007). D’ailleurs,
+un test génétique révèle cette mutation
+chez seulement 15 % des patients
+atteints du SB (Leenhardt et al., 2007).
+Bien que la génétique permette le
+dépistage du syndrome, en clinique,
+l’infirmière peut aussi y contribuer,
+notamment en reconnaissant les
+modifications électrocardiographiques
+typiques et les antécédents personnels
+ou familiaux de syncope ou de mort
+subite.
+Modifications électrocardiographiques :
+trois types et un syndrome
+La principale caractéristique du SB
+est l’apparition d’une modification
+électrique typique dans les
+dérivations précordiales droites
+à l’électrocardiogramme (ECG),
+c’est-à-dire les dérivations V1 à V3.
+À première vue, un aspect de bloc
+de branche droit (BBD) avec une
+élévation du segment ST de V1 à V3 
+devient perceptible à l’ECG. C’est
+probablement l’élévation du point J
+(intersection entre la fin du QRS et
+le début du segment ST) qui donne
+l’impression de la présence d’un
+blocage de la branche droite alors que
+ce n’est pas nécessairement le cas.
+À l’ECG, on reconnaît principalement
+trois types de repolarisation qui
+évoquent le syndrome. Par contre,
+seul le premier type a été reconnu
+comme typique d’un ECG de Brugada.
+L’élévation du segment ST en forme
+de dôme dans l’ECG de type I est la
+principale caractéristique du syndrome
+(voir Figure 4).
+Bien que les types II et III peuvent
+soulever des doutes, ils ne doivent pas
+être considérés comme évocateurs
+du SB (Antzelevitch, 2006). L’aspect
+de selle de cheval laisse supposer le
+syndrome sans toutefois le confirmer.
+D'ailleurs, ce ne sont pas les trois
+types de repolarisation associés au
+SB qui sont arythmogènes. L’ECG de
+type I l’est davantage à cause de la
+présence du substrat arythmogène qui
+prédispose le patient à des arythmies
+ventriculaires malignes. Dans les ECG
+de types II et III, même si une certaine
+morphologie de Brugada est présente,
+il reste que le risque d’arythmie est
+moindre (Antzelevitch, 2006). Les
+anomalies observées (type I, II ou III) 
+peuvent parfois être intermittentes, c’est-à-dire apparaître
+spontanément ou être provoquées par des bloqueurs des
+canaux sodiques de classe I comme la flécaïnide, l’ajmaline
+ou la procaïnamide (Brugada et al., 2000). Les modifications
+doivent aussi être visibles dans plus d’une dérivation
+précordiale droite (V1 à V3).
+Bokahri et Newman (2001) constatent que les syndromes
+de mort subite nocturne et inexpliquée s’appellent ainsi
+parce qu’ils surviennent généralement au moment de
+l’activation du système nerveux autonome et fréquemment
+pendant le sommeil. En accord avec Bokhari et Newman
+(2001), Berne et Brugada (2012) précisent que les arythmies
+létales causées par le SB surviennent principalement
+pendant le sommeil, une sieste ou après un repas copieux.
+Miyazaki et al. (1996) indiquent que certains éléments non
+médicamenteux comme le repos, la stimulation vagale
+ou la cocaïne pourraient aussi favoriser l’apparition
+de modifications électrocardiographiques. Quant à
+Antzelevitch et Brugada (2002), ils ajoutent que l’état fébrile
+du patient est aussi susceptible de contribuer à l’apparition
+de ce type de modifications.
+La syncope ou la mort subite :
+signes, symptômes ou antécédents
+En plus des modifications électriques liées au segment ST,
+le patient chez qui on soupçonne un SB peut présenter une
+syncope, une tachycardie ventriculaire polymorphe ou
+une fibrillation ventriculaire. En présence de signes ou de
+symptômes qui peuvent laisser croire à un malaise d’origine
+vagal, il est essentiel de porter attention aux antécédents
+personnels ou familiaux de mort subite (voir Encadré 1).
+Cependant, il n’est pas rare de soupçonner un SB chez des
+patients asymptomatiques et sans antécédents familiaux qui
+présentent un électrocardiogramme typique du syndrome
+(Leenhardt et al., 2007).
+
+Critères diagnostiques
+n L’ECG du patient présente
+spontanément, ou après la
+prise d’un bloqueur des canaux
+sodiques, les caractéristiques du
+TYPE 1 dans plus d’une dérivation
+précordiale droite (V1 à V3).
+ET au moins un des critères suivants :
+n Tachycardie ventriculaire
+polymorphe ou fibrillation
+ventriculaire documentée.
+n Antécédents familiaux de mort
+subite à moins de 45 ans.
+n ECG du TYPE 1 chez un membre
+de la famille du patient.
+n Tachycardie ventriculaire ou
+fibrillation ventriculaire provoquée
+par une stimulation électrique
+programmée.
+n Syncope ou respiration agonale
+nocturne.
+
+Rôle de l’infirmière
+Le principal objectif lié au SB est de prévenir la mort subite.
+La contribution de l’infirmière repose principalement
+sur la surveillance électrocardiographique et la
+reconnaissance des caractéristiques, des signes et des
+symptômes liés au syndrome (voir Figure 5). C’est d’ailleurs
+un test pharmacologique consistant à administrer un
+antiarythmique de classe I (bloqueur des canaux sodiques)
+qui permettra au médecin spécialiste de mettre en
+évidence un ECG typique du syndrome qui n’était pas
+visible. Bien que ce test soit réalisé par un médecin, c’est
+à l’infirmière d’assurer le monitorage continu du tracé
+électrocardiographique et de la pression artérielle pendant
+et après le test. Elle doit aussi veiller au positionnement
+approprié des électrodes, à un accès veineux fiable et
+perméable et avoir à proximité un défibrillateur et le matériel
+de réanimation (Wilde et al., 2002).
+Puisque l’administration d’un antiarythmique de classe I peut
+provoquer des arythmies, il est essentiel que le test cesse
+dès l’apparition à l’ECG des caractéristiques du type I, des
+extrasystoles ventriculaires ou d’un allongement de la durée
+du QRS à plus 30 % de sa valeur initiale (Leenhardt et al.,
+2007 ; Wilde et al., 2002). Puisqu’il existe un risque réel de
+fibrillation ventriculaire pendant le test, l’infirmière doit être
+prête à cette éventualité.
+Wilde et al. (2002) précisent que le monitorage du rythme
+cardiaque du patient après le test devrait être maintenu
+jusqu’à la normalisation de l’ECG (généralement liée à la
+demi-vie des médicaments). Le tracé d’un ECG de type I, II
+ou III peut être amenuisé ou invisible en dehors des épisodes
+arythmiques, mais peut réapparaître spontanément. C’est
+pourquoi la surveillance clinique que l’infirmière exerce
+avant, pendant et après le test est d’une importance
+capitale pour réduire le risque de complication. D’ailleurs, la
+détection d’un ECG de type I, avec ou sans l’administration
+d’un antiarythmique de classe I, et l’apparition d’arythmies
+malignes comme la tachycardie ventriculaire ou la
+fibrillation ventriculaire doivent être immédiatement
+communiqués au médecin pour qu’une évaluation plus
+poussée soit amorcée.
+Pour accroître la sensibilité de la détection des
+modifications électrocardiographiques, Antzelevitch
+(2006) et Shimizu et al. (2000) suggèrent de déplacer les
+électrodes précordiales droites un ou deux espaces audessus
+du deuxième espace intercostal, ce qui pourrait
+être fait si un doute s’installe quant au tracé de l’ECG.
+Enfin, en dépit de toute l’importance accordée à la
+détection des modifications électrocardiographiques de
+type I, il n’en demeure pas moins que celles de type II et III
+ne doivent pas être négligées et requièrent une discussion
+avec le médecin.
+L’infirmière joue aussi un rôle déterminant à l’étape de la
+collecte des données. Alors que la syncope est parfois le
+seul signe présent chez un patient, pour d’autres, le premier
+signe est malheureusement la mort subite (Wilde et al.,
+2002). Si, à l’occasion du questionnaire, le patient précise
+qu’il a des antécédents familiaux de mort subite, l’infirmière
+devra obtenir plus d’information auprès de lui ou de sa
+famille. Puisque le syndrome peut aussi être présent chez un
+patient asymptomatique, on recommande de dresser un
+portrait général de sa situation et d’être attentif aux moindres
+détails qui peuvent laisser supposer un syndrome sous-jacent.
+L’infirmière doit être très vigilante quand survient une syncope
+inexpliquée ou la présence de signes nocturnes évocateurs
+d’une arythmie maligne comme un bruit de respiration agonale
+ou des pertes urinaires.
+Par ailleurs, Antzelevitch (2006) émet des recommandations
+d’éléments à considérer lorsque l’on soupçonne qu’un
+patient est atteint du syndrome de Brugada. En effet, certaines
+cardiopathies comme la myocardite, la péricardite
+aiguë, l’hypertrophie ventriculaire gauche, l’ischémie aiguë
+du myocarde ou la dysplasie arythmogène du ventricule droit
+peuvent mener à une fausse piste. Il va sans dire que s’il faut
+tenir compte des différents facteurs confondants, une communication
+de cette information au médecin est essentielle.
+Approches thérapeutiques
+Chez les patients symptomatiques qui présentent un ECG de
+type I, qui ont évité la mort subite ou qui présentent des signes
+ou des symptômes de syncope ou de respiration agonale
+nocturne, un défibrillateur implantable est indiqué (Champagne
+et al., 2007). Par contre, il est beaucoup plus difficile de
+déterminer quelle avenue thérapeutique doit être privilégiée
+pour les sujets asymptomatiques, sans antécédents familiaux.
+Ainsi, un patient asymptomatique qui présente spontanément
+des signes électrocardiographiques du type I ou qui a des
+antécédents familiaux de mort subite devrait faire l’objet d’une 
+étude électrophysiologique (Champagne et al., 2007). Quoi
+qu’il en soit, les patients atteints du SB sont susceptibles de subir
+de véritables orages rythmiques. Il faut donc que l’infirmière
+mette à profit ses connaissances pour assurer non seulement la
+détection du syndrome, mais être prête à toute éventualité en
+présence d’un syndrome soupçonné ou confirmé.
+Note des auteurs : Brugada.org est un site fréquemment consulté
+par les cliniciens qui s’intéressent au syndrome de Brugada.

@@ -1,0 +1,123 @@
+Péricardite constrictive chronique
+
+Stéphanie Seidler, Dan Lebowitz, Hajo Müller	Rev Med Suisse 2015; volume 11. 1166-1171
+
+Résumé
+
+La péricardite constrictive chronique est une pathologie rare caractérisée par un péricarde rigide limitant la compliance myocardique, dont les étiologies principales sont l’infection, la radiothérapie thoracique et la chirurgie cardiaque. La présentation clinique est celle de l’insuffisance cardiaque, donc aspécifique, entraînant souvent un retard diagnostique de plusieurs années. La démarche diagnostique comprend notamment l’échocardiographie et le cathétérisme cardiaque. Un traitement chirurgical, la péricardiectomie, rend cette pathologie curable si elle est identifiée à temps. Cet article a pour but, à travers une présentation de cas et une revue de la littérature, de rappeler la physiopathologie, la clinique et la prise en charge de la péricardite constrictive chronique.
+INTRODUCTION
+
+Face à un tableau d’anasarque chronique, le clinicien est appelé, entre autres, à investiguer la présence d’une insuffisance cardiaque. Dans un tel cas, quand le diagnostic reste indéterminé, il est nécessaire d’évoquer le diagnostic de péricardite constrictive (PC). Ce dernier met classiquement longtemps avant d’être posé, notamment en raison de la difficulté à confirmer la présence de critères diagnostiques complexes. Il faut donc impliquer le cardiologue dans la prise en charge, en orientant au préalable les investigations vers cette suspicion. Les conséquences en termes de prise en charge thérapeutique ayant des implications majeures, il est nécessaire d’obtenir un diagnostic de certitude.
+
+CAS CLINIQUE
+
+M. X est un patient de 59 ans connu pour une fibrillation auriculaire, des œdèmes aux membres inférieurs progressant depuis une dizaine d’années et un épanchement pleural droit récidivant d’origine indéterminée, talquée en 2003. Les investigations ambulatoires comprennent une échocardiographie montrant une fraction d’éjection ventriculaire gauche (FEVG) conservée et un cathétérisme droit montrant une hypertension pulmonaire modérée. Une perturbation des tests hépatiques conduit à une biopsie hépatique en 2008, concluant à une cirrhose sur insuffisance cardiaque. Il est hospitalisé mi-2013 pour anasarque invalidante avec dyspnée NYHA III, et non-réponse aux diurétiques avec détérioration de la fonction rénale. Le status révèle des œdèmes jusqu’à la paroi abdominale avec présence d’ascite et une turgescence jugulaire. La saturation en oxygène est de 100% à l’air ambiant et l’auscultation pulmonaire révèle une hypoventilation basale droite traduisant la présence d’un épanchement pleural.
+
+Devant ce tableau d’insuffisance cardiaque droite, le diagnostic de PC est évoqué. Un scanner thoracique montre des calcifications péricardiques (figure 1). L’évaluation échocardiographique et un cathétérisme cardiaque droit-gauche écartent une coronaropathie et confirment la présence des critères diagnostiques recherchés dans la PC, détaillés ci-après. Après de multiples hospitalisations pour décompensation cardiaque, le patient accepte la péricardiectomie début 2015. L’intervention confirme le diagnostic de PC avec mise en évidence d’un péricarde tendu, épaissi et calcifié, d’un cœur s’extériorisant spontanément à travers son incision témoignant d’une constriction franche, et présence d’adhérences denses entre le cœur et le péricarde. L’évolution postopératoire sera favorable.
+
+Figure 1.
+CT-scan thoracique
+Calcifications péricardiques.
+ 
+DÉFINITION
+
+La PC est causée par une altération fibrino-calcique du péricarde formant une coque rigide autour du cœur limitant le remplissage ventriculaire. Elle est responsable d’une insuffisance cardiaque diastolique à fraction d’éjection conservée, se manifestant par une dyspnée et une clinique d’insuffisance cardiaque droite, ouvrant un diagnostic différentiel large (tableau 1).1
+
+Tableau 1.
+Diagnostic différentiel de la péricardite constrictive
+ 
+PHYSIOPATHOLOGIE
+
+La PC est l’évolution terminale d’une péricardite aiguë pouvant passer ou non par un stade d’épanchement péricardique. Elle entraîne les caractéristiques physiopathologiques suivantes : dissociation des pressions intrathoracique et intracardiaque (le péricarde rigide empêchant la transmission des pressions intrathoraciques aux cavités cardiaques) et interdépendance ventriculaire (chaque ventricule se remplissant au détriment de l’autre, créant un mouvement paradoxal du septum interventriculaire (SIV)).1
+
+ÉTIOLOGIES
+
+Toutes les causes de péricardite aiguë peuvent évoluer vers une PC chronique. Dans les pays industrialisés, les causes postinfectieuses ou idiopathiques, la radiothérapie thoracique, ainsi que la chirurgie cardiaque sont parmi les étiologies les plus fréquentes (tableau 2).2–5
+
+Tableau 2.
+Etiologies de la péricardite constrictive
+ 
+Péricardite tuberculeuse
+
+La péricardite tuberculeuse peut se compliquer d’une PC et doit être évoquée chez les patients infectés par le virus du VIH et les enfants. Elle est l’étiologie la plus fréquente de PC dans les pays en voie de développement. La péricardite tuberculeuse est associée à des calcifications péricardiques, la présence d’adénosine-déaminase dans le liquide péricardique, et la présence de granulomes caséeux à la biopsie. Le traitement inclut la péricardiectomie, la thérapie antituberculeuse et une corticothérapie pour prévenir la PC.1,6,7
+
+ASPECTS CLINIQUES
+
+Les symptômes de la PC sont très variables, comprenant des signes d’insuffisance cardiaque droite avec œdèmes, inappétence et hépatalgie, ainsi que des symptômes d’insuffisance cardiaque gauche tels que dyspnées d’effort et asthénie. Les patients décrivent parfois également des palpitations et une douleur thoracique. Au status, on retrouve une turgescence jugulaire avec descente rapide des pentes «x» et «y» du pouls veineux, le signe de Kussmaul caractérisé par une absence de baisse, voire une augmentation, de la pression veineuse jugulaire à l’inspiration et un knock péricardique à l’auscultation, audible en début de diastole en parasternal gauche, traduisant l’arrêt abrupt du remplissage ventriculaire. On retrouve de façon moins spécifique une ascite, des œdèmes cutanés, une hépatosplénomégalie de stase, des épanchements pleuraux, ainsi qu’une tachyarythmie telle qu’une fibrillation auriculaire.1,3,4,8–10 Le pouls paradoxal, traduisant l’interdépendance ventriculaire dans la tamponnade, est plus rarement observé dans la PC.2
+
+Lorsque l’ascite est la seule manifestation clinique, il est difficile de diagnostiquer une cause cardiaque, à l’origine de seulement 3% des ascites.11 L’ascite cardiogène est la conséquence d’une hypertension portale postsinusoïdale.12 Classiquement, elle n’est pas accompagnée d’une hypo-albuminémie et l’analyse du liquide d’ascite montre un gradient d’albumine supérieur à 11 g/l avec un taux de protéines supérieur à 25 g/l, ce dernier étant classiquement abaissé lors de cirrhose sur hépatopathie primaire.
+
+OUTILS DIAGNOSTIQUES
+
+La difficulté de la démarche diagnostique de la PC réside d’une part, dans l’installation insidieuse des symptômes, mais également dans le fait que les examens complémentaires montrent des résultats parfois peu spécifiques et interprétables uniquement par un opérateur spécialisé. Nous allons passer en revue les différents moyens diagnostiques à disposition.
+
+Radiographie thoracique
+
+Particulièrement en incidence latérale, la radiographie identifie des calcifications péricardiques antérieures, présentes dans 25% des cas de PC, et associées à une longue durée d’évolution ainsi qu’à une étiologie tuberculeuse.1,2,13
+
+CT et IRM cardiaque
+
+Ces examens déterminent de façon non invasive l’épaisseur du péricarde. Une épaisseur supérieure à 4 mm évoque une PC, et elle devient plus spécifique au-delà de 6 mm. Cependant, l’absence d’épaississement n’exclut pas le diagnostic, et sa présence ne conduit pas forcément à une constriction.1,14,15 Par ailleurs, le CT est meilleur pour détecter des calcifications, et l’IRM peut mettre en évidence de petits épanchements ou une inflammation péricardiques.10
+
+Echocardiographie
+
+Celle-ci joue un rôle central et il est nécessaire d’orienter le cardiologue afin qu’il recherche certains éléments spécifiques en plus de son évaluation de base :
+
+Fonction systolique (FEVG) conservée et mise en évidence d’un profil de remplissage restrictif lors de l’examen de la fonction diastolique. En effet, à l’instar de la cardiopathie restrictive, l’examen Doppler du flux transmitral montre une onde E de remplissage précoce (passif) rapide dominant l’onde A (tardive), avec un rapport E/A > 2 et un temps de décélération court (figure 2A).4
+
+Figure 2.
+Echocardiographie avec mesures Doppler
+A. Flux mitral avec profil restrictif (E/A > 2 et temps de décélération court) ; B. Variation respiratoire du flux mitral avec baisse de L 25% à l’inspirium et C. Augmentation concomittante du flux tricuspidien.
+ 
+Variations respiratoires exagérées des flux transmitral et transtricuspidien. Chez le sujet sain, la diminution inspiratoire de la pression intrathoracique et donc au sein des veines pulmonaires est transmise également aux cavités cardiaques, permettant un gradient de pression veine pulmonaire-oreillette gauche (VP-OG) conservé avec absence de modification majeure du flux de remplissage transmitral (ventriculaire gauche) protodiastolique. En cas de contrainte péricardique, cette baisse inspiratoire des pressions intrathoracique et veineuse pulmonaire n’est pas transmise aux cavités cardiaques. La conséquence est une diminution du gradient de pression VP-OG et donc du remplissage du VG. Toujours en raison de la contrainte péricardique entraînant un phénomène d’interdépendance ventriculaire, cette baisse du volume du VG en diastole s’accompagne d’une augmentation du volume du ventricule droit (VD). L’examen Doppler montre donc une diminution inspiratoire du flux transmitral supérieure à 25%, souvent le mieux visible lors du premier battement postinspiratoire (figure 2B), et une augmentation réciproque du flux transtricuspidien (figure 2C). Cette tendance est inversée à l’expiration.4,16–18
+
+Anomalie de la cinétique du SIV (septal bounce). Il s’agit d’un déplacement postérieur abrupt du SIV vers le VG en début de diastole, traduisant l’interruption soudaine du remplissage du VD due à la contrainte péricardique. C’est le corolaire échocardiographique de l’aspect en «racine carrée» retrouvé lors des mesures hémodynamiques invasives.16,19
+
+La mesure par Doppler tissulaire de la vitesse de déplacement diastolique précoce de l’anneau mitral (e’) reflète la fonction de relaxation ventriculaire. En cas de PC, ce paramètre est conservé, voire augmenté (> 8 cm/sec). Ce phénomène est expliqué par la limitation par le péricarde de l’expansion cardiaque circonférentielle entraînant une augmentation de la vitesse de déplacement longitudinal de l’anneau mitral.17
+
+La mesure par Doppler au niveau des veines sus-hépatiques montre une augmentation de l’inversion diastolique du flux lors de l’expiration.18 On retrouve également une absence de variation respiratoire du diamètre de la veine cave inférieure.2–4
+
+Une augmentation de l’épaisseur du péricarde peut être localisée, comme après une chirurgie cardiaque. Ce signe a néanmoins une faible performance diagnostique.4
+
+Cathétérisme cardiaque et mesures hémodynamiques
+
+Comme évoqué précédemment, l’outil principal de l’évaluation initiale est l’échocardiographie. Néanmoins, le diagnostic reste souvent équivoque à ce stade, motivant la réalisation d’un cathétérisme cardiaque droit et gauche pour mesures hémodynamiques et coronarographie en prévision d’une chirurgie. On recherchera principalement les éléments suivants :
+
+Un aspect en «racine carrée» (dip and plateau) des courbes de pression ventriculaire diastolique droite (VD) et gauche (VG). Après la portion descendante de la pression ventriculaire diastolique, on observe une élévation abrupte et brève de cette dernière, avant d’atteindre un plateau correspondant à la distension maximale du ventricule, limitée par la contrainte péricardique (figure 3A).3,20,21
+
+Figure 3.
+Mesures hémodynamiques invasives
+A. Signe de la «racine carrée» à la mesure de la pression diastolique du ventricule gauche (VG) ; B. Egalisation des pressions télédiastoliques du VG et du ventricule droit (VD) ; C. Augmentation de la pression télédiastolique (PTD) du VD et rapport PTDVD/pression systolique du VD > 1/3.
+ 
+Une égalisation des pressions télédiastoliques VD et VG (différence inférieure à 5 mmHg), qui traduit à nouveau la limitation du remplissage ventriculaire par le péricarde (figure 3B).3
+
+Une interdépendance ventriculaire caractérisée, au pic de l’inspiration, par une augmentation de la pression systolique du VD et une diminution concomitante de la pression systolique du VG. La physiopathologie est la même que celle de la variation respiratoire des flux atrioventriculaires à l’échocardiographie décrite ci-dessus.22,23
+
+Une augmentation de la pression télédiastolique du VD (PTDVD) et une pression systolique du VD (PSVD) au plus modérément augmentée (l 50 mmHg), avec un rapport PTDVD/PSVD supérieur à un tiers (figure 3C).24
+
+Cardiopathie constrictive versus restrictive
+
+La distinction clinique entre ces deux entités peut s’avérer difficile, raison pour laquelle des critères échocardiographiques et hémodynamiques spécifiques à la PC ont été recherchés. Comme évoqué ci-dessus, le Doppler du flux transmitral montre un profil restrictif dans les deux pathologies. Néanmoins, dans la cardiopathie restrictive, le Doppler tissulaire de l’anneau mitral montre une vitesse diminuée, traduisant l’altération de la relaxation myocardique, et la mesure des flux atrioventriculaire et veineux pulmonaire montre une absence de variation respiratoire exagérée.16,17,25 Les critères hémodynamiques présentent également des recouvrements entre les deux pathologies. Néanmoins, les variations respiratoires dynamiques des pressions et l’absence d’hypertension pulmonaire importante avec rapport PTDVD/PSVD > 1/3 sont plus spécifiques de la cardiopathie constrictive.
+
+Dans les rares cas où le doute subsiste entre les deux pathologies, la biopsie myocardique peut permettre de trancher, celle-ci étant normale en cas de PC, par opposition à la cardiopathie restrictive où l’on retrouve des modifications, par exemple infiltratives.26
+
+COMPLICATIONS
+
+En plus de la dégradation de la qualité de vie attribuable aux symptômes de l’insuffisance cardiaque chronique, la PC peut se compliquer d’une fibrose ou d’une oblitération par l’épicarde des artères coronaires résultant en une ischémie et une atrophie myocardiques. Une fibrillation auriculaire peut survenir dans 25% des cas, favorisée par une dilatation des oreillettes et témoignant d’une évolution de longue durée.1,2 Enfin, comme dans le cas clinique présenté dans cet article, le foie de stase peut évoluer vers une cirrhose.9,17
+
+TRAITEMENT ET PRONOSTIC
+
+La prise en charge initiale est un traitement symptomatique par diurétiques afin d’agir sur la surcharge volémique. A terme, la question est celle de l’indication à une péricardiectomie. En raison du risque opératoire élevé, les patients éligibles pour une telle intervention doivent être sélectionnés, notamment sur la base de leur atteinte fonctionnelle quantifiée selon le stade NYHA. Pour les patients avec répercussions fonctionnelles intermédiaires ou ne répondant pas au traitement diurétique, l’intervention offre une amélioration rapide de la symptomatologie.26 La mortalité liée à l’intervention varie entre 6 et 12% et est attribuée principalement à la méconnaissance d’une atrophie ou d’une fibrose myocardique associée ; si celle-ci est reconnue, la mortalité diminue à 5%, représentant le risque de lésion myocardique périopératoire dans le cas d’un péricarde très calcifié adhérent. Les complications opératoires majeures sont la décompensation cardiaque et la rupture ventriculaire.4
+
+Par ailleurs, le taux de survie à long terme dépend de l’étiologie, du stade NYHA de départ, de la fonction rénale, de l’âge et du sexe, avec un moins bon pronostic observé chez la femme. La PC d’origine infectieuse a un meilleur pronostic, contrairement à l’étiologie postradique, du fait de la possible atteinte au-delà du péricarde comme une athérosclérose accélérée, une cardiomyopathie restrictive ou une valvulopathie.3,5
+
+CONCLUSION
+
+Une dyspnée inexpliquée, avec épanchement pleural récidivant, ascite et œdèmes chroniques réfractaires, doit faire évoquer la PC dans le diagnostic différentiel. Il s’agit d’un diagnostic difficile à poser en raison du caractère aspécifique et insidieux de la symptomatologie cardio-pulmonaire, malgré des techniques diagnostiques performantes. Un niveau de présomption élevé est nécessaire en raison de l’existence d’un traitement chirurgical par péricardiectomie, offrant un bénéfice chez une population sélectionnée. Néanmoins, une telle intervention est grevée d’un haut risque opératoire. La prise en charge globale nécessite donc une évaluation multidisciplinaire incluant l’interniste, le cardiologue et le chirurgien cardiovasculaire.
+
+Implications pratiques
+
+> Il est nécessaire d’intégrer la péricardite constrictive (PC) dans le diagnostic différentiel de l’insuffisance cardiaque chronique à prédominance droite
+> Le plus souvent, la PC est idiopathique, d’origine infectieuse, postchirurgie cardiaque ou radiothérapie thoracique
+> Le diagnostic requiert une évaluation cardiologique spécialisée, avec échocardiographie et cathétérisme cardiaque droit-gauche dédiés
+> La péricardiectomie est le traitement de choix pour des patients sélectionnés

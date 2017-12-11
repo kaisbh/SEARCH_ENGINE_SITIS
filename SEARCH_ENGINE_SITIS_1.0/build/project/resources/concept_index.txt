@@ -1,0 +1,36 @@
+1,.\resources\corpus\1.txt,0,hematology,12.105267
+2,.\resources\corpus\10.txt,1,hematology,9.147819
+3,.\resources\corpus\12.pdf,2,cardiology,197.11134
+4,.\resources\corpus\14.txt,3,cardiology,77.19946
+5,.\resources\corpus\15.txt,4,cardiology,112.56955
+6,.\resources\corpus\16.txt,5,cardiology,108.030235
+7,.\resources\corpus\17.txt,6,cancerology,61.404152
+8,.\resources\corpus\18.txt,7,cancerology,21.12839
+9,.\resources\corpus\2.txt,8,hodgkin,11.212849
+10,.\resources\corpus\20.txt,9,hematology,21.782211
+11,.\resources\corpus\21.txt,10,hematology,10.357357
+12,.\resources\corpus\22.txt,11,endocrinology,54.883163
+13,.\resources\corpus\23.txt,12,endocrinology,61.33669
+14,.\resources\corpus\24.txt,13,endocrinology,215.97179
+15,.\resources\corpus\25.txt,14,hematology,17.08791
+16,.\resources\corpus\26.txt,15,hematology,77.67756
+17,.\resources\corpus\27.txt,16,hematology,75.81345
+18,.\resources\corpus\3.txt,17,hematology,21.203608
+19,.\resources\corpus\4.txt,18,hematology,9.691572
+20,.\resources\corpus\5.txt,19,hodgkin,5.6064243
+21,.\resources\corpus\6.txt,20,hematology,11.608448
+22,.\resources\corpus\7.txt,21,hodgkin,10.127866
+23,.\resources\corpus\8.txt,22,cancerology,19.963804
+24,.\resources\corpus\9.txt,23,cancerology,19.912596
+25,.\resources\corpus\Allergic diseases of the skin and drug allergies – 2033. Metronidazole skin testing associated with systemic reaction .pdf,24,skin allergy,38.376404
+26,.\resources\corpus\Influence of breast compression pressure on the performance of population-based mammography screening.pdf,25,breast cancer,66.76132
+27,.\resources\corpus\Inhibition of breast cancer resistance protein at the murine blood-brain barrier by Ko143 studied with [11C]tariquidar and PET  .pdf,26,breast cancer,14.410021
+28,.\resources\corpus\Obesity reversibly depletes the basal cell population and enhances mammary epithelial cell estrogen receptor alpha expression and progenitor activity.pdf,27,breast cancer,212.34401
+29,.\resources\corpus\Primary brain tumours following breast cancer  .pdf,28,lung carcinoma,13.257145
+30,.\resources\corpus\Rabies virus has more than one trick up its sleeve to manipulate the host defences.pdf,29,rabies,98.04844
+31,.\resources\corpus\Rabies virus receptors.pdf,30,rabies,74.637405
+32,.\resources\corpus\Smoking and risk of breast cancer in the Generations Study cohort.pdf,31,smoking,102.196014
+33,.\resources\corpus\Synthesis, biological evaluation and structure-activity relationship studies of hederacolchiside E and its derivatives as potential anti-Alzheimer agents.pdf,32,alzheimer,81.40604
+34,.\resources\corpus\The effect of smoking, drinking and smoking cessation on morbidity and mortality in oral cancer- a controlled study.pdf,33,smoking,54.127003
+35,.\resources\corpus\Thyroid disorders and pregnancy.pdf,34,pregnancy,54.469448
+36,.\resources\corpus\Thyrotoxicosis and pregnancy.pdf,35,pregnancy,70.154686

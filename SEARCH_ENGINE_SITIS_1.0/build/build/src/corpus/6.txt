@@ -1,0 +1,30 @@
+1. Curr Opin Oncol. 2017 Sep;29(5):322-327. doi: 10.1097/CCO.0000000000000394.
+
+Rational therapeutic choice for older patients with lymphoma.
+
+Bron D(1), Soubeyran P; EHA SWG on ‘Aging, Hematology’.
+
+Author information: 
+(1)aDepartment of Hematology, Institut Jules Bordet (ULB), Brussels, Belgium
+bDepartment of Medical Oncology, Institut Bergonié, Bordeaux, France.
+
+PURPOSE OF REVIEW: The choice for an optimal treatment in older lymphoma patients
+is a real challenge for hemato-oncologists. They have to treat a potentially
+curative lymphoma, and concomitantly protect their patients from unacceptable
+toxicities. Some recommendations are provided for the major subtypes of lymphomas
+including the antitumoral treatment and primarily the optimal supportive care.
+RECENT FINDINGS: All the recent literature data converge to say that the approach
+of an older patient with a malignant hemopathy is a multistep procedure. This
+process comprises the appraisal of life expectancy of the patient with or without
+the disease, the prognostic factors of the tumor, the functional, physiological
+and cognitive functions evaluation, the socio-economical environment and the
+patient's expectancy in terms of quality of life. Major progresses have been
+achieved in the management of diffuse large B cell lymphoma and mantle cell
+lymphoma in patients up to 80 and above 80 years old.
+SUMMARY: With all these information in hands, the hematologist will decide if the
+treatment's objective is the standard treatment with optimal supportive care (fit
+patients), tailor-made adapted chemotherapy (unfit patients) or preservation of
+quality of life (frail patients).
+
+DOI: 10.1097/CCO.0000000000000394 
+PMID: 28742622  [Indexed for MEDLINE]

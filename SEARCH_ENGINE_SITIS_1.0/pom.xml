@@ -17,7 +17,11 @@
 				<configuration>
 					<source>1.8</source>
 					<target>1.8</target>
-					<mainClass>isped.sitis.etl.MainApp</mainClass>
+					<mainClass>isped.sitis.se.MainApp</mainClass>
+					<!--<bundleArguments>
+						<jnlp.includeDT>true</jnlp.includeDT>
+						<jnlp.outfile>SEARCH_ENGINE_SITIS_1.0</jnlp.outfile>
+					</bundleArguments> -->
 				</configuration>
 			</plugin>
 
@@ -26,7 +30,7 @@
 				<artifactId>javafx-maven-plugin</artifactId>
 				<version>8.8.3</version>
 				<configuration>
-					<mainClass>isped.sitis.etl.MainApp</mainClass>
+					<mainClass>isped.sitis.se.MainApp</mainClass>
 					<vendor>ISPED</vendor>
 
 					<!-- <verbose>true</verbose> <jarFileName>XXXX.jar</jarFileName> <bundler>EXE</bundler> 
@@ -41,8 +45,13 @@
 							<goal>build-jar</goal>
 						</goals>
 					</execution>
-					<!-- <execution> <id>create-native</id> <phase>package</phase> <goals> 
-						<goal>build-native</goal> </goals> </execution> -->
+					<!--<execution>
+						<id>create-native</id>
+						<phase>package</phase>
+						<goals>
+							<goal>build-native</goal>
+						</goals>
+					</execution> -->
 				</executions>
 
 			</plugin>
@@ -95,13 +104,13 @@
 			<artifactId>solr-solrj</artifactId>
 			<version>6.0.0</version>
 		</dependency>
-		
+
 		<dependency>
 			<groupId>org.apache.pdfbox</groupId>
 			<artifactId>pdfbox</artifactId>
 			<version>2.0.8</version>
 		</dependency>
-		
+
 		<dependency>
 			<groupId>org.apache.jena</groupId>
 			<artifactId>jena-core</artifactId>
@@ -142,4 +151,5 @@
 		</dependency>
 
 	</dependencies>
+	<name>SEARCH_ENGINE_SITIS</name>
 </project>

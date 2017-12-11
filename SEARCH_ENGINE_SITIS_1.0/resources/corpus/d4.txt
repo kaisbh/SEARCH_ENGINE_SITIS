@@ -1,0 +1,37 @@
+﻿
+1. J Neuropathol Exp Neurol. 2013 Oct 14. [Epub ahead of print]
+
+Abnormal Gephyrin Immunoreactivity Associated With Alzheimer Disease Pathologic
+Changes.
+
+Hales CM, Rees H, Seyfried NT, Dammer EB, Duong DM, Gearing M, Montine TJ,
+Troncoso JC, Thambisetty M, Levey AI, Lah JJ, Wingo TS.
+
+From the Department of Neurology (CMH, HR, AIL, JJL, TSW), Center for
+Neurodegenerative Disease (CMH, HR, NTS, EBD, DMD, MG, AIL, JJL, TSW),
+Departments of Biochemistry (NTS) and Human Genetics (EBD, TSW), and Pathology
+and Laboratory Medicine (MG), Emory University School of Medicine, Atlanta,
+Georgia; Department of Pathology, University of Washington, Seattle, Washington
+(TJM); Departments of Pathology and Neurology, Johns Hopkins School of Medicine, 
+Baltimore, Maryland (JCT); National Institute of Aging, National Institutes of
+Health, Bethesda, Maryland (MT); and Atlanta Veterans Administration Medical
+Center, Atlanta, Georgia (TSW).
+
+Many neurodegenerative disorders involve the abnormal accumulation of proteins.
+In addition to the pathologic hallmarks of neurofibrillary tangles and β-amyloid 
+plaques in Alzheimer disease (AD), here we show that abnormal accumulations of
+gephyrin, an inhibitory receptor-anchoring protein, are highly correlated with
+the neuropathologic diagnosis of AD in 17 AD versus 14 control cases.
+Furthermore, gephyrin accumulations were specific for AD and not seen in normal
+controls or other neurodegenerative diseases including Parkinson disease,
+corticobasal degeneration, and frontotemporal degeneration. Gephyrin
+accumulations in AD overlapped with β-amyloid plaques and, more rarely,
+neurofibrillary tangles. Biochemical and proteomic studies of AD and control
+brain samples suggested alterations in gephyrin solubility and reveal elevated
+levels of gephyrin lower-molecular-weight species in the AD insoluble fraction.
+Because gephyrin is involved in synaptic organization and synaptic dysfunction is
+an early event in AD, these findings point to its possible role in the
+pathogenesis of AD.
+
+PMID: 24128675  [PubMed - as supplied by publisher]
+

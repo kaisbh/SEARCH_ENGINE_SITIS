@@ -1,0 +1,79 @@
+Hyperéosinophilie inexpliquée : en faire trop ou pas assez ?
+
+Patrick Bovier, Jörg D. Seebach, Thomas Harr, Pierre-Alain Plan	Rev Med Suisse 2014; volume 10. 623-624
+Il s’agit d’un homme de 62 ans présentant une maladie coronarienne ayant nécessité la pose d’un stent sur l’artère coronaire droite en automne 2010. Suite à cette procédure, un traitement par Plavix (75 mg/jour), Aspirine (100 mg/jour), Zestril (5 mg/jour) et Crestor (10 mg/jour) lui a été prescrit. L’évolution est favorable sur le plan cardiologique, avec disparition totale des douleurs, et un changement d’hygiène de vie a permis une perte pondérale rapide d’une dizaine de kilos. Le moral du patient a également été affecté par cet événement et son cardiologue lui a conseillé une prise en charge en médecine générale.
+
+Le bilan initial ne montre rien de particulier hormis une tension artérielle (TA) limite qui nécessite une augmentation de la dose de Zestril (10 mg/jour) en décembre 2010. Le patient présente un important stress socioprofessionnel en lien avec son travail ainsi que des problèmes familiaux en relation avec ses enfants. Au mois de mars de l’année suivante, il se plaint de douleurs épigastriques irradiant dans le dos, accompagnées de diarrhées, et prenant parfois la forme de crampes. Ces douleurs sont majorées par la prise alimentaire, surtout le matin, et augmentent également en cas de contrariété. Le patient est alors mis au bénéfice d’un traitement d’oméprazole 40 mg au vu de ses antécédents de hernie hiatale. Devant l’absence de résolution complète des symptômes sous ce traitement, il bénéficie d’une gastroscopie et d’une colonoscopie au mois de mars 2011, qui ne montrent aucune lésion particulière hormis une bulbite érosive. Une IRM abdominale est également effectuée en raison de la découverte d’une lésion hyperéchogène dans le lobe hépatique gauche par le gastro-entérologue, mettant en évidence de nombreuses lésions intrahépatiques mesurant approximativement 1 cm, marquées par un hyposignal en T1 et T2, et interprétées comme des hémo-angiomes multiples.
+
+Le patient pense alors qu’il fait une allergie au sel de céleri et essaye de l’éviter dans son alimentation. Au mois de mai, le Zestril est à nouveau augmenté (20 mg/jour) en raison d’une TA toujours insuffisamment contrôlée.
+
+Parallèlement à ces symptômes, la formule sanguine montre une hyperéosinophilie (valeur absolue 1530, soit 25,5% de 6000 leucocytes) depuis le mois de mars 2011, confirmée aux mois de mai et juin suivants (valeurs absolues : 728 et 1740 éosinophiles, respectivement). A ce moment, le patient présente toujours des douleurs épigastriques survenant environ une heure et demie après les repas ; il signale également des épisodes de selles défaites accompagnés d’une «intolérance digestive» à des aliments contenant du gluten. Il mentionne aussi une alternance de «diarrhées et de selles molles».
+
+L’examen clinique révèle une douleur à la palpation du creux épigastrique et de la fosse iliaque droite, sans péritonisme.
+
+Un bilan parasitaire complet est alors effectué, en raison de séjours fréquents au Maroc, avec une recherche de parasites dans les selles répétée à trois reprises, et des sérologies parasitaires qui sont effectuées à Bâle. Un traitement par Spasmo-Canulase est prescrit une à trois fois par jour.
+
+L’avis d’un infectiologue est alors demandé. Celui-ci propose de rechercher une bothriocéphalose et une anguillulose, deux diagnostics rapidement écartés après le retour des résultats négatifs de l’examen direct et de la culture des selles.
+
+Une cause médicamenteuse est évoquée mais le traitement du patient n’est pas modifié. D’anciens résultats d’analyses datant de 2005 ne montrent pas d’hyperéosinophilie à ce moment-là. Un CT-scan abdominal est également effectué en juillet 2011, afin d’exclure une pathologie rétropéritonéale, qui ne montre pas de lésions. Les douleurs épigastriques étant en augmentation, une nouvelle gastroscopie est programmée d’entente avec le gastro-entérologue afin d’effectuer des biopsies pour exclure une gastro-entérite à éosinophiles ; ce bilan se révèlera à nouveau négatif (les biopsies n’avaient pas été effectuées lors de la première gastroscopie en raison de la double anti-agrégation).
+
+Au mois d’août, le patient séjourne en Europe de l’Est et les symptômes semblent diminuer après différentes modifications de l’alimentation, en particulier la consommation de vin sans manger de pain.
+
+Au mois de septembre, d’entente avec le gastro-entérologue, le patient est adressé en immunologie au CHUV pour avis. Il s’y rendra en décembre et l’examen pratiqué à ce moment-là montrera une normalisation de l’hyperéosinophilie (valeur absolue : 266). A noter que le traitement de Plavix avait été arrêté en novembre 2011, une année après la pose du stent.
+
+Le bilan allergologique conclut à une hyperallergie aux céréales (blé et seigle notamment), avec manifestations d’allergie alimentaire, une rhino-conjonctivite saisonnière avec syndrome oral croisé (allergie aux pollens de bouleau, de graminées et d’armoise et réactivité croisée pour le céleri). Le patient décrit alors également un asthme bénin et une hypersensibilité aux squames de chat. Une vasculite est exclue sur la base de l’examen clinique, de même qu’une parasitose au vu du bilan déjà effectué. Un syndrome de Widal a été également écarté. Le spécialiste consulté conclut donc à une hyperéosinophilie secondaire à une allergie médicamenteuse liée au Plavix.
+
+QUESTIONS AU SPÉCIALISTE
+
+Ce type de réaction (hyperéosinophilie et troubles digestifs) est-il connu pour le Plavix ?
+
+Devant l’absence d’infiltrats à éosinophiles dans les biopsies obtenues lors des examens endoscopiques, une association causale entre éosinophilie et troubles digestifs ne peut pas être formellement établie dans ce cas précis. En outre, l’origine médicamenteuse de l’éosinophilie et des troubles digestifs reste peu claire, sous réserve des allergies alimentaires concomitantes.
+
+Toutefois, des troubles digestifs tels que dyspepsie, gastrite, ulcération, diarrhée ou hémorragie sont fréquents sous bithérapie d’aspirine et clopidogrel (25-30%). D’un autre côté, une éosinophilie sous clopidogrel ne survient qu’occasionnellement. Le site web de Swissmedic indique une fréquence d’éosinophilie de 0,1-1%. Dans une eHealthMe real world study ayant suivi 8814 patients entre 2001 et 2013, seuls quatre cas d’éosinophilie associée à une urticaire ont été rapportés (0,05%).
+
+Sur Pubmed, on ne trouve que trois études de cas cliniques publiées : une patiente japonaise avec une pneumonie à éosinophiles,1 une patiente coréenne avec un syndrome d’hypersensibilité sous forme de DRESS (drug reaction (or rash) with eosinophilia and systemic symptoms),2 et une patiente chinoise avec une gastro-entérite à éosinophiles.3 Cette dernière avait développé des douleurs épigastriques 29 mois après le début du traitement, associées à une éosinophilie de 8220/mm3 et de multiples infiltrations d’éosinophiles de la muqueuse duodénale, iléale et cæcale ont été retrouvées. Le clopidogrel a été arrêté, avec résolution complète des symptômes en trois jours. Deux autres cas de gastro-entérite à éosinophiles se trouvent dans la base de données de l’OMS.
+
+En résumé, l’utilisation massive du clopidogrel chez des millions de patients depuis 1998 est fréquemment associée à des troubles digestifs, mais l’éosinophilie semble plutôt rare et l’association causale entre éosinophilie et troubles digestifs reste rarissime.
+
+Comment procéder devant une éosinophilie inexpliquée et persistante ?
+
+Une anamnèse rigoureuse et un examen clinique du patient sont primordiaux ; il faut également tenir compte de la sévérité de l’éosinophilie (légère : 500-1500/mm3, modérée : 1500-5000/mm3, sévère : > 5000/mm3).
+
+Il est important d’explorer les pistes allergologiques et de voyage à la recherche d’un risque pour une parasitose, surtout une helminthiase. En outre, une anamnèse médicamenteuse précise, suivie par des tentatives d’arrêt du traitement et des tests cutanés permettent de confirmer ou d’écarter une origine médicamenteuse. Les hémopathies malignes, les néoplasies solides et les maladies systémiques immuno-médiées sont à considérer dans un second temps. En cas d’aggravation de l’état général, le diagnostic différentiel d’un syndrome d’activation des macrophages doit être évoqué. En cas de fièvre et/ou en présence d’un souffle cardiaque nouveau, il faut absolument exclure une endocardite.
+
+Les caractéristiques des atteintes organiques peuvent aiguiller le diagnostic.
+
+MANIFESTATIONS CUTANÉES
+
+Un eczéma peut signaler une dermatite atopique ou un stade parabulleux d’une pemphigoïde bulleuse. En cas d’apparition d’un prurigo nodulaire ou d’une urticaire avec plaques, il faut considérer une dermatite «Nir-Westfried» ou un syndrome de Wells. Une éruption maculo-papuleuse prononcée sous traitement suggère une origine médicamenteuse alors qu’une hyperpigmentation de la peau et des muqueuses évoque une mastocytose systémique ou une insuffisance surrénalienne (maladie d’Addison).
+
+MANIFESTATIONS PULMONAIRES
+
+En cas de symptômes obstructifs, il faut penser à un asthme bronchique, et en cas de persistance ou d’aggravation des symptômes, des maladies rares doivent être envisagées, comme la maladie de Churg-Strauss ou l’aspergillose bronchopulmonaire allergique.
+
+MANIFESTATIONS DIGESTIVES
+
+En cas de diarrhées ou de crampes abdominales, il faut évoquer une infestation parasitaire, surtout s’il existe une urticaire associée ou une gastro-entérite à éosinophiles.
+
+Quel délai faut-il attendre avant d’entreprendre des investigations plus complètes ?
+
+Devant une éosinophilie légère et sans évidence en faveur d’une atteinte organique, une attitude observationnelle peut être adoptée. Une éosinophilie modérée ou sévère, au-delà de 1500/mm3, nécessite en revanche des investigations approfondies qui seront strictement orientées par l’anamnèse, la clinique et les examens complémentaires.4–6
+
+Qu’aurait-il fallu faire si tout le bilan, y compris allergologique, était revenu négatif ?
+
+Dans ce cas de figure, une hyperéosinophilie primaire ou intrinsèque dans le cadre d’une maladie myéloproliférative doit être recherchée avec l’aide d’un hématologue.4,5
+
+Quelles peuvent être les conséquences d’une hyperéosinophilie prolongée ?
+
+Les conséquences d’un taux d’éosinophiles sanguins au-delà de 1500/mm3 sont directement liées à l’infiltration tissulaire. La sécrétion de leur contenu toxique peut causer des dégâts non seulement sous forme d’inflammation mais aussi de fibrose. Les organes cibles principaux sont le cœur, les poumons, la peau, le tube digestif et le système nerveux central et périphérique.6
+
+Remerciements
+
+Nous remercions les Drs P. Jandus et M. Stelle pour leur aide précieuse lors de la révision du manuscrit.
+
+Soumettez un cas
+
+Interrogez le spécialiste de votre choix. Posez-lui des questions directement en lien avec un problème de médecine de premier recours auquel vous avez été confronté.
+Des informations complémentaires concernant la rubrique sont disponibles sur le site de la Revue Médicale Suisse (http://rms.meghyg.ch/court-circuit.pdf)
+Envoi des textes à : redac@revmed.ch (avec mention «rubrique court-circuit»)
+Comité de lecture : Dr Gilbert Abetel, Orbe ; Dr Patrick Bovier, Lausanne ; Dr Vincent Guggi, Payerne ; Dr Philippe Hungerbühler, Yverdon-les-Bains ; Dr Ivan Nemitz, Estavayer-le-Lac ; Dr Pierre-Alain Plan, Grandson

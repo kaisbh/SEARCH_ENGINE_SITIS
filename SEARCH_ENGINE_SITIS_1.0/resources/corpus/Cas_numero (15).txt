@@ -1,0 +1,610 @@
+Prescrire dans l’insuffisance rénale chronique: ayons les bons réflexes
+par le Dr Miguel Ange GUILLEN ANAYA*
+Néphrologue
+Centre médical Solbosch
+et CH Epicura-Hornu
+miguelguillendoc@skynet.be
+
+Un patient hypertendu traité voit sa fonction rénale s’aggraver, une patiente
+âgée sous IEC est victime de la gastro-entérite qui règne dans sa maison
+de repos, un patient cardiaque et insuffisant rénal ne répond plus bien au
+Lasix®, etc. Voilà quelques exemples, parmi d’autres, de situations vécues
+au quotidien, face auxquelles le présent article va nous aider à adapter
+notre prescription.
+Prétest Vrai Faux
+1. La prise fractionnée d’un diurétique de l’anse peut être
+plus efficace que la prise unique d’une même dose totale.
+2. La prescription de metformine doit obligatoirement
+être suspendue en dessous de 45 ml/min de clearance
+de créatinine.
+3. Le dosage d’HBPM doit d’emblée être adapté
+à la fonction rénale.
+Réponses en page 31.
+
+RÉSUMÉ
+La prévalence de la maladie ré-
+nale chronique est en constante
+augmentation. Or celle-ci influe
+sur nos prescriptions. Cet article
+propose une approche générale
+de la pharmacologie en IRC,
+suivie de l’appréciation pratique
+de 5 classes thérapeutiques
+courantes: inhibiteur de l’axe
+rénine angiotensine, diurétiques,
+héparine de bas poids moléculaire,
+metformine, et nouveaux
+anticoagulants oraux.
+Mots-clefs: insuffisance rénale
+chronique, pharmacologie,
+toxicité, médicament.
+
+Quelle journée passe-t-on sans prescrire et se poser la question de l’innocuité
+de notre geste? L’insuffisance rénale chronique (IRC) prend une part croissante
+dans l’activité médicale suite à une augmentation importante de sa prévalence
+entre autre au-dessus de 65 ans1. Également, la pharmacopée s’élargit et sa
+gestion devient de plus en plus complexe.
+Savoir comment prescrire chez l’insuffisant rénal chronique nécessite certains
+rappels généraux, avant d’ensuite discuter plus spécifiquement de
+certaines molécules parmi les plus couramment prescrites en médecine
+générale. Des notions de pharmacologie permettent de rester vigilant par
+rapport aux nouvelles médications, leur emploi, leurs effets secondaires attendus
+ou inattendus2.
+Généralités
+L’étude de la pharmacologie clinique commence par celle des mécanismes
+qui influencent la pharmacocinétique et la pharmacodynamie des médicaments.
+La fonction rénale constitue un facteur majeur à cet égard pour de très
+nombreuses médications. La créatinine plasmatique, déchet du métabolisme
+musculaire, sert à la mesure de la fonction rénale. Celle-ci est exprimée par
+la clearance de la créatinine (ClCR), taux d’épuration de volume sanguin en
+ml/min et est approchée par divers formules dont la MDRD2. Le piège le plus
+important des formules pour l’estimation de la ClCR est représenté par les variations
+importantes de masse musculaire (vieillard, comorbidité importante,
+sujet sportif, obèse…).
+
+MDRD2 = 186 x [créatinine]-1,154 x [âge]-0,203
+(x 0,742 pour les femmes, x 1,212 pour les Africains)
+(créatinine en mg/l, âge en années)
+Le résultat est standardisé pour une surface
+corporelle de 1,73 m².
+Un consensus des stades d’IRC est accepté pour
+une gestion structurée des recommandations de
+bonne pratique3 :
+• Stade I: > 90 ml/min
+• Stade II: 89-60 ml/min
+• Stade IIIa: 45-59 ml/min
+• Stade IIIb: 30-44 ml/min
+• Stade IV: 29-15 ml/min
+• Stade V: < 15 ml/min
+À noter que, malgré l’avancée des connaissances et
+des recommandations, de nombreuses imperfections
+du niveau de preuve persistent pour d’anciennes et
+de nouvelles médications. Il reste alors légitime de se
+référer aux notices médicamenteuses qui suivent les
+directives de la FDA (USA) ou de l’EMA (Europe).
+La pharmacocinétique
+Comment l’IRC influence-t-elle la pharmacociné-
+tique de nos prescriptions ? Bien entendu, une médication
+éliminée par la filtration glomérulaire verra
+son taux sanguin augmenter suite à la diminution de
+la fonction rénale. Mais il ne s’agit pas du seul mé-
+canisme en jeu. Ainsi, le volume de distribution varie
+aussi en IRC (majoration de la liaison aux tissus,
+diminution de la liaison à l’albumine). L’élimination
+extrarénale (transporteur ionique, cytochrome) se
+modifie également. Enfin, l’absorption au niveau du
+tube digestif peut être modifiée, entraînant des modifications
+de la biodisponibilité.
+Le type de néphropathie (présence ou non d’un syndrome
+néphrotique) fera également varier la pharmacocinétique
+de certaines médications.
+Par ailleurs, la probabilité d’une interaction médicamenteuse
+se majore chez les patients IRC consécutivement
+à leur fréquente poly-médication. Également,
+la présence de troubles ioniques ou acido-basiques
+(acidose métabolique) influencera l’effet ou le potentiel
+toxique de certaines drogues. Au total, l’adaptation
+à la ClCR sera toutefois le premier réflexe à avoir.
+La pharmacodynamie
+La pharmacodynamie clinique permet de définir
+le meilleur ajustement posologique pour atteindre
+l’effet du traitement: ceux dépendant de l’aire
+sous la courbe (les pénicillines par exemple) ou
+dépendant du pic (quinolones). Il en va de même
+de quelques mécanismes de toxicités. L’IRC influençant
+ces profils plasmatiques, elle va donc
+modifier la pharmacodynamie, donc l’efficacité
+(mais aussi la toxicité) de certains médicaments.
+L’ajustement thérapeutique devra tenir compte de
+tous ces paramètres et de la vitesse de l’effet désiré.
+La dose de charge devra, à ce titre, être modifiée
+en fonction du volume de distribution s’il est connu,
+ou en fonction de la demi-vie de la molécule, par
+exemple lorsqu’il est nécessaire d’obtenir rapidement
+un pic de concentration plasmatique (c’est rarement
+le cas en extra-hospitalier, hormis pour les
+antibiothérapies). La dose d’entretien sera modifiée
+d’après la fonction rénale, soit en augmentant l’intervalle
+entre les prises (passage de deux doses par
+jour à une dose par jour), soit en diminuant la posologie
+afin de maintenir une concentration optimale.
+L’existence d’un métabolite
+Nombre de médications sont transformées en mé-
+tabolites. Quelques-uns de ceux-ci sont éliminés
+par le rein. En cas d’IRC, leur pouvoir de toxicité
+va donc se majorer suite à leur accumulation alors
+même que la médication active n’aura pas son profil
+modifié de manière significative si elle est éliminée
+par voie extra-rénale.
+Le monitoring
+Concernant les drogues qui bénéficient d’un monitoring
+sanguin, il faut savoir que le dosage sanguin
+total (souvent donné par le laboratoire) ne fait pas
+la part entre la fraction libre et celle qui est liée à
+l’albumine. Ce dosage peut ainsi sous-estimer cette
+fraction libre (ex : le valproate4). Or, en cas d’IRC,
+cette fraction libre augmente. Un surdosage est ainsi
+possible malgré un taux sanguin «thérapeutique».
+L’éducation du patient
+Devant toute prescription chronique, il convient de
+s’assurer d’une éducation minimale du patient quant
+au monitoring des effets secondaires. Le renouvellement
+de la prescription peut permettre de renforcer
+cette éducation.
+Tableau 1: les étapes pour l’ajustement thérapeutique
+en insuffisance rénale chronique.
+
+Mécanisme de toxicité
+De façon générale, la toxicité des drogues en IRC
+comprend deux grands chapitres : la toxicité rénale
+et la toxicité extrarénale.
+Toxicité rénale
+Les médicaments peuvent entraîner de nombreux
+effets secondaires néphrologiques. Ceux-ci peuvent
+être dus, soit à une diminution du taux de filtration
+glomérulaire (effet hémodynamique), soit à des lé-
+sions rénales diverses (effet néphrotoxique direct),
+dont la réversibilité est variable. Quel que soit le mé-
+canisme de toxicité, la diminution de la fonction ré-
+nale qui en résulte accroît en retour la concentration
+plasmatique des drogues, augmentant ainsi encore
+leur potentiel néphrotoxique, et réalisant donc un effet
+«boule de neige».
+Mécanisme hémodynamique
+Il s’agit de la diminution du débit sanguin rénal au
+niveau du glomérule. Le cas de figure le plus fré-
+quent est l’introduction d’un AINS chez un patient
+présentant un syndrome cardio-rénal qui est sous
+IEC/Sartan. L’AINS provoque une vasoconstriction
+glomérulaire. Or, chez ces patients, la pression
+de perfusion glomérulaire est bien souvent juste à
+l’équilibre en raison de la coexistence d’une cardiopathie,
+d’une artériopathie et de la prescription
+d’un inhibiteur de l’axe rénine angiotensine. La diminution
+consécutive de la pression de filtration
+glomérulaire provoque une insuffisance rénale
+fonctionnelle. Celle-ci est parfois sévère, pouvant
+être associée, alors, à des complications telles
+qu’œdème aigu du poumon, hyperkaliémie, trouble
+du rythme… Si la diminution de perfusion est sé-
+vère et prolongée, elle peut entraîner une nécrose
+tubulaire dont la réversibilité et les séquelles seront
+variables5.
+Mécanisme néphrotoxique direct
+Toute nouvelle médication est susceptible d’entraî-
+ner une néphrite tubulo-interstitielle aigüe (phé-
+nomène immuno-allergique) qui va péjorer encore
+la fonction rénale de manière inattendue. À côté
+de l’aggravation de cette fonction et de ses consé-
+quences biologiques, les signes cliniques, quant à
+eux, sont souvent aspécifiques voire absents : gêne
+lombaire, état fébrile, éventuellement rash allergique.
+D’autres lésions rénales sont également possibles.
+Elles sont détaillées à la figure 1.
+À noter que de nombreuses médications peuvent
+présenter une toxicité rénale directe. Lorsque celleci
+est peu fréquente, elle n’a souvent pas pu être
+identifiée durant les études cliniques qui ont pré-
+cédé la mise sur le marché. Aussi ne le sera-t-elle
+qu’après commercialisation, lors de son usage à
+grande échelle. La mise à jour régulière des connaissances
+à cet égard reste donc déterminante.
+Toxicité extrarénale
+Il s’agit de la toxicité de la médication sur d’autres organes
+que le rein suite à son accumulation dans le
+cadre d’une non-adaptation posologique. Cette toxicité
+peut exister, soit sans modification notable de la
+fraction totale de la médication, soit par augmentation
+de la fraction libre (diminution du lien à l’albumine).
+Quelques exemples marquants sont:
+• allongement du QT suite à la surcharge de procaï-
+namide, dysopyramide, sotalol, clarithromycine,
+fluroquinolone, pentamidine, etc.6
+• encéphalopathie à l’aciclovir sur accumulation de
+son métabolite7
+• hyperammoniémie suite à une accumulation
+d’acide valproïque8.
+Si le trait commun est la majoration incidentelle du
+risque d’effet secondaire suite à une modification de
+la pharmacocinétique (accumulation), d’autres mé-
+canismes existent aussi tels, par exemple, un changement
+de la physiologie d’organe dans le contexte
+de l’IRC.
+Ainsi en va-t-il de la maladie ostéodystrophique ré-
+nale, conséquence de l’altération de l’homéostasie
+phosphocalcique dans l’IRC. Les médications qui influencent
+la capacité de cette homéostasie calcique
+sont donc à risque d’effet secondaire accru dans la
+pathologie rénale. Ainsi le denosumaba, indiqué dans
+l’ostéoporose, augmente le risque d’hypocalcémie
+sévère chez les patients en insuffisance rénale chronique
+de par son action d’inhibition de la résorption
+ostéoclastique (inhibition du récepteur Rank)9. Dans
+a. Prolia®
+Figure 1: mécanisme de néphrotoxicité pour diverses
+médications et toxiques classiques.
+M G & N É P H R O LO G I E 9
+l’IRC, en effet, du fait d’une moindre résorption intestinale
+de calcium (déficit en vitamine D active), le
+maintien d’un taux normal de calcium n’est possible
+que grâce à l’accroissement de la résorption osseuse.
+Comment adapter
+nos prescriptions?
+Indépendamment de cette vision générale de la
+pharmacologie dans l’insuffisance rénale, nous allons
+faire le tour de plusieurs classes de molécules
+fréquemment prescrites en médecine générale.
+IEC/Sartans
+Les inhibiteurs de l’axe rénine-angiotensine-aldosté-
+rone sont représentés par les IEC (inhibiteurs de l’enzyme
+de conversion), les Sartans (antagonistes du ré-
+cepteur II de l’angiotensine) et l’inhibiteur direct de la
+rénine (IDR). Outre leur effet bénéfique démontré dans
+l’hypertension artérielle, il existe un effet bénéfique
+indépendant de l’effet tensionnel dans les cardiopathies
+congestives, et les néphropathies protéinuriques
+(dont, en particulier, la néphropathie diabétique) qui
+en font des médications incontournables.
+Les effets indésirables fréquents de ces médications
+se résument en trois mots : hypotension, hypoperfusion,
+hyperkaliémie.
+L’effet hypotenseur de ces médications se manifeste
+dans les premières semaines qui suivent leur
+introduction. On est donc en droit d’attendre 2 à
+4 semaines avant de juger de l’effet maximal.
+L’hypoperfusion rénale sous IEC/Sartan/IDR entraîne
+une diminution attendue de la fonction rénale. En pratique
+néphrologique, on tolère une majoration de 25%
+de la créatinine sérique. Ce changement de fonction
+rénale est accepté compte tenu du bénéfice attendu à
+long terme du traitement qui peut se mesurer par la
+pente de la perte de fonction rénale. Mais en cas de
+déshydratation (diarrhée, fièvre) ou d’hémorragie10.
+l’hypoperfusion rénale devient critique et cette médication
+doit être transitoirement suspendue.
+L’hyperkaliémie est secondaire à une diminution
+de l’élimination par inhibition de l’aldostérone.
+Cette hyperkaliémie peut être majorée en présence
+d’un diurétique d’épargne potassique (spironolactone
+e.a.). Elle nécessite un majoration du pool intracellulaire
+de potassium avant d’être mesurable
+et éventuellement symptomatique. Aussi est-il
+recommandé de réaliser un monitoring 3 à 4 semaines
+après l’introduction ou la majoration de la
+médication. Il faut être plus prudent chez les patients
+présentant une kaliémie au départ dans les
+limites supérieures (5,0 à 5,5 mEq/l). Sous traitement,
+un taux ? 5,5 mEq/l est rassurant. Pour un
+taux > 5,6 mEq/l la balance risque/bénéfice doit
+être pesée par le médecin spécialiste. Un taux >
+6 mEq/l impose une correction thérapeutique.
+Les signes d’appel d’une hyperkaliémie sont, soit
+des troubles du rythme (syncope possible), soit une
+fatigue musculaire extrême (parfois, paralysie).
+La double inhibition par IEC + Sartan n’a, quant à
+elle, que des indications très limitées: cardiopathie
+congestive avec fraction d’éjection < 40%, et
+syndrome néphrotique. Ces indications sont à haut
+risque de complication et nécessitent un suivi rapproché
+(mensuel) que sous-tend une excellente adhérence
+du patient.
+IEC/Sartans/IDR et IRC
+• suivi tensionnel (surtout > 2 à 4 sem.);
+• suivi de la créatinine (ok jusqu’à + 25%);
+• suivi de la kaliémie (ok si ? 5,5 mEq/l);
+• arrêt temporaire en cas de déshydratation (fièvre,
+diarrhée) ou d’hémorragie.
+Diurétiques
+La motivation de la prescription des diurétiques dans
+le cadre de l’IRC est double: amélioration du contrôle
+tensionnel et normalisation de la volémie du patient.
+L’effet pervers de ces diurétiques est par contre la
+péjoration de la fonction rénale. Cette péjoration
+sera ainsi toujours présente en cas de cardiopathie
+congestive. Dans ce cas, en effet, l’hypervolémie est
+responsable d’une fausse «bonne fonction». Or il ne
+s’agit en aucun cas d’un argument pour ne pas introduire
+un diurétique car la cardiopathie congestive,
+même à bas bruit, est cardio-11 et néphrotoxique12.
+On suivra, par la clinique, l’impact de la prescription
+sur l’hypervolémie: oedèmes (hypervolémie périphé-
+rique), turgescence jugulaire (volume circulant).
+Les thiazides sont indiqués dans les rétentions «lé-
+gères» et en cas d’IRC modérée (ils sont inefficients
+en- dessous de 45 ml/min de ClCR).
+Les diurétiques de l’anse sont indiqués en cas de
+rétention sévère ou résistante aux thiazides. Dans
+le cas des néphropathies protéinuriques ou du syndrome
+cardio-rénal, une dose élevée n’est pas exceptionnelle
+(80 à 160 mg de furosémideb, 2 à 5 mg
+de bumétanidec
+). La titration (empirique) de la dose
+optimale est l’habitude. La résistance aux diuré-
+tiques de l’anse peut trouver plusieurs explications :
+non-adhérence au traitement, état d’anasarque diminuant
+l’absorption gastrique, présence d’un syndrome
+néphrotique diminuant l’action tubulaire, ou
+effet rebond post meridiem. Ce dernier, fréquent,
+est secondaire à une dose matinale trop importante
+qui provoque une diminution brutale du volume
+b. Lasix®
+c. Burinex®
+10 La Revue de la Médecine Générale n°310 février 2014
+circulant. Celle-ci fait ainsi obstacle à la diurèse de
+l’après- midi. Un moyen simple est de diviser la dose
+sur le début de journée (matin/midi). On évitera par
+ailleurs les doses vespérales (cf. risque de chute
+nocturne).
+Les effets toxiques communs de ces diurétiques
+sont triples :
+• déshydratation (jugulaires plates, crampes, fatigue
+à l’effort, orthostatisme);
+• hyponatrémie (trouble cognitif, trouble de
+l’équilibre),
+• hypokaliémie (faiblesse musculaire, trouble du
+rythme).
+Les diurétiques d’épargne potassique on des indications
+plus particulières que le simple contrôle
+volémique. Par son action sur le récepteur miné-
+ralocorticoïde, la spironolactoned est un inhibiteur
+partiel de l’axe rénine-angiotensine-aldostérone.
+Son indication générale est triple: amélioration du
+contrôle de la cardiopathie congestive, amélioration
+du contrôle de la volémie en cas de résistance
+aux diurétiques, contrôle de l’hypertension (4e ligne:
+hypertension résistante). En cas d’IRC, et du fait de
+son action potentiellement hyperkalémiante, il doit
+absolument être titré (majoration progressive sous
+surveillance clinique et biologique). Pour une IRC de
+stade II à IIIa, on peut débuter par 25 mg/jour, voire
+la moitié pour un stade plus sévère, avec progression
+mensuelle de la dose la plus adaptée. Notons
+également que l’aldactone seul provoque une ré-
+tention d’ions H+ non compensée par du bicarbonate.
+Aussi, le bilan acido-basique doit-il être suivi
+au même titre que le potassium (réserve alcaline,
+HCO3, CO2)
+13.
+Diurétiques et IRC
+Indications et dosage
+• thiazides (hypervolémie modérée,
+ClCR > 45 ml/min);
+• diurétiques de l’anse (hypervolémie majeure,
+ClCR < 45 ml/min), à majorer en cas de
+protéinurie, à fractionner en deux prises
+(matin/midi);
+• spironolactone (cardiopathie, HTA), à débuter
+par 12,5 à 25 mg/j.
+Suivi clinique
+• effet sur la volémie (œdèmes, jugulaires);
+• déshydratation? ;
+• symptômes d’hyponatrémie ou d’hypokaliémie
+(thiazides et diurétiques de l’anse) ? ;
+• symptômes d’hyperkaliémie (spironolactone)?
+Suivi biologique
+• Na+ et K+ (thiazides et diurétiques de l’anse);
+• K+ et HCO3 (spironolactone).
+d. Aldactone®
+Metformine
+La metforminee est une des médications les plus utilisées
+dans le diabète de type II. Son mécanisme de
+toxicité est lié à son action sur la chaine respiratoire
+mitochondriale avec inhibition consécutive du cycle
+de Krebs (glycolyse aérobie) 14. La conséquence peut
+en être une acidose lactique parfois sévère, voire
+mortelle. La présentation la plus sévère est un choc
+cardiogénique associé à une insuffisance rénale
+aigüe anurique avec acidose métabolique sévère.
+L’élimination de la metformine est rénale. Le risque
+d’intoxication augmente donc dans l’IRC 15.
+La prescription et le dosage de metformine doit donc
+être conditionnée par (1) la présence éventuelle
+d’une IRC et (2) le risque éventuel d’une insuffisance
+rénale aigüe (compromettant donc son élimination).
+Ainsi, en présence d’une déshydratation (et
+donc d’une diminution de la filtration glomérulaire),
+la metformine doit être arrêtée transitoirement.
+L’éducation du patient ou des paramédicaux (MRS,
+Home…) est primordiale pour diminuer ce risque.
+Metformine et IRC9
+• ClCR > 45 ml/min: Ok
+• ClCR = 45 à 30 ml/min: demi-dose,
+revoir indication
+• ClCR < 30 ml/min: stop
+Héparines
+de bas poids moléculaire
+L’élimination des Héparines de bas poids moléculaire
+(HBPM) est partiellement rénale. Le dosage de l’activité
+anti-Xa des HBPM est peu pratiqué en médecine
+générale. On rappellera que, pour toute thérapie antiaggrégante
+et anticoagulante, l’appréciation clinique
+des signes d’hémostases est également un bon indicateur.
+Il s’agit des signes de diathèses (hématome,
+hémorragie digestive à bas bruit…).
+En pratique (pour dalteparine, enoxaparine, nadroparine)
+une adaptation de la dose ou de l’intervalle d’administration
+doit se faire dès < 30 ml/min de ClCR et à
+partir de 48h de traitement. Cependant, pour des pré-
+ventions de courtes durées (10 jours) la dose peut ne
+pas être adaptée16. Pour le long cours, l’anticoagulation
+aux antivitamines K sera préférée compte tenu du
+monitoring possible et facilement accessible de l’INR.
+HBPM et IRC (ClCR < 30 ml/min)
+À partir du 3° jour de traitement, réduire la dose
+de moitié ou doubler l’intervalle d’administration
+(1x/12h > 1x/24h)
+e. Glucophage®, Metformax®
+M G & N É P H R O LO G I E 11
+Nouveaux anticoagulants17,18
+Les nouveaux anticoagulants oraux (NOAC) sont
+disponibles en Belgique pour des indications thérapeutiques
+diverses selon leur classe (inhibiteur de
+la thrombine, inhibiteur anti-Xa). Il s’agit du rivaroxabanf
+ (élimination rénale à 30%), de l’apixabang
+(élimination rénale à 20%) et du dabigatranh (élimination
+rénale à 80%). Les données pour les patients
+présentant une fonction rénale en dessous de 30 ml/
+min de ClCR sont très limitées. En ce qui concerne le
+dabigatranh, sa dose doit être adaptée en dessous de
+50 ml/min de ClCR, et il est contre-indiqué en dessous
+de 30 ml/min.
+L’intérêt des tests de coagulation reste très limité
+car les corrélations intertests sont faibles et la relation
+entre le test et la réalité hémostatique (risque
+hémorragique) clinique n’a pas été étudiée. Un point
+important dans le management en cas de phase
+aiguë est le moment de la dernière dose prise par
+le patient (effet pic). Le suivi des patients à risque
+d’évolution d’insuffisance rénale est donc important.
+L’éducation du patient est ici également importante.
+Conclusion
+La prévalence de l’IRC, ainsi que celle du risque d’insuffisance
+rénale aigüe sont en constante augmentation.
+Or, de nombreux médicaments ont leurs effets
+thérapeutiques et leur toxicité potentielle modifiés
+par l’IRC. Il est donc important pour le médecin prescripteur
+de dépister les patients en IRC ainsi que ceux
+à risque d’insuffisance aigüe, afin d’adapter la prescription
+et la posologie. Également, face à un tableau
+d’aggravation de la fonction rénale sous traitement
+par une molécule nouvellement mise sur le marché,
+le médecin généraliste ne doit pas hésiter à évoquer
+la possible responsabilité de cette nouvelle molécule.
+En cas de doute ou de difficultés, un dialogue avec le
+confrère néphrologue s’impose.
+f. Xarelto®
+g. Eliquis®
+h. Pradaxa®
+QUIZZ
+(1) Patient de 79 ans, BPCO, présentant une cardiopathie
+congestive avec FA. Sa ClCR est de 55 ml/
+min/1,73 m2. Le traitement est composé de IEC,
+diurétique thiazidique et Xarelto® 20 mg.
+Le patient téléphone pour une gastroentérite avec
+vomissement. Outre l’arrêt de l’IEC et du diuré-
+tique, il convient de (une seule réponse correcte):
+a. vérifier le TCA;
+b. vérifier la fonction rénale pour adapter la dose
+de Xarelto®;
+c. remplacer 10 jours le Xarelto® par une HBPM;
+d. diminuer le Xarelto® durant une semaine;
+e. se fier à l’hémostase clinique.
+Réponse?: vérifier la fonction rénale car outre l’aspect
+aigu de la déshydratation pouvant entraîner une
+péjoration de la fonction, l’IRC peut évoluer par ellemême
+et la dose de 20 mg de Xarelto® peut exposer à
+un surdosage.
+(2) Patient diabétique sous insuline, avec une IRC
+de stade IV et un poids de 90 kg, présentant une
+TVP. L’indication d’anticoagulation est posée.
+On commence dès lors par (une seule réponse
+possible) :
+a. un antivitaminique K;
+b. un NOAC;
+c. une HBPM avec adaptation de posologie;
+d. une hospitalisation pour Héparine de haut poids
+moléculaire.
+Réponse?: une HBPM avec adaptation de la posologie.
+Le NOAC est en effet contre-indiqué et l’héparine
+perfusée n’est pas supérieure en termes de réponse
+thérapeutique. Le traitement par AVK, quant à lui, doit
+être précédé par une HBPM compte tenu de son effet
+prothrombophilique des premiers jours.
+(3) Patiente de 42 ans présentant une pyélonéphrite
+droite sans signe de choc. La décision est prise
+de la traiter par antibiothérapie. Un sédiment
+culture est réalisé avant l’antibiothérapie, associée
+à du paracétamol. Trois jours plus tard, malgré
+la sensibilité confirmée du germe, la patiente
+présente un état fébrile persistant, un abattement
+et des douleurs lombaires. La T° est de
+377 °C, la fréquence cardiaque est à 90/min et la
+TA à 118/72 mmHg. Il n’y a ni urticaire, ni ictère.
+Par conséquent (une seule réponse possible):
+NOAC et IRC18
+Dabigatran (en 2x/j) Rivaroxaban
+Clcréat (ml/min) Prév TVP Prév AVC (FA) Prév TVP Prév AVC Traitement TVP
+> 50 220 mg 220 à 300 mg 10 mg 20 mg 30 mg J1-21 puis 20 mg
+30-50 150 mg 220 à 300 mg 10 mg 15 mg ? mg J1-21 puis 15 mg
+< 30 CI CI CI CI CI
+12 La Revue de la Médecine Générale n°310 février 2014
+a. on suppose une résistance in vivo et
+on change l’antibiotique;
+b. on rassure la patiente sur la durée
+des symptômes ;
+c. on ajoute un AINS;
+d. on contrôle le sédiment urinaire;
+e. on réalise une biologie sanguine (fonction ré-
+nale, syndrome inflammatoire?).
+Réponse?: malgré l’absence de signe allergique la possibilité
+d’une néphrite tubulo-interstitielle allergique
+reste possible (réponse e). La bilatéralité des douleurs
+lombaires est inattendue, aussi la prudence impose un
+contrôle biologique à la recherche d’apparition d’une
+dysfonction rénale. Le sédiment, compte tenu de l’infection,
+ne sera pas discriminant.
+(4) Patient présentant une HTA de grade II (OMS)
+mal contrôlée et associée à une IRC de stade II
+non protéinurique. L’adhérence au suivi médical
+est satisfaisante (contrôle 3 à 4 x par an pour
+adaptation du traitement). Le patient décide de
+commencer un activité sportive (vélo de promenade
+3x par semaine). Son traitement actuel est
+composé d’un anticalcique, d’un IEC associé à un
+thiazide, d’un ß-bloquant et d’un régime pauvre
+en sel. À la dernière consultation, sa TA est mesurée
+et confirmée à 155/88 mmHg. On prescrit
+(une seule bonne réponse):
+a. on ajoute un Sartan;
+b. on ajoute un inhibiteur de la rénine;
+c. on ajoute une faible dose de spironolactone;
+d. on ajoute un antihypertenseur central.
+Réponse?: l’ajout d’une deuxième inhibition de l’axe ré-
+nine angiotensine n’est pas indiqué et augmentera le
+risque de complication du traitement (hyperkaliémie,
+insuffisance rénale aigüe). Outre attendre l’hypothé-
+tique bénéfice des mesures hygénio-diététiques l’ajout
+d’un antihypertenseur central est de faible risque
+compte tenu de la quadrithérapie antihypertensive.
+(5) Patiente de 81 ans en maison de repos, 79 kg,
+diabétique sous metformine, hypertendue sous
+anticalcique et Sartan (ARBS). La dernière biologie
+réalisée deux mois plutôt montre une IRC de
+stade II. Elle présente une infection sévère (T° à
+39 °C) des voies respiratoires supérieures d’allure
+virale avec abattement mais ne nécessitant
+pas d’hospitalisation. L’adaptation transitoire du
+traitement nécessite (une seule bonne réponse):
+a. l’arrêt de l’anticalcique;
+b. l’arrêt de l’anticalcique et du Sartan;
+c. l’arrêt des trois médications ;
+d. l’arrêt du Sartan;
+e. l’arrêt du Sartan et de la metformine;
+f. aucun arrêt car l’infection est virale.
+Réponse?: l’hyperthermie et l’infection des voies respiratoires
+supérieures (risque d’odynophagie…) exposent
+à un risque important de déshydratation. Dans
+ce contexte, il est prudent d’arrêter transitoirement
+le Sartan. Si l’on ajoute le risque d’une péjoration de
+la fonction rénale, l’arrêt de la metformine pendant
+quelques jours est également légitime.
