@@ -97,10 +97,8 @@ public class Searcher extends Parametre{
 		new Searcher(analyzerLang,s);
 		ArrayList<String> result = new ArrayList<String>();
 	
-		TopScoreDocCollector collector = TopScoreDocCollector.create(5);
-		IndexReader reader = DirectoryReader.open(FSDirectory.open(Paths.get(indexLocation)));
-		IndexSearcher searcher = new IndexSearcher(reader);
-		//searcher.search(query, collector);
+		
+
 		//******************************************************************
 		Builder booleanQuery = new BooleanQuery.Builder();
 		String[] QueryTerms;
@@ -110,12 +108,15 @@ public class Searcher extends Parametre{
 			booleanQuery.add(query, Occur.SHOULD);
 		}
 		
-		reader = DirectoryReader.open(FSDirectory.open(Paths.get(indexLocation)));
-		searcher = new IndexSearcher(reader);
-		//searcher.search(booleanQuery, collector);
+		TopScoreDocCollector collector = TopScoreDocCollector.create(5);
+		IndexReader reader = DirectoryReader.open(FSDirectory.open(Paths.get(indexLocation)));
+
+		IndexSearcher searcher = new IndexSearcher(reader);
 
 
 		searcher.search(booleanQuery.build(), collector);
+
+		
 		ScoreDoc[] hits = collector.topDocs().scoreDocs;
 		String resultLign;
 		for (int i = 0; i < hits.length; ++i) {
@@ -168,7 +169,34 @@ public class Searcher extends Parametre{
 		}
 			
 		}
+		Builder booleanQuery = new BooleanQuery.Builder();
 
+		FuzzyQuery query1 = new FuzzyQuery(new Term("content", "cancer"));
+		FuzzyQuery query2 = new FuzzyQuery(new Term("content", " hart"));
+		
+
+		booleanQuery.add(query1, Occur.SHOULD);
+		booleanQuery.add(query2, Occur.SHOULD);
+		
+
+		TopScoreDocCollector collector = TopScoreDocCollector.create(5);
+		RAMDirectory ramDir = new RAMDirectory();
+		Analyzer analyzer = new StandardAnalyzer();
+		//writeIndex(ramDir, analyzer, VOCAB_FILE);
+
+		IndexReader reader = DirectoryReader.open(ramDir);
+		IndexSearcher searcher = new IndexSearcher(reader);
+		// query1.createWeight(searcher, true);
+
+		searcher.search(booleanQuery.build(), collector);
+		ScoreDoc[] hits = collector.topDocs().scoreDocs;
+		for (int i = 0; i < hits.length; ++i) {
+			int docId = hits[i].doc;
+			Document d = searcher.doc(docId);
+			System.out.println("Vacab Concept : " + d.get("concept") + "; Content : " + d.get("content")
+					+ "; Score : " + hits[i].score);
+
+		}
 	}
 	public static ArrayList<String> getStopWord(String FileName) {
 		ArrayList<String> stop_words = new ArrayList<String>();
