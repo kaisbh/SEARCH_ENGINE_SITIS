@@ -38,14 +38,14 @@
 				</configuration>
 
 				<executions>
-					<execution>
+					<!--<execution>
 						<id>create-jfxjar</id>
 						<phase>package</phase>
 						<goals>
 							<goal>build-jar</goal>
 						</goals>
 					</execution>
-					<!--<execution>
+					<execution>
 						<id>create-native</id>
 						<phase>package</phase>
 						<goals>
