@@ -62,6 +62,8 @@ public class SearchController extends Parametre {
 	@FXML
 	private RadioButton EN;
 	@FXML
+	private RadioButton Fuzzy;
+	@FXML
 	private RadioButton Indiff;
 	private ToggleGroup group;
 	// Reference to the main application.
@@ -83,6 +85,7 @@ public class SearchController extends Parametre {
 		group = new ToggleGroup();
 		FR.setToggleGroup(group);
 		EN.setToggleGroup(group);
+		Fuzzy.setToggleGroup(group);
 		Indiff.setToggleGroup(group);
 
 		// System.out.println(FR.getText());
@@ -90,6 +93,7 @@ public class SearchController extends Parametre {
 		// FR.setSelected(true);
 		Indexer.CreateIndex(corpusLocation, "FR");
 		Indexer.CreateIndex(corpusLocation, "EN");
+		Indexer.CreateIndex(corpusLocation, "");
 		IndexConceptAnalyser analyser = new IndexConceptAnalyser(INDEX_DIR);
 		analyser.makeDocList();
 
@@ -166,7 +170,12 @@ public class SearchController extends Parametre {
 				
 				} else {
 					ArrayList<String> resultat = new ArrayList<String>();
-					resultat = Searcher.Search(searchQuery.getText(), 10, selectedRadioButton.getText());
+					if (Fuzzy.isSelected()){
+						resultat = Searcher.fuzzySearch(searchQuery.getText(), 10);
+					}else {
+						resultat = Searcher.Search(searchQuery.getText(), 10, selectedRadioButton.getText());
+					}
+					
 					Iterator<String> iterator = resultat.iterator();
 					while (iterator.hasNext()) {
 						// System.out.println(iterator.next());
