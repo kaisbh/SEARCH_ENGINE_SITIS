@@ -42,16 +42,18 @@ import org.apache.lucene.util.BytesRef;
 public class vocabSearcher extends Parametre {
 
 	public static void main(String[] args) throws IOException {
+		fuzzySearch("Acromegal cancer");
+	}
 
+	public static void fuzzySearch(String s) throws IOException {
 		Builder booleanQuery = new BooleanQuery.Builder();
 
-		FuzzyQuery query1 = new FuzzyQuery(new Term("content", "cancer"));
-		FuzzyQuery query2 = new FuzzyQuery(new Term("content", " hart"));
-		
-
-		booleanQuery.add(query1, Occur.SHOULD);
-		booleanQuery.add(query2, Occur.SHOULD);
-		
+		String[] QueryTerms;
+		QueryTerms = s.toLowerCase().split(" ");
+		for (int i = 0; i < QueryTerms.length; i++) {
+			FuzzyQuery query = new FuzzyQuery(new Term("content", QueryTerms[i].trim()));
+			booleanQuery.add(query, Occur.SHOULD);
+		}
 
 		TopScoreDocCollector collector = TopScoreDocCollector.create(5);
 		RAMDirectory ramDir = new RAMDirectory();
@@ -67,8 +69,8 @@ public class vocabSearcher extends Parametre {
 		for (int i = 0; i < hits.length; ++i) {
 			int docId = hits[i].doc;
 			Document d = searcher.doc(docId);
-			System.out.println("Vacab Concept : " + d.get("concept") + "; Content : " + d.get("content")
-					+ "; Score : " + hits[i].score);
+			System.out.println("Vacab Concept : " + d.get("concept") + "; Content : " + d.get("content") + "; Score : "
+					+ hits[i].score);
 
 		}
 	}

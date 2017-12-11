@@ -379,4 +379,5 @@ public class IndexConceptSearcher extends Parametre {
 
 		return splittedVocabTerms;
 	}
+	
 }
