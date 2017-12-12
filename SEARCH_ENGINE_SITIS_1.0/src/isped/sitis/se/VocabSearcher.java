@@ -6,6 +6,8 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.Iterator;
 
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
@@ -39,15 +41,19 @@ import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.store.RAMDirectory;
 import org.apache.lucene.util.BytesRef;
 
-public class vocabSearcher extends Parametre {
+import isped.sitis.se.model.DocScored;
+import isped.sitis.se.model.VocabTerm;
+
+public class VocabSearcher extends Parametre {
 
 	public static void main(String[] args) throws IOException {
-		fuzzySearch("Acromegal cancer");
+		ArrayList<VocabTerm> result = fuzzySearch("cacr");
+		 getMostPertinentVocab(result);
 	}
 
-	public static void fuzzySearch(String s) throws IOException {
+	public static ArrayList<VocabTerm> fuzzySearch(String s) throws IOException {
+		ArrayList<VocabTerm> result = new ArrayList<VocabTerm>();
 		Builder booleanQuery = new BooleanQuery.Builder();
-
 		String[] QueryTerms;
 		QueryTerms = s.toLowerCase().split(" ");
 		for (int i = 0; i < QueryTerms.length; i++) {
@@ -55,7 +61,7 @@ public class vocabSearcher extends Parametre {
 			booleanQuery.add(query, Occur.SHOULD);
 		}
 
-		TopScoreDocCollector collector = TopScoreDocCollector.create(5);
+		TopScoreDocCollector collector = TopScoreDocCollector.create(10);
 		RAMDirectory ramDir = new RAMDirectory();
 		Analyzer analyzer = new StandardAnalyzer();
 		writeIndex(ramDir, analyzer, VOCAB_FILE);
@@ -71,8 +77,27 @@ public class vocabSearcher extends Parametre {
 			Document d = searcher.doc(docId);
 			System.out.println("Vacab Concept : " + d.get("concept") + "; Content : " + d.get("content") + "; Score : "
 					+ hits[i].score);
-
+			VocabTerm vt= new VocabTerm(d.get("content"), 0, 0, 0, hits[i].score, d.get("concept"), docId);
+			result.add(vt);
 		}
+		return result;
+	}
+	public static String getMostPertinentVocab(ArrayList<VocabTerm> result) {
+		String Rslt;
+		Iterator<VocabTerm> itr = result.iterator();
+		VocabTerm VocabRslt = null;
+		float MaxVocabScore = 0;
+
+		while (itr.hasNext()) {
+			VocabTerm vocab = itr.next();
+			if (vocab.weight > MaxVocabScore) {
+				VocabRslt = vocab;
+				MaxVocabScore = vocab.weight;
+			}
+		}
+		System.out.println("Most pertinent vocab term : " + VocabRslt.termText);
+		Rslt = VocabRslt.termText;
+		return Rslt;	
 	}
 
 	static void writeIndex(RAMDirectory ramDir, Analyzer analyzer, String VOCAB_FILE) {

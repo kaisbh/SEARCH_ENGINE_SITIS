@@ -294,7 +294,7 @@ public class IndexConceptAnalyser extends Parametre {
 			while (itr2.hasNext()) {
 				VocabTerm Term = itr2.next();
 				if (Term.concept.equals(concept.conceptName)) {
-					concept.totalScore = concept.totalScore + Term.tfIdf;
+					concept.totalScore = concept.totalScore + Term.weight;
 
 				}
 			}
@@ -317,7 +317,7 @@ public class IndexConceptAnalyser extends Parametre {
 		ArrayList<VocabTerm> list = new ArrayList<VocabTerm>() ;
 		RAMDirectory ramDir = new RAMDirectory();
 		Analyzer analyzer = new StandardAnalyzer();
-		vocabSearcher.writeIndex(ramDir, analyzer, VOCAB_FILE);
+		VocabSearcher.writeIndex(ramDir, analyzer, VOCAB_FILE);
 
 		IndexReader reader = DirectoryReader.open(ramDir);
 		//System.out.println(reader.getDocCount("content"));
@@ -434,7 +434,7 @@ public class IndexConceptAnalyser extends Parametre {
 		while (itr.hasNext()) {
 			VocabTerm vt = (VocabTerm) itr.next();
 			System.out.println(vt.termText + "; tf:" + vt.termFrq + "; totalTf:" + vt.totalTermFrq + "; df:" + vt.docFrq
-					+ "; tfIdf score:" + vt.tfIdf + "; Concept:" + vt.concept + "; docID:" + vt.idDoc);
+					+ "; tfIdf score:" + vt.weight + "; Concept:" + vt.concept + "; docID:" + vt.idDoc);
 
 		}
 

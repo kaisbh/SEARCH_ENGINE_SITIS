@@ -5,23 +5,34 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.layout.BorderPane?>
 
-<BorderPane prefHeight="400.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+<BorderPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="isped.sitis.se.controller.RootLayoutController">
    <top>
       <MenuBar BorderPane.alignment="CENTER">
         <menus>
-          <Menu mnemonicParsing="false" text="File">
+          <Menu mnemonicParsing="false" text="Actualiser">
             <items>
-              <MenuItem mnemonicParsing="false" text="Close" />
+              <MenuItem mnemonicParsing="false" onAction="#UpdateIndexFr" text="Index Fr" />
             </items>
-          </Menu>
-          <Menu mnemonicParsing="false" text="Edit">
             <items>
-              <MenuItem mnemonicParsing="false" text="Delete" />
+              <MenuItem mnemonicParsing="false" onAction="#UpdateIndexEn" text="Index En" />
             </items>
-          </Menu>
-          <Menu mnemonicParsing="false" text="Help">
             <items>
-              <MenuItem mnemonicParsing="false" text="About" />
+              <MenuItem mnemonicParsing="false" onAction="#UpdateIndexStd" text="Index Standard" />
+            </items>
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#UpdateIndexConcept" text="Index Conceptuel" />
+            </items>
+             <items>
+              <MenuItem mnemonicParsing="false" onAction="#UpdateIndexall" text="tous les index" />
+            </items>
+            
+          </Menu>
+          <Menu mnemonicParsing="false" text="Editer">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#OpenVovab" text="Vocabulaire" />
+            </items>
+             <items>
+              <MenuItem mnemonicParsing="false" onAction="#OpenAnalysedDoc" text="Vocabulaire" />
             </items>
           </Menu>
         </menus>

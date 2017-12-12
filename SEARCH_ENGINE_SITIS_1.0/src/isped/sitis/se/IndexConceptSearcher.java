@@ -57,7 +57,7 @@ public class IndexConceptSearcher extends Parametre {
 	// ArrayList<VocabTerm>();
 	public static void main(String[] args) throws Exception {
 
-		ArrayList<DocScored> queryDocList = search("cancer lymphoma");
+		ArrayList<DocScored> queryDocList = search("hart");
 		
 
 
@@ -197,7 +197,7 @@ public class IndexConceptSearcher extends Parametre {
 				Iterator<Concept> itr2 = FilteredConcepts.iterator();
 				while (itr2.hasNext()) {
 					Concept concept = itr2.next();
-					concept.totalScore = concept.totalScore + term.tfIdf;
+					concept.totalScore = concept.totalScore + term.weight;
 				}
 
 			}
@@ -305,7 +305,7 @@ public class IndexConceptSearcher extends Parametre {
 		// queryDocList.removeAll(queryDocList);
 	}
 
-	public static ArrayList<VocabTerm> makeQueryVocab(String[] Query, IndexReader reader, IndexSearcher searcher) throws Exception {
+	public static ArrayList<VocabTerm> makeQueryVocab0(String[] Query, IndexReader reader, IndexSearcher searcher) throws Exception {
 		ArrayList<VocabTerm> queryVocabList = new ArrayList<VocabTerm>();
 		// initVocab();
 		ArrayList<Concept> queryConcepts = getConcepts(VOCAB_FILE);
@@ -334,11 +334,42 @@ public class IndexConceptSearcher extends Parametre {
 		}
 		return queryVocabList;
 	}
+	public static ArrayList<VocabTerm> makeQueryVocab(String[] Query, IndexReader reader, IndexSearcher searcher) throws Exception {
+		ArrayList<VocabTerm> queryVocabList = new ArrayList<VocabTerm>();
+		// initVocab();
+		ArrayList<Concept> queryConcepts = getConcepts(VOCAB_FILE);
+		initVocab();
+		// IndexConceptAnalyser.afficheConcept(queryConcepts);
+		if (Query.length != 0) {
+			Concept concept = null;
+			for (int j = 0; j < Query.length; j++) {
+				ArrayList<VocabTerm> result = VocabSearcher.fuzzySearch(Query[j]);
+				String fuzzyqueryTerm = VocabSearcher.getMostPertinentVocab(result);
+				Iterator<Concept> itr1 = queryConcepts.iterator();
+				while (itr1.hasNext()) {
+					concept = itr1.next();
+					ArrayList<VocabTerm> VocabTerms = extractVocabTerms(VOCAB_FILE, concept.conceptName);
+					for (int k = 0; k < reader.getDocCount("contents"); k++) {
+						//for (int i = 0; i < VocabTerms.size(); i++) {
+							Iterator<VocabTerm> itr2 = VocabTerms.iterator();
+							while (itr2.hasNext()) {
+								VocabTerm VocabTerm = itr2.next();
+							if (fuzzyqueryTerm.equals(VocabTerm.termText)) {
+								queryVocabList = addVocab(fuzzyqueryTerm, k, concept.conceptName, queryVocabList, reader, searcher);
+							}
+						}
+					}
+				}
+
+			}
+		}
+		return queryVocabList;
+	}
 	public static ArrayList<VocabTerm> extractVocabTerms(String pathVocab, String concept) throws IOException {
 		ArrayList<VocabTerm> list = new ArrayList<VocabTerm>() ;
 		RAMDirectory ramDir = new RAMDirectory();
 		Analyzer analyzer = new StandardAnalyzer();
-		vocabSearcher.writeIndex(ramDir, analyzer, VOCAB_FILE);
+		VocabSearcher.writeIndex(ramDir, analyzer, VOCAB_FILE);
 
 		IndexReader reader = DirectoryReader.open(ramDir);
 		//System.out.println(reader.getDocCount("content"));
