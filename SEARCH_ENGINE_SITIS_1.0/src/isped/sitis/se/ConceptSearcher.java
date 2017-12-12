@@ -37,7 +37,7 @@ import isped.sitis.se.model.Concept;
 import isped.sitis.se.model.DocScored;
 import isped.sitis.se.model.VocabTerm;
 
-public class IndexConceptSearcher extends Parametre {
+public class ConceptSearcher extends Parametre {
 	private static final int MaxPosition = 0;
 	static String Query;
 	// static ArrayList<DocScored> queryDocList = new ArrayList<DocScored>();
@@ -46,7 +46,7 @@ public class IndexConceptSearcher extends Parametre {
 	static IndexSearcher searcher;
 	static IndexReaderContext context;
 
-	public IndexConceptSearcher(String query) throws Exception {
+	public ConceptSearcher(String query) throws Exception {
 		reader = DirectoryReader.open(FSDirectory.open(Paths.get(INDEX_DIR)));
 		searcher = new IndexSearcher(reader);
 		context = searcher.getTopReaderContext();
@@ -57,7 +57,7 @@ public class IndexConceptSearcher extends Parametre {
 	// ArrayList<VocabTerm>();
 	public static void main(String[] args) throws Exception {
 
-		ArrayList<DocScored> queryDocList = search("hart");
+		ArrayList<DocScored> queryDocList = search("canc");
 		
 
 
@@ -130,15 +130,15 @@ public class IndexConceptSearcher extends Parametre {
 		ArrayList<VocabTerm> queryVocabList = new ArrayList<VocabTerm>();
 		ArrayList<Concept> queryConcepts = new ArrayList<Concept>();
 		ArrayList<DocScored> vocabDocList = new ArrayList<DocScored>();
-		new IndexConceptSearcher(query);
+		new ConceptSearcher(query);
 
 		System.out.println(
 				"----------------------------Scored documents wich contain term's query---------------------------------");
-		queryVocabList = makeQueryVocab(QueryParser(query), IndexConceptSearcher.reader, IndexConceptSearcher.searcher);
-		IndexConceptAnalyser.afficheVocabList(queryVocabList);
+		queryVocabList = makeQueryVocab(QueryParser(query), ConceptSearcher.reader, ConceptSearcher.searcher);
+		ConceptAnalyser.afficheVocabList(queryVocabList);
 		System.out.println("----------------------------Calculating concepts scores---------------------------------");
 		queryConcepts = makeQueryConceptScore(queryVocabList, getConcepts(VOCAB_FILE));
-		IndexConceptAnalyser.afficheConcept(queryConcepts);
+		ConceptAnalyser.afficheConcept(queryConcepts);
 		System.out.println("----------------------------Most pertinent concept in the query-------------------------");
 		Concept ConceptQuery = getMostPertinentConcept(queryConcepts);
 		System.out.println(ConceptQuery.conceptName);
@@ -152,7 +152,7 @@ public class IndexConceptSearcher extends Parametre {
 			DocScored doc = itr.next();
 			queryDocList.add(doc);
 		}
-		IndexConceptAnalyser.afficheDocList(queryDocList);
+		ConceptAnalyser.afficheDocList(queryDocList);
 		System.out.println("----------------------------Make some order-------------------------");
 		for (int i = 0; i < queryDocList.size(); i++) {
 			DocScored docQueryMax = queryDocList.get(i);
@@ -174,7 +174,7 @@ public class IndexConceptSearcher extends Parametre {
 
 		}
 
-		IndexConceptAnalyser.afficheDocList(queryDocList);
+		ConceptAnalyser.afficheDocList(queryDocList);
 		return queryDocList;
 	}
 
@@ -346,6 +346,10 @@ public class IndexConceptSearcher extends Parametre {
 				ArrayList<VocabTerm> result = VocabSearcher.fuzzySearch(Query[j]);
 				String fuzzyqueryTerm = VocabSearcher.getMostPertinentVocab(result);
 				Iterator<Concept> itr1 = queryConcepts.iterator();
+				String queryTerm = Query[j];
+				if (fuzzyqueryTerm!="") {
+					queryTerm=fuzzyqueryTerm;
+				}
 				while (itr1.hasNext()) {
 					concept = itr1.next();
 					ArrayList<VocabTerm> VocabTerms = extractVocabTerms(VOCAB_FILE, concept.conceptName);
@@ -354,8 +358,9 @@ public class IndexConceptSearcher extends Parametre {
 							Iterator<VocabTerm> itr2 = VocabTerms.iterator();
 							while (itr2.hasNext()) {
 								VocabTerm VocabTerm = itr2.next();
-							if (fuzzyqueryTerm.equals(VocabTerm.termText)) {
-								queryVocabList = addVocab(fuzzyqueryTerm, k, concept.conceptName, queryVocabList, reader, searcher);
+								
+							if (queryTerm.equals(VocabTerm.termText)) {
+								queryVocabList = addVocab(queryTerm, k, concept.conceptName, queryVocabList, reader, searcher);
 							}
 						}
 					}

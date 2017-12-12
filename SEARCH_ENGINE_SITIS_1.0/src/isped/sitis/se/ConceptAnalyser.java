@@ -43,7 +43,7 @@ import org.apache.lucene.search.similarities.*;
 import org.apache.lucene.search.spans.SpanWeight.Postings;
 import org.apache.lucene.codecs.lucene50.*;
 
-public class IndexConceptAnalyser extends Parametre {
+public class ConceptAnalyser extends Parametre {
 
 	// public static String indexLocation = "D:\\Projet_Gayo\\Index";
 	// public static String vocabLocation = "./resources/vocab.txt";
@@ -59,7 +59,7 @@ public class IndexConceptAnalyser extends Parametre {
 	static ArrayList<DocScored> vocabDocList = new ArrayList<DocScored>();
 	
 
-	public IndexConceptAnalyser(String indexLocation) {
+	public ConceptAnalyser(String indexLocation) {
 		try {
 			Indexer.CreateIndex(CORPUS_DIR, "");
 			reader = DirectoryReader.open(FSDirectory.open(Paths.get(indexLocation)));
@@ -72,7 +72,7 @@ public class IndexConceptAnalyser extends Parametre {
 	}
 
 	public static void main(String[] args) throws Exception {
-		IndexConceptAnalyser analyser = new IndexConceptAnalyser(INDEX_DIR);
+		ConceptAnalyser analyser = new ConceptAnalyser(INDEX_DIR);
 		ArrayList<DocScored> vocabDocList = new ArrayList<DocScored>();
 		vocabDocList = makeDocList();
 		afficheDocList(vocabDocList);
@@ -170,7 +170,7 @@ public class IndexConceptAnalyser extends Parametre {
 	public static void addVocab(String vocabTerm, int idDoc, String concept, ArrayList<VocabTerm> vocabTermList)
 			throws Exception {
 		Document doc = reader.document(idDoc);
-		Terms terms = getContentsTermVector(idDoc, IndexConceptAnalyser.reader);
+		Terms terms = getContentsTermVector(idDoc, ConceptAnalyser.reader);
 		TermsEnum termsEnum = terms.iterator();
 		int n = (int) terms.size();
 		BytesRef iter = termsEnum.next();

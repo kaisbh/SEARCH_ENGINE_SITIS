@@ -18,8 +18,8 @@ import javafx.scene.control.ToggleGroup;
 import javafx.scene.input.MouseButton;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
-import isped.sitis.se.IndexConceptAnalyser;
-import isped.sitis.se.IndexConceptSearcher;
+import isped.sitis.se.ConceptAnalyser;
+import isped.sitis.se.ConceptSearcher;
 import isped.sitis.se.Indexer;
 import isped.sitis.se.MainApp;
 import isped.sitis.se.Parametre;
@@ -94,10 +94,10 @@ public class SearchController extends Parametre {
 		Indexer.CreateIndex(corpusLocation, "FR");
 		Indexer.CreateIndex(corpusLocation, "EN");
 		Indexer.CreateIndex(corpusLocation, "");
-		IndexConceptAnalyser analyser = new IndexConceptAnalyser(INDEX_DIR);
+		ConceptAnalyser analyser = new ConceptAnalyser(INDEX_DIR);
 		analyser.makeDocList();
 
-		searchQuery.setText("Hodgkin lymphoma");
+		//searchQuery.setText("Hodgkin lymphoma");
 
 		numFileColumn.setCellValueFactory(cellData -> cellData.getValue().numFileProperty());
 		pathFileColumn.setCellValueFactory(cellData -> cellData.getValue().pathFileProperty());
@@ -155,7 +155,7 @@ public class SearchController extends Parametre {
 					ArrayList<DocScored> resultatConcept = new ArrayList<DocScored>();
 					
 				
-					resultatConcept= IndexConceptSearcher.search(searchQuery.getText());
+					resultatConcept= ConceptSearcher.search(searchQuery.getText());
 					Iterator<DocScored> itr = resultatConcept.iterator();
 					while (itr.hasNext()) {
 						DocScored document = itr.next();

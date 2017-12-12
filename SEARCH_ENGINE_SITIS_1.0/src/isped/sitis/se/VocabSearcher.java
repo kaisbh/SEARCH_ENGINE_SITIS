@@ -47,7 +47,7 @@ import isped.sitis.se.model.VocabTerm;
 public class VocabSearcher extends Parametre {
 
 	public static void main(String[] args) throws IOException {
-		ArrayList<VocabTerm> result = fuzzySearch("cacr");
+		ArrayList<VocabTerm> result = fuzzySearch("ks");
 		 getMostPertinentVocab(result);
 	}
 
@@ -83,7 +83,7 @@ public class VocabSearcher extends Parametre {
 		return result;
 	}
 	public static String getMostPertinentVocab(ArrayList<VocabTerm> result) {
-		String Rslt;
+		String Rslt = "";
 		Iterator<VocabTerm> itr = result.iterator();
 		VocabTerm VocabRslt = null;
 		float MaxVocabScore = 0;
@@ -95,8 +95,11 @@ public class VocabSearcher extends Parametre {
 				MaxVocabScore = vocab.weight;
 			}
 		}
-		System.out.println("Most pertinent vocab term : " + VocabRslt.termText);
-		Rslt = VocabRslt.termText;
+		//System.out.println("Most pertinent vocab term : " + VocabRslt.termText);
+		if (MaxVocabScore!= 0) {
+			Rslt = VocabRslt.termText;
+		}
+
 		return Rslt;	
 	}
 

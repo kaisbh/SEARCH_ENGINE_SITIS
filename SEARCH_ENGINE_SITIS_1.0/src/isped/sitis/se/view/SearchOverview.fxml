@@ -9,14 +9,14 @@
 	<children>
 		<SplitPane dividerPositions="0.13819095477386933" layoutX="113.0" layoutY="43.0" orientation="VERTICAL" prefHeight="400.0" prefWidth="700.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
 			<items>
-				<AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="108.0" prefWidth="698.0">
+				<AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="108.0" prefWidth="800.0">
 					<children>
 						<Button layoutX="604.0" layoutY="14.0" mnemonicParsing="false" onAction="#ShowResultSearch" prefHeight="25.0" prefWidth="80.0" text="Rechercher" />
-						<TextField fx:id="searchQuery" layoutX="14.0" layoutY="13.0" prefHeight="25.0" prefWidth="355.0" />
-						<RadioButton fx:id="EN" layoutX="413.0" layoutY="17.0" mnemonicParsing="false" onAction="#UpdateIndex" text="EN" />
-						<RadioButton fx:id="FR" layoutX="374.0" layoutY="17.0" mnemonicParsing="false" onAction="#UpdateIndex" selected="true" text="FR" />
-						<RadioButton fx:id="Indiff" layoutX="511.0" layoutY="17.0" mnemonicParsing="false" onAction="#UpdateIndex" text="Sémantique" />
-						<RadioButton fx:id="Fuzzy" layoutX="455.0" layoutY="17.0" mnemonicParsing="false" onAction="#UpdateIndex" text="Fuzzy" />
+						<TextField fx:id="searchQuery" layoutX="7.0" layoutY="13.0" prefHeight="25.0" prefWidth="355.0" />
+						<RadioButton fx:id="EN" layoutX="410.0" layoutY="17.0" mnemonicParsing="false" onAction="#UpdateIndex" text="EN" />
+						<RadioButton fx:id="FR" layoutX="367.0" layoutY="17.0" mnemonicParsing="false" onAction="#UpdateIndex" selected="true" text="FR" />
+						<RadioButton fx:id="Indiff" layoutX="505.0" layoutY="17.0" mnemonicParsing="false" onAction="#UpdateIndex" text="Sémantique" />
+						<RadioButton fx:id="Fuzzy" layoutX="450.0" layoutY="17.0" mnemonicParsing="false" onAction="#UpdateIndex" text="Fuzzy" />
 					</children>
 				</AnchorPane>
 				<AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="100.0" prefWidth="160.0">
