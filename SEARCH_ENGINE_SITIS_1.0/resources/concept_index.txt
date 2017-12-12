@@ -2,7 +2,7 @@
 2;.\resources\corpus\15.txt;1;cardiologie;33.88698
 3;.\resources\corpus\16.txt;2;grossesse;53.309143
 4;.\resources\corpus\17.txt;3;cancérologie;64.26047
-5;.\resources\corpus\18.txt;4;la rage;24.64686
+5;.\resources\corpus\18.txt;4;cancérologie;19.124529
 6;.\resources\corpus\20.txt;5;hodgkin;31.17015
 7;.\resources\corpus\21.txt;6;cancérologie;12.688908
 8;.\resources\corpus\22.txt;7;endocrinologie;48.97975

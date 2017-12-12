@@ -1,0 +1,8 @@
+INDEX_DIR = "./resources/index";
+INDEX_DIR_FR = "./resources/index_fr";
+INDEX_DIR_EN = "./resources/index_en";
+CONCEPT_INDEX_FILE = "./resources/concept_index.txt";
+STOP_WORD_FR_FILE = "./resources/StopWord/stop-words-french.txt";
+STOP_WORD_EN_FILE = "./resources/StopWord/stop-words-english1.txt";
+CORPUS_DIR = "./resources/corpus";
+VOCAB_FILE = "./resources/vocab.txt";

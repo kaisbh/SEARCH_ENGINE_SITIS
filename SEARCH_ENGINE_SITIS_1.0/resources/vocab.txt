@@ -8,6 +8,6 @@ carcinome:adéno,carcinome,cancer
 Allergie:asthma,atopic,atopique,asthme,hypersensibilité,Gell,anaphylaxie,anaphylactique,quincke,hypersensitivity,urticaria,urticaire,eczéma,angioedema,angioedème,intrademal,IDR,allerène,
 Cancer du sein:Breast,Mammary,Estrogen,gland,mammoplasty,tissue,Mammography,mammogram,mammographie,tumors,mastectomy,mastectomie,mammotomie,carcinogenic,malignant,
 Smoking:Smoking,cessation,oral,cancer,carcinoma,morbidity,mortality,Smokers,ex-smokers,detrimental,paquet-année,cigare,bpco,tobacco,tabac,,fumeur,smoker
-La rage:Rabies,virus,pathogen,nervous system,mammalian,fatal,transmitted,saliva,infected,bites,rabid,neuromuscular,neuron,salivary,glands,viral,neuroinvasiveness,neuronotropic,killed,apoptosis,receptors,pathogen,presynaptic,gangliosides
+La rage:Rabies,virus,pathogen,nervous system,mammalian,fatal,transmitted,saliva,bites,rabid,neuromuscular,neuron,salivary,glands,viral,neuroinvasiveness,neuronotropic,killed,apoptosis,receptors,pathogen,presynaptic,gangliosides
 Alzheimer:Alzheimer,memory,mms,dementia,death,neurodegenerative,amyloid,hippocampal,cortical,pathological,neuronal,rhynchophylla,uncarinic
 Grossesse:pregnancy,pregnancies,hCG,women,foetal,foetus,couche,obstétrique,gravide,gravidique,puerpéralité,puerpérale,gravidarum,mère,mother,fetus,pregnant,gonadotrophin,grossesse,enceinte,guttri,nidation,jumeau,placenta,placentaire,éclampsie

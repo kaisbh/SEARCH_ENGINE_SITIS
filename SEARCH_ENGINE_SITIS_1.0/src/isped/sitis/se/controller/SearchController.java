@@ -36,8 +36,7 @@ import java.util.Iterator;
 
 import org.apache.lucene.queryparser.classic.ParseException;
 
-import isped.sitis.se.model.Person;
-import isped.sitis.se.util.DateUtil;
+
 import isped.sitis.se.util.FileUtil;
 
 public class SearchController extends Parametre {
