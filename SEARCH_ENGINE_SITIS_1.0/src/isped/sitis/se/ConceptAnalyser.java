@@ -154,13 +154,16 @@ public class ConceptAnalyser extends Parametre {
 			System.out.println("Concepts:");
 			concepts = makeDocConceptScores(i, vocabTermList);
 			afficheConcept(concepts);
-			System.out.println(
-					"#################################################################################################################################################");
 			
 			Concept Concept = getMostPertinentConcept(concepts);
-		
-			DocScored vd = new DocScored(i+1, doc.get("path"), i, Concept.conceptName, Concept.totalScore);
-			vocabDocList.add(vd);
+			System.out.println("#################################################################################################################################################");
+			System.out.println("******************Most pertinent concept*****************");
+			if (Concept!=null) {
+				System.out.println("concept:"+Concept.conceptName +"; score:"+ Concept.totalScore);
+				DocScored vd = new DocScored(i+1, doc.get("path"), i, Concept.conceptName, Concept.totalScore);
+				vocabDocList.add(vd);
+			}
+			
 		}
 		writeIndexConcept(vocabDocList);
 		return vocabDocList;
@@ -244,7 +247,7 @@ public class ConceptAnalyser extends Parametre {
 		String[] splittedLigne = null;
 		try {
 			br = new BufferedReader(new FileReader(new File(vocabLocation)));
-			line = br.readLine();
+			//line = br.readLine();
 			while ((line = br.readLine()) != null) {
 				// System.out.println(line.toLowerCase());
 				splittedLigne = line.toLowerCase().split(":");

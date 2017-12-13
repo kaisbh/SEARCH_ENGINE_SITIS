@@ -118,18 +118,24 @@ public class VocabSearcher extends Parametre {
 			String[] splittedVocabTerms = null;
 			try {
 				br = new BufferedReader(new FileReader(new File(VOCAB_FILE)));
-				line = br.readLine();
+				//line = br.readLine();
 				while ((line = br.readLine()) != null) {
 					splittedLigne = line.toLowerCase().split(":");
 					String concept = splittedLigne[0];
 					// if (splittedLigne[0].toLowerCase().equals(concept.toLowerCase())) {
-					splittedVocabTerms = splittedLigne[1].split(",");
-					for (int i = 0; i < splittedVocabTerms.length; i++) {
-						Document doc = new Document();
-						doc.add(new TextField("content", splittedVocabTerms[i].trim(), Store.YES));
-						doc.add(new TextField("concept", concept, Store.YES));
-						writer.addDocument(doc);
+					if (splittedLigne.length>=2){
+						splittedVocabTerms = splittedLigne[1].split(",");
+						for (int i = 0; i < splittedVocabTerms.length; i++) {
+							Document doc = new Document();
+							String vocabTerm=splittedVocabTerms[i].trim();
+							if (!vocabTerm.equals(null)) {
+								doc.add(new TextField("content",vocabTerm , Store.YES));
+								doc.add(new TextField("concept", concept, Store.YES));
+								writer.addDocument(doc);
+							}
+						}
 					}
+					
 				}
 			} catch (FileNotFoundException e) {
 				e.printStackTrace();
