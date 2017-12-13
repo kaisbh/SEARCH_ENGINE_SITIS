@@ -1,0 +1,516 @@
+Pergamon
+Int. 1. Radiation Oncology Biol. Phys., Vol. 32, No. 4, pp. 1177- 1183, 1995
+Copyright 0 1995 Elsevier Science Ltd
+Printed in the USA. All rights reserved
+0360-3016/95 $9.50 + .oO
+0360-3016(95)00006-2
+l Technical Innovations and Notes
+AN EXPERIMENTAL APPROACH TO THE DESIGN OF A SCATTERING
+SYSTEM FOR A PROTON THERAPY BEAM LINE DEDICATED TO
+OPTHALMOLOGICAL APPLICATIONS
+CATHERINE NAURAYE,* ALEJANDRO MAZAL, PH.D.,* SABINE DELACROIX, PH.D.,*
+ANDI& BRIDIER, PH.D.,+ JEAN CHAVAUDRA, PH.D.+ AND JEAN-CLAUDE ROSENWALD, PH.D.*
+*Centre de Protontherapie d’Orsay, Orsay, France; ‘Institut Gustave Roussy, Villejuif, France; and %stitut Curie, Paris, France
+Purpose: The development of a scattering system for a proton therapy beam line dedicated to ophtahnologiGi&@IlapplicatiOIlS.
+
+Methods and Materials: A protontherapy beam line has been developed for the treatment of uveal melanoma
+at the Orsay synchrocyclotron. The original 200 MeV proton beam is degraded to 76 MeV and the final
+beam characteristics (range, modulation, flatness, collimation) are obtained with beam modifiers in the
+treatment room. A passive scattering system is used to obtain a uniform dose distribution in the beam
+cross-section throughout 30 mm in diameter, with minimal losses in energy and dose rate. We have used
+an experimental approach for the scattering study.
+Results: An elliptical ring shaped from 0.1~mm thick lead is the solution we have adopted for the scattering
+system. For a modulated beam, a flatness of 1% is obtained on transverse profiles. The energy loss introduced
+by this scatterer is only 0.5 MeV, with no appreciable change in the range over the treatment field. For an
+unmodulated beam, 21% of intensity is lost when the scatterer is used. The distal and the lateral dose falloff
+@O-10%) for a modulated beam are 2.6 mm. These last values are independent of the range and the
+modulation currently used for the ophtalmic applications.
+Conclusion: A specific passive scattering system can be adapted to a particular beam emittance. A systematic
+experimental approach can easily be undertaken to obtain the scatterer adapted for small irradiation fields
+in-proton therapy.
+Radiotherapy, Protons, Scattering, Ophtalmology.
+INTRODUCTION
+Proton beams are used for high precision radiotherapy
+when clinical targets are close to critical structures.
+Useful physical characteristics of the beam include
+the sharp fall-off after a spread out Bragg peak and
+the small lateral penumbra.
+Clinical facilities are developed either from new or
+from existing machines not used anymore for physical
+research. At the Centre de Protontherapie d’Orsay
+(CPO), we use a synchrocyclotron built in 1958 and
+completely upgraded in 1977. It has been devoted to
+clinical application since 199 1, providing a 200 MeV
+proton beam with extracted currents up to about 2pA
+(2, 10). Figure 1 shows three lines that can be used at
+the CPO. Many things (beam transport, building, etc.)
+ought to be changed for an optimal clinical use of the
+beam, but these changes need a long investigation time
+and are expensive. However, a set of beam modifier
+devices is necessary to obtain beam characteristics
+suitable for treatment.
+To get the necessary uniformity in the radiation field
+required for the clinical treatments, many different
+methods for lateral spreading of the beam have been
+investigated in different centers around the world.
+These methods use either dynamic or static beam delivery
+systems.
+Dynamic systems, such as wobbler system (3), raster-scan
+(4), or spot scan (7) control the motion of the
+beam spot to deliver the desired dose distribution in
+the radiation field. The advantage of these systems,
+over the passive systems, is the minimization of the
+material in the beam path, with lower energy losses
+and background radiation for the patients. Moreover,
+Reprint requests to: Catherine Nauraye, Centre de Protonthtrapie
+d’orsay, bltiment 101, 15 rue Georges ClCmenceau, 91400
+Orsay, France.
+Acknowledgement-Financial support provided by the Institut
+de Formation Supkieure Biomkdicale (University Paris XI),
+to C. Nauraye.
+Accepted for publication 30 December 1994.
+1177 
+I. J. Radiation Oncology l Biology 0 F’hysics
+Fig. 1. Layout of the building with the different beam lines
+and treatment rooms. Ai: bend magnets; yi: quadripole lenses;
+synchrocyclotron (S): maximum energy of protons 200 MeV;
+energy degradation with a graphite block (D): 200 MeV down
+to 76 MeV; treatment room 1 (TRl), for small irradiation fields,
+less than 10 cm in diameter; planned treatment room 2 (TR2),
+for large irradiation fields.
+the spot-scanning system allows a three-dimensional
+scanning of the target volume (8, 13).
+For technical reasons, many centers use passive systems,
+such as single or double scattering foils with
+annular or cylindrical beam stoppers (1, 9), or scatterers
+with a Gaussian-like shape (6). Calculations of
+such scattering systems must be performed to minimize
+losses in energy and dose rate. They are carried
+out for divergent beams with a small focus and radial
+symmetry.
+In our specific case, the use of an energy degrader
+and the limitations of the beam transport system result
+in a large focus spot at the entrance of the treatment
+room. The beam’s vertical and horizontal emittances
+are very different, giving a beam section with an elliptical
+shape.
+The aim of the first part of our clinical project was
+to treat uveal melanomas (12). Therefore, energies
+around 70 MeV and field sizes up to 30 mm in diameter,
+with dose rates of about 15 Gy/min, are needed.
+To keep a stable beam cross-section at the patient
+position, in case of small movements of the original
+beam, we have fixed, as first specification, a beam
+diameter of 40 mm, finally collimated to a diameter
+of 30 mm.
+In this paper, we present an experimental approach
+Volume 32, Number 4, 1995
+used to optimize the characteristics of the scattering
+system developed for proton therapy of ocular
+melanomas.
+METHODS AND MATERIALS
+Detectors
+Three detectors have been used: radiological films, diodes,
+and one ionization chamber. The radiological films’
+have been used for acquisition of transverse dose profiles
+in the air. These films have a low sensitivity to irradiation
+allowing doses up to 4 Gy. They have been manually
+processed and explored with an optical densitometer,’
+which uses a pulsed infrared-beam collimated to a diameter
+of 0.8 mm, at the entrance of the film. An optical
+density correction curve function of dose, obtained for
+the same conditions of irradiation, has been applied.
+Ordinary electronics diodes (lN4006, N-type) were
+preirradiated to 10 kGy, before being used, with no bias
+voltage, to measure the transverse dose profiles. The cylindrical
+ionization chamber’ (sensitive volume 0.14 cm3,
+diameter 6 mm, and polarizing voltage 300 V) connected
+to the electrometer,4 has been irradiated parallel to its
+main axis (11) for acquisition of transverse dose profiles,
+depth dose curves, and dose rate measurements.
+Beam delivery system
+The beam is focused close to the vacuum window at
+the entrance of the first treatment room. An optical bench,
+2-m long, supports all the beam delivery system, and is
+placed after the vacuum window. A length of 2.48 m is
+available from the middle of the target volume (reference
+point) to the vacuum window.
+A direct correlation exists between the study of the
+scattering system and the role of other components of
+the optical bench. The final bench configuration used for
+ophtalmological applications, including the scatterer presented
+in this work, is shown in Fig. 2. A set of collimators
+is used to limit scattered components and to keep a specific
+beam size at different locations (CO to C5). A range
+shifter and a range-modulating propeller are used to adjust
+the range and the modulation of the Bragg peak in depth
+for each patient. Two multisector transmission ionization
+chambers are used for dose monitoring, with related control
+of dose rate and symmetry.
+Beam characteristics
+The original beam (200 MeV) has been degraded down
+to 76 MeV with a graphite cylinder upstream from the
+last bend (Fig. 1). Figure 3a shows the Bragg peak at
+the treatment position adopted as the reference point, as
+measured with a lucite wedge moving in front of the
+ionization chamber. The distal fall-off (90-10%) of the
+’ Kodak X-Omat V.
+* Wellhofer WR 102.
+3 Wellhofer IClO.
+4 Wellhofer WP 5007. 
+Scattering system for a proton therapy beam line 0 C. NAURAYE et al. 1179
+modulator
+Collimator
+Monitor
+scalterer
+ionization Patient
+J
+chamber collimator
+3
+0 m f--
+I234 206 1841 153 108 ss 44 7 ocm
+248 178
+co*3 Cl co3 C2Q3 c3@4 c4 @4 C5 93 cm
+Fig. 2. Ophtalmological beam line (optical bench) in treatment room 1
+original Bragg peak is 2.1 5 0.1 mm (1 standard deviation).
+A “reference” clinical situation has been adopted.
+It corresponds to the following spread-out Bragg peak
+parameters illustrated in Fig. 3b: modulation width of
+18.8 mm (from 90% proximal to 90% distal level in
+depth), range of 22.6 mm in water (at 90% distal level).
+The dose distributions measured by film dosimetry in
+a plane normal to the beam axis, at the exit of vacuum
+window and at the reference point, respectively, without
+beam modifier or collimators, are presented in Fig. 4.
+From dose measurements at different distances on central
+beam axis, an effective source was found according to
+the inverse square law distance, to be about 10 cm downstream
+from the vacuum window. For a beam current of
+300 nA before the graphite degrader, the current measured
+just after the vacuum window is 17 nA.
+Experimental approach
+When passing through matter, a proton undergoes collisions
+leading to a modification of its initial path. These
+deflexions result essentially from elastic collisions with
+atomic nuclei. This phenomenon is described by the multiple
+scattering theories. Recently, a good comparison be0
+10 20 30 40 50
+Water depth (mm)
+Fig. 3. Dose distribution in depth at the reference point (target
+volume), measured with a cylindrical ionization chamber (0.1
+cc) behind a moving wedge (source-detector distance constant):
+(A) Bragg peak for an unmodulated beam; (B) spread-out Bragg
+peak in ophtalmological “reference” beam situation.
+tween the different theories and experimental data has
+been carried out by Gottschalk et al. (5).
+So, greatest scattering is obtained with elements of high
+atomic number as they have a large scattering power for
+a small energy loss. Lead, brass, and tungsten are the
+most usual materials used as scatterers. For practical reasons,
+we have tested different geometrical configurations
+using only lead scatterers.
+Different parameters such as the thickness, the position,
+the shape, and the size of the scatterer have been systematically
+investigated. The purpose is to minimize the dose
+rate loss, to keep the shape of the Bragg peak, and to have
+a uniform dose distribution in the whole target volume,
+independent of the irradiation conditions.
+The measurements consist mostly of transverse dose
+profiles and depth curves. The dose profiles have been
+measured in air at the reference distance. Using a moving
+lucite wedge, depth dose curves have been obtained at
+a constant source-detector distance converted into water
+equivalent depth.
+rizontal
+m
+Relaye dose (%)
+30
+50
+Fig. 4. Original dose distribution in a transverse plane of the
+beam axis. (A) Immediately downstream of the vacuum window;
+(B) at the reference point, without collimation. 
+1180 I. J. Radiation Oncology l Biology l Physics
+RESULTS AND DISCUSSION
+Uniform scattering of the beam
+When the original beam is emitted from a small focal
+spot, with a small divergence, a first scattering foil is
+generally used to get a larger beam before it hits a second
+scattering system. In our experimental conditions, the
+presence of the beam degrader makes a double scattering
+system unnecessary, because of the large initial divergence
+of the beam and the large beam spot. To achieve
+a good definition of the effective source, one could collimate
+the entrance beam to one point. However, to avoid
+intensity losses, we have decided not to do so.
+On the computed model from Gotschalk et al. (5),
+based on Moliere’s theory, we have calculated the distribution
+function of scattered protons through a lead foil
+placed at the C2 position, by introducing the characteristics
+of our beam: the divergence and the effective source
+position measured from dose profiles at different distances
+from the vacuum window, and finally the beam energy.
+Figure 5 shows the vertical dose distributions at patient
+position for several thicknesses of lead. The original beam
+has been computed, taking into account the scattering due
+to the air space between the effective source and the
+measuring point. Due to the Gaussian form of the dose
+profile, good homogeneity in the central part of the beam
+is only obtained with large losses in energy and beam
+intensity, as a consequence of a thick scattering foil that
+appears not to be a good solution.
+Selected scattering of the beam
+A common solution to improve the shape of the
+transverse dose profile is to use a small beam stopper
+of sufficient thickness to stop a part of the beam, and
+place it in such a way that it blocks the central portion
+of the dose distribution (1,9). This occluder, combined
+with a scattering foil, produces a larger flat-dose area
+at the reference distance. This system presents the adComputed
+results (h4olike
+-_-___- mukiple scattering theory)
+80 - Experimentids results
+z
+9160
+3
+$40
+2
+20
+0
+0 5 10 15 20
+Distance from beam axis (cm)
+Fig. 5. Influence on the vertical dose distribution at the reference
+point, of the thickness of a single scattering foil in lead, placed
+at the C2 position (Fig. 2) and for an uncollimated beam. (A)
+original beam; (B) 0.1 mm; (C) 0.5 mm; (D) 1.0 mm. Comparison
+between the Moliere theory and the experimental results.
+Volume 32, Number 4, 1995
+------------.-__________________________--------------.---
+.:.:.:.:.:.:.:.:.:.:.:.:,:.:.:.:.:.:.
+0 2 4 6 8 10 12 14 16 18
+Distance from beam axis (mm)
+Fig. 6. Influence on the transverse dose distribution of the distance
+between the scatterer and the reference point. The scatterer
+is a lead disk (16 mm in diameter, 0.1 mm thick) placed at the
+position of collimators (CO, . . C4:@3 cm; Fig. 2). The beam
+is unmodulated.
+vantage of introducing a uniform energy change for the
+whole beam cross-section.
+However, the use of a central scattering disk may increase
+the efficiency of the scattering system, as no central
+beam is lost. If the disk is very thin, the changes in energy
+components are not of great importance in practice. So,
+we have tested the possibility of spreading out only a part
+of the beam without blocking any part of it.
+For a fixed scatterer thickness, three other parameters
+have been considered: distance from the reference point,
+diameter of a thin lead disk, and diameters of a thin lead
+ring. Due to complex emittance of our beam, it was not
+easy to simulate these scattering systems; therefore, we
+decided to carry out an experimental approach.
+Effect of scatterer parameters: influence of the distance
+of a disk
+Figure 6 shows the effect of the scatterer distance
+on the transverse dose profiles. For an unmodulated
+beam, a lead disk 0.1 mm thick, 16 mm in diameter,
+within the aperture of the collimator, was placed at
+different distances from the reference point. The last
+collimator used (C4) has a diameter of 30 mm. We
+removed collimator C5 to better see the lateral effects
+on the dose distribution. As shown in Fig. 6, when the
+disk is either close or far from the measuring plane, its
+effect is not so important. When it is close, there is not
+enough distance for the scattered components to have
+a significant lateral spread. The effective beam source
+position is also close to the patient, leading to an increase
+of the entrance dose and lateral penumbra. When
+it is placed far upstream, the scattering in the air and
+the beam components from a complex emittance hide
+the effect of the disk. We have chosen the C2 position,
+which leads to a good compromise.
+In.uence of the diameter of a disk
+The effect of the diameter of the central scattering disk
+placed at the C2 position, for a modulated beam, is pre- 
+Scattering system for a proton therapy beam line 0 C. NAURAYE et al. 1181
+20
+0
+0 5 10 15 20 25 30 35
+Distance from beam axis (mm)
+Fig. 7. Influence on the transverse dose distribution of the diameter
+a(mm) of a scattering lead disk of 0.1 mm thick placed at
+the C2 position (Fig. 2) for a modulated beam (CO, . . . C3:@3
+cm; C4:@4 cm).
+sented in Fig. 7. For a given position, a small disk has
+no significant effect. A disk approaching the collimated
+beam size has the same effect as a scattering foil covering
+the whole aperture.
+A optimal disk diameter and position have been
+adopted to produce sufficient scattering, leading to an
+underdosage in the central part of the transverse section
+beam. This condition can be useful to produce smaller
+lateral penumbra after collimation.
+Infruence of a cylindrical ring
+To fill the central part of the profile again, a central
+hole has been made in the scattering disk, increasing the
+beam intensity at the same time. The effect of a central
+hole in the disk is shown in Fig. 8.
+Injhence of an elliptical ring
+The difference between the vertical and horizontal
+beam emittances leads to an elliptically shaped transverse
+section beam. To obtain a good uniformity in the whole
+beam cross-section after scattering, the external shape of
+the scatterer follows the shape of the isodose distribution
+0 5 10 15 20 25 30 35
+Oistame from beam axis (mm)
+Fig. 8. Influence on the transverse dose distribution, of a central
+hole b(mm) in the center of a scattering lead disk (0.1 mm
+thick, 18 mm external diameter), at the C2 position (Fig. 2) for
+a modulated beam (CO, . . . C3:@3 cm; C4:@4 cm).
+100
+: a0 -*
+iz
+4 a--
+z .___________________-------------------- ____________ _
+A
+s/ 40.- -
+horizontal profile
+d B
+----- vertical profile
+20 -. \
+0 I
+0 4 a 12 16 20
+Distance from beam axis (mm)
+Fig. 9. Transverse dose distribution at the reference point without
+modulation measured with a diode (CO, . . . C2:@3 cm;
+C3,C4:@4 cm; C5:@3 cm): (A) horizontal profile; (B) vertical
+profile. The elliptical ring has a 0.1 mm thickness of lead and
+is located at the C2 position (Fig. 2).
+at the position of the scatterer. The selected scatterer is
+an elliptical foil, 0.1 mm thick of lead, with vertical main
+axis of 13 mm and horizontal axis of 20 mm. A central
+circular hole of 5 mm diameter is kept. The final transverse
+dose distributions in the horizontal and vertical
+planes, without modulation, are presented in Fig. 9. The
+sharp fall-off is due to reintroducing C5.
+The study has been systematically undertaken for the
+transverse, horizontal, and vertical dose distributions with
+or without modulation. The choice of the final parameters
+has been made to optimize the flatness, the dose rate, and
+the penumbra values.
+A final condition was to keep the transverse dose distribution
+characteristics in the useful irradiation field (radius
+15 mm), nearly independent of the modulator and range
+shifter, which is easily obtained if both are placed far
+upstream from the patient position. This solution is illustrated
+in Fig. 10.
+100
+0
+0 10 20 30 40 50 60 70
+Distance from beam axis (mm)
+Fig. 10. Transverse dose distribution at the reference point for
+different beam configurations, with only the collimators CO,
+. . . C2:@3 cm: (A) original vertical profile; (B) with only
+the elliptical scatterer; (C) two usual modulation conditions
+(modulation width: 11 mm; range shifter in lucite: 10 mm and
+30 mm). 
+1182 I. J. Radiation Oncology 0 Biology l Physics Volume 32, Number 4, I995
+The transverse scans obtained with diodes and radiological
+films present the same characteristics leading to
+the same lateral dose fall-off (90- 10%) of 2.6 mm, with
+no significant variations with depth. Due to the importance
+of the sensitive ionization chamber volume above
+the dimensions of the diode junction or the detection region
+of the film, the measurement of the lateral penumbra
+is larger, as shown in Fig. 11. For practical reasons, most
+of our initial relative transverse scan comparisons have
+been made with a ionization chamber.
+The flatness in the irradiation field is calculated as the
+deviation against the mean dose determined by (Dose,,,
+- Dose,,)/2 in the field defined by 0.8 X L (L: field
+width at 50% level of the dose distribution normalized at
+100% on central axis). In the “reference” modulated
+beam condition, the flatness measured with a diode is
+around 1%.
+The effect of the final scattering system on the depth
+dose curves is the same as that given by a lead foil 0.1
+mm thick. We noted no significant modification in the
+shape of the Bragg curve, but just a range shift of 0.8
+mm in water, equivalent to an energy loss of 0.5 MeV.
+As shown in Fig. 12, the range uniformity over the treatment
+field is not affected by the nonuniform absorption
+of the elliptical foil with central hole.
+When the modulator is added, the distal fall-off
+(90- 10%) increases slighty from 2.1 + 0.1 mm (1 standard
+deviation) for the original Bragg peak to 2.6 ? 0.2
+mm (1 standard deviation) for the spread-out Bragg peak.
+For a beam current of 300 nA before the graphite degrader,
+17 nA after the vacuum window, the dose rate at
+the reference point without the scatterer, the modulator,
+and the range-shifter is about 60 Gy/min at the phantom
+surface. The dose ratio between the entrance and the peak
+is 3.6. The loss in dose rate introduced by the scatterer
+4 60
+f
+2 40
++
+20
+0 . . . : . . . : . . . : . . . : .\-. ,
+-*._
+0 4 8 12 16 20
+Distance from beam axis (mm)
+Fig, 11. Transverse dose distribution at the reference point, in
+“reference” condition with different detectors (CO, . . . C2:@3
+cm; C3,C4:@4 cm; C5:@3 cm): (A) cylindrical ionization chamber
+0.1 cc; (B) diode lN4006.
+C2cm Relative dose (%)
+10
+30
+.9
+I
+50
+70
+E
+i 90 10
+5
+%
+8
+2
+z
+a
+Fig. 12. Dose distribution in depth, in the horizontal plane, for
+a modulated beam. The measurements are carried out with a
+diode in the water tank. The range uniformity over the treatment
+field is not affected by the nonuniform absorption of the elliptical
+foil with central hole.
+is 21% for an unmodulated beam at the reference point.
+A final dose rate of 18 Gy/min in the middle of the spreadout
+Bragg peak is obtained for the “reference” beam
+condition.
+CONCLUSION
+A systematic experimental method can easily be undertaken
+to obtain a passive scattering system, an elliptical
+ring shaped to be adapted to a particular beam emittance,
+for ophtalmological protontherapy. The optimization criteria
+are the Bragg curve (peak sharpness and maximal
+depth), the transverse flatness, the beam size, and the
+beam intensity loss. The main parameters used are the
+position, the shape, the thickness, and the internal and
+external sizes of the ring.
+With our experimental approach, a scatterer following
+the shape of the original beam cross-section (elliptical)
+has been experimentally obtained giving beam intensity
+losses of only 21%, and a flatness of 1% for a modulated
+beam of transverse section 3 1 mm (at the 50% dose level).
+The final transverse scan is symmetrical and independent
+of the modulator and the range-shifter.
+For larger fields, more complex solutions should be
+devised (e.g., double scattering system) including the calculation
+of the profile of the scatterer and an energy compensator
+(6). Such solutions are needed to keep the beam
+current as low as possible, avoiding unnecessary activation
+of components on the optical bench, as well as neutron
+production. For a complete optimization, the scattering
+system should also be adapted to the shape of each
+beam to get minimal losses. A calculation method taking
+into account symmetrical and asymmetrical beams is under
+development. 
+1.

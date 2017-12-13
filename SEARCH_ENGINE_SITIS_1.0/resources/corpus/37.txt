@@ -1,0 +1,96 @@
+bstract
+Introduction
+
+Ultrasound imaging is necessary for the care of urology patients, and urology residents are encouraged to learn ultrasound technique and interpretation. However, there is limited mandated education in this field. Currently the only ultrasound procedure considered an index case is transrectal ultrasound for prostate biopsy. We investigated the current use of nonprostate ultrasound in urological practice.
+
+Methods
+
+We reviewed ABU (American Board of Urology) certification and recertification logs of practicing urologists from 2012 to 2014. We obtained data for the codes 76700-76776 (kidney), 76870 (scrotal), 76999 (unlisted) and 93975-93981 (Doppler including penile). Codes 51798 (post-void residual) and 76950 (ultrasound for interstitial radiotherapy) were excluded from the study. We analyzed the results based on self-identified demographic information provided by the urologists.
+
+Results
+
+The practices of 2,427 urologists were reviewed and of these, 43% billed for at least 1 renal, scrotal or penile ultrasound. General and subspecialist urologists perform similar percentages of ultrasound studies, except for pediatrics (0% penile) and andrology (40% penile). Of those who reported on practice type (2,067) 82% self-identify as in private practice and performed more ultrasound studies than academic urologists, including renal 42% vs 23%, scrotal 33% vs 15% and penile 8% vs 6%, respectively. Men performed more nonprostate ultrasounds than women (44% vs 36%, p <0.001).
+
+Conclusions
+
+In addition to prostate ultrasound, renal and scrotal ultrasound is relevant to all urologists regardless of practice model or subspecialty. Graduating residents can expect to perform ultrasound examinations in their practices and, therefore, in addition to prostate ultrasound we should train residents in renal and scrotal ultrasound.
+
+Previous article in issueNext article in issue
+Key Words
+ultrasonographyurologyinternship and residency
+Abbreviations and Acronyms
+ABUAmerican Board of UrologyAUAAmerican Urological AssociationRRCResidency Review Committee
+Ultrasound imaging is important to the care of the urology patient. At urology office visits where imaging was ordered, ultrasound was the most commonly used imaging modality.1 It is a safe, efficient and painless method of evaluating a variety of urological problems.2,3 Given its relatively small size and ease of use, ultrasound is the ideal imaging technology for the urology office.4
+
+There has been considerable debate regarding the use of office ultrasound by urologists.5,6 Although some would describe this as a matter of scope of practice, the overt debate centers on the potential negative impact of self-referrals on patient care. On one hand, office ultrasound offers streamlined care at a single location where the patient can receive prompt diagnosis and treatment. Conversely, some have suggested that office ultrasound encourages self-referral which, in turn, results in overuse of imaging.7 Consequently, there have been numerous government regulations that attempt to limit self-referral in order to control overuse and keep costs down, particularly for advanced imaging (computerized tomography, magnetic resonance imaging, positron emission tomography).8 Moreover, studies show that radiologists also “self-refer” by suggesting further imaging studies that urologists thought were unnecessary.9
+
+Nevertheless, ultrasound remains vital to the armamentarium of the urologist and is being performed as an office procedure in many urological practices. As such, urologists must be familiar with ultrasound imaging and interpretation. Currently the Urology RRC of the ACGME (Accreditation Council for Graduate Medical Education) is evaluating the education and experience in ultrasound as part of urology residency education. At this time urology residents are encouraged to learn ultrasound technique and interpretation. However, there is limited mandated education in this field. To date, the only ultrasound procedure that is considered an “index” case is transrectal ultrasound for prostate biopsy.10 One factor for consideration by the Urology RRC might be the number of practicing urologists who are performing nonprostate ultrasound as part of their practice. If a large percentage of urologists is performing these procedures the RRC might consider a requirement for more training in this area than is currently mandated. One way to accurately determine the prevalence of nonprostate ultrasound use by the practicing urologist is to examine case logs submitted by urologists during the process of certification and recertification. Although it is possible that few practicing urologists actually perform the ultrasound themselves, if they bill for the procedure they are responsible for review of the ultrasound images for quality and they must personally interpret the images. Thus, determining the prevalence of billing for nonprostate ultrasound imaging might inform the Urology RRC about the need for education of urology residents in nonprostate ultrasound. We hypothesize that a large percentage of practicing urologists perform nonprostate ultrasound.
+
+Methods
+As part of the ABU certification and recertification process urologists are required to submit billing logs covering a 6 to 12-month period (the data are annualized). We reviewed de-identified billing logs of practicing urologists applying for certification and recertification from 2012 to 2014. Ultrasound specific CPT codes were obtained, including 76700-76776 (kidney), 76870 (scrotal), 76999 (unlisted) and 93975-93981 (Doppler including penile). Codes 51798 (post-void residual) and 76950 (ultrasound for interstitial radiotherapy) were excluded from analysis. Basic self-reported demographic information of urologists was also obtained from the ABU with full approval of the Board. In our analysis of office ultrasound performed by urologists we used gender (male/female), type of practice (academic, private, VA [Veterans Affairs], government or other), subspecialty and location (metropolitan area vs nonmetropolitan and geographic location within the U.S.). Data were analyzed using Minitab® 17 software, and presented as counts or percentages and 95% CIs where appropriate. Associations between nominal categorical variables were tested with the chi-square test or Fisher’s exact test if expected counts in any cell were less than 5, with significance at the 0.05 level.
+
+Results
+ABU certification and recertification logs of 2,427 practicing urologists were reviewed. Table 1 shows the self-reported demographics of this group. Percentages are representative of the number of respondents for each category. Overall 1,800 (74%) identify as general urologists and 328 (16%) as academic. Of the urologists 10% were female and 696 (38%) live in large metropolitan areas (population greater than 1 million).
+
+Table 1. Demographics of urologists certifying and recertifying
+
+No. (%)
+No. urologists:	2,427
+ Male	2,182 (90)
+ Female	245 (10)
+Practice area:	
+ Less than 100,000	302 (16)
+ 100,000–1,000,000	841 (45)
+ Greater than 1 million	696 (38)
+Practice type:	
+ Academic	328 (16)
+ Private	1,686 (82)
+Of all urologists 43% billed for at least 1 renal, scrotal or penile ultrasound (95% CI 41.4–45.4) and 57% performed only prostate ultrasound or no ultrasound. General and subspecialist urologists perform similar percentages of renal and scrotal ultrasound imaging (table 2). In contrast, penile ultrasound is more commonly performed by those with claimed subspecialization in andrology (40%) vs all other urologists (6.5%) (Fisher’s exact test p <0.001) and is not performed at all by pediatric urologists (table 2). Those in private practice performed significantly more nonprostate ultrasound examinations (47%) than those in academic practice (30%) and VA employed urologists (19%) (table 3, chi-square test p <0.001). Men performed more nonprostate ultrasound examinations than women (44% vs 36%, chi-square test p <0.001). In almost every category urologists certifying for the first time performed fewer ultrasound studies than those recertifying or maintaining certification (table 3, p <0.001, except for penile ultrasound, chi-square test p=0.005).
+
+Table 2. Use of ultrasound by urological subspecialty
+
+No.	Any Nonprostate Ultrasound (%)	Renal (%)	Scrotal (%)	Penile (%)	Prostate (%)
+General urology	1,800	44	38	31	7	86
+Oncology	204	33	28	20	4	81
+Endourology	150	42	40	27	3	79
+Female	145	50	43	33	10	70
+Andrology	47	62	40	36	40	83
+Pediatrics	63	35	29	13	0	11
+Overall		43	38	29	7	82
+Table 3. Percentage of urologists performing ultrasound stratified by organ system
+
+No.	Any Nonprostate Ultrasound (%)	Renal (%)	Scrotal (%)	Penile (%)	Prostate (%)
+Practice type:						
+ Academic	328	30	23	15	6	67
+ Private	1,686	47	42	33	8	86
+Gender:						
+ Male	2,182	44	38	30	8	84
+ Female	245	36	31	20	4	64
+Practice area (population):						
+ Less than 100,000	302	36	30	23	5	86
+ 100,000–1,000,000	841	45	41	29	8	84
+ Greater than 1 million	696	45	39	32	8	77
+Certification cycle:						
+ Certifying	759	36	29	21	5	76
+ Maintaining/recertifying	1,668	47	41	33	8	85
+In the United States geographic information was only available for 1,674 urologists performing nonprostate ultrasound. There was a significant difference in the number of nonprostate ultrasound studies performed by geographic location, including 57% of 293 physicians in the Northeast, 56% of 382 in the Southeast, 46% of 190 in the Mid-Atlantic, 43% of 296 in the West, 39% of 231 physicians in the South Central U.S. and 35% of 282 in the North Central U.S. (p <0.001).
+
+Discussion
+Overall 43% of practicing urologists perform in-office nonprostate ultrasound. To our knowledge the number of urologists performing nonprostate ultrasound has not previously been reported. Interestingly, although 43% performed nonprostate ultrasound, according to the AUA 2014 Census 77% of practicing urologists have access to in-office ultrasound other than transrectal ultrasound.11 The literature strongly supports the use of office ultrasound by the urologist as it has been shown to be safe, efficient and cost-effective.2,3 More importantly, patients are satisfied with in-office ultrasound as it obviates the need for a trip to a different site, and allows for quick diagnosis and treatment.12 As previously noted, radiologists and government officials have expressed concerns that in-office ultrasound will lead to excessive use based on self-referral and financial incentives.7 However, the same concern has been expressed for radiologists, who in their report often suggest followup studies or studies with other imaging modalities.9 In fact, when urologists reviewed imaging there was a significant reduction in the use of followup imaging compared to radiologists’ recommendations for followup imaging.9 In addition, studies have shown that many services rendered in the clinic setting are more cost-effective than in a hospital based setting.13
+
+Radiologists often suggest that urologists are not trained to perform ultrasound examinations and, therefore, should not perform them. Yet our analysis shows that urologists are performing a significant number of nonprostate ultrasounds, particularly renal and scrotal ultrasound imaging. A previous study suggested that a focused ultrasound examination instruction course provides enough education for proficiency in office ultrasound.12 In fact, more than 600 urologists have completed ultrasound courses offered by the AUA since 2011.14 Experience likely also has an important role, and in October 2015 the American Institute of Ultrasound in Medicine and the AUA released an updated statement on the training guidelines for physicians interpreting and performing urological ultrasound.4 This statement proposes that 100 is the minimum number needed to perform to obtain experience and proficiency in urological ultrasound.4 Currently the ACGME does not have a minimum requirement for nonprostate ultrasound studies and only requires that the training program provide a minimum of 25 prostate ultrasounds per resident.10
+
+General and subspecialist urologists perform similar numbers of renal and scrotal ultrasound examinations. In contrast, those specializing in andrology perform significantly more penile ultrasounds than all other urologists. This is not surprising, since andrologists often see patients with penile disorders (erectile dysfunction or Peyronie’s disease). Indeed, the newly published AUA guideline on the treatment of Peyronie’s disease states, “clinicians should perform an in-office intracavernosal injection test with or without duplex Doppler ultrasound prior to invasive intervention.”15 Given the recent trends in the treatment of Peyronie’s disease it is likely that andrologists will continue to perform the most procedures for Peyronie’s disease and, thus, the most penile ultrasounds. Given our finding that only 6.5% of nonandrologists perform penile ultrasound, perhaps urology residents do not need training in this area. In contrast, it would be an important area of training in andrology fellowships.
+
+We found that private practice urologists performed more nonprostate ultrasound examinations than their academic colleagues. This had not been studied previously but a study of pediatric urology relative value units showed that private practice pediatric urologists generated more relative value units than academic pediatric urologists.16 This finding could be the result of the ownership model in private practice, or perhaps because academic urologists spend more of their time on teaching or research and, therefore, less time on clinical care. On the other hand, the explanation may be that institutional policies limit capital purchases in academic practice, or a policy that limits duplication of services and encourages ultrasound be performed only by radiologists. Nevertheless, academic urologists still perform a significant number of nonprostate ultrasound studies, which suggests that training in these procedures is warranted for academic and private urologists.
+
+Interestingly, urologists certifying during the study period performed fewer ultrasound examinations overall compared to those recertifying or maintaining certification. One explanation may be that the paucity of ultrasound training for residents makes them less proficient and, therefore, they perform fewer ultrasound examinations. As urologists obtain more experience with ultrasound, the number of ultrasound studies performed increases. These data support our conclusion that residents should receive formal training in nonprostate ultrasound so they are better equipped at the outset of their careers to perform and interpret nonprostate ultrasound.
+
+Notably there was a statistically significant gender difference with women performing fewer nonprostate ultrasounds than men. However, women accounted for only 10% of the group and according to the AUA 2014 Census only 7.7% of all practicing urologists are female.11 The small sample size may limit interpretation of this finding.17 A survey of the characteristics of women urologists showed that women are younger than their male counterparts and are more likely to work in urban areas and academic centers.17 In addition, only 20% of women stated that they worked part-time,17 and the 2015 AUA Census revealed that men and women work the same median number of hours per week (55).18
+
+Our study confirmed these demographics and also showed that women were more likely to specialize in Female Pelvic Medicine and Reconstructive Surgery or Pediatric Urology than in general urology. Many of these factors are associated with lower numbers of nonprostate ultrasound. Therefore, we performed a multivariable analysis of these factors and found that gender on its own is not a significant factor in the number of nonprostate ultrasound examinations performed (data not shown). It will be interesting to follow this issue over time, as in the 2016 Urology Match women made up 21% of the incoming urology residency class and in the future women will make up an increasing percentage of the urological workforce.19
+
+A considerable limitation of this study is the self-reporting of demographic data. Not only is there potential for inaccuracy, the methodology used by the ABU resulted in incomplete data collection for some categories (eg geography). In addition, it should be noted that our sample was limited to 2,427 of the estimated 10,000 practicing urologists. Other data sets (eg Medicare Provider Utilization and Payment Data: Physician and Other Supplier Public Use File) provide a wider sample of urologists but are limited in other ways (eg the Medicare data only apply to Medicare beneficiaries, and will necessarily miss many renal and especially testicular and penile ultrasounds). Nonetheless, the overall data remain compelling. Almost half of the urological community reports billing for nonprostate ultrasound. Since inadequate training is a reason to suggest that urologists should not perform in-office ultrasound, better residency training in this area would be prudent. Similarly, initial training for the practicing urologist as well as continuing education in this area seem relevant.
+
+Conclusion
+Ultrasound is an important part of urological practice, regardless of practice model or subspecialty. A significant number of practicing urologists are performing and interpreting renal and scrotal ultrasound examinations. Thus, graduating residents can expect to perform these nonprostate ultrasounds in their practices. Residency training should include formal education on performing and interpreting renal and scrotal ultrasound studies.

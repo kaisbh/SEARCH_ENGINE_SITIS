@@ -1,0 +1,109 @@
+Abstract
+Haematopoietic stem cell transplants are an important treatment for haematological malignancies. With increasing efficacy of treatment, it has become important to provide comprehensive long-term follow-up by experienced specialists in a multidisciplinary setting. This article gives an overview of the gynaecological implications of haematopoietic stem cell transplants, including appropriate pre-treatment counselling, the development of menopausal symptoms, bone loss, genital graft-versus-host disease and secondary genital malignancies. The evidence surrounding the occurrence, symptoms and management of these complications is outlined based on current clinical guidelines where possible. Although high-level data regarding this specific patient population are generally lacking, observational data and data from other immunocompromised populations are discussed. This article provides a clear and clinically focused framework for care for clinicians involved in the gynaecological management of these patients and outlines areas for further research to improve patient care.
+
+Previous article in issueNext article in issue
+Keywords
+MenopausePost-transplantGynaecologyGuidelineHormone therapy
+1. Introduction
+Haematopoietic stem cell transplants (HSCT) are a vital treatment in the management of haematological malignancies. Earlier detection of cancers and increasing efficacy of treatment is resulting in longer survival for patients, emphasising the importance of comprehensive, multidisciplinary, follow-up with experienced clinicians. This article provides an overview of routine gynaecological care for patients undergoing HSCT. It provides a clinical checklist for clinicians to consider and identifies areas for further research in the HSCT-specific population.
+
+2. Pre-transplant gynaecological care
+Prior to pre-transplant chemotherapy HSCT patients should have a baseline gynaecological review with a specialist experienced in post-transplant gynaecological care. This review should involve counselling regarding the likely gynaecological implications of therapy for the patient, including menopausal symptoms, genital graft-versus-host-disease (GVHD), fertility preservation and the importance of pregnancy prevention during and for six months after treatment [1,2].
+
+A thorough history and examination should include menstrual and sexual history. This will guide management options for both contraception and potential thrombocytopaenia-associated menorrhagia. Baseline gonadal function should be measured. Conditions that can be exacerbated by immunosuppression should be identified, including herpes simplex, cervical dysplasia and anogenital condylomata.
+
+A breast and pelvic examination should be undertaken. Given the increased risk of solid organ tumours post-treatment, any concern on examination should be investigated prior to transplant. Preventative screening may include pregnancy testing, cervical screening and HPV testing, testing for sexually transmitted infections and a mammogram if appropriate [1].
+
+These patients are best managed as part of a team including the oncologist and general practitioner.
+
+3. Menopausal symptoms
+Primary gonadal failure in women is almost inevitable following high dose chemotherapy and radiotherapy required for SCT [3–6]. Current guidelines suggest annual assessment of gonadal function in women post-SCT [4]. Given the likelihood of gonadal failure, clinically this may be more appropriate for women with fertility goals and not receiving hormone replacement.
+
+In women who are premenopausal prior to SCT, up to 90% will report vasomotor symptoms (hot flushes and night sweats) and around 50% will report symptoms of vulvovaginal atrophy (vaginal dryness and dyspareunia) [3]. Mood disturbances including anxiety, depression and irritability are common in natural menopause but may be more prevalent in this population, reported by around 54% [3].
+
+Clinicians should establish which of these symptoms are problematic for women and whether she is a candidate for estrogen containing menopausal hormone therapy (MHT). Whilst MHT has been shown to be the most effective treatment for vasomotor symptoms [7,8], there is no high-level evidence from this specific population. However, observational data demonstrates significant efficacy with improved vasomotor and vulvovaginal symptoms as well as sleep and mood disturbances. Over two thirds of women report improved vasomotor symptoms in less than two weeks and over 50% of women report improved vulvovaginal symptoms in five weeks [3].
+
+MHT should be considered for symptomatic women post-SCT. It is advised to commence therapy at least 3–6 months after treatment cessation to ensure patients are medically stable [1]. Dosage adjustment should aim for the lowest dose of MHT that alleviates symptoms.
+
+The route of MHT administration will depend on individual risk factors and patient preference. There are several considerations in the SCT population. Oral preparations are associated with an increased risk of venous thromboembolism (VTE) [9–12]. Furthermore, treatment-associated mucositis may impair their absorption and pre-existing liver impairment from chemotherapy or GVHD may be exacerbated. However, the application and absorption of transdermal preparations may be impaired if there are cutaneous changes following transplant treatment. It is uncertain whether oral or transdermal preparations are preferable in this population and management should be individualized.
+
+For younger women, and the few who remain premenopausal after SCT, the oral contraceptive pill (OCP) may be a more familiar and acceptable therapy. However, the OCP delivers higher doses of sex steroids than HT and this may be associated with a higher incidence of complications such as VTE.
+
+Contraindications to MHT following SCT might include concurrent estrogen-sensitive tumours, active liver disease, unacceptable VTE risk or patient preference. In these circumstances, non-hormonal treatments for vasomotor symptoms should be considered.
+
+Sexual function and enjoyment should be addressed post-SCT. Consideration should be given to vulvovaginal symptoms and the need for vaginal estradiol therapy. Furthermore, multidisciplinary care including psychology and sexual counselling should be offered. Current guidelines advise screening for mood and sexual concerns at six months and one year post-transplant, followed by annual screening [4].
+
+4. Bone health
+High-level studies assessing the prevalence of osteopaenia and osteoporosis in patients post-SCT are lacking. However, observational data suggests bone loss post-SCT may be as high as 75% of patients at the lumbar spine and almost 60% at the femoral neck [1,13]. The cause of bone loss in this population is multifactorial, involving chemotherapeutic agents, irradiation, corticosteroid therapy and hypogonadism as well as lifestyle factors such as inactivity [14].
+
+Current guidelines recommend all SCT patients should commence calcium and vitamin D supplementation and undertake regular weight-bearing exercise. MHT should be considered for bone preservation if not outweighed by other individual risk factors [15,16]. Whilst bisphosphonate therapy has been shown to reduce fracture risk in osteoporotic patients, it is not considered first line therapy in fracture prevention [4,17].
+
+Bone densitometry should be performed 12 months after treatment for adult women. Ongoing surveillance will depend on deficits and to monitor response to bone-preservation therapy [4].
+
+5. Genital GVHD
+The prevalence of genital GVHD post-SCT is unclear, which may reflect both patients’ reluctance to discuss genital symptoms and practitioners’ failure to inquire. There is evidence to suggest the occurrence may be approximately 50% of HSCT patients [18].
+
+Genital GVHD may present with a range of symptoms including genital discomfort, itch, paraesthesia, pain, dryness and dyspareunia. Most commonly, genital GVHD is preceded by cutaneous, oral, ocular or gastrointestinal disease. However, it is unclear whether non-genital GVHD is a risk factor for genital disease and whether severity of disease is comparable between organs [19].
+
+Several grading systems have been developed, which utilise signs and symptoms of disease to assist in the diagnosis and staging of GVHD [20,21]. Examination may demonstrate features consistent with vulvovaginal atrophy, from which GVHD may be difficult to differentiate. Mild disease may be evidenced by erythema, oedema, fissures or erosions. There may be evidence of sclerosis or scarring and severe disease may be demonstrated by vaginal stenosis if untreated.
+
+The role of biopsy in diagnosis is unclear. Some argue for routine biopsy to confirm diagnosis [22]. Others advise confirmatory biopsy when GVHD is limited to the genital area [21]. Alternatively, a trial of management and subsequent biopsy of non-responsive disease [23].
+
+Management of genital GVHD focuses on early recognition and specialist treatment with annual gynaecological examination recommended post-SCT [4,19,23]. Clinicians should encourage non-pharmacological management of genital disease by emphasising good skin care and avoiding the use of soaps and other irritants. Topical pharmacological agents can be added in a stepwise manner including vaginal estrogens, corticosteroids and immunosuppressive therapy such as cyclosporine [4,19,23]. Pharmacological treatment should be combined with gentle and frequent vaginal dilation through manual dilators or sexual intercourse. Surgical management may be considered for severe cases not responding to treatment.
+
+6. Genital tract malignancies
+The risk of secondary solid tumours is increased following-SCT, including vulvovaginal, cervical, and endometrial malignancies [4,24–26]. In particular, immunocompromised patients post-SCT are more likely to develop HPV-related disease [25,27]; in one study up to one third of HSCT survivors were affected by HPV-related cervical dysplasia [25].
+
+Women who have not yet received human papilloma virus (HPV) vaccination should receive this post-treatment. Whilst there is no data on optimal time for administration or dose intervals to develop immune response [28,29], current guidelines recommend vaccination commencing 12 months post-treatment [4].
+
+It is unclear whether previously vaccinated women should be re-vaccinated. Loss of immunity is recognised post-HSCT [30]. However, the specific effect on HPV-immunity, and potential need for booster immunisation, has not been demonstrated. Whilst there is no data regarding the efficacy or safety of HPV vaccination in the HSCT-specific population [28], the vaccination is not a live vaccine and data from other immunocompromised patient groups, including HIV, suggest no acute safety concerns [31].
+
+Annual cervical screening post-transplant is recommended with timely colposcopic examination and biopsy of abnormalities [1,4,23].
+
+7. Practice points
+Routine gynaecological care in the HSCT patient should be multidisciplinary, involving experienced specialists. Comprehensive care should include the following:
+•
+Pre-transplant counselling of the likely gynaecological implications of therapy, including menopausal symptoms.
+
+•
+Thorough gynaecological history and examination to identify potential issues of concern.
+
+•
+MHT should be considered for menopausal symptoms. Individual risk factors will determine its use, route of administration and duration of therapy.
+
+•
+Bone densitometry commencing 12 months after treatment. Prevention of bone loss through calcium and vitamin D, weight-bearing exercise and MHT should be discussed.
+
+•
+Annual cervical screening and HPV vaccination should commence 12 months post-transplant.
+
+•
+Annual gynaecological examination assessing for vulvovaginal atrophy and GVHD should occur. Clinicians should enquire about sexual function and enjoyment.
+
+
+8. Research agenda
+•
+Further information is needed regarding the safe length of MHT treatment in HSCT patients. How do we interpret MHT safety data in this population?
+
+•
+The relationship between GVHD across different organ systems needs to be explored. In particular, does non-genital GVHD predict risk for genital disease?
+
+•
+The safety and efficacy of HPV vaccination in the HSCT population should be examined in order to determine optimal vaccination timing and dose intervals.
+
+•
+High-level studies examining the role of bisphosphonate therapy in HSCT patients should be undertaken to clarify their role in fracture prevention.
+
+
+Contributors
+Adrafted the initial version of the manuscript and critically revised the manuscript.
+
+MH critically revised the manuscript.
+
+Both authors saw and approved the final version.
+
+Conflict of interest
+The authors declare that They have no conflict of interest.
+
+Funding
+This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.

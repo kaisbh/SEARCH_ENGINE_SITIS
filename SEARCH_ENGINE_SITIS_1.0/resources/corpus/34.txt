@@ -1,0 +1,236 @@
+Status of Private Rheumatology in SpainEstado de la reumatología privada en España?
+Author links open overlay panelBeatrizYoldi MuñozaAntonioGómez CentenobcJosé VicenteMoreno Muelasd
+Show more
+https://doi.org/10.1016/j.reumae.2016.08.003Get rights and content
+Refers to
+Beatriz Yoldi Muñoz, Antonio Gómez Centeno, José Vicente Moreno Muelas
+Estado de la reumatología privada en España
+Reumatología Clínica, Volume 13, Issue 6, November–December 2017, Pages 313-317
+PDF (534KB)
+Abstract
+Introduction
+
+Rheumatologic care is offered by the National Health System in Spain. However, more than a quarter of health spending is carried out in private medicine. Currently, there are no data about the number of rheumatologists with private activity in Spain.
+
+Objectives
+
+To evaluate the number of rheumatologists with private activity in Spain and to describe the profile and location of these professionals.
+
+Material and methods
+
+A survey was developed and sent from the SER Commission on Private Practice to all SER active members. Data collection ends in December 2014. A descriptive statistical analysis and comparison of results was done.
+
+Results
+
+759 answers from a total of 980 surveys sent (77.45%) were obtained; 38% of Spanish rheumatologists have private activity; 13% exclusively private practice and 25% private practice shared with his or her public activity. The private practice rheumatologist profile is: male, 49 years old with 19 years of experience after finishing the specialty and with a working day of 42 h per week. There is a clear predominance of private practice in the Autonomous Community of Catalonia with 28% of the total, followed by Madrid 18%, Andalusia 12% and Valencia 8%.
+
+Conclusions
+
+38% of Spanish rheumatologists are working in private practice. The profile of professionals working in private practice is different from that of those who work exclusively in public health.
+
+Private rheumatology is located in all regions, although most private rheumatologists are located in the regions of Catalonia, Madrid, Valencia and Andalusia, representing more than 50% of the total.
+
+Resumen
+Introducción
+
+El Sistema Nacional de Salud ofrece en España la atención reumatológica. Más de una cuarta parte del gasto sanitario se realiza en medicina privada. En la actualidad no existen datos sobre el número de reumatólogos con actividad privada en España.
+
+Objetivos
+
+Evaluar los reumatólogos con actividad privada en España describiendo su perfil y localización.
+
+Material y métodos
+
+Desde la Comisión de Práctica Privada de la SER, se elaboró una encuesta que se envió a todos los socios reumatólogos en activo. La recogida de datos finalizó en diciembre del 2014.
+
+Se analizaron los datos mediante estadística descriptiva y se realizó una comparación de los resultados.
+
+Resultados
+
+Se obtuvieron 759 respuestas de un total de 980 encuestas enviadas (77,45%). El 38% de los reumatólogos españoles tienen actividad privada; el 13% en exclusiva (privada) y el 25% compartida con su actividad pública (mixta). El perfil del reumatólogo que trabaja en la medicina privada es: género masculino, 49 años de edad con 19 años de experiencia, su jornada laboral es de 42 h semanales. Existe un claro predominio de la práctica privada en la CC.AA. de Cataluña (28% del total), seguida por las CC.AA. de Madrid con un 18%, Andalucía con un 12% y Valencia con un 8%.
+
+Conclusiones
+
+El 38% de los reumatólogos españoles trabajan en la medicina privada. El perfil profesional en reumatología privada es distinto del que trabaja exclusivamente en la sanidad pública. Existe reumatología privada en todas las CC.AA, aunque la mayoría de reumatólogos privados se localizan en las CC.AA. de Cataluña, Madrid, Valenciana y Andalucía, representando más del 50% del total.
+
+Previous article in issueNext article in issue
+Keywords
+Private practicePrivate rheumatologyRheumatology
+Palabras clave
+Medicina privadaReumatología privadaReumatología
+Introduction
+Rheumatology is the specialty that studies and treats medical diseases of the musculoskeletal system. Its importance is validated by studies that establish the worldwide prevalence of these diseases as 1 of the 3 major causes of morbidity and mortality, and the fact that they affect 30% of the people in the world.1
+
+Rheumatology care in Spain is vertebrated within specialized care of the Spanish Health System (SHS), protected by the Spanish constitution of 1978 in articles 43 and 49, and regulated by the General Health Care Law 14/1986, by the General Social Security Law, and Law 16/2003 on the Cohesion and Quality of the SHS.2
+
+The SHS, as in the majority of the European countries, is mixed (it adheres to the Scandinavian model and the British Beveridge), in which public and private health care coexist and collaborate.
+
+Public and private health care are related in 4 distinct ways4:
+
+Contracts: in which health services are offered by employing means others than those provided by the health administration. Examples of contracts include outsourcing of diagnostic or therapeutic tests and procedures, and others involving certain health care provisions such as respiratory therapy, dialysis, rehabilitation, speech therapy, etc.
+
+Agreements: in which a privately managed center is fully integrated into the public hospital network.
+
+Concessions: in which the private sector administers the health care service in accordance with its own criteria. There are 2 models of concessions: (1) the private finance initiative (PFI) model, in which the construction of the infrastructure and the maintenance of nonclinical services are financed by private concession (to banks, construction companies and insurance companies); and (2) the public–private partnership (PPP) model, in which the concession includes clinical health care services.
+
+In 2013, the total health care cost in Spain was €93,048 million, which represents 8.9% of the gross domestic product (GDP). This includes €26.527 million (2.5% of the GDP) that corresponded to private health costs, that is, 28.5% of the health care costs of Spain originate in the private sector.5
+
+Private health care, or the private health market, is health care provided by entities that do not belong to the public health system. They are private companies that are sustained by the direct payment of the citizens for their utilization. This payment can be made either without intermediaries (direct payment of the resources utilized) or by subscribing to health insurance. In 2015, Spain had a total of 7.4 million private policyholders (after a gradual increase in the number since 2011, a rise that was most marked between 2014 and 2015, for a growth of 1.5%)5 distributed into 3 large groups of health care insurance holders: government employees, who received provision via insurance carriers MUFACE (civil service mutual insurance society), MUGEJU (social security for justice administration personnel) and ISFAS (social institute of the armed forces), which represented 22% of private services; 35% comprehends individuals with collective insurance through their employers; and the remaining 43% comprises those who had individual policies.6
+
+Although the SHS provides universal public coverage for musculoskeletal diseases, a review of private health costs revealed that more than a fourth of requests for health care corresponded to the private medical sector. At this time, we do not know how many Spanish rheumatologists are working in private medicine, either exclusively or combining public service with private practice. Therefore, we proposed conducting this study with the primary objective of evaluating, for the first time, the number of rheumatologists practicing in private rheumatology in Spain. As secondary objectives, we proposed to describe the characteristics (profiles) of the professionals working in private practices: basically their sex, age, years of experience, working schedule, type of center in which they worked—full-time or part-time work in public health—and their geographic distribution.
+
+Material and Methods
+The Commission on Private Practice of the Spanish Society of Rheumatology (SER) drafted a survey requesting participants to provide information on the following variables: age, sex, years working in the specialty, type of practice, hours worked per week in both the public and private sectors, place of work, type of center and Spanish province in which they worked.
+
+Types of Practice
+
+An exclusively private practice (private) was considered to be that in which the professionals worked exclusively in a private medical center or worked freelance, with no contract with the public administrations.
+
+Mixed private practice (mixed) was considered to refer to rheumatologists who worked in both the public and private sectors regardless of which of the 2 was predominant.
+
+Exclusively public practice (public) was considered to be that in which professionals worked exclusively in public institutions.
+
+Type of Workplace
+
+Workplaces were divided into teaching hospitals, private teaching hospitals, general hospitals (public), regional hospitals (public), private hospitals and private clinics (private clinics included shared private medical centers that did not have facilities for the admission of inpatients).
+
+The survey was sent by e-mail to all the members of the SER who had the following profiles: rheumatologist practicing in Spain who had an address for e-mail contact. Contact data were obtained from the SER database which includes 1618 members, 1090 of whom were practicing (81 in training) and engaged in their professional activity in Spain.
+
+The survey was accompanied by an explanatory letter that detailed the motive and objective of the inquiry, and that the response of the addressee would be taken as implicit consent to participate.
+
+We had no contact data for 110 members who, thus, were not included in the sample. As of September 2014, we had received 980 surveys. The members who did not respond within the following 2 months were contacted by a telesales operator who invited them to complete the survey by telephone. Data collection was ended at the end of December 2014.
+
+The results are expressed as total numbers and percentages (%) in the case of categorical variables, and means (m) and standard deviation (SD)—presented as m (SD)—in that of continuous variables. In the study of the ages of the participants, they were stratified by quartiles, and the fourth quartile was, in turn, divided between those whose age was less than or equal to 65 years (retirement age in public institutions) and those whose age was more than 65 years.
+
+The comparison of the categorical variables was done using Student's t test. The comparison of the continuous variables was performed with the chi-square test.
+
+Differences with a P value <.05 were considered to be significant.
+
+Results
+During the 4 months that the survey was being carried out, from September to December 2014, we received 759 responses to 980 surveys sent, for a rate of participation of 77.45%.
+
+The descriptive profile of the participants in the survey was as follows: sex (men/women) 45%/55%, age (m [SD]) 46 (11) years and time since they had finished their residency 17 (11) years.
+
+It is important to point out that the proportion of men-to-women has varied over time and, upon dividing the age of participants in the survey by quartiles, in the first quartile (age =36 years), women represented 73% of the sample; in the second quartile (37–45 years), 67%; in the third quartile (46–55 years), 48%; and in the fourth quartile (>65 years), 28% (P < .05). When we divided the fourth quartile in terms of =65 years and >65 years, this difference was even greater, as the proportion of women between 56 and 65 years was 31%, and in those over the age of 65 years it was 15% (Fig. 1).
+
+Variation in the genders according to age quartiles
+Download high-res image (138KB)Download full-size image
+Fig. 1. Variation in the genders according to age quartiles. The fourth quartile was divided into <65 years and =65 years of age. The right-hand column shows the overall percentages.
+
+In all, 716 of the 759 responses obtained provided information on the type of work, which enabled us to analyze this aspect.
+
+The analysis of the type of work showed the following results: 274 (38.2%) of the responders worked in private medicine, either exclusively (private) in the case of 93 (12.9%) or dividing their time between the public and private sector (mixed) in the remaining 181 (25.3%), whereas 442 (61.7%) were engaged in rheumatology only in the public sector (public).
+
+The percentage of rheumatologists working in a private practice increased as the professionals got older. In the first quartile (age =36 years), only 25% were in a private practice (either private or mixed); between 37 and 45 years, the percentage increased to 32%; between 46 years and 55 years it was 42%; and in rheumatologists over 55 years of age, it was 53%. When we divided this fourth quartile as we did above, we observed that from 55 to 65 years, 59% worked in the private sector, a percentage that increased to 76% in those over 65 years of age (Fig. 2).
+
+Percentages of rheumatologists in the public, private and mixed sectors…
+Download high-res image (135KB)Download full-size image
+Fig. 2. Percentages of rheumatologists in the public, private and mixed sectors according to age quartiles. The fourth quartile was divided into <65 years and =65 years of age. The right-hand column shows the overall percentages. MIX, mixed; PRIV, private; PUB, public.
+
+The descriptive profile of the rheumatologists that worked in private practices was as follows: sex (men/women) 56%/44%, with an age of 49 (11) years, with 19 (11) years of experience after finishing their residency and a working day of 42 (12) hours a week.
+
+With respect to the place of work: 50% of the rheumatologists who worked exclusively in the private sector were working in hospitals (14% in private teaching hospitals, 36% in private hospitals), and the other 50% were engaged in private clinics (including specialist centers). Among the rheumatologists in mixed practice, 34% worked in hospitals (1% in private teaching hospitals, 33% in private hospitals) and 66% in private clinics.
+
+In the analysis of the geographic distribution according to the Spanish autonomous communities (AC), while there were rheumatologists in private practices in nearly all of the AC (we had no access to data from the Chartered Community of Navarre), the distribution was very heterogeneous. There was a concentration in Catalonia with respect to the remaining communities. Rheumatologists working in the private sector (private and mixed) in Catalonia represented 28.1% of the total in Spain. That AC was followed by the Community of Madrid with 18.3% and Andalusia with 11.7%. These 3 AC were accountable for more than half of the rheumatologists in private practice in Spain (Table 1).
+
+Table 1. Number of Rheumatologists Working in Private Medicine (Private and Mixed) by Spanish Autonomic Community and Percentage of the Total.
+
+Autonomic community	No. of rheumatologists	Percentage (%)
+Catalonia	77	28.10
+Community of Madrid	50	18.25
+Andalusia	32	11.68
+Valencian Community	23	8.39
+Galicia	18	6.57
+Canary Islands	18	6.57
+Castile and León	12	4.38
+Basque Country	12	4.38
+Aragon	8	2.92
+Castile-La Mancha	7	2.55
+Principality of Asturias	5	1.82
+Region of Murcia	3	1.09
+Balearic Islands	2	0.73
+Extremadura	2	0.73
+Cantabria	2	0.73
+La Rioja	1	0.36
+Melilla	1	0.36
+Ceuta	1	0.36
+Total	274	100.00
+When we focused only on those working exclusively in the private sector, Catalonia and Madrid concentrated 23.7% each, followed by Andalusia with 17.2% and, at a great distance, we found Galicia with 9.7%.
+
+In mixed care, the panorama was similar: Catalonia accounted for 30.4%, followed by Madrid with 15.5%, the Valencian Community with 9.9% and Andalusia with 8.9%.
+
+When we compared the profile of the rheumatologists that work in private practices with that of those engaged in the public sector, we observed a series of differences that are shown in Table 2.
+
+Table 2. Profiles of the Rheumatologists Working in the Public, Private or Mixed Sector.
+
+Private	Mixed	Public	P
+Sex M/F, %	53/47	56/44	39/61	<.05a
+Age in years, mean (SD)	50 (13)	48 (10)	44 (11)	<.05a
+Time elapses since their residency, mean (SD)	19 (14)	17 (10)	17 (10)	NS
+Working day	38 (15)	44 (10)	40 (11)	<.05b
+a
+Difference between the public sector and the remainder.
+
+b
+Difference between the mixed sector and the remainder.
+
+Among the most notable differences, we should mention the inversion in the ratio of men to women in the exclusively public sector and private practice. There was also evidence of a significant difference in age, although there were no differences in the time elapsed since the residency of these professionals.
+
+There were no significant differences in the working day of the rheumatologists engaged in the private or public sector, although there was a difference between the latter and those in a mixed setting (in which, logically, the public and private practice were combined).
+
+In the attempt to explain the differences observed in the ages of the 3 groups, those of the participants were stratified by quartiles, as was described in the material and methods section.
+
+The age at which the participants were incorporated into the private practice varied according to the sex. The proportion of men engaged in the private sector was around 40% during the first 3 age quartiles, and was seen to increase in the fourth quartile, especially among those over the age of 65 years (51% between 56 and 65 years [n = 82] and 83% of those over the age of 65 [n = 24]). In women, there was a progressive increase from the proportion of those working in the private sector as the professionals got older, which was 20% at the age of =36 years, 28% between 37 and 45 years; 42% between 46 and 55 years and 45% between 56 and 65 years (n = 40); the proportion was lower than 40% in those over 65 years of age, although in that age range, the total number was particularly low (n = 5).
+
+Discussion
+We present our findings in the study of private practice in rheumatology in Spain carried out by the Commission of Private Practice of the SER.
+
+This is the first work in which the number of rheumatologists working in the private sector in Spain was determined.
+
+Previous reports have attempted to quantify rheumatology care in Spain7,8 and in the different AC,9,10 but those studies focused exclusively on public health care and either did not deal with private practice or mentioned only indirect references.
+
+The first consideration to be taken into account in undertaking this study was whether the population involved was suitable in terms of the results we sought.
+
+As a population, we chose that of rheumatologists who were members of the SER and were practicing rheumatology in Spain. A previous study had analyzed the professional situation of rheumatologists trained during the 1990s. It demonstrated that a great majority of rheumatologists (88.9%) were full members of the SER.8 At the present time, there was no nationwide registry of specialists, which would have enabled us to identify all of the rheumatologists practicing in Spain. Thus, we believe that the database we utilized is the most representative currently available at this moment.
+
+The second point that confers validity to the results obtained is the rate of responses to the survey received. We identified a total of 1090 rheumatologists currently practicing in Spain. In all, 110 (10%) did not provide an e-mail address in the SER registry, and we decided to exclude them from the sample. We found no differences among the participants in terms of sex or age and those who were excluded was because they had no contact data. We sent a total of 980 surveys and had a total of 759 responses, which represents 77.5% of the members who received the survey and 69.6% of the identified members. Thus, we believe that the results obtained are representative of the population studied. They high rate of responses that we received should be pointed out, since in similar surveys carried out in other countries, the rate of response was much lower.11–13
+
+With respect to the number of rheumatologists working in private practices, our study demonstrates that somewhat more than 38% of Spanish rheumatologists are engaged in the private sector, either exclusively (13%) or partially (25%). Until now, no studies had determined the percentage of rheumatologists involved in private medicine. Perhaps the study that came closest to accomplishing that objective was that of Alonso Ruiz et al.,8 who evaluated dedication of trained rheumatologists between 1990 and 1999, and showed that 15% were working in the private sector. That percentage is very close to the 13% that reported in our survey that they were engaged exclusively in private practices. However, using their approach, Alonso Ruiz et al. did not include rheumatologists in the mixed setting. In studies focusing on the level in the AC,9,10,14 data were obtained on rheumatologists in the public sector, but those working in private health care were not mentioned.
+
+Taking into account that, as we commented in the introduction, 28% of health care spending in Spain in 2013 was destined to the private sector.5 It seems plausible that up to 38% of the rheumatologists were working—either exclusively (private) or partially (mixed)—in private health care. This figure shows a greater approximation to reality than that reported in the above cited articles. We did not compare our results with those of our neighboring countries because of the obstacles, mainly due to the differences between the diverse health systems existing in each of those countries.3
+
+With respect to the distribution by age and sex, it is necessary to point out the differences observed depending on the type of work carried out in each group.
+
+In the sample surveyed for this study, the participation of women predominated (55%), very close to the finding reported by Alonso Ruiz et al. (53.3).8 However, when we considered the group of professionals working in private medicine, the ratio of men to women was inversed, as 56% of those engaged in the private sector were men. This difference was more marked when we compared the professionals from the private sector with those working exclusively in public centers, in which women predominated with 61% of the total. It is difficult to conclusively explain this inversion in the ratio. Among the main causes we detected were the changes in the proportion of men to women produced in recent decades, with the incorporation of many more women into certain medical specialties.15 Other possible causes could be the sex-related differences in the percentages dedicated to private medicine as the professionals got older and the difference in the ages at which men and women became incorporated into private practice (private and mixed), as we have demonstrated in this study. In the first age quartile (=36 years), the percentage of women was 73%, whereas the percentage of rheumatologists dedicated to private medicine regardless of the sex was 25%. In the second quartile, the percentage of women decreased to 67%, with a dedication to the private sector of 33%. In the third quartile, women represented 52%, and their dedication to private practice increased to 42% and, in the fourth quartile, only 28% were women, whereas 54% of all of the professionals were working in the private sector. As this group of physicians aged, the percentage of women decreased and the proportion of those engaged in private medicine increased, reaching a maximum at the age of =65 years, at which the proportion of women was 15% and that of rheumatologists dedicated to the private sector was 76%.
+
+The age at which these professionals became incorporated into private medicine also varied depending on age, as was shown above, whereas the number of men remained steady during the first 3 age quartiles, whereas, in women, the increase in the proportion became evident as they grew older. The explanation of the sociological differences that lead to these results was not one of the objectives of this study, although, the establishment of this fact opens the door for further analysis that could discover a possible explanation.
+
+With respect to the geographic distribution, the differences could be accounted for by a number of reasons:
+
+One of the major causes of the heterogeneity in the geographic distribution is the population of each AC, although these differences do not fully explain the dissimilarities found. Other possible reasons are the distinctions between the public and private health care offered in the diverse AC,4,16 and the historical differences in the implantation of private medicine the various regions, as can be corroborated, for example, in Catalonia.4 These determinants may explain the fact that half of the rheumatologists in that AC are practicing in the private sector and more than a fourth of the private rheumatologists in Spain are concentrated in that region. This historical tradition is also reflected in the observation that the Medical Association of Barcelona is the only medical association in Spain to publish the price list accorded with private insurance companies.17
+
+Moreover, Catalonia heads the list of AC with the highest volume of public–private contracting. The region destines around 25% of its health care budget (€2450 million for the year 2014) to this concept. In the wake of that AC are Madrid (€713 million), Andalusia (€446 million) and Valencia (€443 million).4
+
+The conclusion of this study is that 38% of the rheumatologists in Spain are working in private medicine—13% exclusively and 25% working in both the public and the private sectors.
+
+The rheumatologists that are engaged exclusively in public or private health care have different profiles, with men of an older age predominating in the private market.
+
+We found no differences in the professionals working exclusively in public or private medicine with respect to the length of the workday. However, those combining the 2 activities had a significantly longer workday.
+
+Although there are private rheumatologists in all of the AC in Spain, more than half of them are concentrated in Catalonia, Madrid and Andalusia.
+
+Ethical Disclosures
+Protection of human and animal subjects
+
+The authors declare that no experiments were performed on humans or animals for this study.
+
+Confidentiality of data
+
+The authors declare that no patient data appear in this article.
+
+Right to privacy and informed consent
+
+The authors declare that no patient data appear in this article.
+
+Conflicts of Interest
+The authors declare they have no conflicts of interest.

@@ -1,0 +1,225 @@
+Abstract
+Objective
+
+To describe the characteristics and progression of the supply of new rheumatologists in Brazil, from 2000 to 2015.
+
+Methods
+
+Consultations to databases and official documents of institutions related to training and certification of rheumatologists in Brazil took place. The data were compared, summarized and presented descriptively.
+
+Results
+
+From 2000 to 2015, Brazil qualified 1091 physicians as rheumatologists, of which 76.9% (n = 839) completed a medical residency program in rheumatology (MRPR); the others (n = 252) achieved this title without MRPR training. There was an expansion of MRPR positions. At the same time, there was a change in the profile of the newly qualified doctors. Early in the series, the fraction of new rheumatologists without MRPR, entering the market annually, was approaching 50%, dropping to about 15% in recent years. In 2015, Brazil offered 49 MRPR accredited programs, with 120 positions per year for access. There was an imbalance in the distribution of MRPR positions across the country, with a strong concentration in the southeast region, which in 2015 held 59.2% of the positions. Public institutions accounted for 94% (n = 789) of graduates in MRPR during the study period, while still maintaining 93.3% (n = 112) of seats for admission in 2015.
+
+Conclusions
+
+In the last sixteen years, in parallel with the expansion of places of access, MRPR has established itself as the preferred route for rheumatology training in Brazil, mainly supported by public funds. Regional inequalities in the provision of MRPR positions still persist, as challenges that must be faced.
+
+Resumo
+Objetivo
+
+Descrever as características e a evolução da oferta de novos reumatologistas no Brasil, de 2000 a 2015.
+
+Métodos
+
+Fizeram-se consultas a bases de dados e a documentos oficiais de instituições relacionadas à formação e à certificação de reumatologistas no país. Os dados foram cruzados, sumarizados e apresentados de forma descritiva.
+
+Resultados
+
+De 2000 até 2015, o Brasil habilitou 1.091 médicos à condição de reumatologistas, dentre os quais 76,9% (n = 839) concluíram residência médica em reumatologia (RMR); os demais (n = 252) obtiveram o título sem cursar RMR. Houve expansão das vagas de RMR. Paralelamente, ocorreu uma modificação no perfil dos recém-habilitados. No início da série, a fração de novos reumatologistas sem RMR, ingressantes no mercado anualmente, aproximava-se dos 50%, reduziu-se para cerca de 15%, em anos recentes. Em 2015, havia no país 49 programas de RMR credenciados, com 120 vagas anuais de acesso. Observou-se desequilíbrio na distribuição de vagas de RMR pelo país, com forte concentração na Região Sudeste, que em 2015 detinha 59,2% das vagas. Instituições públicas responderam por 94% (n = 789) dos concluintes de RMR no período estudado, mantiveram ainda 93,3% (n = 112) das vagas para ingresso em 2015.
+
+Conclusões
+
+Nos últimos 16 anos, paralelamente à expansão das vagas de acesso, a RMR consolidou-se como via preferencial para formação em reumatologia no Brasil, eminentemente suportada por recursos públicos. Desigualdades regionais na oferta de vagas de RMR persistem como desafios a serem enfrentados.
+
+Previous article in issueNext article in issue
+Keywords
+RheumatologyMedical residencySpecializationProfessional qualification
+Palavras-chave
+ReumatologiaResidência médicaEspecializaçãoFormação profissional
+Introduction
+A medical residency is a form of postgraduate education latu sensu for physicians, in the form of specialization course, characterized by in-service training.1 The first medical residency programs (MRP) in Brazil, known at the time as boarding programs, began in 1944 at the Hospital das Clinicas, the University of São Paulo.2 In 1977, the Comissão Nacional de Residência Médica (National Commission on Medical Residency) (CNRM) was created; this institution exercises regulatory functions, monitoring and evaluation of MRPs, and its composition and competencies have recently been redefined by Decree No. 7562 of 2011.3,4 Since the 1940s, the number of MRPs and medical residency positions in the country grew progressively. However, there is little information available on the characteristics of that growth.5 With specific regard to medical residency programs in Rheumatology (MRPR) in Brazil, publications are scarce.6–8
+
+A medical residency is a long-standing form for supervised insertion of physicians to professional life, and to qualify these individuals to the specialty.2 The completion of MRP confers legally the Specialist Title (ST) in the area.1 However, there is another way for the formal qualification of medical specialty in Brazil, based on an agreement between the Federal Council of Medicine (FCM), Brazilian Medical Association (BMA) and CNRM.9 This agreement provides for the granting of titles by MRPs accredited by CNRM, but also by medical specialty societies affiliated to BMA by weight of evidence.
+
+The Brazilian Society for Rheumatology (SBR), affiliated to BMA, conducts an annual exam of sufficiency to obtain ST. In 2015, physicians with MRPR certificate or with a specialization course in Rheumatology accredited by the Ministry of Education, with a minimum duration of 24 months were able to enroll in the examination, subject to the following prerequisite: the applicant should have completed his/her 24-month residency program or expertise course in internal medicine. Physicians without MRPR or a specialization course, but able to provide evidence of professional activity for more than four years, with regular participation in scientific events in the specialty and having accumulated at least 100 points in the BMA accreditation system, were also admitted.10,11
+
+At the time of this study, we could not find articles published specifically on rheumatologist training in this country, covering both accreditation ways to this specialty. However, such information is relevant to the proper formulation and evaluation of human resource training policies in Rheumatology, whether in government or academic sphere. This study aimed to describe the characteristics and development of new rheumatologists in Brazil, from 2000 to 2015.
+
+Material and methods
+This was an observational, retrospective, quantitative, descriptive study from time series. The period of interest in this research, defined by convenience, based on the availability of information, covered the period 2000–2015. Data were collected by searching computerized databases and official documents of Brazilian institutions related to training and certification of specialists in Rheumatology in this country.
+
+The variables of interest of this study, with their respective data sources, are described below. The nominal list of approved physicians in the annual sufficiency exams to obtain the ST of this Society was obtained from SBR. From CNRM, we obtained the number of accredited places for access to the first year of MRPR, the number of new certificates issued to physicians who completed MRPR, and the nominal list of all graduates in MRPR per year, per unit of the Federation (UF) and per institution.12,13 From the institutions offering MRP in Rheumatology through public notices of selection processes, we obtained the number of MRPR access positions effectively available annually.
+
+In addition, for purposes of confrontation and cross-checking of information, we consulted the minutes of regular and extraordinary meetings, as well as summaries and extracts of authorization acts of CNRM available on the website of the committee.14 The years 2000 and 2001 were specifically excluded from the time series of a number of positions and of MRP of Rheumatology, due to uncertainties in these data. The time series of other variables include those two years. The list of names of graduates in MRPR per year, UF and institution, obtained from the CNRM system, was not restricted to the specific period of interest for this study, but was extracted in its entirety, from the earliest records (dating from the end of the 1970s) to the year 2015, in order to meet the instrumental needs described below.
+
+To obtain the annual number of new rheumatologists without a MRPR certificate, we carried out a crossing of the data of the nominal list of those physicians approved in the SBR's annual examination in the period 2000–2015 against the entire CNRM database, regardless of any time limit, with identification of individuals who passed in the ST exam who never had a registered certificate of MRPR at any time. The number of graduates in MRPR in a given year was recorded from the number of new certificates of completion of MRPR issued in that year. The total of new rheumatologists per year was calculated by adding the number of graduates of MRPR with the number of graduates by SBR not holders of an MRPR certificate.
+
+Those approved in the SBR exam until the year 2003 that also attended MRPR were included in the counting of new specialists only in the year of completion of residency, since till the year 2003 residents took the ST examination in the beginning of the second year of MRPR. For clarity, these cases were not included in the annual counts of ST without MRPR. All allusions to MRPR positions in this study relate only to places of access to the first year (R1) in the specialty. Accordingly, all references to certificates issued or to graduates in MRPR are related only to the minimum cycle of 24 months of residence, being disregarded the optional years.
+
+The data used in this research can be accessed online, coming from administrative databases. No intervention, follow-up or information gathering was done on an individual or population basis. The survey did not include clinical-epidemiological or biological variables, as it focused on the study of human resource training in Rheumatology, based on secondary information sources. Thus, the protocol was not submitted to the ethics committee in biomedical research, deemed unenforceable in this context. This study did not include pediatric rheumatologists. All consultations were held in the 2013–2015 period. Data were summarized and presented descriptively.
+
+Results
+From 2000 to 2015, there were 839 graduates in MRPR in Brazil. In the same period, SBR granted 884 new specialist titles, among which 252 were awarded to physicians without MRPR. On the whole, with the addition of the graduates with MRPR with those graduated without an MRPR, 1091 physicians have been invested in the condition of new rheumatologists in the country. A general ratio of 3.3 was found for new rheumatologists with MRPR versus each new rheumatologist without MRPR qualified in the period.
+
+There was a progressive increase in the number of MRPRs, of accredited positions of MRPR, of MRPR graduates, and in the total of new rheumatologists per year (Figs. 1 and 2A). In 2015, 103 new rheumatologists were qualified, among which 86 had completed their MRPR. The number of STs annually qualified by SBR showed a downward trend in the first five years of the series, with subsequent recovery, but never exceeding the initial levels (Fig. 2B). The number of STs specifically granted to physicians without MRPR showed an initial decline, stabilizing later, but since then without a consistent recovery (Fig. 2B). In 2015, 68 STs were issued by SBR, among which 17 for physicians without MRPR. The annual fraction of new specialists without MRPR consistently decreased, reaching the lowest levels in the years 2013 and 2014 (Fig. 3).
+
+Number of programs and medical residency program positions in rheumatology…
+Download high-res image (156KB)Download full-size image
+Fig. 1. Number of programs and medical residency program positions in rheumatology (MRPR) in Brazil, 2002–2015.
+
+(A) Number of new rheumatologists qualified per year in Brazil, in total and…
+Download high-res image (203KB)Download full-size image
+Fig. 2. (A) Number of new rheumatologists qualified per year in Brazil, in total and with medical residency in rheumatology (MRPR); (B) number of specialist titles (STs) certified by the Brazilian Society of Rheumatology (SBR) per year, total and for physicians without MRPR.
+
+Fraction of individuals who had not attended medical residency programs in…
+Download high-res image (150KB)Download full-size image
+Fig. 3. Fraction of individuals who had not attended medical residency programs in rheumatology (MRPR), among the new rheumatologists qualified annually in Brazil, 2000–2015.
+
+We observed heterogeneity in the distribution of MRPR programs and positions among the regions of the country, with a strong concentration in the Southeast region. This phenomenon was observed in cross sections of 2002 and also of 2015 (Table 1). Similar distributional inequality was evidenced in the number of graduates in MRPR by region, from 2000 to 2015, with 66.3% (556/839) of these specialists trained in the Southeast region (Table 2). Only 10.2% (5/49) of the MRPRs accredited for the year 2015 were linked to private institutions, which together accounted for only 6.7% (8/120) of positions for admission into MRPR (Table 3). Still in the period from 2000 to 2015, public institutions accounted for 94% (789/839) of graduates in MRPR in Brazil, of which 65.4% (549/839) were egresses from MRPR, bound to public colleges and universities.
+
+Table 1. Programs and positions of MRPR in Brazil by region and UF, in the comparison between 2002 and 2015.
+
+Region, UF	2002	2015
+MRP	Positions (%)	MRP	Positions (%)
+North	1	1 (1.8)	3	4 (3.3)
+ AM	1	1 (1.8)	1	2 (1.7)
+ PA	0	0 (0)	1	1 (0.8)
+ TO	0	0 (0)	1	1 (0.8)
+Northeast	3	4 (7.3)	9	17 (14.2)
+ BA	1	1 (1.8)	1	1 (0.8)
+ CE	1	1 (1.8)	3	7 (5.8)
+ PB	0	0 (0)	1	2 (1.7)
+ PE	1	2 (3.6)	1	3 (2.5)
+ PI	0	0 (0)	1	1 (0.8)
+ RN	0	0 (0)	1	1 (0.8)
+ SE	0	0 (0)	1	2 (1.7)
+Midwest	3	5 (9.1)	5	10 (8.3)
+ DF	2	4 (7.3)	2	5 (4.2)
+ GO	1	1 (1.8)	2	3 (2.5)
+ MS	0	0 (0)	1	2 (1.7)
+Southeast	19	39 (70.9)	23	71 (59.2)
+ ES	0	0 (0)	1	2 (1.7)
+ MG	3	5 (9.1)	6	11 (9.2)
+ RJ	5	8 (14.5)	4	16 (13.3)
+ SP	11	26 (47.3)	12	42 (35.0)
+South	5	6 (10.9)	9	18 (15.0)
+ PR	3	3 (5.5)	4	8 (6.7)
+ RS	2	3 (5.5)	4	9 (7.5)
+ SC	0	0 (0)	1	1 (0.8)
+Brazil	31	55 (100)	49	120 (100)
+MRPR, medical residency program in rheumatology; MRP, medical residency program(s); UF, unit of federation.
+
+In brackets, the percentage participation of the region or in the UF in the universe of positions in Brazil.
+
+
+Table 2. Graduates in MRPR from 2000 to 2015, by region and UF.
+
+Region	UF	n	(%)
+North		12	(1.4)
+AM	12	(1.4)
+Northeast		72	(8.6)
+BA	14	(1.7)
+CE	29	(3.5)
+PB	2	(0.2)
+PE	22	(2.6)
+PI	5	(0.6)
+Midwest		102	(12.2)
+DF	62	(7.4)
+GO	24	(2.9)
+MS	16	(1.9)
+Southeast		556	(66.3)
+ES	10	(1.2)
+MG	83	(9.9)
+RJ	92	(11.0)
+SP	371	(44.2)
+South		97	(11.6)
+PR	54	(6.4)
+RS	43	(5.1)
+Brazil		839	(100)
+MRPR, medical residency program in rheumatology; UF, unit of federation.
+
+
+Table 3. Programs and positions of MRPR in Brazil, in 2015.
+
+Region	Institution (UF)	Positions
+North	HU Getúlio Vargas/UFAM (AM)	2
+Centro Universitário do Estado do Pará (PA)a	1
+UFT (TO)	1
+Northeast	H. Sta. Izabel/Sta. Casa de Misericórdia (BA)	1
+H. Geral de Fortaleza/SES (CE)	4
+H. Geral César Cals/SES (CE)	1
+HU Walter Cantídio/UFC (CE)	2
+HC/UFPE (PE)	3
+H. Getúlio Vargas/UFPI (PI)b	1
+HU Lauro Wanderley/UFPI (PB)	2
+HU Onofre Lopes/UFRN (RN)	1
+HU/UFS (SE)	2
+Midwest	H. de Base do Distrito Federal/SES (DF)	3
+HU/UnB (DF)	2
+HC/UFG (GO)	2
+H. Geral de Goiânia/SES (GO)	1
+HU M. A. Pedrossian/UFMS (MS)	2
+Southeast	HU Cassiano A. Moraes/UFES (ES)	2
+HC/UFMG (MG)	3
+H. Gov. Israel Pinheiro/IPSEMG (MG)	1
+UFTM (MG)	2
+HU/UFJF (MG)	1
+HC/UFU (MG)	2
+Sta. Casa de Misericórdia (MG)	2
+H. Federal dos Servidores do Estado (RJ)	5
+HU Clementino Fraga Filho/UFRJ (RJ)	4
+HU Pedro Ernesto/UERJ (RJ)	5
+HU Gaffrée e Guinle/UNIRIO (RJ)	2
+HC/UNICAMP (SP)	2
+FM/USP (SP)	12
+HC/FAMEMA (SP)	2
+H. de Base/FAMERP (SP)	4
+HC FMRP/USP (SP)	3
+H. Servidor Público Estadual/IAMSPE (SP)	3
+H. M. Celso Pierro/PUC-Campinas (SP)a	2
+H. Heliópolis/SES (SP)	2
+Sta. Casa de Misericórdia (SP)	2
+FM Botucatu/UNESP (SP)	2
+FCMS/PUC-SP (SP)a	1
+UNIFESP (SP)	7
+South	HC/UFPR (PR)	4
+HU Evangélico de Curitiba (PR)a	1
+HU Regional do Norte do Paraná/UEL (PR)	2
+HU Regional de Maringá/UEM (PR)	1
+HCPA/UFRGS (RS)	3
+UFCSPA (RS)	1
+Grupo Hospitalar Conceição (RS)	2
+H. São Lucas/PUC-RS (RS)a	3
+HU P.E. São Thiago/UFSC (SC)	1
+MRPR, medical residency program in rheumatology; UF, unit of federation.
+
+
+a
+Private institution.
+
+b
+Did not offered positions in 2015.
+
+Discussion
+We observed imbalance among the regions of the country with regard to the number of graduates in MRPR, as a logical consequence of the geographic inequality in the provision of positions for admission, also reported in this paper. Availability of MRPs is a factor associated with the appeal and settlement of the doctor in the place which is offering the program.15,16 With regard to rheumatology, the correlation between the geographical distribution of these specialists and the local offering of an MRP in the specialty has been demonstrated already.8 Thus, the inequality here evidenced in the distribution of positions and of graduates in MRPR potentially influences the regional availability of rheumatologists in Brazil.
+
+We observed an increasing number of MRPs in Rheumatology and, above all, of the annual positions of MRPRs across the country during the study period. The Northeast region was that proportionally showed the most increase in its participation in the universe of positions of MRPR. In contrast, the Southeast region decreased in proportion to its participation. Nine UFs that lacked MRPR in 2002 appeared as having such programs in the 2015 list, namely: ES, MS, PA, PB, PI, RN, SC, SE and TO. Thus, in the comparison between 2002 and 2015, a decrease of distributive inequality in positions of MRPR across the country was observed, but this decrease was not sufficient to eliminate the imbalances still noted. These imbalances are similar to those that occur in relation to medical residency positions in general, in Brazil.17,18
+
+In the last five years, there has been an acceleration of the expansion process of MRPR positions. This phenomenon occurred in the wake of a new political concept, which seeks the expansion of medical residency in the country, targeting the priority regions and specialties for the SUS (Brazil's National Health System), taking into account the real needs specified by its regional managers.19 This concept materialized with the establishment of the Pro-Residence program of the Ministry of Education.20 The convening public notices for Pro-Residence program list the priority specialties and regions, assuming the inclusion of other regions not covered, always by demonstration of need.21–23
+
+Private institutions accounted for a small percentage of programs, positions and graduates in MRPR. The Holy Houses of Mercy were counted as public institutions, given its eminently public funding and also by the free public access to their units. But even if such institutions were counted as private hospitals, only 16.3% (8/49) of MRPs and 10.8% (13/120) of MRPR positions in 2015 would be associated to private institutions. In addition, 46 rheumatologists completed in MRPR in Holy Houses of Mercy during the study period; thus, if these individuals are included, only 11.4% (96/839) of graduates in MRPR in the period 2000–2015 would be egressed from MRPs of private institutions.
+
+Therefore, the Brazilian State is the largest supporter and leading provider of human and material resources (including physical space) for MRPR. In this respect, one should highlight the role of public colleges and universities, as large forming institutions of rheumatologists in Brazil, accounting for about two-thirds of graduates in MRPR during the study period. Despite the dominance of public services in the formation of Brazilian rheumatologists, the provision of these specialists in SUS is lower than that in the private sector and, moreover, is far below the recommended proportions in other countries.8
+
+International studies indicate as ideal proportions something between 52,000 and 85,000 inhabitants per rheumatologist.24–27 In 2013, Brazil had an approximate rate of 118,000 inhabitants per rheumatologist.28 However, in SUS this proportion exceeded the 400,000 users per rheumatologist.8 Disregarding the beneficiaries of health plans (about 49 million Brazilians in 2013), for those more than 150 million users highly dependent on Brazilian SUS, this rate surpassed 247,000 users per rheumatologist.8,29,30 Therefore, although the Brazilian State is financing the training of most rheumatologists in Brazil, SUS has not been able to retain a sufficient number of these specialists, who subsequently migrate to the private market.
+
+For the past 16 years, there was a change in the training profile of rheumatologists in Brazil. Early in the series, approximately equal proportions of new specialists with and without MRPR were recorded annually. In subsequent years, a reduction in the annual fraction of new rheumatologists without MRPR was observed, lately ranging to 15%.
+
+At the same time, there was an increase in the number of positions and graduates in MRPR. The decrease of the fraction without MRPR preceded the introduction, from 2008, of the minimum score requirement in scientific events accredited by BMA, for admission of non-specialist physicians or of those without MRPR to the sufficiency examination of SBR.31 These findings suggest an option for physicians who seek to obtain specialization in Rheumatology by way of MRPR, provided that there are positions available.
+
+This paper presents perspectives for further research. In this article, we report the number of rheumatologists with a Rheumatology graduation achieved in Brazil and qualified for the last 16 years. Recent studies report the existing number of these specialists in the country.8,28 But how many rheumatologists are needed? Brazil's needs are similar to those of other countries? How will evolve the demand for rheumatologists in Brazil in the coming decades? What is the number of rheumatologists who will have to be annually trained to meet this demand without incurring in imbalances? These are important issues for the country, justifying further research.
+
+In short, in the period 2000–2015, in parallel with the increase in the number of positions, MRPR has established itself as the preferred way for training and qualification in Rheumatology in Brazil, currently accounting for most of the new specialists who year after year join the ranks of Brazilian Rheumatology. An improvement was observed in the distribution of positions among the regions of the country, although this is still insufficient for the removal of existing imbalances. Most positions and MRPR programs in Brazil was linked to public institutions, especially public universities. The reduction in regional inequalities with respect to the provision of MRPR positions remains as a big challenge for the future.
+
+Conflicts of interest

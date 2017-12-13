@@ -1,0 +1,83 @@
+Background
+Pseudomonas aeruginosa is an important nosocomial pathogen that commonly colonizes hospital water supplies, including in taps and sinks. We report the transmission of P. aeruginosa from water to patients in a clinical hematology setting.
+
+Methods
+P. aeruginosa from water samples were compared to clinical isolates from hematology ward patients, via molecular typing (pulsed field gel electrophoresis).
+
+Results
+P. aeruginosa cultured from blood cultures from 3 patients was indistinguishable from water strains, by molecular typing. Based on infection control inspections, the transmission event was surmised to be due to cleaning of equipment, specifically an infusion therapy procedure tray used to transport intravenous drugs to patients, with water from an outlet colonized by P. aeruginosa.
+
+Conclusion
+We show the importance of holistic factors, such as disposal of patient waste water, cleaning of tap outlets, and cleaning of medical equipment, in the transmission of P. aeruginosa, and demonstrate that the role of waterborne transmission of this organism in a hematology setting cannot be overlooked. We suggest that appropriate management of water, including both holistic and engineering interventions, is needed to stop transmission of P. aeruginosa from water to patients.
+
+Key Words
+Pseudomonas aeruginosa; Water testing; Hematology; Transmission; Outbreak
+Pseudomonas aeruginosa is a ubiquitous and important opportunistic pathogen in immunocompromised or critically ill patients. 1 ;  2P. aeruginosa is commonly found in a wide range of moist, nutrient-limited environments and can colonize hospital and domestic water, taps, sinks, drains, toilets, and showers. 3P. aeruginosa forms biofilms that allow persistence of microorganisms in water systems for long periods, and this helps to explain the high colonization rates of hospital water systems. 3 Nosocomial P. aeruginosa outbreaks have been associated with hospital water sources. 2 ;  4
+
+In 2013, the England Department of Health (DoH) published guidance relating to the sampling and testing of P. aeruginosa on health care premises, as well as the role of the water safety group. 5 The DoH has recently updated the Health Technical Memorandum (HTM) 04-01, and as reflected in the title “Safe Water in Healthcare Premises,” emphasizes the role of water in nosocomial infections.6 A risk-management approach to the safety of water is pivotal in the control of infection, and the Water Safety Group should develop a water safety plan that identifies all potential hazards associated with local water distribution and supply. The HTM details that P. aeruginosa water testing should be undertaken in patient groups that have the highest risk of transmission, 6 including those who are heavily immunosuppressed, as in a hematology setting.
+
+P. aeruginosa infections on hematology wards have been well documented. 7 Richet et al and McCarthy et al.7,8 (1989) described an epidemic of P. aeruginosa bloodstream infections (BSIs) in a hematology ward, with significant mortality. P. aeruginosa BSI mortality rates of up to 42% have been described, depending on the patient population studied and the time at which the mortality endpoint is determined. 8 Here, we discuss the transmission of P. aeruginosa from water to patients in a clinical hematology setting at the Queen Elizabeth Hospital Birmingham (QEHB) in the UK, part of University Hospitals Birmingham (UHB) National Health Service (NHS) Foundation Trust.
+
+Materials and methods
+Setting
+The QEHB is a tertiary referral NHS teaching hospital in Birmingham, UK that provides clinical services to nearly one million patients every year. The QEHB is a specialist cancer and regional referral center for hematology and bone marrow transplants (one of only 2 centers in the West Midlands providing complex care for adults with hematologic malignancy).
+
+Passive surveillance
+At the QEHB, surveillance of P. aeruginosa infection or colonization is undertaken by recording all first isolates (any specimen site) from patients who have been in the clinical hematology ward. 2 No proactive surveillance in the form of admission screening was undertaken. Possible patient transmission events were defined as a positive water isolate clustered with a positive patient isolate, with a geographic link (e.g., a patient in a particular bay or bed space) and association with the same outlet. In addition, more than 2 different patient P. aeruginosa infection or colonization episodes, while they were inpatients (defined as >48 hours on the hematology ward) within 30 days, were examined as possible transmission events. Isolates from patients deemed to have had possible transmission events with P. aeruginosa were molecular typed by pulsed field gel electrophoresis (PFGE) and compared with positive water samples from geographically linked outlets taken at the water sampling that takes place every 6 months (per HTM 04-01 addendum). 5 ;  6 As a result of 3 patients culturing P. aeruginosa, as determined from blood cultures on the hematology ward, extra water sampling, beyond the 6-month schedule recommended in HTM 04-01, was undertaken on geographically linked outlets. Any water samples positive for P. aeruginosa were compared with the patient isolates.
+
+Water sampling
+From January 2013 to the present, water samples from all outlets (tap and shower) on the hematology ward at the QEHB were collected by an independent company (Future Water Limited, Derbyshire, UK), per HTM 04-01.5 ;  6 Water samples (500?ml) were obtained every 6 months.2 Due to 3 patients culturing P. aeruginosa from clinical specimens on the clinical hematology ward, extra water sampling was undertaken, outside the usual schedule of every 6 months. All samples were tested for enumeration of microorganisms by membrane filtration. 2 Tryptone soya agar and Cetrimide agar (both Biomerieux, Hampshire, UK) plates were incubated for 48 hours at 37 °C. Results were expressed as total viable count (TVC)/100?ml.2
+
+Isolation and characterization of P. aeruginosa
+Any suspected P. aeruginosa isolates growing on the membrane filtration agar plates were identified using biochemical identification tests per standard microbiologic investigations (Eurofins, Food and Environmental Laboratory, Wolverhampton, UK). 2
+
+Epidemiologic typing
+P. aeruginosa isolates (patient, water, and environmental isolates) considered to have potential to be linked to a transmission event were sent to the Public Health England Antimicrobial Resistance and Healthcare Associated Infections (AMRHAI) reference laboratory for typing by PFGE. 9 Transmission events were suspected if the patient and water isolates were indistinguishable by PFGE. Isolates were designated genetically indistinguishable if their restriction patterns had the same numbers of bands, and the corresponding bands were the same apparent size.9
+
+P. aeruginosa BSIs
+All blood cultures were examined in accordance with Public Health England (PHE) standard microbiology investigations (SMI B37i8).10 Briefly, during the study period, the blood cultures were processed by the BacT/ALERT system (Biomerieux) with an incubation period of 5 days. Isolates were identified by the VITEK 2 system (Biomerieux) and MALDI-TOF (Biomerieux).10
+
+Environmental swabbing
+Environmental sampling was carried out on 6 infusion therapy procedure trays, used to transport intravenous drugs to patients, that are stored in the intravenous preparation room on the hematology ward. As part of an investigation into three patients developing P. aeruginosa BSIs on the hematology ward to identify potential sources of transmission the infusion therapy procedure trays were swabbed. MW729 Polywipe sponges (Medical Wire & Equipment) were used to sample environmental surfaces, followed by enrichment culture and incubation procedures as previously described. 11 Any P. aeruginosa growing from the environmental sampling agar plates were identified via MALDI-TOF (Vitek MS; Biomerieux) and the Vitek 2 system (Biomerieux).
+
+Results
+Water sampling
+From the water sampling undertaken on the hematology ward, 1% of the outlets were positive for P. aeruginosa in 2017. From January 2013 to August 2017, the number of water outlets colonized with P. aeruginosa on this ward decreased ( Table 1).
+
+Table?1.
+Data on Pseudomonas aeruginosa at any site between January 2013 and August 2017 on the hematology ward
+
+Characteristic	2013	2014	2015	2016	January–August 2017
+Water samples positive for P. aeruginosa (%)*	14 (16/114)	5.7 (12/209)	5.1 (9/176)	1.7 (3/177)	1 (1/95)
+Positive outlets for P. aeruginosa (%)†	18 (12/88)	6.8 (6/88)	3.4 (3/88)	2.3 (2/88)	1.1 (1/88)
+P. aeruginosa infection or colonization (number of patients)	15	16	13	14	9
+Number of P. aeruginosa bloodstream infection episodes‡	12	15	15	13	10
+Bed days—clinical hematology	11,269	11,137	11,230	11,289	9,734
+*
+Parenthetical values are number of water samples positive for P. aeruginosa against number of water samples taken.
+
+†
+Parenthetical values are number of outlets of 88 total on the clinical hematology ward.
+
+‡
+A bacteremic (bloodstream infection) episode was defined as the 14-day interval from the date of the first positive blood culture for P. aeruginosa; positive blood cultures outside this timeframe constituted a different episode.
+
+Table options
+Rates of transmission
+The microbiological surveillance of patients from January 2013 to December 2016 highlighted patients with clinical specimens growing P. aeruginosa, ranging from 13 to 16 isolates per year ( Table 1). Molecular typing results revealed that 20% of the patient isolates had PFGE types indistinguishable from the water isolates, suggestive of transmission events. Isolates that were molecularly typed were often diverse, including a number of different clusters predominantly consisting of environmental P. aeruginosa strains (data not shown).
+
+Cases
+During July 2017, 3 patients on the clinical hematology ward developed P. aeruginosa BSIs. All 3 patients had BSIs associated with their Hickman lines. No peripheral blood cultures were positive for P. aeruginosa. PFGE typing of all 3 isolates revealed that they were indistinguishable, suggesting a transmission event. As a result, water samples were taken from all outlets across the ward. Water sampling revealed that a water outlet in the intravenous preparation clinical room was colonized with a strain of P. aeruginosa that was indistinguishable from the patient isolates. Infection control audits on the ward revealed that infusion therapy procedure trays used to carry intravenous preparations to patients on the ward were cleaned in water supplied from the outlet known to be colonized with P. aeruginosa. Environmental sampling carried out on 6 of the infusion therapy procedure trays cultured P. aeruginosa, which matched the patient isolates.
+
+Discussion
+P. aeruginosa can persist in hospital water systems for long periods and has resulted in a number of hospital outbreaks. 2; 3; 4; 12; 13 ;  14 Little is known about the amount and precise routes of transmission within a hematology setting. 12; 13 ;  14 We discuss an outbreak of P. aeruginosa in hematology patients, with the source identified as being from water. We conclude from this study that transmission of P. aeruginosa in a hematology unit cannot be overlooked and that review of possible routes of environmental transmission is important.
+
+Over the 5 years since undertaking water sampling on the clinical hematology ward, we have been able to identify P. aeruginosa in water outlets, with a contamination rate of up to 18%. Clinical surveillance undertaken at the QEHB over the 5 years identified patients who had clinical isolates of P. aeruginosa. Molecular typing revealed that up to 20% of clinical isolates are indistinguishable from environmental strains, by PFGE. Our results suggest a high rate of transmission from water to patients in the hematology setting. This finding is not surprising, as several outbreaks have been reported in health care settings. 2; 3; 4; 12; 13; 14 ;  15 We believe the source of P. aeruginosa contamination is at the tap outlets, as Pseudomonas spp have never been cultured from water sampled from pipes proximal to the outlets. 2
+
+Using PFGE typing has limitations, as it is less granular than whole-genome sequencing typing for identifying small differences in strains and elucidating exact transmission events.1 Further work is required to identify the characteristics of strains, and more discriminatory typing methods, such as whole-genome sequencing, are needed to definitively identify the source of P. aeruginosa contamination and resulting transmission to patients. In response to the water outlets being positive for P. aeruginosa, as well as the potential patient transmission events, point-of-use bacterial retention filters (Pall Medical, Portsmouth, UK) are now placed on all outlets on the hematology ward. These filters in part explain the low numbers of outlets testing positive on the hematology ward, which decreased from 18% in 2013 to 2.3% in 2016. Use of filters on outlets is common practice in the augmented care wards of European hospitals, but users must be aware of the potential for the external body of the filters to become contaminated. 12 A recent study by Garvey et al. demonstrated tap-end filter contamination with P. aeruginosa from a patient. 16
+
+In the observed P. aeruginosa outbreak, the room where intravenous drugs are prepared was suspected to be the source because it was the only common link among the patients. Tap outlets in this room did not have point-of-use filters attached. Tap outlets in the intravenous preparation room were suspected to be colonized with P. aeruginosa, and water sampling of the outlets revealed that they were in fact positive for P. aeruginosa. Molecular typing of the water sample via PFGE showed that it was indistinguishable to the 3 patient isolates, suggestive of a transmission event. Audits undertaken by the UHB infection prevention and control team revealed that invasive procedures involving blood (such as cannulation or administration of intravenous or injectable medications) required use of reusable infusion therapy procedure trays, which were often cleaned with tap water and left wet. These infusion therapy procedure trays are often used to transport intravenous drug preparations to patients. Swabbing of the trays with sponges cultured P. aeruginosa. The authors hypothesize that washing the trays in water and leaving them wet led to the trays becoming contaminated with P. aeruginosa. The subsequent use of these contaminated trays during drug preparations for the 3 patients involved in the outbreak could be the source of transmission of P. aeruginosa. As a result, all infusion therapy procedure trays are now cleaned with quaternary ammonium compound wipes (Clinell Universal wipes, GAMA Healthcare, UK) and dried thoroughly.
+
+This report is not the first to detail transmission of microorganisms from trays to patients after intravenous procedures. Garvey et al. 17 recently reported the transmission of hepatitis C from one patient to another from inadequate cleaning practices of infusion therapy procedure trays soiled with blood. Additional control measures at UHB include placing point-of-use filters on all water outlets within the intravenous preparation clinical room. In the current study, other transmission routes cannot be ruled out, such as transmission from patient to patient via staff hands.
+
+The results presented here suggest that water outlet contamination in a clinical hematology unit can be associated with health care–associated P. aeruginosa infection. We found that the role of waterborne transmission of P. aeruginosa in a hematology setting cannot be overlooked, and interventions are required to reduce P. aeruginosa transmission. Water sampling in the hematology setting is needed to monitor contamination of tap outlets with P. aeruginosa. Emerging evidence indicates that infusion therapy procedure trays used for intravenous therapy are an important source of transmission of nosocomial pathogens. We found evidence of the need to consider how reusable equipment is cleaned and dried; cleaning reusable equipment in potable water contaminated with P. aeruginosa can lead to transmission events.

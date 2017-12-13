@@ -1,0 +1,173 @@
+Abstract
+Women with haematological disease may be at particular risk during pregnancy as the two conditions can mutually impact on each other. The physiological changes that occur during pregnancy to meet the needs of the developing fetus can lead to complications in vulnerable patients. For example, the massive increase in uterine blood flow and vascular compliance necessary to maintain the blood supply for the developing fetus can lead to significant haemorrhage at the time of placental separation. Changes in coagulation factors help to combat this risk but increase the potential for systemic thromboembolic events. Close proximity of the fetal and maternal circulations enables an effective transfer of nutrients and oxygen; however, passage of certain substances such as maternal drugs can have disastrous consequences for the baby, and passage of fetal antigenic material into the maternal circulation can cause alloimmune sensitization. The growing fetus has an increased demand for iron and other haematinics so maternal deficiencies can arise. Although most pregnancies progress without complication, management of high-risk cases should be coordinated in joint obstetric haematology clinics.
+
+Previous article in issueNext article in issue
+Keywords
+Anaemiahaematologyhaemolytic diseaseneonatal alloimmune thrombocytopeniapregnancysicklethrombocytopeniathrombophiliavenous thromboembolic disease
+Key points
+•
+Women with haematological disease can be at particular risk during pregnancy as the pregnancy can be compromised by the underlying state and/or the haematological condition worsened by the pregnancy. Although most pregnancies progress without complication, management of high-risk cases should be coordinated in joint obstetric haematology clinics and involve anaesthetists, neonatologists and other specialists where relevant
+
+•
+Iron deficiency is the most common cause of anaemia in pregnancy. A trial of oral iron supplementation is helpful in the presence of anaemia, defined by a haemoglobin <110 g/litre in the first trimester, <105 g/litre in the second and third trimesters and <100 g/litre in postpartum period
+
+•
+All women should have a risk assessment for venous thromboembolism at booking and throughout pregnancy and the postpartum period
+
+•
+Maternal haemorrhage remains a significant cause of maternal mortality and morbidity
+
+•
+Haemolytic disease of the newborn is caused by transplacental passage of maternal alloantibodies against fetal paternally derived red cell antigens, the mother having been sensitized by previous transfusion or pregnancy
+
+
+
+Anaemia
+In pregnancy there is an increase in red cell mass and plasma volume. The increase in plasma volume is proportionally greater and results in a fall in haemoglobin. This gives rise to the physiological anaemia of pregnancy, which is maximal at 32 weeks.
+
+Iron deficiency
+The total iron requirements of pregnancy exceed 1000 mg, exhausting most women's iron stores. The consequences of iron deficiency include fatigue, reduced resistance to infection, cardiovascular stress, poor tolerance to blood loss at delivery, and an increased need for transfusion. Iron deficiency can also increase the risk of intrauterine growth restriction, premature membrane rupture and early delivery.
+
+Diagnosis is difficult as the microcytosis typically associated with iron deficiency anaemia can be masked by the increase in mean cell volume of 5–10 fl in pregnancy. A trial of oral iron supplementation is often helpful in the presence of anaemia, defined by a haemoglobin less than 110 g/litre in the first trimester, less than 105 g/litre in the second and third trimesters and less than 100 g/litre in the postpartum period.1 True iron malabsorption is unusual, and the most common indications for intravenous iron are non-compliance with and intolerance to oral treatment. Some studies have advocated universal iron supplementation in pregnancy, but others have questioned the value of this approach.
+
+Folate and vitamin B12 deficiency
+Folate requirements increase in pregnancy as nucleic acid formation escalates. Folic acid supplements (400 mg daily) must be given in the first trimester to reduce the risk of neural tube defects in the fetus. A coexisting iron deficiency can mask the increased mean cell volume of folate deficiency, requiring evaluation of the blood film to aid diagnosis. Vitamin B12 requirements also increase, with deficiency being associated with neural tube defects, preterm labour, intrauterine growth retardation (IUGR) and recurrent miscarriage.
+
+Establishing vitamin B12 status during pregnancy is complicated by physiological changes such as haemodilution caused by the expanded blood volume, altered renal function, alterations in B12 binding proteins and transfer of maternofetal vitamin B12. Serum vitamin B12 assays measure the sum of inactive and active B12. Other markers of B12 status are also available and are increasingly being adopted as a way to measure functional vitamin B12: holotranscobalamin (‘active vitamin B12’), the only form of vitamin B12 presented for cellular uptake and used to satisfy metabolic demand; and methylmalonic acid, a by-product of methylmalonyl-CoA metabolism, the serum concentration of which correlates inversely with tissue vitamin B12 utilization.
+
+Haemoglobinopathies
+Screening for haemoglobinopathies must be carried out as early as possible, to offer genetic counselling and prenatal diagnosis if the offspring is at risk of major haemoglobinopathy. Screening should be in accordance with the NHS Sickle Cell and Thalassaemia Screening Programme, using the family origin questionnaire, routine blood cell indices and tests for sickle cell and other haemoglobin variants, depending on the risks identified and the prevalence of the local population. Affected mothers need close multidisciplinary management to support their pregnancy.
+
+Sickle cell disease
+Women with sickle cell anaemia and other haemoglobin (Hb) combinations giving rise to sickle cell disease (e.g. HbSC, HbSß-thalassaemia, HbSD, HbSE, HbSO-Arab) have a high morbidity risk: more than half experience acute painful crisis, and a quarter require peripartum admission to intensive care. In addition to sickle cell crisis and chest syndrome, maternal complications include severe anaemia, infection, especially urinary, hypertension, pre-eclampsia and thromboembolic events. Fetal risks are also higher and include growth restriction, stillbirth and prematurity.
+
+Women should be offered an appointment before conception to screen for end-organ damage, discuss potential complications and offer a management plan. General crisis prevention measures include avoidance of cold, dehydration and overexertion. Compliance with folate supplements (5 mg daily) and continuation of prophylactic antibiotics should be emphasized, along with the need to treat infection promptly and present early in the event of vaso-occlusive crisis. Aspirin is recommended from 12 weeks' gestation to reduce the risk of pre-eclampsia.2 Non-steroidal anti-inflammatory drugs should only be used between 12 and 32 weeks' gestation. Hydroxycarbamide, which increases fetal haemoglobin (HbF) and therefore reduces the HbS percentage, is teratogenic and should be stopped 3 months before conception.
+
+Routine top-up or exchange transfusion can be useful in reducing painful crises but has not been shown to affect overall outcome. Transfused blood components should be rhesus-matched according to the extended phenotype as well as being negative for Kell-, HbS- and cytomegalovirus-.
+
+Venous thromboembolic (VTE) disease
+Pregnancy is a prothrombotic state with a 10-fold increased risk of VTE disease in the antenatal period, increasing to 25-fold in the postpartum period. In addition to venous stasis caused by reduced vascular tone and pressure from the gravid uterus, the haemostatic system undergoes several changes in preparation for delivery:
+•
+increased coagulation factors, including VII, VIII, fibrinogen and (von Willebrand factor (VWF)
+
+•
+reduction in anticoagulation activity, including a decrease in free protein S and increased resistance to activated protein C
+
+•
+increased concentration of inhibitors of fibrinolysis.
+
+
+Management of acute VTE disease in pregnancy
+Objective diagnosis is crucial but difficult, as there is a progressive elevation in D-dimer concentration with pregnancy and a need to avoid potentially harmful imaging techniques. Once VTE is suspected, treatment should be given until the diagnosis is excluded, unless there are major contraindications.3
+
+Meta-analysis has shown low-molecular-weight heparin (LMWH) to be at least as effective as unfractionated heparin, with a reduced risk of bleeding. The Royal College of Obstetricians and Gynaecologists guidelines advise a twice-daily dosing regimen to minimize peak and trough concentrations. Anti-Xa activity should be measured if there is renal impairment or extreme body weight. Treatment should continue for at least 3 months and until at least 6 weeks postpartum. Warfarin should be avoided as it is a teratogen, affecting facial, skeletal and nervous system development.
+
+Prevention of VTE disease
+All women should be risk assessed at booking and throughout the pregnancy and postpartum period.4 A personal history of unprovoked or oestrogen-related venous thrombosis is a significant risk factor. Other risks include a family history of unprovoked thrombosis, thrombophilia, age >35 years, multiparity, obesity and immobilization.
+
+The most common inherited thrombophilias are heterozygosity for either factor V Leiden or the prothrombin gene mutation, which account for up to 44% and 17% of cases, respectively. However, the relative risk of VTE is most marked with antithrombin deficiency (119 versus 6.9 and 9.5 for heterozygous factor V Leiden and prothrombin gene mutation, respectively).
+
+There is no role for routine thrombophilia screening but this might be indicated if the result would justify a change in management (i.e. provision of pharmacological thromboprophylaxis). If required, testing should include antithrombin concentration, protein C concentration, polymerase chain reaction for factor V Leiden and prothrombin gene mutation and antiphospholipid syndrome (APS) screen (only if there is a personal history of VTE). Protein S concentration falls in pregnancy and should be tested after 3 months postpartum.
+
+Management of at-risk pregnancies includes advice on general deep vein thrombosis prevention, including leg care, compression stockings, mobilization and hydration, with prophylactic LMWH as indicated. The duration of LMWH treatment depends on the cumulative inherited and acquired risk factors. Some women require treatment only in the postpartum period; however, if antenatal thromboprophylaxis is indicated, this should start as soon as the pregnancy is confirmed as studies have shown that thrombotic risk is elevated in all trimesters.
+
+Antiphospholipid syndrome
+Antiphospholipid syndrome (APS) is an autoimmune disorder and an acquired thrombophilic state. The clinical features vary significantly but include placental insufficiency, recurrent fetal loss, thrombocytopenia and thrombotic events, both arterial and venous. Definitions for pregnancy morbidity include:
+•
+three or more unexplained consecutive spontaneous miscarriages at less than 10 weeks' gestation
+
+•
+one or more unexplained fetal deaths at 10 weeks' gestation or longer.
+
+
+Laboratory testing includes detection of anticardiolipin antibodies, a lupus anticoagulant or antibodies to ß2-glycoprotein, on two or more occasions distant from the clinical event and more than 12 weeks apart. The use of aspirin and prophylactic LMWH in pregnancy has improved live birth rates from 10% to 70%.
+
+Prosthetic heart valves and pregnancy
+Anticoagulation for prosthetic heart valves is one indication for continuing warfarin throughout pregnancy, but the potential for teratogenic effects, especially with doses greater than 5 mg a day during weeks 6–9, must be considered. An alternative option is to switch to therapeutic LMWH, either for the duration of pregnancy or for the period up to 14 weeks and after 36 weeks. Monitoring with anti-Xa concentration is required. Joint management between haematology, obstetrics and cardiology is essential, along with full prepregnancy counselling.
+
+Bleeding disorders
+Inherited
+Pregnant women with von Willebrand disease (VWD) or carriers of haemophilia have an increased risk of bleeding. Factor VIII and VWF concentrations increase from 6 to 8 weeks' gestation, reaching concentrations of 3–5-fold baseline by term. Although this provides protection for delivery for women with haemophilia A carrier status and most women with VWD, they remain vulnerable in early pregnancy and in the puerperium, when concentrations can fall abruptly. Desmopressin (DDAVP) can be used in these patients to cover first-trimester procedures and the postpartum period. Oral tranexamic acid is useful to prevent excessive postpartum bleeding.
+
+Factor IX concentration does not change in pregnancy, and women with low factor IX (carriers of haemophilia B) may require recombinant factor concentrate for invasive procedures and delivery. Factor concentrations of 50% are generally considered safe for vaginal delivery and regional anaesthesia, although concentrations of 80% are usually required for caesarean section.
+
+Acquired
+Maternal haemorrhage remains a significant cause of maternal mortality and morbidity (see Further reading). Haemorrhage commonly results from uterine atony; other causes include placental abruption, placenta praevia or increta, and uterine rupture, all of which can lead to dilutional coagulation deficits and ultimately disseminated intravascular coagulation (DIC) and hypovolaemic shock if bleeding exceeds around 5000 ml. DIC can also be triggered by eclampsia, sepsis, retained products or amniotic fluid embolus. All units should have a transfusion protocol for the management of massive obstetric haemorrhage. Lessons learned from the UK and Ireland Confidential Enquiry into Maternal Deaths and Morbidity regarding maternal haemorrhage include the following:
+•
+Haemoglobin concentrations below the normal range for pregnancy should be investigated, and iron supplementation considered if indicated to optimize haemoglobin before delivery.
+
+•
+Stimulating or augmenting uterine contractions should be done in accordance with current guidance, paying particular attention to avoiding uterine tachysystole or hyperstimulation.
+
+•
+Fluid resuscitation and blood transfusion should not be delayed because of false reassurance from a single haemoglobin result.
+
+•
+Although significant haemorrhage can be apparent from observed physiological disturbances, young pregnant women compensate remarkably well. Tachycardia commonly develops, but there can be a paradoxical bradycardia. Hypotension is always a very late sign, so continuing bleeding should be acted on without delay.
+
+•
+In a woman who is bleeding and is likely to develop a coagulopathy or has evidence of a coagulopathy, it is prudent to give blood components before coagulation indices deteriorate.
+
+•
+Early recourse to hysterectomy is recommended if simpler medical and surgical interventions prove ineffective.
+
+
+Thrombocytopenia
+There are numerous causes of thrombocytopenia in pregnancy (Table 1). Most result from gestational thrombocytopenia, which affects approximately 6% of pregnancies. The platelet count tends to fall by about 10%; this is most pronounced in the third trimester and resolves by 6 weeks postpartum.
+
+Table 1. Causes and incidence of maternal thrombocytopenia
+
+•
+Gestational thrombocytopenia – 70–80%
+
+•
+Immune thrombocytopenia – 5%
+
+•
+Pre-eclampsia – 15–20%
+
+•
+HELLP syndrome – <1%
+
+•
+Acute fatty liver of pregnancy – <1%
+
+•
+TTP/atypical haemolytic–uraemic syndrome – <1%
+
+•
+Congenital thrombocytopenias – <1%
+
+•
+Type 2B VWD – <1%
+
+HELLP, haemolysis, elevated liver enzymes and low platelets; TTP, thrombotic thrombocytopenic purpura; VWD, von Willebrand disease.
+
+
+Immune thrombocytopenia complicates 0.01–0.05% of pregnancies. The maternal autoantibodies can cross the placenta and cause fetal thrombocytopenia. This is usually mild, with only 10% of babies having a platelet count below 50 × 109/litre. Treatment for the mother is indicated if there are haemorrhagic manifestations, the count is less than 20 × 109/litre or delivery is imminent when a count of greater than 50 × 109/litre is required (see Further reading). First-line therapy is corticosteroids or intravenous immunoglobulin. Anti-D, azathioprine or splenectomy in the second trimester can also be considered. Rituximab has been trialled in severe refractory cases, but evidence for its use and safety profile in pregnancy is lacking. A labour plan should be constructed to facilitate safe delivery, including the avoidance of ventouse, fetal blood sampling, external cephalic version and rotational forceps. The maternal platelet count should be over 75–80 × 109/litre for an epidural.
+
+The differential diagnosis of maternal thrombocytopenia includes thrombotic thrombocytopenic purpura (TTP), which does not cause fetal thrombocytopenia but can cause IUGR and fetal loss. Untreated TTP is associated with 90% maternal mortality. Other causes include HELLP (haemolysis, elevated liver enzymes and low platelets) syndrome, pre-eclampsia, acute fatty liver, haemolytic–uraemic syndrome and conditions resulting in DIC.
+
+Alloimmune disorders
+Haemolytic disease of the newborn (HDN)
+HDN is caused by the transplacental passage of maternal alloantibodies against fetal paternally derived red cell antigens, the mother having been sensitized by previous transfusion or pregnancy. This can lead to haemolysis of fetal red cells, causing anaemia and, in severe cases, hydrops and fetal death.
+
+In the UK, all pregnant women are tested for alloantibodies at booking and at 28 weeks (see Further reading). If anti-D, anti-c or anti-K is detected, quantitative monitoring is required on a monthly and then fortnightly basis, with prompt referral to fetal medicine depending on quantification or previous history of HDN. Other clinically significant antibodies should also be excluded or, if present, assessed by titration at the booking appointment and at 28 weeks' gestation. If deemed necessary based on a high titre (>1:32) and/or past history of HDFN, referral to a fetal medicine specialist should be made for further assessment. Maternal free fetal DNA testing enables determination of fetal genotype for the red cell antigens D, c, K and E.
+
+Fetal ultrasonography, incorporating middle cerebral artery Doppler scanning to screen for fetal anaemia, has replaced invasive techniques such as amniocentesis and has revolutionized the management of affected pregnancies, guiding the need to undertake intrauterine transfusion.
+
+Prevention of sensitization
+In the 15% of women who are rhesus D-negative, sensitization can be prevented by giving intramuscular anti-D within 72 hours after potential sensitizing events such as termination of pregnancy, threatened miscarriage, abdominal trauma, chorionic villus sampling, amniocentesis or delivery. A dose of 250 IU is sufficient for events before 20 weeks, but from 20 weeks a minimum of 500 IU is required and covers a 5 ml fetomaternal haemorrhage. From 20 weeks, a Kleihauer test or flow cytometry should be requested to quantify the haemorrhage and determine whether an additional dose is required.
+
+The National Institute for Health and Care Excellence recommends that all rhesus D-negative women should be routinely offered 500 IU of anti-D at 28 and 34 weeks of pregnancy. Some units give 1500 IU at 28 weeks, which is effective, is more convenient and improves compliance.
+
+Although routine antenatal anti-D prophylaxis has substantially reduced the number of cases of HDN, there are still new cases of sensitization to rhesus D each year, mostly because of non-compliance with the national guidelines or occult feto-maternal haemorrhage occurring before 28 weeks.
+
+A further application of maternal free fetal DNA testing is a screening test at 16 weeks to predict fetal D genotype; this enables unnecessary antenatal anti-D to be avoided in women carrying rhesus D-negative fetuses.
+
+Neonatal alloimmune thrombocytopenia
+In neonatal alloimmune thrombocytopenia, the mother produces antibodies against paternally derived antigens, which are expressed on fetal platelets, usually HPA-1a or 5b.5 It is one of the most common causes of severe thrombocytopenia in the neonate, affecting 1 in 2000 births. Around 50% of cases occur in the first pregnancy, as opposed to HDN, where the first baby is usually unaffected.
+
+The diagnosis is suspected if the neonate has bruising, purpura or an unexpectedly low platelet count after delivery. Other complications include intracranial haemorrhage, fetal anaemia and recurrent late miscarriage. Fortunately, the vast majority of cases are uneventful, but in 20%, long-term neurological sequelae are seen, and 10% of cases are fatal. If the neonatal platelet count is below 30 × 109/litre or there is significant neonatal bleeding, platelet transfusion is required. Ideally, this should be HPA-compatible, but if this is not possible, random platelets can be used, although these have lower efficacy and survival.
+
+The diagnosis is confirmed by laboratory testing of both parents and has implications for future pregnancies, requiring careful counselling. Maternal treatment with intravenous immunoglobulin with or without corticosteroids is required in subsequent pregnancies.5

@@ -1,0 +1,93 @@
+Abstract
+Given the complexities of the transitioning process, transgender individuals may face unique dermatologic needs in addition to routine care. Exogenous hormones affect hair and sebum production, gender-confirming surgeries often require dermatologic pre- and postoperative interventions, and postoperative anatomy may show unique presentations of routine skin conditions. Aesthetic techniques that are often used for rejuvenation may have a role in facial feminization and masculinization and unfortunately are too frequently performed by nonmedical personnel with negative consequences. Ultimately, physicians should strive to make their office a more accommodating environment for transgender individuals.
+
+Previous article in issueNext article in issue
+Key words
+transgenderdermatologyLGBTskinprocedures
+Introduction
+As the United States grows to recognize the successes and struggles of transgender individuals, health care providers are discovering their roles in the care for transgender patients. Physicians must understand how they can help in the transitioning process and continue with optimal follow-up care. This article aims to highlight critical aspects in transgender individuals’ physical transitions and how these experiences impact dermatologic needs (Table 1). In this article, transgender women (i.e., women who were assigned the sex “male” at birth) will be identified as women and similarly with transgender men. Care of individuals who do not define themselves within the gender binary, similar to those who do, reflects the medical and surgical choices they opt to make.
+
+Table 1. Summary of dermatologic aspects of transgender care
+
+Hormone-associated changes
+•
+Transgender women and estrogens
+°
+Sebum production reduces and potentially leads to xerosis.
+
+°
+Body hair is reduced but not to zero. Hair removal is often desired.
+
+
+•
+Transgender men and testosterone
+°
+Sebum production increases and potentially leads to severe acne vulgaris.
+
+°
+Testosterone may induce male-pattern hair loss.
+
+
+Surgery-associated changes
+•
+Top surgery: breast augmentation (women) or removal (men)
+°
+Postoperative scars can be minimized to prevent stigmatization.
+
+
+•
+Bottom surgery: construction of neogenitalia
+°
+Neovaginal condyloma and carcinomas have been described.
+
+°
+Preoperative hair removal may be required before vaginoplasty or phalloplasty.
+
+
+Procedures for facial transformation
+•
+Neurotoxin and aesthetic fillers can be used to feminize or masculinize the face.
+
+•
+There is currently a high rate of facial procedures that are performed by nonmedical personnel with poor outcomes.
+
+Other aspects of transgender care
+•
+HIV and other sexually transmitted infections are more prevalent in the transgender population.
+
+•
+Care should be taken to make offices a more inclusive environment.
+
+Hormone supplementation
+The first medical step in the transition process for many transgender individuals is hormone supplementation, which has notable effects on skin and hair. Women most commonly take estrogens and specifically estradiol, often in conjunction with an antiandrogen (i.e., spironolactone or a 5-alpha reductase inhibitor; Spack, 2013). Estrogens rapidly and persistently reduce sebum production (Giltay and Gooren, 2000). Although no direct association with skin pathology has been reported, women who are already prone to xerosis, including atopics and the elderly, may experience increased pruritus and eczematous changes. Estrogens also lead to a reduction in quantity and density of body hair, which is often a desired effect. However, there is typically not a complete elimination of facial hair. Notably, facial laser hair removal has been reported as the most common transition-related procedure, including surgeries, that is performed on transgender women (Ginsberg et al., 2016). Topical eflornithine and electrolysis may also be options for epilation for interested women.
+
+Men who take hormonal supplementation use one of many formulations of testosterone (Spack, 2013). Contrary to treatment with estrogens, there is often a significant increase in sebum production (Giltay and Gooren, 2000). In addition, severe acne has been observed in this population, especially upon initiation of the therapy (Turrion-Merino et al., 2015; Wierckx et al., 2014). Although topical agents and oral antibiotic medications remain first-line treatments for testosterone-induced acne, many transgender men ultimately require isotretinoin. Unfortunately, these men are faced with a potential barrier to care from iPledge, the U.S. Food and Drug Administration-mandated program that was developed to reduce fetal exposure to isotretinoin (U.S. FDA, 2012). Currently, physicians must register patients by sex assigned at birth rather than by childbearing potential alone. Consequently, asking a transgender man to register as a female is often psychologically unsettling for the patient, uncomfortable for the provider, and unfortunately a reason why many patients ultimately do not start this beneficial acne treatment. Calls for change of this registration process have appeared recently in medical literature (Katz, 2016; Rieder et al., 2016; Yeung et al., 2016).
+
+Testosterone also causes an increase in body hair, which is often desired but conversely also drives male-pattern hair loss (Giltay and Gooren, 2000). Topical minoxidil is a great therapeutic option and has no likely interactions with hormonal treatment. However, use of finasteride for treatment of this population is controversial. Appropriate dosing has not been studied in this population; therefore, it is unclear whether patients would require the standard 1-mg dosage similar to their cisgender male counterparts or the 5-mg dosing that is often necessary for cisgender women with androgenetic alopecia (Kelly et al., 2016). In addition, oral finasteride may block the development of wanted secondary physical features, including voice change, body hair and composition, and clitoromegaly. Therefore, it is important to ensure that all desired changes are complete before the initiation of treatment with finasteride, which is frequently after 2 years of testosterone use.
+
+Gender confirmation surgery
+In addition to hormonal supplementation, many individuals undergo one or more gender-affirming surgical procedure (Colebunders et al., 2016). “Top surgery” involves the enhancement or removal of the breasts of women and men, respectively. Resultant surgical scars, especially after mastectomy, are often so profound and distinct that they hinder the man’s ability to “pass” as their identified gender when topless. Treatment options include laser and light sources, radiofrequency devices, and injectables such as corticosteroid medications, depending on whether the scars are atrophic, hypertrophic/keloidal, or erythematous (Khansa et al., 2016).
+
+“Bottom surgery” involves the modification of one’s current genitalia to look and function like those that are congruent with their identified gender (Colebunders et al., 2016). In the United States, vaginoplasty most commonly involves penile and/or scrotal skin that is used to line the neovagina with a portion of the glans penis becoming the neoclitoris and the testicles being removed. With this cutaneous vaginal lining, routine dermatologic conditions may develop both externally and internally. Multiple cases of condyloma have been reported in transgender women, including one case of condyloma gigantea (Liguori et al., 2004; Wasef et al., 2005; Yang et al., 2009). Consequently, cases of neovaginal carcinoma (both HPV- and non–HPV-associated; Fernandes et al., 2014; Harder et al., 2002) have also been reported. Therefore, an internal examination may be recommended for these individuals, especially with a history of external condylomata. Given the anatomic difference from a natal vagina, an anoscope may be more appropriate than a speculum for this procedure.
+
+Men who undergo bottom surgery have two primary options for the construction of a penis. With metoidioplasty, the enlarged clitoris (from testosterone use) is detached from the labia minora and suspensory ligaments to create a 1- to 3-inch penis that is able to become erect, sometimes with the urethra extended for standing urination, and sometimes with a scrotoplasty made from the labia majora. This highlights the importance of delaying finasteride in patients who may undergo this procedure to obtain the maximum length and girth of the clitoris. Alternatively, with phalloplasty, an average-sized penis is constructed from either adjacent (thigh, abdomen) or distant (forearm) tissue. In both metoidioplasty and phalloplasty, the natal vagina is maintained and hysterectomy is optional.
+
+Both women who undergo vaginoplasty and men who undergo phalloplasty may require preoperative hair removal of the donor site. Women can develop hairballs in their neovagina, which subsequently have to be removed or act as foreign bodies. No method currently exists for postoperative, intravaginal hair removal. Pre-procedure epilatory options include laser hair removal and electrolysis. Men could continue with hair removal on the neophallus after the procedure.
+
+Procedures for facial transformation
+An emerging role for dermatologists in the physical transformation of transgender patients, and particularly of women, pertains to facial transformation (Ginsberg et al., 2016). In fact, when transgender women were asked what they would change first (face, chest, or genitalia) if money was not a factor, the face was chosen the most. Conversely, men chose the chest.
+
+The female and male face differ in many key aspects. A feminine face has a flatter forehead, arched eyebrows, eyes that are more open, a smaller nose, prominent cheeks, a more obtusely angled jaw, a smaller pointed chin, and fuller lips. Surgery may be a great option for individuals who want to enhance these structures but for many people, these procedures are too costly or invasive, or they may not have access to physicians who perform such procedures or simply do not want to undergo the surgery (Altman, 2012; Becking et al., 2007).
+
+The primary noninvasive options for facial remodeling include neurotoxins and fillers. Neurotoxin in the upper face can give the appearance of a flatter forehead and eyes that are more open and strategic placement can give the eyebrows a more angled shape. Neurotoxin can also be injected in the masseter of individuals with considerable mass, which may give a more heart-shaped appearance of the face. Cosmetic fillers can be useful for mid- and lower-face remodeling, especially in the adjustment of the contours of the cheeks and chin and in giving more volume to the lips.
+
+Unfortunately, due to a myriad of reasons including high cost and limited access, many transgender women seek these treatments from nonmedical personnel (Wilson et al., 2014). In many instances, nonsterile techniques are used, and—worse—nonmedical grade substances such as cement and glue have been injected in women (Murray, 2011). Several cases have been reported with granulomatous reactions, lymphatic and vascular compromise, serious infections, and death as a consequence of these practices (Hage et al., 2001; Styperek et al., 2013). Therefore, physicians must not only provide a more accessible alterative but also be prepared to manage these complications.
+
+Other aspects of transgender care
+The dermatologic care of transgender individuals is not limited to aspects of the transition alone. Transgender women, for example, have a higher incidence of sexually transmitted infections and HIV, which present with identifying or associated dermatologic manifestations (CDC, 2013). Regardless, the majority of dermatologic care centers provide care for routine skin conditions such as psoriasis and rosacea or aesthetic rejuvenation rather than strictly improve the alignment of appearance with identity.
+
+Dermatologists and other physicians should strive to make their practices a more inclusive environment (Katz and Furnish, 2005). Individuals should have the option to write in their gender on the intake form because some may not define themselves under the standard binary system (i.e., identifying as “genderqueer”). Once gender has been defined, proper pronoun use should be applied when referring to the patient, not only in the room with them but also in other office areas and in patient notes. In general, if anything is unclear, it is best to ask the patient, such as asking “What is your preferred pronoun?” No assumptions should be made about the patient’s experiences with or desires to be on hormones or undergo surgery because not all transgender individuals want these.
+
+Assumptions should also not be made about sexual practices because gender identity and sexual orientation are completely unrelated. Finally, providers should be comfortable to admit when they do not have much experience with the medications and procedures that are associated with transitioning and it is best to ask the patient in a genuine and respectful way rather than ignore the issue. Ultimately, the more comfortable physicians are in asking patients about these topics, the stronger their relationship will become, the more knowledge they will gain, and the better the care they provide will be.
+
+References

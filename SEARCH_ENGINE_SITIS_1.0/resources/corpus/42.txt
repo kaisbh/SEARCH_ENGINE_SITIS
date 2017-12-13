@@ -1,0 +1,288 @@
+Abstract
+Study Objective
+
+To determine the effectiveness of a new pediatric and adolescent gynecology (PAG) curriculum for improving obstetrics/gynecology resident physician knowledge and comfort level in patient management and to describe the current deficiencies in resident physician knowledge and comfort level in PAG.
+
+Design
+
+A PAG curriculum was implemented for the obstetrics/gynecology resident physicians (n = 20) at the University of South Florida in July 2013. Before and after the curriculum was introduced, resident physicians and recent graduates of the residency program completed a survey to assess their comfort level and a knowledge assessment consisting of 20 case-based questions.
+
+Setting
+
+University-based residency program.
+
+Participants
+
+Resident physicians and recent resident physician graduates in the Department of Obstetrics and Gynecology.
+
+Interventions
+
+Introduction of a PAG curriculum during the 2013-2014 academic year.
+
+Main Outcome Measures
+
+Improvement in resident physicians' comfort level and knowledge in PAG.
+
+Results
+
+After the curriculum was introduced, comfort increased in examining the genitals of a pediatric gynecology patient (median difference = 1.5; P = .003) and history-taking, physical examination skills, and management (median difference = 1; P = .002) compared with before the curriculum. There was no significant difference in overall quiz score (15.5 ± 1.87 vs 15.8 ± 1.3; P = .78).
+
+Conclusion
+
+A curriculum in PAG did improve resident comfort level in managing PAG patients, but did not significantly improve knowledge of this topic.
+
+Previous article in issueNext article in issue
+Key Words
+AdolescentCurriculumGynecologyInternship and residencyPediatrics
+Introduction
+Traditionally, pediatric and adolescent gynecology (PAG) has not been a major focus in the curriculum of obstetrics and gynecology residency programs, possibly because there is no single medical specialty that “owns” these patients and consistently treats their conditions. In the past, general surgeons, general pediatricians, pediatric surgeons, pediatric urologists, adolescent medicine specialists, and gynecologists have provided care for pediatric and adolescent patients with gynecologic issues. Solomon et al surveyed obstetrics and gynecology residency program directors in 2012.1 Program directors from 104 of 242 (104/242 = 43%) residency programs responded to the authors' survey and 63% (65/104) of program directors reported they did not have a formal, dedicated PAG clinic and 83% (86/104) did not have an outpatient PAG rotation. Moreover, 58% (60/104) of residency program directors reported that their resident physicians spend less than 4 hours in dedicated didactics learning PAG. PAG was taught by general gynecology faculty in 77% (80/104) of programs. These authors concluded that residency programs without fellowship-trained PAG faculty or an established PAG fellowship program might lack formal training and clinical exposure to PAG.1 Similar to many other residency programs, no outpatient PAG rotation, PAG clinic time, or curriculum existed for the University of South Florida (USF) obstetrics/gynecology (OB/GYN) residents before initiation of this study.
+
+The Council on Resident Education in Obstetrics and Gynecology (CREOG) identifies PAG as part of their core curriculum. The 10th edition of the CREOG Educational Objectives2 cites several specific categories within PAG vital to a residency curriculum, including pediatric gynecology, adolescent gynecology, precocious puberty, delayed puberty, and developmental anomalies of the urogenital tract. Several authors have recommended integration of a PAG curriculum into all obstetrics and gynecology residency programs.1,3–8
+
+The objectives of our study were to determine the effectiveness of a new PAG curriculum to improve OB/GYN resident physicians' comfort level and knowledge in pediatric/adolescent patient management and to describe the current deficiencies in our residents physicians' comfort level and knowledge in PAG.
+
+Materials and Methods
+The USF Morsani College of Medicine institutional review board approved this study before beginning the study. A PAG curriculum (Table 1) was developed by the authors and introduced during the 2013-2014 academic year for OB/GYN resident physicians at the USF Morsani College of Medicine. USF does not have a PAG fellowship, however, a PAG outpatient clinic was opened by 2 of the generalist faculty and authors of this paper (D.M.P. and S.W.H.) in October 2012. This clinic provides a range of gynecological services for pediatric and adolescent patients, including evaluation for menstrual irregularities, pelvic pain, contraception counseling and education, human papillomavirus vaccination, intrauterine device and etonogestrel implant insertion, sexually transmitted disease testing, and minimally invasive surgeries. The resident physician curriculum for this study consisted of a lecture series of 3 hour-long didactic lectures during the course of the 2013-2014 academic year. These lectures covered PAG material from the 10th edition of CREOG educational objectives. Lecture 1 reviewed basic PAG topics such as how to structure the adolescent interview, the initial reproductive health visit, Tanner stages, cervical cancer screening recommendations, human papillomavirus vaccination, and contraception management. The second lecture material included the menstrual cycle in adolescent patients and topics such as normal menses, polycystic ovarian syndrome, menorrhagia, and menstrual manipulation for adolescents with disabilities. Lecture 3 included the following topics: vulvar disease, prepubertal vaginal bleeding, vaginal discharge, sexually transmitted infections, sexual abuse, and developmental anomalies of the urogenital tract. Several other PAG topics such as ovarian cysts in this age group, precocious puberty, and delayed puberty were reviewed in other didactic sessions during this time frame and were not repeated. Moreover, a postgraduate year 4 (PGY-4)-level resident physician began attending the USF PAG clinic regularly during the 2013-2014 academic year.
+
+Table 1. Pediatric Adolescent Gynecology Curriculum Elements
+
+1.
+Pediatric adolescent gynecology outpatient clinic experience
+
+2.
+Lecture series of 3 didactic lectures, including topics:
+A.
+Interview and examination basics, initial reproductive health visit, Tanner staging, cervical cancer screening, human papilloma virus vaccination, contraception management
+
+B.
+Menstrual cycle, polycystic ovarian syndrome, menorrhagia menstrual manipulation for adolescents with disabilities
+
+C.
+Vulvar disease, prepubertal vaginal bleeding, vaginal discharge, sexually transmitted infections, sexual abuse, developmental abnormalities of the urogenital tract
+
+
+3.
+American Society for Reproductive Medicine online modules
+A.
+Pediatric gynecology
+
+B.
+Adolescent gynecology
+
+
+4.
+Pediatric gynecology interview and examination simulation experience
+
+Resources used to prepare the lectures included the textbook Emans, Laufer and Goldstein's Pediatric and Adolescent Gynecology, sixth edition and American College of Obstetricians and Gynecologists Guidelines for Adolescent Healthcare, second edition.9,10 Resident physicians were encouraged to complete 2 American Society for Reproductive Medicine online modules: (1) Pediatric Gynecology; and (2) Adolescent Gynecology.11 Resident physicians rotating on the gynecology inpatient service attended all surgical cases generated from the PAG clinic. Additionally, resident physicians completed a simulation activity, which consisted of a faculty member playing the part of a parent and a pelvic model for the child. A script and scenario script published by Loveless et al was used for this simulation experience.4
+
+Subjects included in this study were all resident physicians in the USF OB/GYN residency and physicians who graduated the year before the start of the new curriculum. An online survey and quiz were completed by these residents and recent graduates at the start of the academic 2013-2014 year. At the end of this academic year the same survey and quiz were given to the USF OB/GYN resident physicians who had been exposed to the new curriculum.
+
+The survey (Table 2) and the quiz (see sample question from quiz in Table 3) were distributed separately to the USF OB/GYN residents using e-mail and were completed anonymously. The survey consisted of questions about the resident physicians' comfort level relating to PAG and the quiz was composed of questions regarding knowledge of basic PAG topics. The survey and quiz were distributed via e-mail approximately 2 weeks apart. The resident physicians were sent 1 reminder e-mail for the survey and 1 e-mail reminder for the quiz. Completed surveys or quizzes were not linked to individual resident physicians. All resident physicians were exposed to the same didactic and clinical experiences regardless of their participation in this study. The survey questions were chosen on the basis of the 10th Edition CREOG objectives for PAG (using a Likert scale of 1-5, where 1 = not at all comfortable and 5 = very comfortable) and the quiz was on the basis of cases obtained from an online resource: PAG WebEd.12
+
+Table 2. Survey Questions
+
+1.
+Do you feel comfortable obtaining history for a pediatric gynecology patient (birth to menarche)?
+
+2.
+Do you feel comfortable examining the genitals of a pediatric gynecology patient (birth to menarche), for example, different examination positions?
+
+3.
+Do you feel comfortable obtaining history from the adolescent gynecology patient (age 13-18) accompanied by their parent/guardian?
+
+4.
+Do you feel comfortable obtaining history from the adolescent gynecology patient (age 13-18) NOT accompanied by their parent/guardian?
+
+5.
+Do you feel comfortable doing an adolescent patient's first ever pelvic examination (speculum and bimanual)?
+
+6.
+Do you feel capable of counseling a patient/family about long-term prognosis and reproductive effects of specific medical conditions?
+
+7.
+Do you feel capable of performing a forensic examination to evaluate sexual abuse?
+
+8.
+Do you feel capable of interpreting results of tests to evaluate precocious puberty?
+
+9.
+Do you feel capable of describing major developmental anomalies of the urogenital tract?
+
+10.
+Do you feel capable of describing the principal causes of delayed puberty?
+
+11.
+Do you feel capable of determining when to do an adolescent patient's first ever pelvic examination (speculum and bimanual)?
+
+12.
+Do you feel capable of performing a diagnostic laparoscopy on an adolescent?
+
+13.
+Do you feel capable of performing a vaginoscopy?
+
+14.
+Would you like more training in pediatric and adolescent gynecology?
+ Yes
+
+ No
+
+ Maybe
+
+
+Table 3. Sample Quiz Question
+
+Case 1
+You are called to the NICU for consultation for the incidental finding of a 2.6-cm ovarian cyst in a 2 and 1/2-week-old infant. The infant was born at 30 weeks gestation and since birth, she has been undergoing workup for concerns with urinary output. A renal ultrasound noted a 2-cm simple right ovarian cyst.
+
+The parents are unavailable at the time of your visit to the NICU.
+
+Medical history: Grade 1 intraventricular hemorrhage, respiratory distress syndrome.
+
+Surgical history: None.
+
+Allergies: None.
+
+Medicines: None, s/p surfactant administration × 1 at birth.
+
+Social history: Born to parents age 31 and 34, has 1 older sister.
+
+Family history: Noncontributory.
+
+Physical examination
+Vitals: Temperature = 98.9°F, pulse = 136, respirations = 32, blood pressure = 80/50, weight = 3 pounds 9 oz, height = 16 inches
+
+General: Under the bilirubin lamp for mild jaundice (per the nurses notes), sleeping.
+
+CVS: Regular rate and rhythm.
+
+Lungs: Clear to auscultation bilaterally.
+
+Breast: Tanner 1, symmetric, no masses.
+
+Abdomen: Normal bowel sounds, soft, nontender, nondistended.
+
+Pelvic: Tanner 1, normal external female genitalia. No vulvar discharge or bleeding noted but vulva appears mildly estrogenated. Hymen appears intact and patent. Internal examination is deferred.
+
+Imaging
+Ultrasound Report: Incidentally on renal ultrasound a neonatal cyst was noted. The 2 smaller cysts (termed “daughter cysts”) at the margin of the larger cyst confirmed that these cysts are ovarian in nature.
+
+Questions
+1.
+Which of the following is the most optimal method of treatment for the patient?
+A.
+Expectant management
+
+B.
+Obtain tumor markers
+
+C.
+Hormonal management with estrogen to allow for resolution of the cyst
+
+D.
+CT-guided aspiration of the cyst
+
+E.
+Laparoscopic cystectomy
+
+
+2.
+That evening you return and discuss the treatment options with the parents and they desire expectant management for the neonatal cysts. Which of the following represents the most optimal time frame for repeat imaging on this patient?
+A.
+1 Week
+
+B.
+1 Month
+
+C.
+3 Months
+
+D.
+6 Months
+
+
+3.
+The mom is requesting further information as to the cause of this neonatal cyst. Which of the following is the most appropriate answer?
+A.
+Endogenous fetal estrogen caused the cyst
+
+B.
+Maternal hormones caused the cyst
+
+C.
+The cyst is likely a congenital defect
+
+D.
+The cyst is likely due to a syndrome and congenital uterine malformations need to be excluded
+
+
+CT, computed tomography; CVS, cardiovascular system; NICU, neonatal intensive care unit
+
+
+SPSS software (IBM SPSS Statistics for Windows, version 22.0; IBM Corp, Armonk, NY) was used to analyze the data. Descriptive statistics were reported as means and SDs for continuous variables and as frequencies and percentages for categorical variables. The Wilcoxon rank sum test was used to compare these relationships.
+
+Results
+Current resident physicians (n = 19) and recent graduates (n = 5) of the residency program were invited to participate in the survey regarding comfort level (n = 24). Of the 24 invited participants, 7 participants (7/24 = 29.2%) completed the comfort level survey in June 2013 before the implementation of the new PAG curriculum. In June 2014, 8 of the 19 current resident physicians (8/19 = 42.1%) completed the comfort level survey at the conclusion of the PAG curriculum implementation. A significant increase in comfort level in examining the genitals of a pediatric gynecology patient (median difference = 1.5; P = .003) and an increased comfort in history-taking, physical examination skills, and management on the basis of overall survey responses to all questions (median difference = 1; P = .002) was observed after the curriculum was implemented compared with before the curriculum was implemented. Additionally, residents had the lowest comfort level performing a forensic examination to evaluate for sexual abuse (question 7) even after the curriculum. All resident physicians stated that they were unable to complete the forensic examination or only able to complete the examination with lots of assistance (Table 4).
+
+Table 4. Survey Results
+
+Question Number	2013 (n = 7)	2014 (n = 8)	P
+1	3.43 ± 1.27	3.75 ± 0.89	.54
+2	2.28 ± 0.49	3.75 ± 0.89	.003
+3	3.86 ± 0.89	4.25 ± 0.89	.39
+4	4.43 ± 0.98	4.38 ± 0.92	.83
+5	3.43 ± 0.79	3.88 ± 0.99	.46
+6	2.71 ± 0.76	3.25 ± 1.04	.30
+7	1.71 ± 0.76	1.88 ± 0.64	.61
+8	3 ± 0.58	3.25 ± 0.89	.63
+9	3 ± 0.82	2.88 ± 1.13	.62
+10	3.14 ± 0.69	3.63 ± 0.74	.25
+11	3.14 ± 0.69	3.88 ± 0.83	.11
+12	3.29 ± 0.76	3.75 ± 0.71	.13
+13	2.71 ± 0.95	3.5 ± 0.53	.08
+14			
+ Maybe	1 (14.3)	0 (0)	1
+ No	0 (0)	1 (12.5)	
+ Yes	6 (85.7)	7 (87.5)	
+Overall question 1-13	3.09 ± 1	3.54 ± 1.02	.002
+Survey results from 2103 and 2014 were compared.
+
+(using a Likert scale of 1-5 where 1 = not at all comfortable and 5 = very comfortable).
+
+
+The survey conducted at the conclusion of the 2013-2014 academic year included several questions regarding the curriculum. One such survey question asked the resident physicians to choose the most helpful part of the curriculum. All resident physicians (8/8 = 100%) responded that the lectures were the most helpful portion of the new curriculum. When asked if they would like more training in PAG, 7 of 8 resident physicians responded yes (7/8 = 87.5%). When asked how many premenarchal gynecology patients they had seen during residency training, a single PGY-4 resident physician (1/8 = 12.5%) responded between 5 and 10 patients; all other residents responded less than 5 patients (7/8 = 87.5%). A single resident physician (1/8 = 12.5%) completed the 2 American Society for Reproductive Medicine online modules. When asked if they attended our PAG clinic, 2 of 8 (2/8 = 25%) resident physicians responded they had attended. All 19 resident physicians (19/19 = 100%) attended more than 1 PAG lecture. Of the 19 eligible resident physicians, 11 participants (11/19 = 57.9%) completed the pediatric gynecology examination simulation. Resident quiz scores before the curriculum ranged from 13 to 18 of 20 (13/20-18/20 = 65%-90%) questions correct (Table 5). Quiz scores after the curriculum was implemented ranged from 15 to 18 of 20 (15/20-18/20 = 75%-90%) questions correct (Table 6). There was a slight nonsignificant increase in the overall quiz score (15.5 ± 1.87 vs 15.8 ± 1.3; P = .78).
+
+Table 5. Quiz Results June 2013
+
+Resident	Postgraduate Year	Correct (n = 20 Questions)
+n	%
+1	Graduated from residency	18	90
+2	3	14	70
+3	3	15	75
+4	2	13	65
+5	2	16	80
+6	1	17	85
+Table 6. Quiz Results June 2014
+
+Resident	Postgraduate Year	Correct (n = 20 Questions)
+n	%
+1	4	15	75
+2	3	18	90
+3	2	15	75
+4	2	16	80
+5	1	15	75
+Discussion
+PAG clinical knowledge and examination skills are an important area in the curriculum of OB/GYN resident physicians. The current CREOG objectives2 deem PAG topics as a portion of essential skills necessary to acquire during residency training. Duty-hour restrictions and a limited number of PAG patients makes a curriculum in PAG a valuable tool to the acquisition of this skill set. The authors of this research study believe passionately that resident physicians should be able to learn to care for this vulnerable population during residency when they routinely have oversight by more experienced physicians.
+
+Our curriculum in PAG did improve resident comfort level in managing these patients, but did not significantly improve knowledge. On the basis of survey results, comfort level increased in history-taking, physical examination skills, and management of these patients overall from the start to the conclusion of this study. Comfort level in the gynecologic examination of the pediatric patient also improved significantly, which is not surprising because this topic was the focus of the simulation activity. The least improvement was observed in the comfort level of performing a forensic examination to evaluate for sexual abuse, suggesting an area needing more coverage in the residency curriculum in the future.
+
+Limitations of this study include the small sample size of residents and completion rate of all aspects of this new curriculum. Our sample size was too small to detect differences in survey or quiz results according to postgraduate year level of the resident physicians. Moreover, a small response rate was observed with only 25%-40% (6/24-8/19) of resident physicians completing any individual quiz or survey. Because of the anonymous nature of the responses (except for the postgraduate year) we were not able to compare an individual resident physician's results before and after the curriculum was implemented. In addition, several components of the curriculum were optional and often a small number of resident physicians participated. Lectures and the pediatric gynecology examination simulation were mandatory, but resident physicians on the night float rotation were excused from these activities. The American Society for Reproductive Medicine online modules11 were not mandatory. Scheduling restraints of the residency program rotations only allowed for PGY-4 resident physicians to attend the PAG clinic, which was optional for them as well. Had all of the components of the curriculum been mandatory then our curriculum might have been even more effective at increasing comfort level and knowledge base in PAG.
+
+The strengths of this study include the novelty of the curriculum and consistency of the lecture material. A PAG curriculum and faculty-staffed clinic did not exist at our institution before conducting this study. The novelty of the material and the clinic provided an opportunity to study residents' knowledge and comfort level before introducing a curriculum and as well as after the introduction of the curriculum and clinic experience. One author (D.M.P.) gave most of the lectures and conducted the simulation exercise. Another faculty member in the department of pediatric endocrinology gave the lectures on precocious and delayed puberty. This consistency in faculty allowed a uniform curriculum to be introduced to our resident physicians.
+
+Our study results support the findings of previous studies by Korczak et al7 and Huguelet et al13 in that OB/GYN residents deem themselves not fully prepared to treat the pediatric and adolescent population and desire more training in PAG.7 Our residents are exposed to small numbers of these patients over the course of their 4 years of residency training and there is definitely a role for a curriculum to ensure resident competency in this clinical area.
+
+Several studies have evaluated various methods of teaching the PAG curriculum and have used novel techniques, such as computer-based learning tools and simulation.4–6,8,14 Studies of the Web-based curriculum have shown that these techniques can increase overall PAG knowledge and are a reliable method to teach this subject matter.5,6 Simulation training has the advantage of re-creating clinical scenarios that might not occur very frequently in daily resident physician training programs and has been used successfully to enhance resident training in PAG. Loveless et al reported that a simulation program is an effective teaching method for teaching the pediatric gynecology examination and procedures to residents.4 Dumont et al used simulated clinical stations to teach history-taking, examination, operative skills, and the general approach to the child and adolescent.8 Their resident physicians deemed the simulation experience an effective tool to acquire PAG clinical experiences.8 Damle et al reported that residents who never had a formal PAG rotation but were exposed to simulation scored as well as or better than residents with formal clinical training in the subspecialty, showing value in using a simulation-based teaching curriculum.15 The North American Society for Pediatric and Adolescent Gynecology has disseminated a “Short Curriculum” and a “Long Curriculum” for residents with specific learning objectives and a list of essential resources for PAG education.16,17 Our study used several of the components of the Short and Long Curriculum including resources such as textbooks, online modules, and simulation. Huguelet et al recently showed that that the Short Curriculum improved resident physicians' self-reported knowledge of PAG in programs without PAG-trained faculty.13
+
+In conclusion, our study did improve resident comfort level in managing these patients, but did not significantly improve knowledge. This study provides an example of a curriculum design that might be used for OB/GYN residents with the caveat that making curriculum components mandatory will likely yield even better results.
+
+Supplementary Data

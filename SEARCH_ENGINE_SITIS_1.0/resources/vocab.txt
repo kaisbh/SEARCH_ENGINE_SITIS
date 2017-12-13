@@ -4,9 +4,9 @@ Dermatology:dermatology,abscess,artophy,atypical,bulla,cyst,dysplasia,ecchymosis
 Endocrinology:endocrinology,acromegaly,adrenal,albumin,adrenocorticotropin,androgens,cholesterol,calcitonin,cortisol,diabetes,estradiol,estrogen,glucagon,gonads,gynecomastia,hirsutism,hormone,hypogonadism,insulin,kalmann,orchitis,ovaries,testosterone
 Ophtalmology:ophtalmology,accomodation,amblyopia,aphakia,aqueous,astigmatism,bifocals,binocular,blepharitis,blind,cataract,retinal,vision,eye,choroid,color,cone,conjunctivitis,cornea,diopter,ectropion,estropia,hyperopia,hyphema,iris,keratoconus,laser,myopia,optic,perimetry,retina,visual
 Gastroenterology:gastroentrelogy,air,barium,anal,anastomosis,aneurysm,angiogram,anus,appendectomy,appendicitis,appendix,ascites,banding,barium,cholecystitis,cirrhosis,colitis,colon,constipation,diarrhea,digestive,diverticulitis,edema,esophagus,fecal,fistula,gas,gastric,gastrectomy,hemorrhoids,ileocolectomy,jaundice,intestinal,nausea,rectum,stoma,trocar,vomiting
-Gyneacology:gyneacology
-Hematology:hematology
-Neurology:neurology
-Oncology/Cancerology:cancerology,oncology
-Psychiatry:psychiatry,dementia
-Rheumatology:rheumatolog
+Gyneacology:gyneacology,afterbirth,afterpains,anaemia,antenatal,areola,cervix,colostrum,cervix,contraction,diamorphine,dialation,embryo,entonox,epidural,episiotomy,fetal,fundus,jaundice,labour,oedema,oxytocin,perineum,postnatal,uterus,vagina
+Hematology:hematology,allogenic,anemia,anticoagulant,antigen,autologous,basophil,blood,capillaries,vein,eosinophil,ferritin,fibrin,granulocyte,hemoglobin,hemophilia,leukemia,leukocyte,plasma,thrombectomy,venous
+Neurology:neurology,abulia,acalculia,acephalic,afferent,ageusia,agnosia,agraphia,akinesia,alexia,analgesia,anosmia,aphasia,cataplexy,bulbar,bruxism,brust,caudate,cavernoma,nervous,cephalic,cerebral,cerebellum,dementia,delirium,dendrite,neuron,dermatome,demyelination,diaschisis,diplegia,diplopia,dysarthria,dysesthesia,disgraphia,echolalia,glasco,hemianospia,miosis,paralysis,paraplegia,phonophobia,ptosis,
+Oncology/Cancerology:cancerology,oncology,adjuvant,benign,carcinoma,cancer,tumor,colonoscopy,lumpectomy,malignant,mammogram,melanoma,nonmelanoma,metastasis,neodjuvant,oncologist,polyp,lymphoma,hodgkin,radiation,recurrence,stages
+Psychiatry:psychiatry,dementia,abulia,achrommatopsia,illusion,akataphasia,akathisia,alexithymia,alogia,amok,anhedonia,anosognosia,aphemia,autism,delusion,bruxism,catalepsy,catatonia,chorea,confabulation,coprolalia,derailement,dhat,dermatozoenwahn,extracampine,fantasy,jargon,koro,kuru,logoclonia,negativism,palilalia,palinopsia,psychopatology,hallucination,restlessness,retardation,stockholm,synaesthesiae,zoophilia
+Rheumatology:rheumatology,arthrotec,autoimmune,biosphosphonate,calcification,cartilage,cortisone,celebrex,creatinine,crepitus,degenerative,doppler,echinacea,erythema,glucosamine,ibuprofen,interphalangeal,rheumatoid,synthroid,trapezius,trochanter,vioxx,relafen,pseudogout,prednisone,polyarthritis,osteoporosis,organomegaly,nodules,myositis,musculoskeletal,lupus,metatarsal,midtarsal,nsaid,sulfonamide,styloid
