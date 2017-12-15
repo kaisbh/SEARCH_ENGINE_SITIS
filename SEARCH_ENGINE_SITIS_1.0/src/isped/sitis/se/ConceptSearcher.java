@@ -57,7 +57,7 @@ public class ConceptSearcher extends Parametre {
 	// ArrayList<VocabTerm>();
 	public static void main(String[] args) throws Exception {
 
-		ArrayList<DocScored> queryDocList = search("canc");
+		ArrayList<DocScored> queryDocList = search("aortic");
 		
 
 
@@ -276,7 +276,7 @@ public class ConceptSearcher extends Parametre {
 		String[] splittedLigne = null;
 		try {
 			br = new BufferedReader(new FileReader(new File(vocabLocation)));
-			line = br.readLine();
+			//line = br.readLine();
 			while ((line = br.readLine()) != null) {
 				// System.out.println(line.toLowerCase());
 				splittedLigne = line.toLowerCase().split(":");

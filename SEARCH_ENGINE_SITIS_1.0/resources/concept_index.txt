@@ -1,57 +1,61 @@
-1;.\resources\corpus\14.txt;0;cardiology;38.263145
-2;.\resources\corpus\15.txt;1;cardiology;38.10649
-3;.\resources\corpus\16.txt;2;cardiology;45.19673
-4;.\resources\corpus\17.txt;3;oncology/cancerology;37.10007
-5;.\resources\corpus\18.txt;4;oncology/cancerology;21.660421
-6;.\resources\corpus\20.txt;5;oncology/cancerology;42.76762
-7;.\resources\corpus\21.txt;6;oncology/cancerology;13.098967
-8;.\resources\corpus\22.txt;7;endocrinology;31.52062
-9;.\resources\corpus\23.txt;8;endocrinology;38.768185
-10;.\resources\corpus\24.txt;9;endocrinology;67.45029
-11;.\resources\corpus\25.txt;10;hematology;16.740166
-12;.\resources\corpus\26.txt;11;hematology;29.656532
-13;.\resources\corpus\27.txt;12;hematology;30.922485
-14;.\resources\corpus\28.txt;13;oncology/cancerology;23.432453
-15;.\resources\corpus\29.txt;14;oncology/cancerology;62.017685
-16;.\resources\corpus\30.txt;15;dentistry;56.99135
-17;.\resources\corpus\31.txt;16;dentistry;12.041304
-18;.\resources\corpus\32.txt;17;psychiatry;19.933804
-19;.\resources\corpus\33.txt;18;psychiatry;14.761612
-20;.\resources\corpus\34.txt;19;rheumatology;17.680662
-21;.\resources\corpus\35.txt;20;rheumatology;17.53941
-22;.\resources\corpus\36.txt;21;rheumatology;25.378954
-23;.\resources\corpus\37.txt;22;rheumatology;5.6183305
-24;.\resources\corpus\38.txt;23;oncology/cancerology;5.3870473
-25;.\resources\corpus\39.txt;24;endocrinology;21.58533
-26;.\resources\corpus\40.txt;25;gastroenterology;16.781195
-28;.\resources\corpus\42.txt;27;dermatology;14.913229
-29;.\resources\corpus\43.txt;28;endocrinology;18.078516
-30;.\resources\corpus\44gynea.txt;29;oncology/cancerology;29.06369
-31;.\resources\corpus\45gynea.txt;30;oncology/cancerology;25.320385
-32;.\resources\corpus\46dentis.txt;31;dentistry;23.931566
-33;.\resources\corpus\47denst.txt;32;dentistry;22.90825
-34;.\resources\corpus\48denst.txt;33;dentistry;8.385567
-35;.\resources\corpus\49ophtal.txt;34;ophtalmology;8.993015
-36;.\resources\corpus\50ophtl.txt;35;ophtalmology;8.58755
-37;.\resources\corpus\51ophtal.txt;36;oncology/cancerology;19.393387
-38;.\resources\corpus\52hema.txt;37;hematology;28.245539
-39;.\resources\corpus\53hema.txt;38;gyneacology;54.17044
-40;.\resources\corpus\54derma.txt;39;endocrinology;30.14658
-41;.\resources\corpus\Cas_numero (1).txt;40;cardiology;2.6247053
-42;.\resources\corpus\Cas_numero (10).txt;41;hematology;13.43743
-43;.\resources\corpus\Cas_numero (11).txt;42;cardiology;6.0226007
-45;.\resources\corpus\Cas_numero (13).txt;44;gastroenterology;4.0910425
-46;.\resources\corpus\Cas_numero (14).txt;45;cardiology;2.6247053
-47;.\resources\corpus\Cas_numero (15).txt;46;ophtalmology;4.4965076
-49;.\resources\corpus\Cas_numero (17).txt;48;cardiology;5.9848604
-50;.\resources\corpus\Cas_numero (18).txt;49;rheumatology;8.582141
-51;.\resources\corpus\Cas_numero (19).txt;50;gyneacology;3.8033605
-53;.\resources\corpus\Cas_numero (20).txt;52;rheumatology;5.6183305
-56;.\resources\corpus\Cas_numero (5).txt;55;cardiology;4.8053493
-59;.\resources\corpus\Cas_numero (8).txt;58;gastroenterology;4.4965076
-60;.\resources\corpus\Cas_numero (9).txt;59;hematology;8.989985
-61;.\resources\corpus\d1.txt;60;neurology;14.653827
-62;.\resources\corpus\d2.txt;61;hematology;9.731234
-63;.\resources\corpus\d3.txt;62;oncology/cancerology;2.9924302
-64;.\resources\corpus\d4.txt;63;neurology;4.5873475
-65;.\resources\corpus\d5.txt;64;neurology;9.316293
+1;.\resources\corpus\14.pdf;0;cardiologie;38.780712
+2;.\resources\corpus\15.txt;1;cardiologie;38.621532
+3;.\resources\corpus\16.txt;2;cardiologie;45.82204
+4;.\resources\corpus\17.pdf;3;cancérologie ;36.37846
+5;.\resources\corpus\17.txt;4;cancérologie ;36.37846
+6;.\resources\corpus\18.txt;5;cancérologie ;21.707386
+7;.\resources\corpus\20.txt;6;cancérologie ;42.2807
+8;.\resources\corpus\21.txt;7;cancérologie ;12.831323
+9;.\resources\corpus\22.pdf;8;endocrinologie;31.903366
+10;.\resources\corpus\23.txt;9;endocrinologie;39.22678
+11;.\resources\corpus\24.txt;10;endocrinologie;68.22435
+12;.\resources\corpus\25.pdf;11;hématologie;16.85532
+13;.\resources\corpus\26.txt;12;hématologie;29.86056
+14;.\resources\corpus\27.txt;13;hématologie;31.12519
+15;.\resources\corpus\28.pdf;14;cancérologie ;23.43373
+16;.\resources\corpus\29.txt;15;cancérologie ;61.564476
+17;.\resources\corpus\30.txt;16;chirurgie dentaire;57.690865
+18;.\resources\corpus\31.txt;17;chirurgie dentaire;12.193071
+19;.\resources\corpus\32.pdf;18;psychiatrie;20.181301
+20;.\resources\corpus\33.txt;19;psychiatrie;14.944891
+21;.\resources\corpus\34.txt;20;rhumatologie;17.884094
+22;.\resources\corpus\35.txt;21;rhumatologie;17.757177
+23;.\resources\corpus\36.pdf;22;rhumatologie;25.674366
+24;.\resources\corpus\37.txt;23;rhumatologie;5.46404
+25;.\resources\corpus\38.txt;24;cancérologie ;5.46404
+26;.\resources\corpus\39.txt;25;endocrinologie;21.82438
+27;.\resources\corpus\40.txt;26;gastro-entérologie;16.94709
+29;.\resources\corpus\42.txt;28;dermatologie;15.060658
+30;.\resources\corpus\43.txt;29;endocrinologie;18.293148
+31;.\resources\corpus\44gynea.txt;30;cancérologie ;29.049255
+32;.\resources\corpus\45gynea.txt;31;cancérologie ;25.488436
+33;.\resources\corpus\46dentis.pdf;32;chirurgie dentaire;39.708706
+34;.\resources\corpus\47denst.txt;33;chirurgie dentaire;44.28191
+35;.\resources\corpus\48denst.txt;34;chirurgie dentaire;8.492882
+36;.\resources\corpus\49ophtal.pdf;35;ophtalmologie;9.081919
+37;.\resources\corpus\50ophtl.txt;36;ophtalmologie;8.676454
+38;.\resources\corpus\51ophtal.txt;37;cancérologie ;19.644348
+39;.\resources\corpus\52hema.txt;38;hématologie;28.454916
+40;.\resources\corpus\53hema.txt;39;gynécologie;54.77631
+41;.\resources\corpus\54derma.pdf;40;endocrinologie;30.482656
+42;.\resources\corpus\Cas_numero (1).txt;41;cardiologie;2.669157
+43;.\resources\corpus\Cas_numero (10).txt;42;hématologie;13.481707
+44;.\resources\corpus\Cas_numero (11).txt;43;cardiologie;6.111504
+46;.\resources\corpus\Cas_numero (13).txt;45;gastro-entérologie;4.135494
+47;.\resources\corpus\Cas_numero (14).pdf;46;cardiologie;2.669157
+48;.\resources\corpus\Cas_numero (15).txt;47;ophtalmologie;4.5409594
+50;.\resources\corpus\Cas_numero (17).txt;49;cardiologie;10.209258
+51;.\resources\corpus\Cas_numero (18).pdf;50;rhumatologie;8.346458
+52;.\resources\corpus\Cas_numero (18).txt;51;rhumatologie;8.346458
+53;.\resources\corpus\Cas_numero (19).txt;52;gynécologie;3.8478122
+55;.\resources\corpus\Cas_numero (20).txt;54;rhumatologie;5.46404
+58;.\resources\corpus\Cas_numero (5).pdf;57;cardiologie;4.8682137
+60;.\resources\corpus\Cas_numero (7).txt;59;cardiologie;4.135494
+61;.\resources\corpus\Cas_numero (8).txt;60;gastro-entérologie;4.5409594
+62;.\resources\corpus\Cas_numero (9).pdf;61;hématologie;9.107594
+63;.\resources\corpus\d1.txt;62;neurologie;14.028671
+64;.\resources\corpus\d2.pdf;63;hématologie;9.463995
+65;.\resources\corpus\d2.txt;64;hématologie;9.463995
+66;.\resources\corpus\d3.txt;65;cancérologie ;2.9315214
+67;.\resources\corpus\d4.txt;66;neurologie;4.46137
+68;.\resources\corpus\d5.txt;67;neurologie;8.878589

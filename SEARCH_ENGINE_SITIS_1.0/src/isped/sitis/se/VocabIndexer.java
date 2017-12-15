@@ -100,7 +100,7 @@ public class VocabIndexer extends Parametre {
 			String[] splittedVocabTerms = null;
 			try {
 				br = new BufferedReader(new FileReader(new File(VOCAB_FILE)));
-				line = br.readLine();
+				//line = br.readLine();
 				while ((line = br.readLine()) != null) {
 					splittedLigne = line.toLowerCase().split(":");
 					String concept = splittedLigne[0];

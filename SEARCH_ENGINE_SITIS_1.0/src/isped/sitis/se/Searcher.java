@@ -178,10 +178,13 @@ public class Searcher extends Parametre {
 		ArrayList<DocScored> docs = loadIndexConcept(CONCEPT_INDEX_FILE);
 		Stream<DocScored> Filtereddocs = docs.stream().filter(o -> o.docId == docId);
 		Iterator<DocScored> itr = Filtereddocs.iterator();
-		DocScored doc = itr.next();
-		docConcept = doc.docConcept;
+		if (itr!=null) {
+			DocScored doc = itr.next();
+			docConcept = doc.docConcept;
+			
+		}
+		
 		return docConcept;
-
 	}
 
 	public static ArrayList<DocScored> loadIndexConcept(String CONCEPT_INDEX_FILE) {

@@ -156,8 +156,7 @@ public class ConceptAnalyser extends Parametre {
 			afficheConcept(concepts);
 			
 			Concept Concept = getMostPertinentConcept(concepts);
-			System.out.println("#################################################################################################################################################");
-			System.out.println("******************Most pertinent concept*****************");
+			System.out.println("#########################Document most pertinent concept####################################################################################################");
 			if (Concept!=null) {
 				System.out.println("concept:"+Concept.conceptName +"; score:"+ Concept.totalScore);
 				DocScored vd = new DocScored(i+1, doc.get("path"), i, Concept.conceptName, Concept.totalScore);
